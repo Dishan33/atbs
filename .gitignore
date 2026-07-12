@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dev artifacts
+node_modules/
+.playwright-mcp/
+.package-lock.json
+
+# Python
+__pycache__/
+*.pyc

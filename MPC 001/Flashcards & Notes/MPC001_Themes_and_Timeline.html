@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MPC 001 — Themes & Timeline</title>
+<style>
+  :root {
+    --bg: #0f172a;
+    --surface: #1e293b;
+    --surface-hover: #253347;
+    --accent: #3b82f6;
+    --accent-light: #60a5fa;
+    --accent-glow: rgba(59,130,246,0.15);
+    --purple: #a855f7;
+    --green: #22c55e;
+    --amber: #f59e0b;
+    --rose: #f43f5e;
+    --cyan: #06b6d4;
+    --text: #e2e8f0;
+    --text-muted: #94a3b8;
+    --text-bright: #f8fafc;
+    --border: #334155;
+    --border-light: #475569;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
+
+  /* Hero */
+  .hero { background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); border-bottom: 1px solid var(--border); padding: 40px 24px; text-align: center; }
+  .hero h1 { font-size: 2rem; font-weight: 800; color: var(--text-bright); margin-bottom: 8px; }
+  .hero h1 span { background: linear-gradient(90deg, var(--accent-light), var(--purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+  .hero p { color: var(--text-muted); font-size: 1rem; }
+
+  /* Search */
+  .search-wrap { max-width: 520px; margin: 20px auto 0; position: relative; }
+  .search-wrap input { width: 100%; padding: 10px 16px 10px 40px; background: var(--bg); border: 1px solid var(--border); border-radius: 10px; color: var(--text); font-size: 0.9rem; }
+  .search-wrap input:focus { outline: none; border-color: var(--accent); }
+  .search-wrap .search-icon { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); color: var(--text-muted); font-size: 0.9rem; }
+
+  /* Nav tabs */
+  .tab-bar { display: flex; justify-content: center; gap: 4px; padding: 16px 16px 0; flex-wrap: wrap; }
+  .tab-btn { background: transparent; border: none; padding: 8px 16px; color: var(--text-muted); font-size: 0.85rem; font-weight: 600; cursor: pointer; border-bottom: 2px solid transparent; transition: all 0.2s; }
+  .tab-btn:hover { color: var(--text); }
+  .tab-btn.active { color: var(--accent-light); border-bottom-color: var(--accent); }
+
+  /* Container */
+  .container { max-width: 1100px; margin: 0 auto; padding: 24px 16px; }
+  .tab-content { display: none; }
+  .tab-content.active { display: block; }
+
+  /* Theme section */
+  .theme-section { margin-bottom: 32px; }
+  .theme-header { display: flex; align-items: center; gap: 12px; cursor: pointer; padding: 16px 20px; background: var(--surface); border: 1px solid var(--border); border-radius: 12px; transition: background 0.2s; }
+  .theme-header:hover { background: var(--surface-hover); }
+  .theme-icon { font-size: 1.5rem; }
+  .theme-title { font-size: 1.1rem; font-weight: 700; color: var(--text-bright); flex: 1; }
+  .theme-count { background: var(--accent-glow); color: var(--accent-light); padding: 2px 10px; border-radius: 20px; font-size: 0.75rem; font-weight: 600; }
+  .theme-chevron { color: var(--text-muted); transition: transform 0.3s; font-size: 1.2rem; }
+  .theme-section.open .theme-chevron { transform: rotate(180deg); }
+  .theme-body { display: none; padding: 16px 0; }
+  .theme-section.open .theme-body { display: block; }
+
+  /* Theory card */
+  .theory-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 20px; margin-bottom: 12px; transition: border-color 0.2s; }
+  .theory-card:hover { border-color: var(--accent); }
+  .theory-name { font-size: 1.05rem; font-weight: 700; color: var(--text-bright); margin-bottom: 4px; }
+  .theory-meta { font-size: 0.8rem; color: var(--accent-light); margin-bottom: 10px; }
+  .theory-note { font-size: 0.875rem; color: var(--text); margin-bottom: 10px; }
+  .theory-components { margin-top: 8px; }
+  .theory-components summary { font-size: 0.82rem; font-weight: 600; color: var(--text-muted); cursor: pointer; user-select: none; }
+  .theory-components summary:hover { color: var(--text); }
+  .theory-components ul { margin-top: 6px; padding-left: 18px; font-size: 0.85rem; }
+  .theory-components li { margin-bottom: 3px; }
+  .tag { display: inline-block; background: var(--accent-glow); color: var(--accent-light); padding: 2px 8px; border-radius: 4px; font-size: 0.72rem; margin: 2px; font-weight: 500; }
+  .tag.green { background: rgba(34,197,94,0.15); color: var(--green); }
+  .tag.purple { background: rgba(168,85,247,0.15); color: var(--purple); }
+  .tag.amber { background: rgba(245,158,11,0.15); color: var(--amber); }
+
+  /* Timeline */
+  .timeline { position: relative; padding-left: 40px; }
+  .timeline::before { content: ''; position: absolute; left: 15px; top: 0; bottom: 0; width: 2px; background: linear-gradient(to bottom, var(--accent), var(--purple), var(--green)); }
+  .tl-item { position: relative; margin-bottom: 16px; }
+  .tl-dot { position: absolute; left: -33px; top: 6px; width: 14px; height: 14px; border-radius: 50%; border: 2px solid var(--accent); background: var(--bg); z-index: 1; }
+  .tl-dot.memory { border-color: var(--accent); }
+  .tl-dot.intelligence { border-color: var(--purple); }
+  .tl-dot.language { border-color: var(--green); }
+  .tl-dot.creativity { border-color: var(--amber); }
+  .tl-dot.problem { border-color: var(--cyan); }
+  .tl-dot.foundation { border-color: var(--rose); }
+  .tl-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 14px 18px; }
+  .tl-year { font-size: 0.85rem; font-weight: 700; color: var(--accent-light); margin-bottom: 2px; font-variant-numeric: tabular-nums; }
+  .tl-name { font-size: 0.95rem; font-weight: 600; color: var(--text-bright); margin-bottom: 2px; }
+  .tl-theorist { font-size: 0.82rem; color: var(--text-muted); }
+  .tl-theme { display: inline-block; font-size: 0.7rem; padding: 1px 7px; border-radius: 3px; margin-top: 4px; font-weight: 600; }
+  .tl-theme.memory { background: rgba(59,130,246,0.15); color: var(--accent-light); }
+  .tl-theme.intelligence { background: rgba(168,85,247,0.15); color: var(--purple); }
+  .tl-theme.language { background: rgba(34,197,94,0.15); color: var(--green); }
+  .tl-theme.creativity { background: rgba(245,158,11,0.15); color: var(--amber); }
+  .tl-theme.problem { background: rgba(6,182,212,0.15); color: var(--cyan); }
+  .tl-theme.foundation { background: rgba(244,63,94,0.15); color: var(--rose); }
+  .tl-theme.info { background: rgba(99,102,241,0.15); color: #818cf8; }
+
+  /* Legend */
+  .legend { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 24px; padding: 14px; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; }
+  .legend-item { display: flex; align-items: center; gap: 6px; font-size: 0.8rem; color: var(--text-muted); }
+  .legend-dot { width: 10px; height: 10px; border-radius: 50%; }
+
+  /* Responsive */
+  @media (max-width: 600px) {
+    .hero h1 { font-size: 1.5rem; }
+    .timeline { padding-left: 30px; }
+    .timeline::before { left: 10px; }
+    .tl-dot { left: -26px; width: 12px; height: 12px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <h1>🧠 MPC 001 <span>Themes & Timeline</span></h1>
+  <p>Overarching themes, theory maps & chronological sequence</p>
+  <div class="search-wrap">
+    <span class="search-icon">🔍</span>
+    <input type="text" id="searchInput" placeholder="Search theories, theorists, concepts..." oninput="doSearch()">
+  </div>
+</div>
+
+<div class="container">
+  <div class="tab-bar">
+    <button class="tab-btn active" onclick="switchTab('themes')">Themes & Theories</button>
+    <button class="tab-btn" onclick="switchTab('timeline')">Chronological Timeline</button>
+  </div>
+
+  <!-- =============== THEMES TAB =============== -->
+  <div class="tab-content active" id="tab-themes">
+
+    <!-- THEME 1: Foundations -->
+    <div class="theme-section open" data-theme="foundations">
+      <div class="theme-header" onclick="toggleTheme(this)">
+        <span class="theme-icon">🏗️</span>
+        <span class="theme-title">Foundations of Cognitive Psychology</span>
+        <span class="theme-count">6 theories</span>
+        <span class="theme-chevron">▾</span>
+      </div>
+      <div class="theme-body">
+        <div class="theory-card" data-search="cognitive psychology meaning definition william james neisser 1890 1967 scientific study of mind empiricists nativists">
+          <div class="theory-name">Cognitive Psychology: Meaning & Definition</div>
+          <div class="theory-meta">William James (1890) · Neisser (1967)</div>
+          <div class="theory-note">Defined as "the scientific study of the mind." Study of mental processes — perceiving, learning, remembering, thinking. Internal mental processes are real psychological phenomena, not just intervening variables (contra behaviourists).</div>
+          <details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">scientific study of the mind</span></li><li><span class="tag">empiricists vs. nativists</span></li><li><span class="tag">William James (1890)</span></li><li><span class="tag">Tolman (1932) cognitive map</span></li><li><span class="tag">Bartlett (1932) schema</span></li><li><span class="tag">six forces of neocognitive revolution</span></li><li><span class="tag">twelve domains</span></li></ul></details>
+        </div>
+        <div class="theory-card" data-search="history cognitive psychology aristotle plato empiricists berkeley hume james mill john stuart mill wundt titchener brentano tolman bartlett behaviourism gestalt piaget">
+          <div class="theory-name">History of Cognitive Psychology</div>
+          <div class="theory-meta">Aristotle vs Plato (ancient) · British Empiricists (18th C.) · Wundt/Titchener vs Brentano (19th C.) · Tolman (1932) · Bartlett (1932) · Neocognitive Revolution (1950s)</div>
+          <div class="theory-note">Three periods: early thoughts, Renaissance, modern. Aristotle — knowledge in heart; Plato — in brain. Empiricists — three types of internal representation. Tolman (1932) — cognitive map. Bartlett (1932) — schema. 1950s revival: six forces.</div>
+        </div>
+        <div class="theory-card" data-search="twelve domains cognitive neuroscience perception pattern recognition attention consciousness memory knowledge representation imagery language developmental psychology thinking concept formation artificial intelligence">
+          <div class="theory-name">12 Domains of Cognitive Psychology</div>
+          <div class="theory-meta">Modern consensus</div>
+          <div class="theory-note">Cognitive Neuroscience, Perception, Pattern Recognition, Attention, Consciousness, Memory, Knowledge Representation, Imagery, Language, Developmental Psychology, Thinking &amp; Concept Formation, Human &amp; Artificial Intelligence.</div>
+        </div>
+        <div class="theory-card" data-search="research methods cognitive psychology experiments psychobiological self reports case studies naturalistic observation computer simulations artificial intelligence cognitive science">
+          <div class="theory-name">Research Methods in Cognitive Psychology</div>
+          <div class="theory-meta">Various</div>
+          <div class="theory-note">4 methods: (1) Laboratory/controlled experiments — IV/DV/control variables, probable causality; (2) Psychobiological research — 3 categories; (3) Self-reports/case studies/naturalistic observation — hypothesis formulation; (4) Computer simulations &amp; AI. Cognitive science = cross-disciplinary.</div>
+        </div>
+        <div class="theory-card" data-search="cognitive neuroscience brain imaging mri pet eeg lashley 1929 electrochemical neurocognitive">
+          <div class="theory-name">Cognitive Neuroscience</div>
+          <div class="theory-meta">Various (21st century convergence)</div>
+          <div class="theory-note">Every cognitive process supported by electrochemical brain processes. MRI, PET, EEG show structures and processes. Karl Lashley (1929) — localisation vs. distributed processing.</div>
+        </div>
+        <div class="theory-card" data-search="bloom taxonomy cognitive domain 1956 1965 benjamin bloom anderson krathwohl 2000 knowledge comprehension application analysis synthesis evaluation hummel huitt 1994">
+          <div class="theory-name">Bloom's Taxonomy of Cognitive Domain</div>
+          <div class="theory-meta">Bloom (1956/1965) · Anderson & Krathwohl (2000)</div>
+          <div class="theory-note">3 domains (cognitive, psychomotor, affective). 6 cognitive levels: Knowledge → Comprehension → Application → Analysis → Synthesis → Evaluation. Anderson &amp; Krathwohl (2000) reverse top two. Hummel &amp; Huitt (1994) confirmed first 4 hierarchy.</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- THEME 2: Information Processing -->
+    <div class="theme-section" data-theme="info-processing">
+      <div class="theme-header" onclick="toggleTheme(this)">
+        <span class="theme-icon">⚙️</span>
+        <span class="theme-title">Information Processing</span>
+        <span class="theme-count">2 theories</span>
+        <span class="theme-chevron">▾</span>
+      </div>
+      <div class="theme-body">
+        <div class="theory-card" data-search="principles information processing neisser 1967 huitt 2000 limited capacity bottlenecks broadbent 1975 case 1978 executive function atkinson shiffrin 1971 bottom up top down biological preparedness">
+          <div class="theory-name">Principles of Information Processing</div>
+          <div class="theory-meta">Neisser (1967) · Huitt (2000)</div>
+          <div class="theory-note">4 principles: (1) Limited capacity &amp; bottlenecks (Broadbent, 1975; Case, 1978); (2) Executive function/control mechanism (Atkinson &amp; Shiffrin, 1971); (3) Bottom-up + top-down two-way flow; (4) Genetic/biological preparedness.</div>
+          <details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Neisser (1967)</span></li><li><span class="tag">computational metaphor</span></li><li><span class="tag">bottlenecks</span></li><li><span class="tag">executive function</span></li><li><span class="tag">bottom-up vs. top-down</span></li><li><span class="tag">biological preparedness</span></li></ul></details>
+        </div>
+        <div class="theory-card" data-search="sternberg information processing approach 1988 metacomponents performance components knowledge acquisition triarchic bruner vygotsky automatisation novice expert">
+          <div class="theory-name">Sternberg's Information Processing Approach</div>
+          <div class="theory-meta">Sternberg (1988)</div>
+          <div class="theory-note">Development = skills-based and continuous. 3 components: Metacomponents (executive/planning), Performance Components (executing strategies), Knowledge-Acquisition Components (learning new info). Part of larger Triarchic Theory. Links to Bruner &amp; Vygotsky.</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- THEME 3: Memory -->
+    <div class="theme-section" data-theme="memory">
+      <div class="theme-header" onclick="toggleTheme(this)">
+        <span class="theme-icon">🧩</span>
+        <span class="theme-title">Memory</span>
+        <span class="theme-count">8 theories</span>
+        <span class="theme-chevron">▾</span>
+      </div>
+      <div class="theme-body">
+        <div class="theory-card" data-search="atkinson shiffrin 1968 multi store model stage theory sensory register short term store long term store sperling 1960 darwin 1972 maintenance elaborate rehearsal tulving 1972 episodic semantic paivio imagery">
+          <div class="theory-name">Atkinson & Shiffrin Model of Memory</div>
+          <div class="theory-meta">Atkinson & Shiffrin (1968)</div>
+          <div class="theory-note">Stage theory. 3 stages: Sensory Register (Sperling, 1960) → STS/working memory (5 ± 2, maintenance vs. elaborate rehearsal) → LTS (episodic/semantic, Tulving 1972). Memory ≠ Store. Direct pathway from sensory register to LTS also postulated.</div>
+        </div>
+        <div class="theory-card" data-search="three storage systems sensory stm ltm transduction miller 1956 magic number chunking iconic acoustic working memory schemas top down processing encoding consolidation">
+          <div class="theory-name">Three Storage Systems (Sensory–STM–LTM)</div>
+          <div class="theory-meta">Miller (1956) · broad consensus</div>
+          <div class="theory-note">Sensory: transduction, exact-copy, &lt;½ s (vision), ~3 s (hearing). STM: 7 ± 2 items (Miller, 1956), 3–20 s, decay, chunking, iconic/acoustic/working. LTM: meaning + importance, schemas, top-down processing, encoding/consolidation.</div>
+        </div>
+        <div class="theory-card" data-search="waugh norman 1965 primary secondary memory william james boxes in the head displacement interference decay vertical file 16 digit probe task norman 1966">
+          <div class="theory-name">Waugh & Norman's Primary/Secondary Memory</div>
+          <div class="theory-meta">Waugh & Norman (1965)</div>
+          <div class="theory-note">First modern behavioural model. PM (short-term, displacement, verbatim recall) vs. SM (longer-term, requires rehearsal). 16-digit probe task: interference &gt; decay. "Boxes in the head" metaphor.</div>
+        </div>
+        <div class="theory-card" data-search="craik lockhart 1972 levels processing loP shallow deep maintenance elaborate rehearsal craik tulving 1975 baddeley 1978 criticisms self reference effect rogers kuiper kirker 1977 zinchenko 1962 level recall">
+          <div class="theory-name">Levels of Processing (Craik & Lockhart)</div>
+          <div class="theory-meta">Craik & Lockhart (1972) · Craik & Tulving (1975)</div>
+          <div class="theory-note">Reaction against "boxes in the head." Shallow sensory → deeper semantic. Deeper = better retention. Maintenance vs. elaborate rehearsal. 3 criticisms (Baddeley, 1978): mundane, untestable, circular. Self-reference effect (Rogers et al., 1977).</div>
+        </div>
+        <div class="theory-card" data-search="self reference effect rogers kuiper kirker 1977 self schema bellezza 1992 narcissistic">
+          <div class="theory-name">Self-Reference Effect</div>
+          <div class="theory-meta">Rogers, Kuiper & Kirker (1977)</div>
+          <div class="theory-note">Self-reference words recalled best over structural, phonemic, semantic conditions. Self-schema = "I, me, mine" (Bellezza, 1992). Rich internal network for self-information.</div>
+        </div>
+        <div class="theory-card" data-search="level recall lOR zinchenko 1962 1981 russian psychologist goal of action logical connection">
+          <div class="theory-name">Level of Recall (LOR)</div>
+          <div class="theory-meta">P. I. Zinchenko (1962, 1981)</div>
+          <div class="theory-note">Words encoded by deep means retained better. Logical-connection &gt; concrete &gt; no-meaning. "Level of recall is determined by the goal of action." Published in Russian — under-recognised.</div>
+        </div>
+        <div class="theory-card" data-search="memory brain cellular bases squire 1987 hM case scoville milner 1953 rb ca1 pyramidal cells hebb 1949 hebbian learning long term potentiation ltp ndma receptor glutamate ap5 hera model haxby ungerleider 1996 schacter 1996">
+          <div class="theory-name">Memory & Brain / Cellular Bases</div>
+          <div class="theory-meta">Squire (1987) · Scoville & Milner (1953) · Hebb (1949) · Haxby & Ungerleider (1996) · Schacter et al. (1996)</div>
+          <div class="theory-note">Case H.M. (1953): bilateral hippocampal removal → anterograde amnesia, normal STM. Case R.B.: CA1 pyramidal cells. Hebb's Law (1949): co-activation strengthens synapses. LTP. NMDA receptor + glutamate + AP5. HERA model. Implicit vs. explicit retrieval = separate brain systems.</div>
+        </div>
+        <div class="theory-card" data-search="memory consolidation hippocampus neocortex retrograde amnesia diencephalic dorsomedial thalamus mammillary bodies korsakoff syndrome alcoholic vitamin deficiency">
+          <div class="theory-name">Memory Consolidation</div>
+          <div class="theory-meta">Squire (1987)</div>
+          <div class="theory-note">Biological changes underlying long-term retention. Hippocampus coordinates consolidation but is NOT the storage repository — effects take place in neocortex. Temporally limited retrograde amnesia. Korsakoff's syndrome: dorsomedial thalamus + mammillary bodies.</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- THEME 4: Intelligence -->
+    <div class="theme-section" data-theme="intelligence">
+      <div class="theme-header" onclick="toggleTheme(this)">
+        <span class="theme-icon">💡</span>
+        <span class="theme-title">Intelligence</span>
+        <span class="theme-count">8 theories</span>
+        <span class="theme-chevron">▾</span>
+      </div>
+      <div class="theme-body">
+        <div class="theory-card" data-search="alfred binet 1905 binet simon scale theodore simon mental age chronological age iq formula william stern 1912 1914 stanford binet terman 1916 french government">
+          <div class="theory-name">Alfred Binet & IQ</div>
+          <div class="theory-meta">Binet & Simon (1905) · Stern (1912/1914) · Terman (1916)</div>
+          <div class="theory-note">Binet-Simon Scale (1905): 30 items, 50 children. IQ = (MA/CA) × 100 (Stern). Stanford-Binet (Terman, 1916). Five components: abstract reasoning, comprehension, clear direction of thought, purposeful thinking, self-corrective judgment.</div>
+        </div>
+        <div class="theory-card" data-search="spearman 1904 two factor theory g s general factor mental energy specific factor factor analysis tetrad difference thomson 1939 sampling theory thorndike 1926 thurstone 1935 seven primary abilities carroll stratum iii">
+          <div class="theory-name">Spearman's Two-Factor Theory</div>
+          <div class="theory-meta">Spearman (1904) · revised 1927</div>
+          <div class="theory-note">g factor ("mental energy") + s factors. Group factors: verbal, numerical, mental speed. Method: tetrad difference. Critics: Thorndike (1926, three intelligences), Thomson (1939, sampling theory), Thurstone (1935, seven primary abilities). Carroll (1993): Stratum III.</div>
+        </div>
+        <div class="theory-card" data-search="guilford 1956 1977 structure intellect soi cube contents operations products visual auditory symbolic semantic behavioural cognition memory divergent convergent evaluation units classes relations systems transformations implications 120 150 cells">
+          <div class="theory-name">Guilford's Structure of Intellect (SOI)</div>
+          <div class="theory-meta">Guilford (1956; modified 1977)</div>
+          <div class="theory-note">3 dimensions: Contents (5) × Operations (5) × Products (6) = 150 cells. Originally 4 × 5 × 6 = 120. Cube representation. Rejected "g." Criticisms (Eysenck, 1972): restricted range, orthogonal rotation, too narrow.</div>
+        </div>
+        <div class="theory-card" data-search="gardner 1983 frames of mind multiple intelligences eight criteria linguistic logical mathematical musical bodily kinesthetic spatial interpersonal intrapersonal naturalistic existential project zero macarthur">
+          <div class="theory-name">Gardner's Multiple Intelligences</div>
+          <div class="theory-meta">Gardner (1983)</div>
+          <div class="theory-note">8 (or 9) intelligences. Eight criteria. Bio-psychological potential. Bodily-kinesthetic = use whole body to solve problems. Personal intelligences. Criticisms: Morgan (1996), Hunt (2001), Eysenck (1990).</div>
+        </div>
+        <div class="theory-card" data-search="bodily kinesthetic intelligence gardner 1983 whole body parts body solve problems mental abilities coordinate bodily movements muscular movement athletes dancers actors surgeons builders police soldiers">
+          <div class="theory-name">Bodily-Kinesthetic Intelligence</div>
+          <div class="theory-meta">Gardner (1983)</div>
+          <div class="theory-note">Potential to use whole body/parts of body to solve problems. Mental abilities to coordinate bodily movements. Learn by muscular movement/doing. Careers: athletes, dancers, actors, surgeons, builders, police, soldiers.</div>
+        </div>
+        <div class="theory-card" data-search="sternberg 1985 beyond iq triarchic theory analytical creative practical componential experiential contextual metacomponents performance knowledge acquisition novelty automation adaptation shaping selection street smarts successful intelligence gottfredson 2003 das 2004">
+          <div class="theory-name">Sternberg's Triarchic Theory</div>
+          <div class="theory-meta">Sternberg (1985)</div>
+          <div class="theory-note">3 subtheories: Componential/Analytical (metacomponents, performance, knowledge-acquisition), Experiential/Creative (novelty + automation), Contextual/Practical (adaptation, shaping, selection = "street smarts"). Successful intelligence = balance. Criticisms: Gottfredson (2003), Das (2004).</div>
+        </div>
+        <div class="theory-card" data-search="pass theory intelligence 1994 das nagliery kirby planning attention arousal simultaneous successive luria 1966 1973 1980 three functional units brain stem reticular activating system occipital parietal fronto temporal prefrontal cortex surveyability serial order knowledge base cognitive assessment system cas">
+          <div class="theory-name">PASS Theory of Intelligence</div>
+          <div class="theory-meta">Das, Nagliery & Kirby (1994)</div>
+          <div class="theory-note">PASS = Planning, Attention-Arousal, Simultaneous, Successive. Grounded in Luria's three functional units. CAS = psychometric instrument. Simultaneous = surveyability (occipital-parietal). Successive = serial order (fronto-temporal).</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- THEME 5: Creativity -->
+    <div class="theme-section" data-theme="creativity">
+      <div class="theme-header" onclick="toggleTheme(this)">
+        <span class="theme-icon">✨</span>
+        <span class="theme-title">Creativity</span>
+        <span class="theme-count">3 theories</span>
+        <span class="theme-chevron">▾</span>
+      </div>
+      <div class="theme-body">
+        <div class="theory-card" data-search="creativity meaning aspects stages wallas 1926 preparation incubation illumination verification guilford 1986 divergent thinking fluency flexibility originality elaboration torrance 1966 1974 ttct newell shaw simon 1963 hennessey amabile 1988 appropriate novelty smith ward finke 1995 beghetto kaufman 2007 little c big c">
+          <div class="theory-name">Creativity: Meaning, Aspects, Stages</div>
+          <div class="theory-meta">Wallas (1926) · Guilford (1986) · Torrance (1966, 1974) · Newell, Shaw & Simon (1963) · Hennessey & Amabile (1988)</div>
+          <div class="theory-note">"Appropriate novelty." Four criteria (Newell et al., 1963). Guilford: divergent thinking (fluency, flexibility, originality, elaboration). Torrance TTCT: six components. Wallas: Preparation → Incubation → Illumination → Verification. little-c vs. Big-C (Beghetto &amp; Kaufman, 2007).</div>
+        </div>
+        <div class="theory-card" data-search="investment confluence theory creativity sternberg 2006 six resources intellectual abilities knowledge thinking styles personality motivation environment synthetic analytic practical contextual legislative style buy low sell high amabile 1983 intrinsic motivation thresholds partial compensation multiplicative">
+          <div class="theory-name">Investment & Confluence Theory</div>
+          <div class="theory-meta">Sternberg (2006)</div>
+          <div class="theory-note">6 resources: intellectual abilities (synthetic/analytic/practical-contextual), knowledge, thinking styles (legislative), personality (risk-taking, ambiguity tolerance), motivation (intrinsic; Amabile, 1983), environment. "Buy low and sell high." Confluence: thresholds, partial compensation, multiplicative interaction.</div>
+        </div>
+        <div class="theory-card" data-search="creativity intelligence relationship terman 1925 1528 gifted children torrance 1977 median r 20 threshold hypothesis guilford 1967 iq 120 triangularity certification hypothesis hayes 1989 domain specific knowledge deliberate practice">
+          <div class="theory-name">Creativity and Intelligence (Relationship)</div>
+          <div class="theory-meta">Terman (1925) · Guilford (1967) · Torrance (1977) · Hayes (1989)</div>
+          <div class="theory-note">Terman: 1,528 gifted children (IQ 151) — none noteworthy creativity. Torrance: r = .20. Threshold hypothesis (Guilford, IQ ≥ 120 necessary not sufficient). Triangularity hypothesis. Certification hypothesis (Hayes).</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- THEME 6: Problem Solving -->
+    <div class="theme-section" data-theme="problem-solving">
+      <div class="theme-header" onclick="toggleTheme(this)">
+        <span class="theme-icon">🧩</span>
+        <span class="theme-title">Problem Solving</span>
+        <span class="theme-count">6 theories</span>
+        <span class="theme-chevron">▾</span>
+      </div>
+      <div class="theme-body">
+        <div class="theory-card" data-search="problem solving approaches strategies traditional associative learning gestalt information processing gps newell shaw simon 1958 algorithm heuristic systematic unsystematic random search modelling domain model task model competency theory">
+          <div class="theory-name">Problem Solving: Approaches & Strategies</div>
+          <div class="theory-meta">Various · Newell, Shaw & Simon (1958)</div>
+          <div class="theory-note">4 approaches: Traditional (S-R), Gestalt (insight/restructuring), Information Processing (GPS; problem space, operators), Modelling (domain + task model). Master strategies: algorithm (guarantees) vs. heuristic (rules of thumb).</div>
+        </div>
+        <div class="theory-card" data-search="gestalt problem solving kohler 1925 mentality apes insight wertheimer 1959 reproductive productive thinking nine dot problem sagacity einstellung mental set">
+          <div class="theory-name">Gestalt Approach to Problem Solving</div>
+          <div class="theory-meta">Kohler (1925) · Wertheimer (1959)</div>
+          <div class="theory-note">Kohler (1925): reorganisation of objects; flash of insight. Reproductive (rote) vs. Productive (insight/creativity) thinking. Nine-dot problem = restructuring. Sagacity. Einstellung (mental set) and functional fixedness are Gestalt-originated obstacles.</div>
+        </div>
+        <div class="theory-card" data-search="well defined ill defined problems greeno 1978 arrangement inducing structure transformation tower hanoi anagram jigsaw means end analysis intransparency polytely phase effects dynamic unpredictability">
+          <div class="theory-name">Well-Defined vs. Ill-Defined Problems</div>
+          <div class="theory-meta">Greeno (1978)</div>
+          <div class="theory-note">Well-defined (clear problem + info; e.g., math). Ill-defined (unclear; e.g., "how to bring peace"). Greeno: arrangement, inducing-structure, transformation problems (Tower of Hanoi). 16 characteristics of difficult problems.</div>
+        </div>
+        <div class="theory-card" data-search="techniques problem solving generate test means ends analysis backward search wickelgren 1974 planning analogy ericsson simon thinking aloud protocol problem behaviour graph newell 1977 schooler ohlsson brooks 1993 brainstorming ideal bransford stein state action tree hill climbing">
+          <div class="theory-name">Techniques of Problem Solving</div>
+          <div class="theory-meta">Wickelgren (1974) · Ericsson & Simon · Newell (1977)</div>
+          <div class="theory-note">Generate &amp; Test, Means-Ends Analysis, Backward Search, Planning/Analogy, Thinking Aloud (Ericsson &amp; Simon). Wickelgren's 7: Inference, Classification, State Evaluation &amp; Hill Climbing, Subgoals, Contradiction, Working Backward, Finding Relations. IDEAL (Bransford &amp; Stein).</div>
+        </div>
+        <div class="theory-card" data-search="functional fixedness duncker 1935 candle problem 43 percent 100 percent simmel 1953 coin problem prototypical function cognitive barriers reorganisation">
+          <div class="theory-name">Functional Fixedness</div>
+          <div class="theory-meta">Duncker (1935) · Simmel (1953)</div>
+          <div class="theory-note">Tendency to see objects as having only one typical use. Candle problem: 43% solved (boxes as containers) vs. 100% (boxes empty). Simmel's coin problem: 3+3+2 grouping. Cognitive barrier; remedy = reorganisation.</div>
+        </div>
+        <div class="theory-card" data-search="environmental cultural blocks problem solving management style distractions physical discomfort lack support stress monotonous work expectations status quo dislike change fantasy humour intuition taboos">
+          <div class="theory-name">Environmental & Cultural Blocks</div>
+          <div class="theory-meta">Textbook synthesis</div>
+          <div class="theory-note">Environmental (8): management style, distractions, physical discomfort, lack of support, stress, communication, monotonous work, expectations. Cultural (6): status quo, dislike of change, fantasy/humour, intuition unreliable, competition/cooperation, taboos.</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- THEME 7: Language -->
+    <div class="theme-section" data-theme="language">
+      <div class="theme-header" onclick="toggleTheme(this)">
+        <span class="theme-icon">🗣️</span>
+        <span class="theme-title">Language</span>
+        <span class="theme-count">7 theories</span>
+        <span class="theme-chevron">▾</span>
+      </div>
+      <div class="theme-body">
+        <div class="theory-card" data-search="language acquisition stages building blocks phoneme morpheme syntax semantics pragmatics cooing babbling holophrase telegraphic speech skinner 1957 chomsky piaget bruner lass cds genie williams syndrome lenneberg 1967 curtiss 1989">
+          <div class="theory-name">Language Acquisition: Stages & Building Blocks</div>
+          <div class="theory-meta">Skinner (1957) · Chomsky · Piaget · Bruner (1966, 1968) · Lenneberg (1967)</div>
+          <div class="theory-note">Building blocks: phonemes, morphemes, syntax, semantics, pragmatics. Stages: cooing → babbling → holophrases → telegraphic speech → adult sentences. 4 theories: Behaviourist (Skinner), Innateness (Chomsky), Cognitive (Piaget), Interactionist (Bruner). Critical period. Williams Syndrome.</div>
+        </div>
+        <div class="theory-card" data-search="chomsky innateness theory 1957 1959 lad language acquisition device universal grammar principles parameters critical period species specific module creole pidgin bickerton nicaraguan signing creole pinker 1994 broca wernicke jim case bard sachs 1977 slobin">
+          <div class="theory-name">Chomsky's Innateness Theory</div>
+          <div class="theory-meta">Chomsky (1957, 1959, 1965, 1975)</div>
+          <div class="theory-note">LAD, Universal Grammar, Principles and Parameters. Slobin: process mechanism. Evidence: vocal tract, Broca's/Wernicke's, creoles, Nicaraguan signing. Limitations: theoretical only; Jim case (Bard &amp; Sachs, 1977).</div>
+        </div>
+        <div class="theory-card" data-search="single system dual system hypotheses language hernandez 2001 de houwer 1995 paradigmis 1981 ojemann whitaker 1978 cortical stimulation bilingual aphasia concept mediation kroll sholl 1992 paivio 1986 early late bilinguals fmri">
+          <div class="theory-name">Single-System vs. Dual-System Hypotheses</div>
+          <div class="theory-meta">Hernandez et al. (2001) · De Houwer (1995) · Paradis (1981) · Ojemann & Whitaker (1978)</div>
+          <div class="theory-note">Single-system: one brain region. Dual-system: separate. Bilingual aphasia evidence equivocal. Cortical stimulation: "some aspects singly, others separately." Concept Mediation (Kroll &amp; Sholl, 1992). Early vs. late bilinguals.</div>
+        </div>
+        <div class="theory-card" data-search="clark clark 1977 three elements language expression speech acts propositional content thematic structure searle 1969 indirect speech acts five stages speech production discourse plan sentence plan constituent plan articulatory program articulation gricean maxims grice 1975 deep surface structure chomsky 1965 1975">
+          <div class="theory-name">Clark & Clark: Three Elements of Language Expression</div>
+          <div class="theory-meta">Clark & Clark (1977)</div>
+          <div class="theory-note">Three elements: Speech Acts (Searle, 1969), Propositional Content, Thematic Structure. Five stages: discourse → sentence → constituent plan → articulatory program → articulation. Gricean Maxims. Deep vs. surface structure (Chomsky, 1965, 1975).</div>
+        </div>
+        <div class="theory-card" data-search="aphasia speech disorders broca wernicke premotor area temporal lobe agrammatism neologisms global anomic echolalia alzheimers specific language impairment sli dysprosody dysarthria voice articulation fluency roseberry mckibbin 1995 kanner 1943 bishop snowling 2004">
+          <div class="theory-name">Aphasia / Speech Disorders</div>
+          <div class="theory-meta">Garrett (2003) · Hillis & Caramazza (2003)</div>
+          <div class="theory-note">Broca's (premotor area, agrammatism), Wernicke's (left temporal, fluent/incoherent, neologisms), Global (both), Anomic. Speech disorders: voice, articulation, fluency. Apraxia, dysprosody, dysarthria. Autism (echolalia). SLI (~50% → dyslexia).</div>
+        </div>
+        <div class="theory-card" data-search="dyspraxia developmental dewey 1955 out of sync apraxia speech acquired developmental verbal childhood apraxia speech prosody groping kasper 2005 genetic factors henderson alloway temple 2007">
+          <div class="theory-name">Dyspraxia</div>
+          <div class="theory-meta">Dewey (1995) · Kasper et al. (2005)</div>
+          <div class="theory-note">Impairment in planning/executing sensory and motor tasks. "Out of sync." Lifelong. Apraxia of speech: acquired vs. developmental (DAS). Prosody errors. Genetic factors (Kasper et al., 2005).</div>
+        </div>
+        <div class="theory-card" data-search="multilingualism thinking bloomfield 1933 grosjean 1982 additive subtractive bilingualism cummins 1976 threshold effect code switching matrix language myers scotton 1993 bialystok 2001 hakuta 1986 diaz 1983 1985 landry three language formula india early late bilinguals fmri">
+          <div class="theory-name">Multilingualism and Thinking</div>
+          <div class="theory-meta">Cummins (1976, 1981) · Bloomfield (1933) · Grosjean (1982)</div>
+          <div class="theory-note">Additive (positive) vs. subtractive (negative) bilingualism. Threshold effect. Benefits: metalingual awareness (Bialystok), cognitive flexibility (Hakuta), creativity (Diaz), divergent thinking (Landry). India: Three Language Formula.</div>
+        </div>
+        <div class="theory-card" data-search="second language acquisition birdsong 1999 critical period l2 native accent age factor vygotsky 1978 bruner 1982 1983 lad lass differential difficulty shared roots inflection passive exposure ellis 1995">
+          <div class="theory-name">Second Language Acquisition</div>
+          <div class="theory-meta">Birdsong (1999) · Vygotsky (1978) · Bruner (1982, 1983)</div>
+          <div class="theory-note">No critical periods for L2 except native accent (Birdsong, 1999). Nativelike pronunciation requires early acquisition. L2 = cognitive procedures + LAD (less for L2) + LASS + Vygotskyan scaffolding. Differential difficulty.</div>
+        </div>
+        <div class="theory-card" data-search="learning disability dyslexia world federation neurologists 1968 primary secondary developmental visual auditory dysgraphia galaburda cestnick 2003 heim tschierse amunts 2008 facoetti 2003 birsh 2005 bishop snowling 2004 sli link">
+          <div class="theory-name">Learning Disability (Dyslexia)</div>
+          <div class="theory-meta">World Federation of Neurologists (1968) · Heim et al. (2008)</div>
+          <div class="theory-note">Primary dyslexia (left-cortex, hereditary). Secondary/developmental (hormonal). Functional subtypes: visual, auditory, dysgraphia. SLI → dyslexia link (~50%; Bishop &amp; Snowling, 2004).</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- =============== TIMELINE TAB =============== -->
+  <div class="tab-content" id="tab-timeline">
+
+    <div class="legend">
+      <div class="legend-item"><div class="legend-dot" style="background:var(--rose)"></div> Foundations</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#818cf8"></div> Info Processing</div>
+      <div class="legend-item"><div class="legend-dot" style="background:var(--accent-light)"></div> Memory</div>
+      <div class="legend-item"><div class="legend-dot" style="background:var(--purple)"></div> Intelligence</div>
+      <div class="legend-item"><div class="legend-dot" style="background:var(--amber)"></div> Creativity</div>
+      <div class="legend-item"><div class="legend-dot" style="background:var(--cyan)"></div> Problem Solving</div>
+      <div class="legend-item"><div class="legend-dot" style="background:var(--green)"></div> Language</div>
+    </div>
+
+    <div class="timeline" id="timelineContainer"></div>
+  </div>
+</div>
+
+<script>
+// --- Timeline data ---
+const tlData = [
+  {year:"~350 BCE",name:"Knowledge localised in heart (Aristotle) or brain (Plato)",theorist:"Aristotle, Plato",theme:"foundation"},
+  {year:"18th C.",name:"Three types of internal representation",theorist:"Berkeley, Hume, J. Mill, J.S. Mill",theme:"foundation"},
+  {year:"1890",name:"Principles of Psychology; primary/secondary memory",theorist:"William James",theme:"foundation"},
+  {year:"1904",name:"Two-Factor Theory of Intelligence (g + s)",theorist:"Charles Spearman",theme:"intelligence"},
+  {year:"1905",name:"Binet-Simon Scale (first intelligence test)",theorist:"Alfred Binet, Theodore Simon",theme:"intelligence"},
+  {year:"1912/14",name:"IQ formula: IQ = (MA/CA) × 100",theorist:"William Stern",theme:"intelligence"},
+  {year:"1916",name:"Stanford-Binet Intelligence Scale",theorist:"Lewis Terman",theme:"intelligence"},
+  {year:"1925",name:"The Mentality of Apes (insight/restructuring)",theorist:"Wolfgang Kohler",theme:"problem"},
+  {year:"1925",name:"Longitudinal study — IQ insufficient for creativity",theorist:"Lewis Terman",theme:"creativity"},
+  {year:"1926",name:"Four Stages of Creativity",theorist:"Graham Wallas",theme:"creativity"},
+  {year:"1927",name:"The Abilities of Man (revised g-factor)",theorist:"Charles Spearman",theme:"intelligence"},
+  {year:"1932",name:"Cognitive Map (rats in mazes)",theorist:"Edward Tolman",theme:"foundation"},
+  {year:"1932",name:"Schema theory; Remembering",theorist:"Sir Frederick Bartlett",theme:"memory"},
+  {year:"1933",name:"Multilingualism definition",theorist:"Leonard Bloomfield",theme:"language"},
+  {year:"1935",name:"Seven Primary Mental Abilities",theorist:"L. L. Thurstone",theme:"intelligence"},
+  {year:"1935",name:"Functional Fixedness (candle problem)",theorist:"Karl Duncker",theme:"problem"},
+  {year:"1949",name:"Hebbian Learning / Hebb's Law",theorist:"Donald Hebb",theme:"memory"},
+  {year:"1953",name:"Case H.M. bilateral temporal lobe removal",theorist:"Scoville & Milner",theme:"memory"},
+  {year:"1956",name:"Structure of Intellect (SOI) — first version",theorist:"J. P. Guilford",theme:"intelligence"},
+  {year:"1956",name:"Magic Number 7 (STM capacity ± 2)",theorist:"George Miller",theme:"memory"},
+  {year:"1956",name:"Taxonomy of Cognitive Domain",theorist:"Bloom, Englehart, Furst, Hill & Krathwohl",theme:"info"},
+  {year:"1957",name:"Verbal Behaviour (behaviourist language)",theorist:"B. F. Skinner",theme:"language"},
+  {year:"1957/59",name:"Innateness Theory; LAD; critique of Skinner",theorist:"Noam Chomsky",theme:"language"},
+  {year:"1958",name:"General Problem Solver (GPS)",theorist:"Newell, Shaw & Simon",theme:"problem"},
+  {year:"1959",name:"Reproductive vs. Productive Thinking",theorist:"Max Wertheimer",theme:"problem"},
+  {year:"1962",name:"Level of Recall (LOR)",theorist:"P. I. Zinchenko",theme:"memory"},
+  {year:"1965",name:"Primary/Secondary Memory Model",theorist:"Waugh & Norman",theme:"memory"},
+  {year:"1965",name:"Transformational Rules",theorist:"Noam Chomsky",theme:"language"},
+  {year:"1966",name:"TTCT — six components of creativity",theorist:"E. Paul Torrance",theme:"creativity"},
+  {year:"1966/68",name:"LASS; scaffolding; CDS",theorist:"Jerome Bruner",theme:"language"},
+  {year:"1967",name:"Threshold Hypothesis for Creativity & IQ",theorist:"J. P. Guilford",theme:"creativity"},
+  {year:"1967",name:"Critical Period for language acquisition",theorist:"Eric Lenneberg",theme:"language"},
+  {year:"1968",name:"Multi-Store Model of Memory (Stage Theory)",theorist:"Atkinson & Shiffrin",theme:"memory"},
+  {year:"1972",name:"Levels of Processing Model",theorist:"Craik & Lockhart",theme:"memory"},
+  {year:"1973",name:"Simultaneous & Successive Processing",theorist:"Alexander Luria",theme:"intelligence"},
+  {year:"1974",name:"Seven general problem-solving strategies",theorist:"Wickelgren",theme:"problem"},
+  {year:"1975",name:"Episodic vs. Semantic Memory",theorist:"Tulving",theme:"memory"},
+  {year:"1975",name:"Gricean Maxims of conversation",theorist:"H. P. Grice",theme:"language"},
+  {year:"1976",name:"Additive vs. Subtractive Bilingualism",theorist:"Jim Cummins",theme:"language"},
+  {year:"1977",name:"Three Elements of Language Expression",theorist:"Clark & Clark",theme:"language"},
+  {year:"1977",name:"Self-Reference Effect",theorist:"Rogers, Kuiper & Kirker",theme:"memory"},
+  {year:"1978",name:"Classification of Well-Defined Problems",theorist:"James Greeno",theme:"problem"},
+  {year:"1983",name:"Theory of Multiple Intelligences (7 → 8–9)",theorist:"Howard Gardner",theme:"intelligence"},
+  {year:"1985",name:"Triarchic Theory of Intelligence",theorist:"Robert Sternberg",theme:"intelligence"},
+  {year:"1986",name:"Divergent thinking (fluency, flexibility…)",theorist:"J. P. Guilford",theme:"creativity"},
+  {year:"1987",name:"Memory encoding/storage/retrieval framework",theorist:"Larry Squire",theme:"memory"},
+  {year:"1988",name:"Information Processing Approach",theorist:"Robert Sternberg",theme:"info"},
+  {year:"1989",name:"Certification hypothesis",theorist:"John Hayes",theme:"creativity"},
+  {year:"1993",name:"LTP as memory mechanism",theorist:"Baddeley (after Bliss & Lømo, 1973)",theme:"memory"},
+  {year:"1994",name:"PASS Theory of Intelligence",theorist:"Das, Nagliery & Kirby",theme:"intelligence"},
+  {year:"1996",name:"HERA Model",theorist:"Haxby & Ungerleider",theme:"memory"},
+  {year:"1997",name:"Cognitive Assessment System (CAS)",theorist:"Das, Nagliery & Kirby",theme:"intelligence"},
+  {year:"1999",name:"Naturalistic Intelligence (8th)",theorist:"Howard Gardner",theme:"intelligence"},
+  {year:"2000",name:"Bloom's Taxonomy revised",theorist:"Anderson & Krathwohl",theme:"info"},
+  {year:"2001",name:"Single-System vs. Dual-System hypotheses",theorist:"Hernandez et al.; De Houwer; Paradis",theme:"language"},
+  {year:"2006",name:"Investment & Confluence Theory of Creativity",theorist:"Robert Sternberg",theme:"creativity"},
+  {year:"2007",name:"little-c vs. Big-C creativity",theorist:"Beghetto & Kaufman",theme:"creativity"}
+];
+
+// --- Render timeline ---
+function renderTimeline(data) {
+  const container = document.getElementById('timelineContainer');
+  container.innerHTML = data.map(d => `
+    <div class="tl-item">
+      <div class="tl-dot ${d.theme}"></div>
+      <div class="tl-card">
+        <div class="tl-year">${d.year}</div>
+        <div class="tl-name">${d.name}</div>
+        <div class="tl-theorist">${d.theorist}</div>
+        <span class="tl-theme ${d.theme}">${getThemeName(d.theme)}</span>
+      </div>
+    </div>
+  `).join('');
+}
+
+function getThemeName(t) {
+  const names = {foundation:'Foundations',info:'Info Processing',memory:'Memory',intelligence:'Intelligence',creativity:'Creativity',problem:'Problem Solving',language:'Language'};
+  return names[t]||t;
+}
+
+renderTimeline(tlData);
+
+// --- Theme toggle ---
+function toggleTheme(header) {
+  header.parentElement.classList.toggle('open');
+}
+
+// --- Tab switching ---
+function switchTab(tab) {
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+  event.target.classList.add('active');
+  document.getElementById('tab-' + tab).classList.add('active');
+}
+
+// --- Search ---
+function doSearch() {
+  const q = document.getElementById('searchInput').value.toLowerCase().trim();
+  if (!q) {
+    document.querySelectorAll('.theory-card').forEach(c => c.style.display = '');
+    document.querySelectorAll('.tl-item').forEach(i => i.style.display = '');
+    return;
+  }
+  // Search theory cards
+  document.querySelectorAll('.theory-card').forEach(card => {
+    const text = (card.dataset.search + ' ' + card.textContent).toLowerCase();
+    card.style.display = text.includes(q) ? '' : 'none';
+  });
+  // Search timeline
+  document.querySelectorAll('.tl-item').forEach(item => {
+    const text = item.textContent.toLowerCase();
+    item.style.display = text.includes(q) ? '' : 'none';
+  });
+  // Open all themes when searching
+  document.querySelectorAll('.theme-section').forEach(s => s.classList.add('open'));
+  // Switch to themes tab if searching from timeline
+  if (document.getElementById('tab-themes').classList.contains('active') === false) {
+    // stay on current tab
+  }
+}
+</script>
+</body>
+</html>

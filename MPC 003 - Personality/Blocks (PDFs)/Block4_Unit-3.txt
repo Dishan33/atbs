@@ -1,0 +1,659 @@
+
+
+===== PAGE 1 =====
+39
+Approaches to Personality
+Assessment (Self-Report,
+Problems of Response in
+Projective and behavioural
+Assessment)
+UNIT 3 BEHA VIOURAL ASSESSMENT
+Structure
+3.0 Introduction
+3.1 Objectives
+3.2 Definition of Behavioural Assessment
+3.2.1 The Theoretical Model Underlying the Application of Behavioural Assessment
+Procedures
+3.2.2 Common Characteristics and Assumption of Behavioural Assessment Methods
+3.2.3 Advantages and Limitations of Behavioural Assessment
+3.3 Functional Behavioural Assessment
+3.3.1 Reliability and V alidity Issues in Behavioural Assessment
+3.3.2 Uses of Behavioural Assessment
+3.3.3 Types of Behavioural Assessment
+3.3.4 Process of Behavioural Change: Assessment, Treatment and Evaluation
+3.4 Case Study Method
+3.4.1 Purpose of Case Study Method
+3.4.2 Types of Case Study Method
+3.4.3 Strengths and Weaknesses of Case Study Method
+3.5 Interview Method
+3.5.1 Meaning and Purpose of Interview Method
+3.5.2 Strengths and Weaknesses of Interview Method
+3.6 Other Measures
+3.7 Let Us Sum Up
+3.8 Unit End Questions
+3.9 Glossary
+3.10 Suggested Readings and References
+3.0 INTRODUCTION
+In this unit we will be dealing with many methods which are behavioural in
+nature. This would include the case history method, followed by the interview
+method and other methods. As one deals with the case history method, we would
+also be dealing with the menaing and purpose of case history method. There are
+also many types of case histories which will be presented in this unit. While
+dealing with this method, the strengths and weaknesses of the method will also
+be put forward. The next method in behavioural assessment will be the interview
+method. Defining this method, the unit will be putting for the meaning and purpose
+of this method and its use in different settings. Also the advantages and
+disadvantages of this interview method will also be discussed. Other measures
+such as the experience sampling and biologivcal measures will also be discussed.
+3.1 OBJECTIVES
+After completing this unit, you will be able to:
+• Define and describe behavioural assessment;
+• Elucidate the categories of behavioural assessment;
+
+===== PAGE 2 =====
+40
+Assessment of Personality • Explain what is functional behavioural assessment;
+• Explain some of the advantages and disadvantages of the case history method;
+• Elucidate the types of case history method;
+• Define and describe interview as a method of assessment;
+• Explain the meaning and purpose of the interview method;
+• Elucidate the types of interviews; and
+• Analyse other methods of assessment in the behavioural category.
+3.2 DEFINITION OF BEHA VIOURAL ASSESSMENT
+Behavioral assessment refers to assessing and measuring various constituents of
+a behaviour that are indicative of why a  certain behaviour occurs and what
+cvauses that behaviour. These would include overt behaviours, feelings, and
+cognitions and their controlling variables that could be both from within the
+individual and outside of the individual. Behavioural assessment focuses on what
+a person does rather than on what a person has or is. It is also said that behavioural
+assessment is more an exploratory activity which tries to find out the range of
+procedures used to understand children, adults, groups etc. This definition
+emphasises a hypothesis-testing problem-solving model of assessment, the goal
+of which is to identify appropriate intervention strategies in order to remediate
+specified behaviour problems.
+The history of behavioural assessment cannot be separated from behaviourism
+as a paradigm of scientific psychology and its clinical application. Thus,
+behavioural assessment began when complex human behaviours were first
+considered as a subject for scientific study (e.g., Staats 1963, Bandura 1969).
+Since the 1960s, four main phases have been identified.
+As for the nature of behavioural assessment, it may be stated that its main goal
+has been behavioural change. Therefore, all conceptual and methodological
+features emerge from the attempt to define and measure a particular behavioural
+problem and its causal or controlling conditions and design the best treatment.
+The following five traits could be considered the essence of behavioural
+assessment: functional analysis, triple response modes and multi-causality,
+idiographism, multimethodism, and the experimental method.
+3.2.1 The Theoretical Model Underlying the Application of
+Behavioural Assessment Procedures
+The theoretical underpinnings of the above concept of behavioural assessment
+stem from the interaction between the person’s previous learning and the external
+and organismic environments within which the person functions.
+The setting in which the behaviour occurs is of primary importance. The biological
+makeup and physiological functioning help the individuals to adapt and respond
+to the environment. Evaluating behaviour requires assessment of the person, the
+setting, and the interaction between the two. Setting in this context refers to the
+environmental circumstances that might be influencing the occurrence and
+nonoccurrence of the behaviour. Environmental circumstances in turn refer to
+those environmental events preceding the behaviour, both immediately and
+distally, and those following the behaviour.
+
+===== PAGE 3 =====
+41
+Behavioural Assessment3.2.2 Common Characteristics and Assumptions of Behavioural
+Assessment Methods
+While there is a wide variety of techniques available for carrying out behavioural
+assessment, they have certain features in common.
+1) They all focus on behaviour
+Both overt and covert behaviours are measured or evaluated as they occur
+in specific situations.  Behaviours are observed at a specific time and in a
+limited location The variables and concepts with descriptions of behaviour
+are taken up objectively, as assessment requires objective information, which
+is more useful than inferences or subjective interpretations.
+2) All behavioural assessment methods believe in Quantification
+Behavior is quantified so as to allow for reliable comparisons across time
+and persons and to allow for communication between persons. This leads to
+greater objectivity of information.
+3) All the behavioural assessment methods use trained, impartial observers
+Observers are trained in the use of the various measurement techniques of
+behavioural assessment, recording of the same and collecting information
+in an objective manner.  Observers are expected to achieve a specified
+standard of consistency in their collecting data, recording the information
+and interpreting the data.
+4) All of them use empirically validated measures.
+It is important to have consistency in the measurement across situations.
+The measures should be empirically validated.
+5) All of them recognize errors and try to counteract the errors or minimise
+errors to the extent possible using statistical methods.
+All assessment involves differing degrees of error causing unreliability of
+the results. Hence it is important to minimize the errors and this is generally
+carried out through statistical techniques..
+6) All of these believe that the behaviour concerned occurs due to stimuli
+from the environment.
+Assessment is directed toward discovering the situational influences on
+behaviour.  The emphasis is on public events and direct observation of
+behaviour in the natural environment, with behaviour being recorded at the
+time of its occurrence whenever possible.
+7) All these assessment techniques depend not on one but multiple sources
+of information.
+In addition to the behavioural assessment, a wide-range of assessment
+strategies are used, including behavioural interviews, checklists, rating scales,
+standardised instruments, self-reports, self-monitoring forms, and
+observations, as no single test or source could give adequate information as
+to why a behaviour occurs.
+8) All the behavioural assessment techniques ultimately place high
+emphasis on intervention.
+The primary purpose of assessment is not to categorise or label a person but
+to obtain information that will assist in developing effective intervention
+
+===== PAGE 4 =====
+42
+Assessment of Personality strategies. The emphasis on intervention results in the application of the
+behavioural assessment model to the particular person , situation etc.
+9) All the behavioural assessment techniques use continuous assessment.
+Assessment is continuous throughout baseline, intervention, and follow up
+phases. The effectiveness of intervention strategies is continuously evaluated.
+10) Each of these behavioural assessment techniques emphasises on
+empirically based decision making process.
+Decisions about specific assessment strategies and interventions are based
+on empirical data available on the individual concerned from the person’s
+self and the environment in which the person lives.
+11) Most of these behavioural assessment techniques focus on individual
+person rather than groups.
+Assessment focuses on the individual person rather than comparisons to a
+norm group. There is a recognition of individual differences in behaviour
+and its determinants, leading to idiosyncratic assessment and intervention.
+12) High emphasis is placed on individual differences.
+Individual differences among persons are not absolute. Differences must be
+seen in relative terms, with consideration given to situational and cultural
+differences. It must be kept in mind that a certain behaviour considered
+normal in one setting may be considered abnormal in another setting.
+13) All behavioural assessment techniques not only look for causes contributing
+to the problem but also try to solve the problem concerned, once the
+cause is known.
+The purpose of behavioural assessment is problem solving, and hence
+identification of causes is extremely important so as to devise intervention
+strategies to overcome the problem.
+14) All the behavioural assessment techniques focus on developing adaptive
+behaviour in the individual.
+The focus of behavioural assessment is on developing adaptive, positive, or
+desirable behaviour rather than on control and reduction of undesirable
+behaviours. Hence behavioural interventions should be designed and
+implemented with the benefit of the particular person concerned in mind.
+3.2.3 Advantages and Limitations of Behavioral Assessment
+Advantages
+• Behavioral assessment provides objective data for deciding specific
+instructional content and strategies for intervention.
+• Behavioural assessment leads directly to the formulation of intervention
+strategies.
+• Behavioural assessment can be undertaken in the setting in which the
+concerned behaviour occurs or in simulated conditions resembling the natural
+setting.
+• Behavioral assessment is tailored to the unique characteristics of the referred
+person and the targeted environment.
+
+===== PAGE 5 =====
+43
+Behavioural Assessment• The continuity of behavioural assessment facilitates determining the progress
+and evaluation of outcomes.
+• Behavioural assessment has such variety of techniques that these help in
+multifaceted assessment.
+• Most behavioural assessment techniques can be implemented by anyone
+with sufficient training and do not require advanced degrees.
+Limitations of behavioural assessment
+• Much of behavioural assessment methodology is not standardised.
+• Differing levels of specification of the concerned behaviours may result in
+inconsistent data.
+• Narrow definitions of behaviour may result in less consistency in behavioural
+observation.
+• Behavioral assessment methodology may appear rather easy to apply.
+However if the psychologist or behaviourist is not trained in the techniques,
+the assessment will be defective and consequently the intervention will be
+ineffective.
+3.3 FUNCTIONAL BEHA VIOURAL ASSESSMENT
+A Functional Behavioral Assessment (FBA)  is an attempt to look beyond the
+obvious interpretation of behaviour as “bad” and determine what function it
+may be serving for the individual. Truly understanding why the person behaves
+the way he or she does is the first step to developing strategies to stop the
+behaviour.  The process usually involves documenting the individual’s behaviour
+in different situations, interviewing the family members and obtaining information
+about the behaviour of the individual, if necessary getting information from the
+work place regarding the behaviour of the individual and many other related
+sources. All these are done by a behavioural specialist, based on which the
+intervention plan is drawn.
+Behavioural assessment provides information that typically cannot be obtained
+from traditional assessment but which is necessary for establishing effective
+remedial strategies and interventions for problems exhibited by individuals.
+3.3.1 Reliability and Validity Issues in Behavioural Assessment
+Reliability in behavioural assessment, refers to agreement between observers
+viewing the same behaviour at the same time (inter rater reliability), or a single
+observer observing the same behavioural sequence on different occasions. On
+the other hand validity in behavioural assessment refers to data obtained from
+one measure (e.g., classroom observation) being predictive of behaviour obtained
+through other measures (e.g., classroom achievement scores or teacher ratings)
+in different settings, under different conditions, at different times, or by different
+observers.
+Multifaceted assessment is the rule in behavioural assessment, and each of the
+assessment procedures utilised should provide equivalent data ( convergent
+validity).
+
+===== PAGE 6 =====
+44
+Assessment of Personality Another important consideration with respect to validity in behavioural
+assessment is the extent to which information gathered through a multifaceted
+assessment leads to beneficial treatment outcomes (treatment validity).
+3.3.2 Uses of Behavioural Assessment
+Behavioural assessment is used in many situations and for many purposes, as for
+example screening, problem identification and analysis and for selection of a
+good intervention programme which will be effective in resolving the problem
+concerned.
+The assessment continues even after the intervention is completed. Assessment
+at this point is important to know how far the intervention had been effective in
+resolving the problem for which the individual was assessed. Some of the issues
+on which the assessment will be done are given below:
+• Has the treatment been administered as planned?
+• Have changes in behaviour been monitored and documented?
+• If change occurred, has it been demonstrated that it is due to the treatment?
+• Have treatment costs been assessed and has it been decided whether the
+benefits are cost effective?
+• Has a decision been made about modifying the treatment or maintaining
+treatment gains if desired outcomes have been achieved?
+3.3.3 Types of Behavioural Assessment
+Behavioural assessment can be of different types and some of which are given
+below:
+1) Direct assessment
+2) Analogue assessment
+3) Indirect assessment
+4) Idiographic assessment
+5) Contextual assessment.
+Let us discuss each of these in a little detail.
+Direct assessment: Here the recording of a behaviour is done as it occurs in the
+situation.
+Analogue assessment: This involves measuring of behaviour under simulated
+conditions as at times the behaviour may not occur in a natural situation.(e.g.
+role play)
+Indirect Assessment:  Here the behaviour is not observed but inferred through
+retrospective analysis.
+Idiographic assessment: This describes the behavioural characteristics of the
+individual concerned. For example let us say a child with a disorder called
+Attention Deficit Hyperactivity Disorder. Here the assessment is disorder focused.
+Contextual assessment: The stimuli in the environment that cause the behaviour
+are in focus in this method of assessment.
+
+===== PAGE 7 =====
+45
+Behavioural AssessmentThe main tool of behavioural assessment is functional analysis.
+Behavioural problems were to be defined through the triple response mode—
+motor, cognitive, physiological— and diverse potential causes—multicausality—
+were to be accepted.
+For example, a person’s depression should be defined through cognitive (feelings
+of loneliness, attention and concentration problems), physiological (sleep
+disturbance) and motor (low rate of social behaviours and physical activity)
+behaviours.
+This problem can be explained functionally by several conditions of the subject,
+such as a reinforcement system deficit, inadequate motivational system (personal
+condition), or a dysfunction in biological conditions—and usually by the
+interaction of all of these factors.
+Since behavioural problems should be described through the triple response mode,
+that is through motor, cognitive, physiological modes, other methods of
+assessment than observation of overt behaviour and other informants (than the
+subject) should be considered. In other words, multi methodism is one of the
+most important characteristics of behavioural assessment.
+Behavioral assessment provides the basis for behavioural change, and behavioural
+change requires treatment, and treatment demands experimental manipulations
+and evaluation This is why, throughout the history of behavioural assessment,
+the experimental method has been a constant among its basic characteristics.
+3.3.4 Process of Behavioural Change: Assessment, Treatment,
+and Evaluation
+One of the most important features of behavioural assessment is its role in
+behaviour modification or behavioural change. In order to change the behaviour,
+the first step is to make an assessment as to why a behaviour occurs as it is. Once
+assessment is made, the cause becomes known and one can formulate the
+treatment intervention and evaluate as to whether the intervention brought about
+the desired change.
+Behavioural assessment has several challenges to face, it is presently applicable
+only in the clinical field. It has to be made applicable to other fields also.
+Behavioural assessment needs measurement instruments and improved
+measurement devices.
+Assessment involves a process of decision-making that is well known in terms
+of the operations undertaken. Nevertheless, this process is not prescriptive. We
+might expect that in future standards or guidelines for the assessment process
+will be developed and supported by scientific associations. Not only disorders
+should be assessed but we must have assessment instruments that could measure
+normal behaviour and propose successful living.
+3.4 CASE STUDY METHOD
+The case study method is one of the important types of research method which is
+non-experimental or descriptive research. It is not a specific technique, but is
+one way of organising social data for the purpose of viewing reality. It tends to
+
+===== PAGE 8 =====
+46
+Assessment of Personality preserve the unitary character of a social object being studied. It tends to examine
+a social unit as a whole. The unit may be a person, a family, a social group, a
+social institution or even a community (Good & Hatt, 1981; Best & Kahn, 1992).
+The detailed study of a single individual’s behaviour over an extended period of
+time is called a case history or case study. This approach is used frequently in
+clinical and medical settings in order to diagnose and treat people who have
+psychological problems.
+As such, case histories usually deal with abnormal or troubled people whose
+lives are studied during psychotherapy or diagnosis (Runyan, 1982). The clinician
+seeks to achieve an understanding of the person’s life experiences and behaviour
+patterns through a variety of procedures, including the person’s own recollections,
+interviews with others who know the person, autobiographical and biographical
+documents, and any available information from psychological tests.
+The clinician, usually searches clues in the past or present life to determine the
+causes of the person’s difficulties. Case history provides a primary data enabling
+the clinician to establish effective strategies to treat emotional disorders. Fredrick
+le Play (1806-1882) had, for the first time, introduced case history method into
+social sciences research in the studies of family budgets. Herbert Spencer, an
+English sociologist (1820-1882) was the first to use the case materials in his
+ethnographic studies. William Healy, a psychiatrist, for the first time adopted the
+case study method in his work with juvenile delinquents.
+Case histories made by clinicians working with patients have played an important
+role in the development of certain personality theories and clinical thinking in
+general. Freud’s psychodynamic theory is almost entirely based on intensive
+study of single cases. Freud and his fellow psychoanalysts spent years probing
+deeply into all sorts of behaviour: early childhood recollection of dreams,
+fantasies, physical illnesses, love-hate relationships. Along with gaining rich
+insights into the uniqueness of persons, Freud used case studies to support his
+theoretical claims. Carl Rogers also relied heavily on case studies of psychotherapy
+clients in formulating his phenomenological approach to personality.
+3.4.1 Purpose of Case Study Method
+The purpose of the case study method is to understand the important aspects of
+the life cycle of a unit. Case study analyses deeply and interprets the interactions
+between the different factors that influence the change or growth of unit. Thus, it
+is a basically a longitudinal approach which studies the units over a period of
+time. A review of literature in this field suggests that case studies are not confined
+to the study of individuals and their important behavioural characteristics, rather,
+case studies have been made of all types of communities and of all types of
+individuals. Whatever the type of individual or community is, the element of of
+typicalness, rather than uniqueness, is the focus of attention in case study.
+Though case study is a detailed description and analysis of a particular individual’s
+personality, it is also an immensely important research strategy. A single case-
+study suggests a deep insight about human behaviour, but usually one case does
+not provide a firm basis for deriving general principles of behaviour. However,
+if a number of case studies are accessible for scrutiny, researchers may be able to
+identify threads of consistency among them and draw some general conclusions.
+
+===== PAGE 9 =====
+47
+Behavioural AssessmentThe case study method may also be used to study the lives of normal individuals.
+A group led by Henry Murray (Murray et al., 1938) at the Harvard Psychological
+Clinic provides a rare but compelling model for the intensive study of individual
+lives over a substantial period of time. The Harvard “personologists” focused on
+in depth assessments of a small group of college males. The objective was to
+learn about the basic needs, conflicts, values, attitudes, and patterns of social
+interaction evident among these young men. The assessment techniques included
+several self-report personality questionnaires and projective tests administered
+at different times. In addition to this, assessment of these students involved
+gathering extensive biographical data and autobiographical sketches, putting them
+into small-scale experiments, and conducting stress interviews where they were
+focused to answer embarrassing questions or were challenged to defend some of
+their deeply held values. Finally, the students were studied in small group settings
+so that the observers could ascertain their public styles of interpersonal interaction.
+The methods used by Murray and his colleagues covered many topics and facets
+of each student’s life and produced a rich narrative account of each student as a
+whole in his natural setting. To better assess each student’s thoughts, feelings,
+and actions, Murray assembled a group of experienced psychologists who shared
+their insights of each student at a staff conference or “diagnostic council”. In this
+council, different researchers from different background who had studied the
+same student would offer their respective clinical impressions about the student.
+Debate followed and eventually a conclusion about how best to characterise the
+student’s personality was reached by majority vote.
+The eclectic approach adopted by Harvard personologists to the study of
+personality influenced an entire generation of researchers by directing their
+attention to the whole person, to the importance of environment, and to the need
+for comprehensive assessment. Robert White’s Lives in Progress  (1975), a
+longitudinal study of three relatively normal individuals, illustrates the importance
+of the case history as a strategy well-suited for conducting personality research.
+3.4.2 Types of Case Study Method
+Based upon the number of individuals, the case study may be of two types – the
+individual case study, and the community case study. In individual case study the
+social unit consists of one individual or person. Since there is only one individual
+involved, it emphasises analysis in depth. Such an individual case study is
+significant in developing some hypothesis to be tested but is not helpful in making
+broad generalisations. The community case study is one in which the social unit
+is not a person, rather, a family or social group. Such case study is a thorough
+observation and analysis of a group of people who are living together in a particular
+geographical territory. The community case study tries to deal with different
+elements of the community life such as location, prevailing economic activity,
+climate and natural resources, historical development, social structure, life values,
+health education, and the like.
+On the basis of the purpose a case study may be subdivided into two categories-
+deviant case analysis and isolated clinical case analysis. In the former, the
+researcher starts with the difference already found between two people or groups
+of persons and his task is to read backward to deduce the condition that might
+have produced the difference (Warwick & Osherson, 1973).
+
+===== PAGE 10 =====
+48
+Assessment of Personality In the latter, the emphasis is upon the individual units with respect to some
+analytical problem. Such study is popular in psychoanalysis. Freud’s study of
+little Hans is a well-known case which can be cited as an example o isolated
+clinical case analysis. Freud’s theories of psychoneurosis were formulated through
+accumulation of many isolated clinical case studies of the individuals.
+3.4.3 Strengths and Weaknesses of Case Study Method
+The advantage of case study method is that it provides an account of the
+complexities and idiosyncrasies of an individual’s personality that is not possible
+from other strategies. If the goal is to study processes going in one or few persons
+and to learn how persons cope with life experiences, then case history is the
+most appropriate strategy. Also, case histories are the only way rare instances of
+a phenomenon can be studied.
+But one should also keep in mind the shortcomings encountered while studying
+only one individual. The chief disadvantage of case studies is that the researcher
+can never be totally certain about cause-and-effect relationships. Researchers
+cannot control factors that might affect the events or outcomes that they observe;
+it is always possible that causes other than those they infer may be operating.
+Second, because a case study examines only one person, its results have limited
+generalisability. Just because one person behaves in a certain way does not mean
+all people behave that way. Third, the data obtained by the case history method
+may be retrospective or second-hand in nature and thus distorted by time. Lastly,
+even if the accuracy of such data can be verified, the conclusions drawn about
+the individual may reflect the personal biases of the investigator.
+Despite these shortcomings, case histories can be rich source of information
+about a particular phenomenon. In fact, case study can be considered as a
+preliminary research strategy that can offer intriguing hypothesis about human
+personality. Researches can ten examine these hypotheses with more rigorous
+experimental procedures.
+Self Assessment Questions
+1) Define case history method.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) Give a general overview of the merits and demerits of case history
+method.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+===== PAGE 11 =====
+49
+Behavioural Assessment
+3.5 INTERVIEW METHOD
+3.5.1 Meaning and Purpose of Interview Method
+The interview is one of the oldest and most widely used methods of collecting
+information about persons. In the interview, the personologist obtains information
+from the person being evaluated by asking relevant questions and listening to
+answers. The interviewer and respondent engage in a face-to-face dialogue for
+the purpose of achieving a specific goal. In fact, the way in which an interview is
+conducted depends on the particular objective or goal in question. An employment
+interview, for instance, seeks to assess the personality characteristics of the job
+applicant.
+A research interview aims to gather information about a person concerning a
+specific research topic under investigation. A clinical interview has its goal the
+diagnosis of a patient’s problem and the type of therapy technique that may be
+most appropriate for the given diagnosis. Interviews are also used to measure
+specific aspects o personality.
+Psychoanalysis uses one type of interview to probe supposedly underlying aspects
+of personality. But in modern research special types of interviews, in which
+individuals are asked questions assumed to be related to specific traits, are often
+used instead. For instance, interviews are used to measure the Type A behaviour
+pattern, an important aspect of personality related to personal health. Persons
+high on this pattern are always in a hurry and they hate being delayed. Thus,
+questions asked during the interview focus on this tendency; for instance: “What
+do you do when you are stuck on the highway behind a slow driver?”
+There is a variety in the degree to which interviews may be structured or
+unstructured. In the former type of interview, questions are carefully worded
+and skillfully presented in a prescribed order. For instance: “How long have you
+been married?” “How many children do you have?” “Do you believe that children
+should be allowed to do whatever they want?” “If you had a teenager would you
+allow him or her to quit school and take a part time job?” As you can see, the
+most personal and threatening questions appeared last.
+The strategy behind asking general and innocuous questions first is that they
+should be at least threatening for respondents and pave the way for divulging
+more intimate more information once they have developed a sense of trust toward
+the interviewer.(White & Speisman,1982).
+In an unstructured interview, questions are framed in such a way as to allow the
+person considerable latitude in responding. The interviewer may say, “You feel
+that your spouse really lets you down,” or “That must have been a very stressful
+experience.” The respondent is free to reveal whatever information s\he desires
+to such questions. In turn, the interviewer may abandon a certain line of
+questioning if it seems to be generating no useful information and some other
+area of questioning. Compared to a structured interview, an unstructured interview
+allows the personologist more flexibility to probe the respondent’s thoughts and
+feelings in the context of give-and-take exchange.
+
+===== PAGE 12 =====
+50
+Assessment of Personality 3.5.2 Strengths and Weaknesses of Interview Method
+Interview method when used by a highly skilled interviewer can produce
+extremely valuable information regarding the individual’s personality and life
+situations. The ability to communicate effectively with others, perceptions of
+self and significant others, level of anxiety, plans for future, and job satisfaction
+are a few examples of data that can be obtained from a well conducted interview.
+A well planned interview can also be profitably used in hypothesis testing research.
+At the same time, issues of reliability and validity may arise in the event that
+respondents are free to say about their past and present life experiences.
+Structuring the kinds of questions asked of the person is one way to make interview
+information more valid and reliable. That is why the structured format tends to
+be preferred in the research setting, whereas the unstructured format tends to be
+preferred by clinical psychologists in the therapeutic setting.
+The interview technique provides a rich source of personality data. But such
+data is highly subjective and may reflect the theoretical biases of the interviewer.
+Also, the impact of the of the interviewer’s personality can subtly influence how
+truthful and disclosing the person will be in an assessment setting. This can
+result in the withholding or distorting of information vital to the purpose of an
+interview.
+Lastly, an assessment interview, especially when supplemented by more objective
+sources of data, is one the most basic and indispensable of all assessment
+techniques.
+Self  Assessment Questions
+1) Differentiate between structured interview and unstructured interview
+as a measure o personality assessment.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) What are some of the advantages offered by interview method?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3.6 OTHER MEASURES
+Apart from the above cited methods, there are also other less significant techniques
+existing to assess personality.
+
+===== PAGE 13 =====
+51
+Behavioural Assessmenti) Experience sampling method: With the advent of electronic pagers now
+allows researchers to beep individuals at random or pre-established times
+during the day in order to obtain descriptions of their behaviour at these
+times? This experience sampling method (Stone, Kessler, &
+Haythornthwaite, 1991) can often reveal much about stable patterns of
+individual behaviour; and these constitute an important aspect of personality.
+ii) Biological measures:  In recent years several biological measures  of
+personality have also been developed. Some of these use positron emission
+tomography (PET) scans to see if individuals show characteristic patterns
+of activity in their brains- patterns that are related to differences in their
+overt behaviour. Other measures focus on hormone levels, for instance, the
+question of whether highly aggressive persons have different levels of certain
+sex hormones than other persons. Some results suggest that this may indeed
+may be the case(Harris et al., 1996).
+It may be concluded that there are many tools for measuring personality. None
+are perfect, but together they provide psychologists with many useful techniques
+for investigating the stable patterns of behaviour that make each of us a unique
+human being.
+3.7 LET US SUM UP
+The case study or case history method seeks to provide an in-depth account of an
+individual’s personality. Its primary focus is to diagnose and treat a person’s
+suffering from emotional problems. Also, case histories have played a role in the
+development of certain personality theories and the study of normal persons
+over many years.
+Several assessment techniques may be used in conducting a case history, including
+biographical and autobiographical sketches, personality and projective tests,
+interviews, and information provided by others who know the person reasonably
+well. Although case histories are valuable source of insights about people, several
+shortcomings faced in studying one person at a time were noted.
+Case histories do not identify factors that might cause the events observed, the
+results obtained are o limited generalisability, and the data collected may be
+subject to personal bias and difficult to verify in terms of accuracy.
+Principal features of unstructured and structured interviews are that in the former,
+the interviewer can “dig deeper”, and get a deeper understanding of the
+respondents questions. While in the latter, there is a systematic procedure for
+collecting information and hence, the reported validities of such interviews is
+greater than the former type of interviews.
+The other measures of personality assessment that the psychologists are currently
+using are experience sampling and biological measures.
+3.8 UNIT END QUESTIONS
+Describe the case history method for assessing personality. What are some of the
+strengths and limitations of case history method?
+
+===== PAGE 14 =====
+52
+Assessment of Personality How does structured interview differ from unstructured interview? Point out the
+major sources of error in interview.
+Briefly describe the current methods being used by psychologists for personality
+assessment.
+What other measures of personality do psychologists currently use?
+3.9 GLOSSARY
+Case study method : Research strategy whereby a particular person is
+studied in great detail.
+Hypothesis : A single prediction about the relationship between two
+or more variables that is logically derived from a
+theory.
+Structured interview : An interview that follows a set format, thus allows a
+person little or no freedom to digress from the
+information sought by the interviewer. An
+unstructured interview, by contrast, allows the person
+maximum freedom to divulge information in a more
+spontaneous manner.
+3.10 SUGGESTED READINGS AND REFERENCES
+Goode, W.J., & Hatt, P.K. (1981). Methods in Social Research . Singapore:
+McGraw Hill Company.
+Murray,H.A., Barrett,W.G., & Homburger,E. (1938).Explorations in Personality.
+New York: Oxford University Press.
+Warwick, D.P. & Osherson, S. (1973). Comparative Research Methods .
+Englewood Cliffs Prentice Hall.
+References
+Best, J.W. & Kahn,J.V .(1992). Research in Education, New Delhi: Prentice Hall
+of India Private Limited (eighth Indian print).
+Harris,J.A., Rushton, J.P .,Hampson, E.,& Jackson, D.N.(1996). Salivary
+testosterone and self-report aggressive and pro-social personality characteristics
+in men and women. Aggressive Behaviour, 22,321-331.
+Runyan,W.M. (1982).Life histories and psychobiography: Explanations in theory
+and method. New York: Oxford University Press.
+Stone, A.A., Kesseler,R.C.,& Haythornthwaite, J.A.(1991). Measuring daily
+events and experiences: Decisions for the researchers. Journal of Personality,
+59, 575 – 607.
+White, R.W. (1975). Lives in progress: A study of the natural growth of personality
+(3
+rd.). New York: Holt, Rinehart and Winston.
+White, K.M. & Spiesman, J.C. (1982). Research approaches to personality.
+Monterey, C.A.: Brookes/Cole.
+
+===== PAGE 15 =====
+53
+Behavioural AssessmentAnastasi, A. (1968).Psychological testing.London: Macmillan Company.
+Ciccarelli, S.K.,& Meyer, G.E.(2009). Psychology. South Asian Edition. Pearson,
+New Delhi.
+Freeman, F.S.(1962). Theory and practice of psychological testing.New York:
+Holt, Rinehart and Winston (Indian Edition).
+Hjelle, L.A., Zieglar, D.J.(1992). Personality theories. Basic assumptions,
+research, and applications.3rd ed.McGraw Hill.
+Singh, A.K.(1997). Tests, measurements and research methods in behavioural
+sciences. Bharti Bhawan, Patna.

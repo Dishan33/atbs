@@ -1,0 +1,1756 @@
+
+
+===== PAGE 1 =====
+5
+Introduction to Attitude
+and StereotypesUNIT 1 INTRODUCTION TO
+ATTITUDE AND
+STEREOTYPES
+Structure
+1.0 Introduction
+1.1 Objectives
+1.2 Nature of Attitudes
+1.2.1 Ch aracteristics of Attitudes
+1.2.2 Attitude and Beliefs
+1.3 Theories of Attitude Organisation
+1.3.1 Heider’s Balance Theory
+1.3.2 Katz’s Functional Theory
+1.3.3 Kelman’s Three Process Theory
+1.4 Stereotypes
+1.4.1 Characteristics of Stereotypes
+1.4.2 Development and Maintenance of Stereotypes
+1.4.3 Stereotype and Social Life
+1.4.4 Difference between Stereotype and Prejudice
+1.5 Let Us Sum Up
+1.6 Unit End Questions
+1.7 Suggested Readings
+1.0 INTRODUCTION
+Attitude is a word frequently used by us in our day to day life. In its common
+sense it refers to an individual’s specific state of mind through which he expresses
+his opinions and feelings towards some conditions, things, event and persons in
+his social environment. For example, a person who feels favourably for widow
+remarriage may advocate widow remarriage, write some article in favour of it or
+even remarry his widow daughter, thus expressing his attitude towards the issue
+of widow remarriage.  Psychologists, Sociologists and other social scientists have
+taken undertaken various researches to throw light on different aspects of attitude
+and related concepts like stereotypes, prejudice and discrimination. In this unit we
+will try to understand the meaning, characteristics, causal and maintenance factors
+of these various concepts. To begin with we will start from attitude.
+1.1 OBJECTIVES
+After reading this unit, you will be able to:
+l Define and describe attitude in your own words;
+l Describe the characteristics of attitude;
+
+
+===== PAGE 2 =====
+6
+Attitudes, Stereotypes,
+Prejudice and Discrimination
+l Elucidate theories of organisation of attitude;
+l Define  stereotype;
+l Describe the  characteristics of stereotype;
+l Analyse the formation of stereotype;
+l Differentiate between stereotype and prejudice;
+l Analyse the factors contributing to stereotype and prejudice; and
+l Analyse  factors causing and maintaining prejudice and discrimination.
+1.2 NATURE OF ATTITUDES
+In the beginning psychologists defined attitude in terms of one dimension i.e.
+attitude is a learned predisposition to respond in a consistently favourable or
+unfavourable manner with respect to a given object. Thus the essence of attitude
+was a person’s intensity of feelings toward some object. However, some
+psychologists tried to explain attitude in terms of two dimensions namely,  affective
+and cognitive components.
+Cognitive component refers to a person’s opinions and beliefs toward some
+object or event. For example, a person’s beliefs and opinions regarding widow
+remarriage. Affective component means how strongly and a person feels for the
+event or object in question. This feeling may be for or against. Some were of the
+view  that attitude has three dimensions i.e. affective, cognitive and behavioural.
+This approach is known as ABC of attitude. Behavioural component indicates
+action a person would take in favour of or against the event or object of attitude.
+As said earlier a person having favourable attitude towards widow remarriage
+may organise meetings, give lectures in favor of widow remarriage or even go to
+the extent of marrying a widow.
+These three components of attitude have some characteristics,  understanding of
+which is imperative, in order to understand  the nature of attitudes.
+V alence— it refers to the degree of favorableness or unfavorableness to the
+object or event in question.
+Multiplexity— components of attitude have the characteristic of multiplexity. It
+means the number of elements a component has. Higher the number of elements
+in a component the more complex it would be.
+Consistency— it is found more among the valence factors than among multiplexity.
+1.2.1 Characteristics of Attitudes
+a) Attitude is learnt:   A person is not born with attitude but he or she acquires it
+through the process of becoming an acceptable member of the group he/ she
+belongs to.  Also a person develops attitude form the experiences of life. These
+experiences and process of socialisation may predispose a person favourably
+or unfavorably to the object or event in question.
+b) Attitude gives direction :   Attitude directs our behaviour in either away
+from an object or toward the object. For example, a favourable attitude
+
+
+===== PAGE 3 =====
+7
+Introduction to Attitude
+and Stereotypes
+toward education will impel the person to send his children to school for
+formal education for the betterment of their life, while an unfavourable attitude
+may prompt him for not sending children to school.
+c) Relative permanacy: It means attitudes are stable over time and changes in
+them take place only gradually.
+d) Attitude is always related to some issue, object or thing: This means  for
+the development of attitude occurrence of some event, thing or person is a
+must. Attitudes do not take place in vaccuum.
+e) Attitude has motivational properties : Attitude motivates a person to do
+some behaviours more readily than others. For example an individual having
+positive attitude for sports may readily go for play than pass his time reading
+some book.
+1.2.2 Attitude and Beliefs
+An attitude is closely related to belief. Before exploring the relation between the
+two it is important that we first understand their meaning. A belief is defined as
+“ an enduring organisation of perceptions and cognitions about some aspect of the
+individual’s world.” Beliefs are cognitions or thoughts about the characteristics of
+objects.  As of attitude we know that it is an organised system of cognitive,
+affective and behavioural component. Analysis of the definitions of the two concepts
+reveal following similarities:
+Both are enduring organisation of different components.
+Like attitude belief also has cognitive component.
+Despite above mentioned similarities, the two concepts have following differences:
+Attitude has all the three components i.e. cognitive, affective and behavioral while
+belief primarily has cognitive component and behavioral component is secondary.
+For example, a person may think that reservation in jobs is against natural justice.
+This is only his thinking (cognitive) and lacks any kind  of feelings (affective) but
+he may be prompted to deliver a lecture about his views on this issue (behaviour).
+An attitude has motivational properties and it directs our efforts in specific direction
+while a belief does not have this property.
+Belief is part of attitude. All attitudes toward an object have relevant beliefs about
+that object.
+Beliefs are based on real facts while attitude is based more on imagination and
+less on reality.
+Change in attitude comes faster than in beliefs.
+Self Assessment Questions
+1) Discuss the nature of attitudes. Give suitable examples.
+................................................................................................................
+................................................................................................................
+
+
+===== PAGE 4 =====
+8
+Attitudes, Stereotypes,
+Prejudice and Discrimination ................................................................................................................
+................................................................................................................
+2) List out the characteristics of attitudes.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+3) Differentiate between attitudes and beliefs.  Give examples.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+1.3 THEORIES OF ATTITUDE
+ORGANISATION
+Social psychologists gave a number of theories to explain attitude organisation.
+These theories can be clubbed under four categories.
+1) Cognitive consistency theories- it includes following theories:
+l Heider’s Balance theory.
+l Newcomb’s A-B-X theory.
+l Festinger’s Cognitive dissonance theory.
+l Rosenberg’s affective-cognitive consistency theory.
+l Congruity theory.
+2) Social learning theories include in it the following theories:
+l Theory based upon classical conditioning.
+l Theory based upon instrumental conditioning.
+3) Functional theories include following theories:
+l Katz and Stotland theory.
+l Smith, Bruner and White theory.
+4) Miscellaneous theories are:
+l Kelman’s three process theory.
+l Assimilation contrast theory.
+l Adaptation level theory.
+Here we will discuss a few select theories.
+
+
+===== PAGE 5 =====
+9
+Introduction to Attitude
+and Stereotypes
+1.3.1 Heider’s Balance Theory
+Heider’s Balance Theory-also known as P-O-X model it was given by Heider
+in 1946,1958. It has three elements.
+1) First is the perceiver known as P .
+2) Second, another person called O and
+3) Third X an object of perception.
+Pairs thus formed of these elements have two kinds of relationships, that is, unit
+relations and affective relations. Unit relations between pairs of elements depend
+on similarity, ownership, and similar membership. Affective relations are based on
+liking and disliking. Unit relations and affective relations may be positive or negative.
+Heider further stated that elements may be in a state of balance or imbalance.
+When balanced the individual feels relaxed and there is no tension. However, a
+state of imbalance between elements creates tension and motivates individual to
+restore balance.
+Let us understand through an example.
+Suppose Sunil (P) likes Krishan (X) and also  likes Preeti (O) as well.
+But Preeti is not liked by Krishan.
+Here relations between Sunil and Krishan,  Sunil and Preeti are positive but
+relations between Krishan and Preeti are negative.
+This state of affairs is disturbing for Sunil. Now Sunil has to change his relations
+either with Krishan or Preeti. If he starts disliking Krishan,  balance is restored
+or he should start disliking Preeti  to restore balance.
+1.3.2 Katz’s Functional Theory
+Katz (1960) Katz and Stotland (1959) opined that motivational basis is the key
+to understanding attitudes. The motivational basis is conceptualised in terms of
+functions which an attitude performs for the person.   According to them an
+attitude serves the following four functions:
+1) Instrumental, adjustive or utilitarian function
+It means that individual tries to maximise the rewards and minimise punishment.
+Thus he develops favorable attitude towards those objects which result in reward
+and unfavorable attitudes toward those which lead to punishment.
+2) The ego-defensive function
+Attitude protects a person from acknowledging unpleasant realities about himself
+or environment. For example, a person filled with feelings of insecurity or low
+self-esteem may develop strong prejudice against members of minority group to
+compensate for feelings of insecurity or low self-esteem.
+3) The value-expressive function
+Holding attitudes commensurate with our personal values or self-concept gives us
+satisfaction.
+
+
+===== PAGE 6 =====
+10
+Attitudes, Stereotypes,
+Prejudice and Discrimination
+4) The knowledge function
+Every individual is presumed to have a    basic drive to understand, to make sense
+out of, to structure his experience. Elements of experience that are inconsistent
+with what a person knows are rearranged or changed to achieve consistency.
+1.3.3 Kelman’s Three Process Theory
+Kelman suggested that attitude organisation is influenced by three distinct processes
+of social influence namely, Compliance, Identification and Internalisation.
+1) Compliance can be said to occur when an individual accepts influence from
+another person or from a group because he hopes to achieve a favorable reaction
+from the other.
+Here, the expression of opinion, despite the fact that privately the person may
+not agree with it, is instrumental in gaining some reward or avoiding it. Thus an
+employee knowing that his boss is proud of the jokes he tells may laugh heartily
+at them even though he does not think they are funny. In this way he is able to
+avoid his boss’s displeasure.
+2) Identification can be said to occur when an individual adopts behaviour derived
+from another person or a group because this behavior is associated with a
+satisfying self-defining relationship to this person or group.
+This is a means of establishing or maintaining a desirable relation to the other or
+group and of supporting the self-definition that part of the relation. One form
+which identification tales is shown in attempts to be like the other person or to
+actually be the other person. This is commonly observed in children who copy
+the behaviour and attitude of their parents or other models. However, identification
+like compliance does not occur because the behaviour or attitude itself is satisfying
+to the individual. It occurs because of the satisfying relation to another person or
+group and it require the activation of the relation in order for it to occur.
+3) Internalisation occurs when an individual accepts influence because the induced
+behavior is congruent with his value system.
+Here the content of induced attitude or behaviour is internally rewarding. The
+attitude or behaviour helps solve a problem or is demanded by the values of the
+individual.
+Self Assessment Questions
+1) What are the various theories of attitude organisation?
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+2) Discuss Katz’ functional theory.
+................................................................................................................
+
+
+===== PAGE 7 =====
+11
+Introduction to Attitude
+and Stereotypes
+................................................................................................................
+................................................................................................................
+................................................................................................................
+3) Discuss Kellman’s theory of attitude organisation.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+4) List the various cognitive consistence theories and elucidate one of them.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+1.4 STEREOTYPES
+A stereotype is a cluster of beliefs usually lacking a rational basis regarding the
+members of some group. The word ‘stereotype’ was first used by Walter Lipman
+in his book “Public Opinion” (1922).
+According to Albrecht, Thomas & Chadwick (1980) “A stereotype is a belief
+about some particular trait being prevalent among all members of a social group.
+Whatever be the characteristic it is assumed to vest all people in that category.
+Therefore, all members of the group are perceived and understood alike.”  From
+above definitions it can be concluded that:
+l Stereotype is a set of beliefs used to categorise people.
+l Such categorisation is exaggerated and lacks in truth.
+l This categorisation provides for the basis for gross generalisation bout people.
+l Some particular physical, social and cultural characteristics are ascertained which
+serve to identify people of that group.
+l There is general consensus as to the prevalence of a particular trait among people
+of that category.
+l It is assumed that a person will exhibit all the traits of that category simply
+because he is member of that group.
+1.4.1 Characteristics of Stereotypes
+Stereotype is a  mental picture or image about people of a community or category
+on the basis of which we ascribe traits or characteristics to people.
+Stereotype is a widely agreed belief about people of some category or community.
+For example, it is widely agreed that politicians are opportunist.
+
+
+===== PAGE 8 =====
+12
+Attitudes, Stereotypes,
+Prejudice and Discrimination
+Stereotype involves gross and exaggerated generalisations. An important
+characteristic of stereotype is that they develop out of experiences with individuals
+of other community and are then extended to apply to all members of that
+community. For example, it is generally believed that Bengalees are timid by
+nature. This may be true for some people of Bengali community but certainly not
+for all Bengalees.
+Stereotypes usually are not amenable to change despite information and evidence
+to the contrary. For example, when we encounter a brave, fearless and bold
+Bengali we do not change our stereotype about them instead we say that this
+person is exception among Bengalees.
+Positive or negative stereotype:   A stereotype can have either direction i.e. it can
+be positive or negative. For example, Japanese are generally believed to be
+industrious and diligent and Bengalees are usually thought to be timid and shy.
+1.4.2 Development and Maintenance of Stereotypes
+Stereotypes are acquired. Psychologists have delineated following factors that go
+into development and maintenance of stereotypes.
+A major cause of development of stereotypes is inadequate and improper
+experience and information about people of other group. Experiences with handful
+of people of other community lead to formation of wrong notions about them and
+it is then generalised to all members of that community.
+Socialisation: Process of socialisation plays an important role in the formation of
+stereotypes. Most important agent of socialisation are parents. Many  parents
+encourage their children to develop stereotypes thinking it will better prepare
+them to deal with people of other community.
+Imitation: In order to become an acceptable member of the community or society
+we live in, we simply imitate beliefs, opinions and attitudes held by them without
+even thinking their desirability and  logical validity. Result is that knowingly or
+unknowingly we develop stereotypes. Perhaps this is the reason a person born
+in Hindu community easily adopts stereotypes held by other people of Hindu
+community but he will not with that ease adopt stereotypes held by Muslim
+community.
+Traditions and folkways: Traditions and folkways prevalent in a culture also
+help foster stereotypes. Everybody tries to behave according to the traditions,
+customs and folkways prevalent in the society because doing so brings prestige
+and social reputation.
+Social and cultural distance: Social and cultural distance is another important
+factor in the development and maintenance of stereotypes. Social distance prevents
+us from gaining right knowledge and information about people of other community
+and society. Similarly, due to cultural distance we lack knowledge about living
+style, habits, customs, beliefs, opinions and attitudes of people of other culture.
+This lack of correct knowledge and information about other people provides
+breeding ground for development and maintenance of stereotypes.
+1.4.3 Ster eotypes and Social Life
+Stereotypes have profound importance in social life as they directly affect social
+interactions. For example, teachers are usually thought to be idealistic and
+
+
+===== PAGE 9 =====
+13
+Introduction to Attitude
+and Stereotypes
+accordingly we expect conversation with teachers to take idealistic tone. Thus our
+behaviour naturally orients toward idealistic patterns.
+Stereotypes serve a number of social functions as given below:
+1) Stereotypes help understand social behaviour. Stereotype that politicians are
+opportunist helps us understand their behaviour and we are not easily taken in
+by their statements and claims.
+2) Stereotypes help control social behaviour. In fact stereotypes equip us with a
+power that automatically directs our behaviour in a specific direction. For
+example, Americans are known to be friendly. Therefore when dealing with an
+American we are in relaxed mood and try to be frank and friendly with them.
+3) Stereotypes help in  prediction. Whether right or wrong stereotypes control our
+social interaction. We even predict behaviour on the basis of stereotypes. For
+example, Nepali servants are believed to be brave, honest, and reliable. Thus
+we can predict that our house and property will remain safe in the hands of a
+Nepali servant, when we are out on vacations.
+1.4.4 Difference between Ster eotype and Prejudice
+Since our next topic would be Prejudice and Discrimination it would be relevant
+to differentiate between stereotypes and prejudice. The two concepts are very
+similar with very fine difference between them. Following are the differences
+between the two:
+In stereotype all members of a community are treated alike as they are believed
+to have same characteristics while prejudice can take any direction it can be
+positive or negative both.
+A prejudice is a type of attitude and has all the three components i.e. affective,
+cognitive and behavioural. However, stereotype is cognitions and expectations
+from person simply because the person  is a  member of a particular group or
+community.
+Stereotypes are comparatively more stable than prejudices.
+Self Assessment Questions
+1) Define stereotypes.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+2) Describe the characteristics of stereotypes.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+
+
+===== PAGE 10 =====
+14
+Attitudes, Stereotypes,
+Prejudice and Discrimination 3) How are stereotypes developed and maintained?
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+4) Differentiate between stereotypes and prejudice.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+1.5 LET US SUM UP
+In this unit we studied the concept of attitude and the three components of
+attitudes namely cognitive, affective and behavioural. We also discussed how
+these components direct our behaviour. This was followed by a discussion on
+characteristics of attitudes. We now understand the nature of attitudes in full.  We
+know that attitudes are acquired through process of socialisation and learning. We
+also understand why people differ in intensity and strength on the same attitude.
+Next we discussed the concept of stereotypes, their characteristics, how
+stereotypes are formed and developed. We also studied the functions of stereotypes
+in social life and the difference between stereotypes and prejudice.
+1.6 UNIT END QUESTIONS
+1) What do you understand by the term attitude? Discuss in detail how attitudes
+are formed and maintained.
+2) Write an essay on stereotypes and their utility in social life.
+3) Discuss Katz’s functional theory of attitude organisation.
+4) How do sterotypes contribute to prejudice?
+5) Discuss the various theories of attitude organisation.
+1.7 SUGGESTED READINGS
+Secord, P .F. and Backman, C.W. (1974). Social Psychology. McGraw Hill ,
+New York
+Alcock, J. E., Carment, D. W., & Sadava, S. W. (2005). A Textbook of Social
+Psychology (6th ed). Scarborough, Ontario: Prentice-Hall Canada.
+Baron, R. A., Branscombe, N. R., & Byrne, D. (2009). Social Psychology
+(12th ed.). Boston, MA: Pearson/Allyn and Bacon.
+
+
+===== PAGE 11 =====
+15
+Formation of Attitude
+and Attitude ChangeUNIT 2 FORMATION OF ATTITUDE
+AND ATTITUDE CHANGE
+Structure
+2.0 Introduction
+2.1 Objectives
+2.2 Factors of Attitude Formation
+2.3 Attitude Change
+2.4 Let Us Sum Up
+2.5 Unit End Questions
+2.6 Suggested Readings
+2.0 INTRODUCTION
+An attitude is a hypothetical construct in that  it can only be inferred through the
+behaviour of the individual. Attitudes are acquired and they  develop out of
+influence of many factors. On the basis of researches and studies conducted, the
+psychologists have identified  factors that determine development and formation
+of attitudes.  This unit is focussed on the issues of how attitudes are formed, what
+factors constitute attitude formation and what are the methods by which one can
+change the attitude.
+2.1 OBJECTIVES
+After reading this unit, you will be able to:
+l Explain  attitude formation;
+l List the factors that contribute to attitude formation;
+l Analyse  the process of attitude change;
+l Describe the role of persuasive communication in attitude change; and
+l Explain the role of various factors in attitude change.
+2.2 FACTORS OF ATTITUDE FORMATION
+Need Satisfaction: Research studies on “Need Satisfaction”, reveal that we tend
+to develop favourable attitude toward things which help us satisfy our needs.  As
+is well known, whenever something hinders our reaching a goal or stop us from
+doing something that we want to or frustrate our attempts to satisfy our goals and
+needs, we feel negatively for those things which stand in our way. For example,
+in an experimental study it was found that students developed favourable attitudes
+toward those things which they viewed were instrumental in the attainment of goal.
+But they had negative attitude toward things that were of no use in goal attainment
+or which hindered goal achievement.
+Social learning: This is another factor that plays  an important role in the
+development of attitude. Process of learning affects the development of attitude
+
+
+===== PAGE 12 =====
+16
+Attitudes, Stereotypes,
+Prejudice and Discrimination
+and the way an individual learns other forms of behaviour. Three processes of
+learning affect development of attitudes and these are (i) Classical conditioning (ii)
+Instrumental conditioning and (iii) Observational learning.  These are being discussed
+below:
+Classical Conditioning:    According to classical learning a neutral stimulus
+comes to elicit an unconditioned response when repeatedly paired with an
+unconditioned stimulus. Social psychologists opine that it applies to the development
+of attitudes as well. For example, when a child repeatedly listens from his father
+that Pakistan is an enemy country, and all the terrorist activities in our country are
+Pakistan supported, the child gradually develops a negative attitude towards
+Pakistan, even though initially the word Pakistan was a neutral word for him.
+In a classic experiment on the role of classical conditioning in attitude formation,
+two nation words – Dutch and Swedish were presented before a group of
+subjects. When the word Dutch was presented it was followed by recitation of
+positive adjectives like happy, laborious and sacred etc. But the word Swedish
+was followed by recitation of negative adjectives like dirty, ugly, bitter etc.
+At the end of the experiment it was found that subjects had developed positive
+attitude toward the nation word Dutch as it was followed by positive adjectives
+and a negative attitude among subjects was evident for the nation word Swedish.
+It was presumed that repeated pairing with positive words elicited a positive
+response for nation word Dutch.
+Instrumental Conditioning:  According to this theory of learning states,  we
+learn those responses that are rewarded and show an increased probability of
+repeating such responses. However, we tend not to repeat responses that are
+punished. Studies reveal that children develop attitudes maintained by their parents
+simply because holding such attitudes is rewarding. Exhibition of attitudes and
+behaviour similar to parents is often met with reward and praise from parents and
+dissimilarities or deviation is met with punishment and admonition. Thus children
+soon learn that holding attitudes similar to that of parents is instrumental in getting
+the  desired results.
+Observational learning:  A number of behaviours are learned by watching the
+activities of others and the outcome of such activities. Children growing often
+watch parents and significant others in the family and society doing things which
+they follow without questioning the wisdom or logic behind these activities. They
+follow without question  only because they trust in the wisdom of their parents and
+significant others in the family and society.
+Group Affiliations: Group affiliations are an important source of formation and
+development of attitude. An individual adopts the values, norms, opinions, beliefs
+and way of behaviour in order to become an acceptable member of that group,
+because following the line suggested by the group is rewarding. Besides group
+exerts pressure for conformity to group and nonconformity is met with punishment.
+According to social psychologists group affiliations affect attitude formation.
+Primary group is immediate group of the individual that is  family, peer group etc.
+Such groups have limited number of members and enjoy face to face interactions.
+Since primary groups are based on close cooperation, affinity and compassion
+members of primary group often develop similar attitudes. Family members
+
+
+===== PAGE 13 =====
+17
+Formation of Attitude
+and Attitude Change
+particularly parents have tremendous influence over development of attitude    among
+children. According to social psychologists attitudinal homogeneity among primary
+group members can be attributed to four reasons.
+Since primary groups are closely interknit, members face too much pressure for
+conformity to group. Therefore members of primary group are more likely to
+show attitudinal similarity.  Primary groups create conditions where attitudes of
+one member are favourable to other members which breeds liking among them.
+This liking breeds further similarity and this similarity in turn leads to attitudinal
+similarity.
+All members of the primary group receive similar or same information. They are
+more likely to process and analyse the information in more or less similar fashion
+thus developing attitudinal homogeneity.
+Any new member of a primary group is more likely to develop attitudes similar
+to the group in order to gain acceptance in that group.
+Reference group is a group, the individual is not a member of which but he aspires
+to be like members of that group. Thus such a group is used as standard for
+reference or comparison. Usually a person identifies with such groups by changing
+or adopting values, norms, goals similar to that of reference group.
+Cultural Factors:  Cultural factors also affect the development of attitudes.
+Every society has its culture and every culture has its traditions, norms, values,
+religion etc. Thus socialisation of every person is affected by the cultural factors
+of that society. Studies reveal that people reared in different cultures exhibit
+different attitudes while people reared in the same culture show similarity of
+attitudes. For example, a marriage proposal between first cousins is viewed
+favorably in Muslim culture while in Hindu culture it is viewed with disdain.
+In one of the studies it was found that cultural differences lead to development
+of certain common attitudes among members of a given culture. For example,
+members of Arapesh tribe are liberal, cooperative, and kindhearted. On the other
+hand members Mundugumor tribe are usually aggressive, zealous and selfish.
+Anthropologists concluded that it was due to difference in emphasis on the
+development of different personality traits among the two cultures.
+Personality Factor:      Personality traits also have an important role to play in
+the formation and development of attitudes. Attitudes which are in consonance of
+personality traits are acquired easily. In a research study it   was found that
+persons with highly organised attitudinal system accept merits and demerits of
+their personality as a matter of conscience. Some other studies found that people
+with low IQ and literacy level are usually conservative, suspicious, hostile and has
+a tendency to attribute their faults to others.
+Stereotypes:   Every society is characterised with some stereotypes. Stereotypes
+are simple generalised expectations about people of other groups. For example,
+it is believed that women as compared to men are more religious and suggestible,
+it leads to   development of certain attitudes towards women.
+Given information:   Information given to the individual also plays important role
+in the formation of attitudes. In modern society modern means of communication,
+particularly radio and television, play important role in shaping the opinions, views
+
+
+===== PAGE 14 =====
+18
+Attitudes, Stereotypes,
+Prejudice and Discrimination
+and attitudes about many a issue of public concern. Although not all types of
+information have equal effect on attitudes.
+Self Assessment Questions
+1) What factors contribute to attitude formation?
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+2) Describe the processes of attitude formation in terms of social learning.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+3) Put forward the three theories of social learning that are related to mattitude
+formation.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+4) What is meant by group affiliation and how these factors affect attitude
+formation.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+5) Discuss the cultural factors that affect the development of attitudes?
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+6) What are the personality factors that affect the development of attitudes?
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+
+
+===== PAGE 15 =====
+19
+Formation of Attitude
+and Attitude Change7) How do stereotypes affect attitude development?
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+2.3 ATTITUDE CHANGE
+As pointed out  earlier attitudes are relatively permanent  meaning thereby that
+they are subject to change but slowly overtime. Psychologists claim that attitude
+change is of two types
+1) Congruent change and
+2) Incongruent change.
+When a favorable attitude becomes more favourable after an incident, it is congruent
+change. However, when attitude change is unfavourable that is direction of change
+is opposite of the already held attitude, it is called incongruent change. Two
+factors are important in attitude
+Change:
+ i) Other things being equal congruent change in attitude is easier to bring about
+than incongruent change.
+ii) If the strength, stability and consonance among the present elements of attitude
+is higher, then congruent change is easier to about than incongruent change.
+Psychologists have identified a number of factors that affect attitude change which
+are as:
+Changing reference group:    Psychologists found that change in reference group
+leads to change in attitude as well. In one of the experiments Newcomb (1950)
+found that a group of fresh entrants of girls were conservative as they were
+coming from a family of conservative parents. However, environment of the college
+promoted liberalism and one of the aims of college was to promote liberalism
+among students. In the last year of college it was found that girls had shifted from
+conservatism to liberalism.
+Changing group affiliations:  This has direct bearings on change in attitudes. It
+has been observed that when a person breaks ties with old group and joins new
+one, he readily adopts norms, values, opinions and beliefs of the new group.
+Therefore change in attitudes is also there. However, change in attitude or change
+in group affiliations depend on two things
+1) characteristics of group, and
+2) characteristics of membership in group.
+By characteristics of the group we mean norms, values and beliefs of the group.
+If the standards, norms, beliefs and values of new group are more attractive to
+
+
+===== PAGE 16 =====
+20
+Attitudes, Stereotypes,
+Prejudice and Discrimination
+the individual then the individual is likely to change his attitudes more readily.
+Similarly, characteristic of membership refers to the individual’s position in  the
+new group.  If new position in new group accord greater status and power and
+prestige , then the individual is more likely to change his attitude in the direction
+held by the group.
+For example, if a leader is  changing his affiliations from BJP to Congress Party,
+he may find  himself elevated to the level of national level, certainly he would
+change his attitudes more in favour of Congress and its policies.
+Additional information:   Change in attitude is also brought about by information
+received from means like Radio, Television, and Newspaper. The person also
+gets information through interaction with others. However, change in attitudes
+resulting from reception of additional information depends on the nature of social
+situation in which information is given. Psychologist have delineated three types of
+such social situations which are as follows:
+When the additional information is given in front of several people then when
+individual is alone, attitude change is faster and greater.
+When an individual publically accepts and declares his attitudes and beliefs, he
+commits himself to those attitudes and beliefs. Such public commitment brings
+about a sort of rigidity in his attitudinal stand and any additional information is
+likely to bring change in attitudes.  However, in a situation where the individual
+has not made public his attitudes and values i.e. his commitment is private not
+public.  Additional information will bring more change in attitudes because public
+is not aware of  the  individual’ s previous stand on the issue.
+It has been noted that attitude change if advocated through discussion method is
+more successful instead of lecture method. For example, in one of classical
+experiments in this regard it was aimed to bring attitudinal shift among housewives
+in favour of beef consumption as compared to other types of meat. One group
+of housewives was motivated to discuss the issue among themselves and arrived
+at unanimous conclusion that increased rate of beef consumption is beneficial for
+several reasons. Another group of housewives was not allowed to discuss the
+matter but was given a lecture by an expert on benefits of increased beef
+consumption.
+Later on it was found that 30 % of group of housewives who had discussed the
+matter and reached a unanimous resolution in favour of beef consumption actually
+registered a shift in their attitude toward beef consumption.
+However, only 3% of housewives subjected to lecture method changed their
+attitude.
+Persuasive Communication:   By persuasive communication we mean
+communication of such facts and information as are attractive and appealing to the
+listener and has direct bearing on the attitudes of the person.
+Change in attitude through persuasive communication depends on four factors:
+1) Source of communication
+2) Characteristics and content of communication
+
+
+===== PAGE 17 =====
+21
+Formation of Attitude
+and Attitude Change
+3) Channel of communication, and
+4) Characteristics of audience.
+By source of communication we mean the person who provides  information for
+attitude change. Studies reveal that  there are certain characteristics of source
+which are  effective in producing attitude change and these are:
+i) Credibility of the communicator
+ii) Attractiveness of the communicator
+iii) Content and characteristic of communication.
+Credibility of the communicator:   A person who is viewed as more trustworthy
+and expert in the issue on hand is likely to bring about more change in attitude.
+For example, in a study on two groups of students, one group was told that
+information given to them comes from a highly credible person who is an expert
+in the field and can be relied upon. But another group was told that information
+given comes from a person who is not expert in the field and can not be much
+relied upon. It was found that student receiving information from highly credible
+source registered greater change as compared to students receiving information
+from low credible source. Amazingly with the lapse of time source of information
+loses its relevance and only content of message is retained. Psychologists call it
+sleeper effect.
+Attractiveness of communicator: This also has its impact upon change of
+attitude. Attractiveness of communicator has two aspects:
+a) physical beauty, and
+b) similarity.
+When the communicator is highly beautiful change in attitude is more. For example,
+a beautiful heroine advocating use of a particular shampoo is more likely to bring
+change in attitude, than an ordinary looking woman.
+Perhaps this is the reason why most of advertisements have beautiful heroines and
+good looking men for  promoting the products of different companies. People are
+more influenced by people who are like them. Such people are considered to be
+one of them,  and  are less expected to deceive the person. For example in a
+study on Black students, message from black communicator was more effective
+than message from a white communicator.
+Content and characteristic of communication: There are three dimensions of
+content of communication which are note worthy, and these include (i) fear arousing
+appeal (ii) Organisation of communication (iii) ) Channel of communication .
+1) Fear arousing appeal
+When some information is aimed at arousing fear or negative emotions but at the
+same time it provides you with alternatives to reduce that fear, it has been found
+to be more effective. For example, statutory warning on cigarette packets that
+cigarette smoking is injurious to health, is an example of this type.
+
+
+===== PAGE 18 =====
+22
+Attitudes, Stereotypes,
+Prejudice and Discrimination
+2) Organisation of Communication
+Attitude change is affected by the way in which communication is organised and
+presented.
+The first issue in regard to organisation of communication is the effect of one-
+sided versus two-sided communication i.e. should a communicator present just
+the arguments in favour of the change of attitude in receiver or  should the
+arguments be presented with the counter arguments also?
+One other issue in regard to organisation of communication is whether the message
+should draw its own conclusion or it should be left to the audience.
+Another issue in organisation and presentation of communication centers over the
+primacy vs. recency  effect   that is, whether the   information presented first or
+information presented last is more effective.  Let us deal with these issues one by
+one.
+One-sided vs. Two-sided communication: In order to test the effectiveness of
+one-sided vs. two-sided arguments, social psychologists conducted an experiment
+to prepare Allied forces soldiers for a long protracted war against Japanese
+forces, after the surrender of German forces.
+In one presentation soldiers were presented with arguments that described toughness
+of Japanese soldiers, Japanese weapon system and resources and stockpiles of
+Japanese forces. In another presentation same arguments were presented but it
+also contained arguments for the possibility of a short duration war, like the earlier
+victories of Allied forces, the losses incurred by Japanese forces and lowered
+morale of Japanese commanders after the surrender of German forces.
+Results showed that
+i) None of the two types of communication was more effective than the other.
+However, one interesting fact that emerged was that one-sided communication
+was more effective with soldiers who were only high school pass and two-sided
+communication was more effective with graduate soldiers.
+ii) Secondly, initial stance taken by the soldiers also came out to be an important
+factor. Soldiers who originally expected the war to be short one, were more
+influenced by two-sided arguments while those who initially expected the war to
+be a long protracted one, were more influenced by one-sided communication.
+iii) Innoculating effect: one-sided and two-sided communications also differ in their
+ability to “inoculate” people against later counter propaganda. In an experiment
+two sided communication produced astonishing innocualtion  effect among people.
+In one experimental study two-sided communication was dramatically effective
+in inoculating  the audience. Different groups of  subjects who had heard argument
+that Russia would not be able to produce  atomic bomb for next five years were
+later exposed to counter communication.  They differed radically in their
+receptiveness to the   countercommunication, depending upon whether or not
+the initial message had been one-sided or  two sided. Only 2 percent of those
+who had initially been exposed to one- sided communication retained position
+advocated by that communication, where as 67 percent of those who had initially
+been exposed to a two-sided communication retained  its position inspite of
+counter communication.
+
+
+===== PAGE 19 =====
+23
+Formation of Attitude
+and Attitude Change
+Primacy versus Recency effect
+Whether the information provided first has more effect than the information
+presented later. When the earlier information is more effective it is known as
+primacy effect and when information presented later is more effective it is known
+as recency effect.
+Channel of communication: To what extent a communication will be effective
+depends on which channel of communication is being used. Different channels
+have differential effect on attitude change.
+Radio, television, newspaper etc. are example of mass media directed at
+communicating with the masses. Communication through mass media is impersonal
+in the sense that face to face interaction is lacking here. But when a communicator
+reaches out to audience in person he establishes personal contact with them. It
+has been found that personal contact more effective than mass media in producing
+attitude change.
+Psychologists found that attitude change is greater when an individual receives
+information through active participation than when he receives information through
+pamphlets or posters glued on walls.
+Characteristics of audience: Effectiveness of communication aimed at changing
+attitudes of audience is also dependent upon the characteristics of the audience
+receiving the message. It has been found that people who are high in self-esteem,
+self-confidence and are aggressive by nature are less likely to be affected by a
+communication to change attitude.
+Age has also been found to adversely affect change in attitude. Increase in age
+brings about rigidity and conservatism in thinking thus an aged person is less likely
+to be affected by persuasive communication.
+Enforced contact: One important factor in attitude change is enforced contact.
+By enforced contact we mean a social situation in which two opposing parties are
+compelled to interact with each other. For example, when an Indian and a Pakistani
+are compelled to live in the same room and share other things. It is presumed that
+such enforced contact allow people to understand each other in a better way
+through repeated exposure to each other. In such situation people receive first
+hand information about each other and has the opportunity to test the information
+received.
+2.4 LET US SUM UP
+In the preceding paragraphs we studied factors that go in to the development of
+attitudes. We now know that a number of factors like need satisfaction, social
+learning, group affiliations, personality factors and cultural factors contribute to the
+development of attitudes. Thereafter, we discussed the process of attitude change.
+We discussed the role of group reference, changing group affiliations, persuasive
+communication and personality factor in bringing about attitudinal change. In
+persuasive communication we discussed the role of characteristics of communicator
+and how these affect attitude change. Then we discussed importance of content
+of the message, its order of presentation and also channel of communication and
+characteristics of the audience receiving communication. Thus, now we fully and
+understand the process of attitude change.
+
+
+===== PAGE 20 =====
+24
+Attitudes, Stereotypes,
+Prejudice and Discrimination 2.5 UNIT END QUESTIONS
+1) Discuss in your own words factor of attitude formation.
+2) What is the role of persuasive communication in attitude change? Give suitable
+examples.
+3) Write an essay on process of attitude change.
+4) What is meant by Primacy and Recency effect and how do they bring about an
+attitude change?
+5) Discuss characteristics of audience and enforced contact as responsible for
+attitude change.
+2.6 SUGGESTED READINGS
+Baumeister, R. F., & Bushman, B. J. (2008). Social Psychology and Human
+Nature. Belmont, CA: Thomson/Wadsworth.
+Crisp, R. J., & Turner, R. N. (2010). Essential Social Psychology (2nd ed.).
+Thousand Oaks, CA: Sage Publications.
+
+
+===== PAGE 21 =====
+25
+Prejudice and Discriminaion
+UNIT 3 PREJUDICE AND
+DISCRIMINATION
+Structure
+3.0 Introduction
+3.1 Objectives
+3.2 Characteristics of Prejudice
+3.3 Types of Prejudice
+3.4 Discrimination
+3.5 Development and Maintenance of Prejudice and Discrimination
+3.6 Manifestation of Predudice
+3.7 Methods of Reducing Prejudice and Discrimination
+3.8 Let Us Sum Up
+3.9 Unit End Questions
+3.10 Suggested Readings
+3.0 INTRODUCTION
+Social Psychologists tried to define prejudice from different viewpoints. Some
+psychologists define prejudice as a preconceived irrational judgement, while others
+define it as an expression of dislike against members of some religion, race or
+group. However, majority of psychologists agree upon the definition given by
+Secord and Backman “Prejudice is an attitude that predisposes a person to think,
+perceive, feel and act in favourable and unfavourable ways towards a group or
+its individual members.” According to Baron & Byrne “Prejudice is generally a
+negative attitude towards the members of some social, ethnic or religious.” Prejudice
+be it negative or positive is decidedly an attitude and has all the three components
+of attitude i.e. affective, cognitive and behavioural. In this unit we will be discussing
+the definition of prejudice, characteristics of prejudice and types of prejudice.
+We will also be discussing discrimination as a process and how the prejudice and
+discrimination are developed and maintained.  Finally we try to see how one can
+reduce prejudice and discrimination.
+3.1 OBJECTIVES
+After reading this unit, you will be able to:
+l Define prejudice;
+l Describe the nature of prejudice;
+l Elucidate the characteristics of prejudice;
+l Explain  the nature of discrimination.
+l Anlyse the factors responsible for development and maintenance of prejudice
+and discrimination;
+
+
+===== PAGE 22 =====
+26
+Attitudes, Stereotypes,
+Prejudice and Discrimination
+l Explain how prejudice manifests itself in different ways; and
+l Elucidate the  methods of reducing prejudice.
+3.2 CHARACTERISTICS OF PREJUDICE
+Psychologists have identified following characteristics of prejudice:
+Prejudice is acquired:  Like attitude prejudice is acquired through the process
+of learning and socialisation. When born a child is like a blank slate and is free
+of any kind of prejudice. It is only when the process of socialisation begins that
+he starts imitating his parents and their likes and dislikes. Norms, values, customs,
+and traditions of the society of which he is member make him prejudiced toward
+members of other group. Acquisition of prejudice is facilitated by classical
+conditioning, instrumental and observational learning. A child learns to hate
+Pakistanis only because he sees significant others in the society hating pakistanis.
+Emotional overtones: Prejudice is always colored with emotions. It is either for
+or against some group, community or religion. If favourable,  the person would
+show too much affection, love, care and sympathy for members of another group.
+But if unfavourable the person would show  hatred, dislike and hostility.
+Prejudice is irrational: Prejudice does not lend itself to reason, wisdom, and
+relevance. The individual does not change his prejudice in the face of information
+and evidence to the contrary.
+Prejudice is functional: Prejudice helps the individual justify his hostilities,
+repressed desires and strengthen feelings of self-esteem and prestige. It helps
+individual justify his exploitation, discrimination of members of other group. For
+example, in Indian society the upper caste Hindus justified their exploitation of
+lower castes reasoning that they are like that only and deserve to be exploited and
+discriminated against.
+Prejudice has no connection with reality:  It is primarily based on hearsay,
+incomplete and wrong information, customs and traditions of the society. It can’t
+stand test of logic and reasoning.
+3.3 TYPES OF PREJUDICE
+Prejudices are of different types depending upon the social conditions of the
+individual. Sociologist and Psychologists delineate following main types of
+prejudices:
+Racial prejudice: This is aimed at members of another race. For example, Negros
+have been subject of racial prejudice at the hand of whites. Similarly, Jews were
+a target of prejudice by Nazis in Germany. Hitler went to the extent of exterminating
+at mass scale.
+Sex prejudice: This is  for centuries women have been target of prejudice. They
+have been thought of weak, dependent and intellectually less gifted than men.
+Caste prejudice: Indian social structure is the best example of such prejudice.
+Our society is divided into numerous castes and each caste is believed to have
+specific  characteristics.
+
+
+===== PAGE 23 =====
+27
+Prejudice and DiscriminaionLanguage prejudice: This  is often evident when we go to different parts of India.
+Particularly in South India it is very evident. People despise Hindi knowing fully
+well that it is our national language. They prefer to speak English but not Hindi
+even if they know Hindi. Infact organisation of states in India has been on linguistic
+basis.
+Religious prejudice : This  has been a burning problem in India since pre
+independence days. Creation of Pakistan was only because of religious differences.
+In religious prejudice individual holds positive attitude toward his own religion and
+unfavourable attitude toward other religion.  Consequently, misunderstandings and
+misconceptions about people of other religions crop up.
+Some other prejudices are political prejudice, communal prejudice etc.
+Self Assessment Questions
+1) What is prejudice?
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+2) Enumerate the characteristics of prejudice
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+3) What are the various tpes of prejudice?  Give suitable examples
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+3.4 DISCRIMINATION
+Discrimination is the differential treatment of individuals belonging to a particular
+social group or community or religion. It is generally the overt or behavioural
+expression of prejudice. Generally the person discriminated is denied some privilege
+or right that is accorded to other members of society who do not belong to the
+minority group.
+According to the exchange theory when the reward-cost outcomes of two
+separately bounded groups are perceived to be mutually exclusive, so that each
+group can increase its gains only at the cost of other, members of each group try
+to protect or increase their outcomes. If the two groups are unequal in power,
+they will establish different outcomes unless prevented by norms that restrain
+
+
+===== PAGE 24 =====
+28
+Attitudes, Stereotypes,
+Prejudice and Discrimination
+exploitation of the weaker by the more powerful. These different outcomes create
+differences in the status of the two groups.
+The extent to which the members of the minority group feel discriminated against
+and dislike or feel hostile toward the majority group is a function of the relation
+between their comparison level and that of the majority group. If the minority
+group has the same comparison level as the majority group, it will feel dissatisfied
+and hostile. But if comparison is sufficiently low relative to majority group no
+adverse feelings would occur.
+However, ‘minority groups’  use of comparison level relative to majority group
+depends upon past experiences, the outcomes available in alternative relations,
+and structural and cultural factors. For example, in Indian society lower caste
+people were not allowed to take water from wells reserved for people of upper
+castes. They were not supposed to sit before people of upper castes and there
+were many more restrictions imposed upon them simply because they were born
+in shudra castes.
+Sometimes discrimination occurs without the accompanying feeling of prejudice.
+For example, a proprietor may refuse to accept as patrons members of a minority
+group because he feels it would injure his business. He may not be prejudiced
+towards those people but he gives priority to his business.
+3.5 DEVELOPMENT AND MAINTENANCE
+OF PREJUDICE AND DISCRIMINATION
+Psychologists have categorised the causal and maintenance factors of prejudice
+as given below:
+Status and Power structures: The structure of relations between two groups in
+terms of relative status and power sometimes gives rise to prejudice. For example,
+where a dominant group holds another group in a condition of slavery, slaves are
+likely to be considered lazy, irresponsible and lacking in initiative. These beliefs
+emerge from the fact that slaves act upon orders from their masters and not given
+an opportunity to demonstrate initiative or responsibility. Thus the beliefs about
+them are consonant with their behaviour, which is controlled by structure of
+relations.
+Historical facts: Prejudice and discrimination develop out of history of economic
+conflict as well as from political power distribution among groups of people .
+Historical incidents led to the development of attitude which slowly takes form of
+prejudice. In our society prejudice against women is one such example. Women
+have always been considered weak, dependant and tools such prejudice developed
+out of atrocities perpetrated over women and they kept tolerating them thinking
+it to be their duty.
+Similarly some professions have historically been thought to be fit for men than
+women. For example, truck driving has never been considered fit for women,
+Women in this profession and other such professions are looked down upon.
+Another example of historical reason of prejudice comes from prejudice against
+Jews. An image of Jews as rich, grasping, and shrewd grew out of their
+occupational roles as money lenders. The church prohibited Christians from lending
+
+
+===== PAGE 25 =====
+29
+Prejudice and Discriminaionmoney at interest, but did permit them to borrow from Jews. Thus the jews
+became bankers when this occupation was extremely profitable, and the cognitive
+image commensurate with the role became firmly established. Besides competitive
+circumstances produced negative effect against Jews.
+Situational Factors: The number of situational factors in the immediate environment
+of the individual also lead to development of prejudice:
+Social learning: Every individual during the process of socialisation learns and
+acquires beliefs, values and attitudes through parents, school, religion and church.
+These agents of socialisation invariably transmit prejudices held by them to the
+child. Besides childrearing practices adopted by parents have been shown to help
+develop prejudice and discrimination.
+Job Competition: Scarcity of job avenues and abundance of applicants is one
+important economic factor for development of prejudice. It led to the emergence
+of sons of soil theory. For example, the Marathi movement against North Indians
+in Mumbai and other parts of Maharashtra has one of its reasons based in
+economic factors. North Indians coming to Mumbai are ready to work for longer
+hours and that too at cheaper wages as against Local people. They have gradually
+outplace local people in patty and traditional jobs thus rendering many of people
+jobless and fending for struggle to survive. It has led them to believe that north
+Indians are responsible for their plight and are replacing them in their own home.
+Such beliefs lead to development prejudice against North Indians.
+Conformity to Norms: Once prejudice and discrimination against  outgroup are
+well established, the accompanying cognitions and feelings concerning the out
+group acquire a normative quality. They are shared by members of the ingroup
+and the members expect each other to hold such attitudes. The factors underlying
+conformity to the norms of prejudice may be explained in terms of the varying
+reward-cost outcomes ensuing from conformity or nonconformity. If prejudice
+and discrimination against other group is the norm, then overt expression of
+prejudice and discrimination will receive approval from other members of the
+group.
+Interaction Patterns: Prejudice and discrimination create certain interaction patterns
+that contribute to maintenance of the status quo. Several interaction patterns
+increase cohesion and thus strengthen the power of the group to enforce conformity
+to norms of prejudice and discrimination. Any factor that makes members more
+dependent on the group is likely to increase cohesion. Interaction pattern within
+the ingroup may also increase the economic dependence of members upon each
+other. Finally, if interaction within each group predominates over interaction across
+group lines, the development of patterns of thinking, feeling and behaving unique
+to each group is fostered. Such interaction patterns increase the cultural gulf that
+separates the two group.
+Psychodynamic factors: Researches reveal that a number of psychological factors
+also give rise to prejudice.
+Frustration and Aggression:  Frustration also gives rise to prejudice.  The
+underlying theory in it is displaced aggression. According to this theory when
+individual finds some obstacle between him and his goal he gets frustrated and
+becomes aggressive toward the obstacle. Since the interfering agent is stronger
+and powerful and has the power to punish him this frustration and aggression is
+
+
+===== PAGE 26 =====
+30
+Attitudes, Stereotypes,
+Prejudice and Discrimination
+displaced toward some weaker object. Thus, the weak person or group becomes
+scapegoat.
+Authoritarian Personality: Among psychological factors of prejudice authoritarian
+personality has received much attention from psychologists. People with authoritarian
+personality exhibit rigid thinking, punitive tendency. These tendencies predispose
+individual toward prejudice. Besides these people value people on the scale of
+power, people above them in the power scale are attributed all good characteristics,
+and people below them on power scale are treated as inferior and deserve to be
+exploited and hated.
+Personality needs: A variety of personality needs may support prejudice and
+discrimination. One such need is “intolerance for ambiguity”. Persons differ in the
+extent to which they are disturbed by confusing or ambiguous situations. Some
+persons like to have everything in black and white i.e. they are unable to tolerate
+least uncertainty or complexity in situation while some persons are least disturbed
+by confusing or uncertain situations. In general it has been found that individuals
+who are more intolerant of ambiguity are also likely to be more prejudiced
+because prejudice for them serves to clarify ambiguity and uncertainty embedded
+in the situation. Similarly, a need to achieve superior status may be supported by
+prejudice, which provides a group of persons lower in status than oneself. The
+need for security may be satisfied through rejection of  outgroup.
+Self Assessment Questions
+1) What is discrimination?
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+2) Delineate the causes for discrimination.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+3) Present the theoretical approaches in regard to maintenance factor of
+prejudice.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+
+
+===== PAGE 27 =====
+31
+Prejudice and Discriminaion4) Discuss the causal and maintenance factors of prejudice.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+5) What are situational factors that lead to the development of prejudice and
+discrimination.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+3.6 MANIFESTATION OF PREJUDICE
+As we know that a prejudice is a negative attitude directed toward some member
+of a particular group. An attitude is a hypothetical construct observable only
+through the behaviour of a person. A prejudice manifests itself through the following
+modes of behaviour:
+Withdrawal: It means moving from the object of prejudice. For example, a
+person is prejudiced against jews. He goes to a party and fids that some jews
+have been invited to that party. Now instead of making jews leave that party he
+decides to move away from that party.
+Avoidance: Keeping away from the social situation where the object of prejudice
+may be present. For example, the person who is prejudiced against jews and
+hates them, comes to know before-hand that some of the invitees at the party are
+jews. In that condition he may decide to not to join that party. Thus he is able
+to avoid a situation where he might have to interact with object of prejudice.
+Discrimination:  It involves biased behaviour against the object person of
+prejudice. For example, a teacher who is prejudiced against a particular community
+may fail students belonging to that community. He may not select students of
+particular community for school team, although the students in question deserve
+and merit selection against all criteria.
+Lynching: It  involves behaviour aimed at causing physical hurt or injury to the
+object person of prejudice. For example, the teacher in above example may go
+to the extent of actually subjecting students of a particular community to physical
+punishment without any reasonable ground.
+Extermination:  It is an  extreme form of manifestation of prejudice. It is aimed
+at removing the existence of the object person of prejudice. For example, in the
+Second World War, Hitler, the then Chancellor of Germany, ordered mass
+extermination of jews. Millions of Jews were massacred at the orders of Hitler.
+Hitler believed himself to be Aryan and he aimed to cleanse Germany of Non-
+Aryans.
+
+
+===== PAGE 28 =====
+32
+Attitudes, Stereotypes,
+Prejudice and Discrimination 3.7 METHODS OF REDUCING PREJUDICE
+AND DISCRIMINATION
+Social psychologists have suggested a number of methods for reducing prejudice
+which as follow:
+Intergroup Contact: Allport was the first psychologist to realise the importance
+of intergroup contact in between prejudiced person and the target person. Such
+interactional situations provide the two parties an opportunity to know each other
+from close quarters and understand each other thereby reducing misunderstandings
+and misconceptions. However, for intergroup contact to be effective certain
+conditions are to be met.
+Intergroup contact is an effective method of reducing prejudice only in those
+conditions where both the parties have equal status.
+For this technique to be effective contact between the prejudiced person and
+target person ought to be intimate and not superficial. Intimate and honest contact
+between the concerned parties motivates the person to perceive members of
+target group more as humans than as stereotypes.
+Intergroup contact method is more successful in situations where the success of
+both parties is dependent on each other i.e. when a common goal is to be
+achieved. In such situation both parties are forced to understand each other in a
+better manner.
+Education: Social psychologists emphasise that appropriate education has
+important role to play in reduction of prejudice, particularly racial prejudice. In it
+both informal and formal education are important. As far as informal education is
+concerned parents ought to be encouraged not to indulge before children in things
+which knowingly or unknowingly promote prejudice.
+As for formal education, its syllabus and curriculum should be designed to promote
+harmony between different sections of society. It should aim at developing healthy
+minds. It has been found that higher and better formal education leads to decreased
+prejudice and increased liberalism.
+Recently,   psychologists have devised a new method called cultural assimilator.
+In this method a group of prejudice persons is explained about traditions, norms,
+beliefs and value system of people of other communities and races so that they
+can appreciate those communities and races in the light of recent information. A
+number of social psychologists have successfully used this method.
+Antiprejudice  propaganda: Through mass media it has also been helpful in
+reducing prejudice. In one of the studies it was found that films and documentaries
+aimed at reducing prejudice have been successful in reducing prejudice upto 60
+percent. Some other psychologists have reported antiprejudice propaganda to be
+more effective than formal education.
+Incongruent role: It has been found that when a person is made to play a role
+contrary to his prejudice it leads to reduction in prejudice after some time. It
+happens because playing such role creates dissonance in the individual. This
+dissonance gives rise to tension compelling the individual to change his prejudice
+
+
+===== PAGE 29 =====
+33
+Prejudice and Discriminaionand restore balance between his behaviour and attitude. The person can’t change
+his behaviour as it is public but his prejudice. For example, if a person prejudiced
+against a particular community is entrusted the task of welfare of that community,
+he is left with no alternative but change his prejudice because he is not able to
+change his role.
+Social legislation: This is another method of reducing prejudice. Government in
+different countries have adopted and enacted several legislations which prohibit
+expression of prejudice in any form. Any public manifestation of prejudice is
+unlawful and liable to punishment. Let us take the example of our own country.
+Our constitution states that state shall not make any discrimination on the basis
+of caste, creed, sex, and religion of the individual and no person shall be allowed
+to do so. Consequently, today we don’t mind a harijan sitting beside us and
+offering prayer in the temple. Government even encourages people for intercaste
+marriages. Persons belonging to deprived communities or castes have been
+provided reservation in jobs.
+Personality change techniques: This is for prejudice reduction to be effective
+a person must have balanced personality and open mind. However in cases
+where prejudice is an integral part of personality it becomes imperative to seek
+help of therapeutic treatment. A number of psychotherapies have been developed
+to help such persons. For example, Play therapy is an important tool for detecting
+prejudice at early stage and to bring reformation in personality of children.
+Self Assessment Questions
+1) How do prejudice and discrimination manifest themselves?
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+2) How can social legislation reduce prejudice and discrimination
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+3) What are the personality change techniques that could reduce prejudice and
+discrimination?
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+
+
+===== PAGE 30 =====
+34
+Attitudes, Stereotypes,
+Prejudice and Discrimination 3.8 LET US SUM UP
+In this unit we studied prejudice and its nature. What are the different types of
+prejudices and what havoc they play with society and individual. We also studied
+characteristics of prejudice. Then we studied discrimination, what does it mean
+and we also discussed prejudice and discrimination. It was followed by a detailed
+discussion on the causes of development and maintenance of prejudice. We
+studied manifestation of prejudice. In the last we discussed methods of reducing
+prejudice.
+3.9 UNIT END QUESTIONS
+1) What do you understand by the term prejudice? What are the different types of
+prejudice?
+2) What do you understand by the term discrimination? What are the different
+forms of prejudice manifestation?
+3) Write an essay on factors of development and maintenance of discrimination
+and prejudice.
+4) Discuss the psychological factors that give rise to prejudice and discrimination
+5) Explain how authoritarian personality and personality needs contribute to the
+development of prejudice and discrimination?
+3.10 SUGGESTED READINGS
+Aronson, E., Wilson, T. D., & Akert, R. M. (2010). Social Psychology (7th
+ed.). Upper Saddle River, NJ: Prentice Hall.
+Crisp, R. J., & Turner, R. N. (2010). Essential Social Psychology (2nd ed.).
+Thousand Oaks, CA: Sage Publications.
+
+
+===== PAGE 31 =====
+35
+Social Conflict and
+Its ResolutionUNIT 4 SOCIAL CONFLICT AND ITS
+RESOLUTION
+Structure
+4.0 Introduction
+4.1 Objectives
+4.2 Nature of Social Conflict
+4.3 Forms of Social Conflict
+4.3.1 Overt Conflict
+4.3.2 Obj ective Conflict
+4.3.3 Subjective Conflict
+4.4 Methods of Conflict Resolution
+4.5 Blake and Mouton Strategies
+4.6 Two Dimensional Model
+4.7 Group Conflict in Indian Society
+4.8 Let Us Sum Up
+4.9 Unit End Questions
+4.10 Suggested Readings
+4.0 INTRODUCTION
+Any society be it Indian, British, American or Japanese is composed of different
+institutions and groups of people. These groups constituting the society have their
+own distinct identity. Besides, these groups have their own agenda to pursue.
+Further no nation or society has resources to meet the demands of all groups and
+stay in harmony. Consequently these groups while pursuing their goals often find
+themselves at logger heads to exploit scarce resources and maximise their gains
+or outcomes. Thus a social situation develops where different groups constituting
+the society are opposing each other to promote their own interest at the cost of
+others. This social phenomenon is termed social conflict or group conflict by
+sociologists, Psychologist and Anthropologists. Social conflict is also evident when
+one social group compares its gains and feels that it is being marginalised by other
+groups or when it perceives that it is being deprived of what is duly available to
+other groups in the society. In this unit we will be dealing with nature and definition
+of social conflict , the types and forms of social conflict the methods of resolution
+of the conflicts and we will be presenting the group conflict in Indian society.
+4.1 OBJECTIVES
+On completing this unit you, will be able to:
+l Define and describe social conflict;
+l Explain in your own words different types of social conflict;
+l Analyse the  implications of social conflict on the lives of people;
+
+
+===== PAGE 32 =====
+36
+Attitudes, Stereotypes,
+Prejudice and Discrimination
+l Describe the different methods of conflict resolution; and
+l Analyse the  different types of social conflict affecting  Indian society.
+4.2 NATURE OF SOCIAL CONFLICT
+Social conflict or group conflict occurs when two or more actors oppose each
+one another in social interaction, reciprocally exerting social power in an effort to
+attain scarce or incompatible goals and prevent the opponent from attaining them.
+Group conflict or social conflict is a social relationship wherein the action is
+oriented intentionally for carrying out the actor’s own will against the resistance
+of other party or parties.
+If we analyse the above definitions following conclusions can be drawn:
+Social conflict revolves around social power. In almost all kinds of social conflict
+struggle to get hold of power is central. Access to power or hold over power
+ensures a groups success in attaining its goal. Consequently the powerful group
+wins and the weaker one loses the competition. For example, the recent Gurjar
+movement in Rajasthan to get entry into scheduled tribes club was thwarted by
+Meenas, another tribe of Rajasthan.
+This could be possible only because Meenas have proliferated in highest services
+of India and today they enjoy tremendous political, bureaucratic, and economic
+clout. This access to power has made them formidable. Therefore, they successfully
+thwarted Gurjars attempt to share tribal status with and take a part of the cake
+of reservation from them.
+Social conflict involves incompatibility in the sense that in social conflict some
+people are able to get what they want while others fail to get what they want.
+Thus for some their want remains an unfulfilled desire and they keep seething with
+discontent. This incompatibility once created develops into a vicious cycle which
+broken only when some strong social reform movement takes place.
+For example, for centuries people  belonging to Harijan community were being
+maltreated by the so called upper class Hindus. They could raise their voice
+against it only when people like Mahatma Gandhi, Raja Ram Mohan Roy, Jyotiba
+Phule took cudgel against it and it converted into a movement of self-respect for
+Harijans that it was realised that these people need to be given fair treatment.
+Even then only a small dent could be made in the existing situation.
+Mostly social situations are such that not all individuals in it have similar or
+identical interests. Every person participating in social interaction tries to maximise
+his gain at the expense of other person involved. This situation invariably leads to
+struggle to win and keeping others from goal. However, it is impossible to find
+a social situation which can be described as pure group conflict like struggle
+between two warring teams of football. In most social conflict situations element
+of cooperation is intertwined along with competition.
+4.3 FORMS OF SOCIAL CONFLICT
+A social conflict may take different forms and manifest itself in different manners.
+However, psychologists have identified three different forms of social conflict
+which as follow:
+
+
+===== PAGE 33 =====
+37
+Social Conflict and
+Its Resolution
+4.3.1 Overt Conflict
+In this form social conflict is open and explicit. Competition between both the
+parties is fierce and direct. For example, negotiation between management
+representatives and labour union or war between two countries. A more simple
+example of it is debate, in which one speaker emphasises and justifies his own
+point while questioning the validity of opponents point of view. The explicit aim
+is to defeat the opponent and ensure ones victory.
+4.3.2 Objective Conflict
+Objective conflict occurs when one group tries to gain advantage over another
+group or groups. Thus by objective social conflict we mean a social situation
+inherently benefits some while causing loss to others. For example, it is often seen
+that when government takes some welfare steps, some people are more benefitted
+but some others receive less than expected benefits and still some others are at
+loss. This gives rise to a kind of social conflict known as objective social conflict.
+Let us take the case reservation in jobs. OBC were given a quota of 27 % in
+Government  jobs and this category included in it numerous castes. However,
+only a few of the dominant castes in OBC category— Jats, Ahir, Kurmy and
+Kumawat— were able to garner majority of the share in OBC quota and other
+castes like Gurjar, Luhars etc. could not reap much benefit.   Result was that
+slowly members of these castes started feeling left out and began to clammer for
+a separate quota for them. Recent Gurjar movement for inclusion in the scheduled
+tribe category was a result of such objective conflict because Gurjars were not
+able to compete with Jats and Ahirs in the OBC category and could not obtain
+equal benefit.
+4.3.3 Subjective Conflict
+When a person identifies or perceives a situation involving struggle it is known as
+subjective conflict. Sometimes a person remains in a state of subjective struggle
+without bringing it to overt level.
+Self Assessment Questions
+1) Define  the Nature of social conflict.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+2) Describe the nature of social conflict.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+
+
+===== PAGE 34 =====
+38
+Attitudes, Stereotypes,
+Prejudice and Discrimination 3) What are the forms of social conflict ?
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+4) Describe overt conflict
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+5) How is objective conflict different from subjective conflict?
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+4.4 METHODS OF CONFLICT RESOLUTION
+Like any other problem Social psychologists have developed number of approaches
+for resolution of social conflict. Some of the main methods as follow:
+Mutually beneficial goal:  A common approach to ameliorate social conflict is
+to establish mutually beneficial goals. Such goals prompt the warring parties to
+work in close cooperation and help reduce feelings of group struggle. In a classical
+experiment Sheriff and Sherif put two groups in a social situation which involved
+competition between the two parties. It was observed that very soon they
+developed feelings of animosity and competition. Things reached to a level where
+both parties raided each other’s camps to hurt and damage their prospects of
+attaining goal. In the next phase of the experiment both the warring parties were
+put in a situation which called for joint efforts to reach the goal. Since neither of
+them had sufficient resources to attain goal on their own, they were left with no
+alternative but to help each other to surmount problems faced by them. Not
+longer than before it was observed that members of both parties began trying to
+understand each other’s concerns. They started seeing members of opposite
+group very often and appreciated each other’s approach to handle problems.
+Thus by the end of the experiment both the groups had developed better
+understanding of each other and there was a marked reduction in feeling of
+conflict.
+Compromise: Reaching a compromise between the two parties also leads to
+reduction of struggle. Compromise is a situation where no party stands to gain or
+lose anything. Thus it gradually leads to reduction in struggle. For example, when
+Gurjars in Rajasthan pressurised the government for inclusion into scheduled
+tribes, the Meenas vehemently opposed their demand since they have been the
+
+
+===== PAGE 35 =====
+39
+Social Conflict and
+Its Resolution
+biggest gainer in Rajasthan. This conflict led to open war between them and
+resulted in many casualties and bloodshed. Now that location of both communities
+is such that they are found living side by side almost all over Rajasthan, they soon
+realised the futility of opposing each other. A compromise was struck between the
+two and an understanding was arrived at under which gurjars dropped their
+demand for inclusion into scheduled tribe but asked for a separate quota for
+themselves and Meenas agreed to support Gurjars demand. Thus under the new
+agreement both parties stood to gain or lose nothing at the cost of each other.
+Developing special norms: Conflict between two warring factions or groups
+may be reduced through development of special norms. For example, in a game,
+the question of who will take first turn may be settled by leaving it to the umpire.
+Thus the bone of contention is removed and thereby the cause of conflict is
+removed. Psychologists have delineated social conditions, on the basis of studies,
+where conflict and struggle  can be handled through developing special norms.
+According to them social conditions where in both the parties have the ability and
+will to influence each other lend themselves to such interventions. This technique
+has reportedly been successfully used in a number of situations with different
+communities.
+Prosocial behavior: By prosocial behaviour we mean behavior that creates
+some kind of positive social influence among others. For example, giving charity,
+working for the welfare of others, helping others in distress are some of the forms
+of prosocial behaviour. Studies reveal that when members of a community engage
+in some kind of prosocial behaviour toward members of other community it has
+direct impact on their perception and opinion about them and results significantly
+in the reduction of feelings of conflict and struggle.
+Psychologists observed that when an individual engages in prosocial behaviour,
+that is  when a person is involved in helping a person in distress, the person
+passes through four stages:
+1) First, the individual takes stock of the seriousness of the condition or situation in
+which help is to be given.
+2) Second, the individual takes responsibility for the helping another person.
+3) Third, the individual enters a state where he wishes to help the person in distress
+and
+4) Finally the person  recognises the fact that the individual  is capable of helping
+another person.
+Use of scientific approaches: Social psychologists suggested some scientific
+approaches for reduction of group conflict, which is as follows:
+a) Win-Lose approach  b) Lose-Lose approach   c) Lose-Win approach. Let us
+dewscrfibe these approaches:
+Win-Lose approach – In this type of approach one party or group adopts
+different methods, means and approaches aimed at ensuring defeat of opponent
+party and victory for themselves. In other words, one group tries to thwart
+another group from reaching the target or goal  so that they can reach the goal.
+This approach has two underlying assumptions:  that is (i) conflict among people
+
+
+===== PAGE 36 =====
+40
+Attitudes, Stereotypes,
+Prejudice and Discrimination
+is inevitable and unanimity is impossible.   (ii) gain of one party results is loss for
+the other party .  In other words, only one party can win or reach the goal and
+another party is bound to fail in the process.   In such situations, conflicts do arise.
+Now that conflict is inevitable  and there can only be one winner, the best
+technique or approach is leaving no stone unturned to ensure defeat of opponents
+and victory for self.
+Success can be achieved using socially acceptable means like exercising our
+democratic rights and also to some extent by using subversive methods like
+threatening the opponents of dire consequences, making opponent  allies cross
+over the fence by luring them with different types of benefits  or even taking
+recourse to unlawful activities as advocated. Thus in nutshell this approach
+advocates putting in exercise the age old aphorism that every thing is fair in love
+and war. It is the end that matters the most and not the means employed to
+achieve the end.
+Lose-Lose approach – This approach is called lose-lose approach because
+none of the parties involved in the struggle stand to gain much and are not able
+to cause what they wanted to happen. Underlying assumptions of this approach
+are:
+i) Some thing is better than nothing.
+ii) It is better to stay away from struggle than indulging in it and wasting resources.
+iii) When groups reconcile with each other after initial bouts of struggle the lose-
+lose approach is exemplified.
+iv) Another characteristic of this approach is that it results in quick solution of the
+problem and values and motives of individuals do not find place.
+Win-Win approach: This approach is different from the above  two approaches
+mentioned earlier.  This is considered ideal for reduction of struggle between
+warring groups. It involves both parties resorting to different types of cooperative
+measures and techniques to arrive at a conscious solution of the struggle so that
+all the concerned parties are benefitted to the maximum.
+Underlying assumption in this approach is that it considers struggle as a mutual
+problem which can be solved amicably. It lays emphasis on the difficulties and
+problems of both parties and not on the means of ensuring victory. Both parties
+sit together and work on the solution of the problem and whosoever reaches the
+solution first acquaints the other party. Thus the solution arrived at is acceptable
+to all concerned. However successful application of this approach requires skill
+in human relations otherwise it is difficult to achieve success using this approach.
+Self Assessment Questions
+1) What is meant by mutually beneficial goal?
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+
+
+===== PAGE 37 =====
+41
+Social Conflict and
+Its Resolution2) Define and describe “compromising” as a conflict resolution strategy.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+3) What type of special norms will you develop for conflict resolution?
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+4) Can pro social behavior be used for resolution of conflict?  Explain
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+5) What are the various  scientific approaches for reducing conflict?
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+4.5 BLAKE AND MOUTON STRATEGIES
+Blake & Mouton on the basis of their research stated that people adopt one of
+the following five strategies for reduction of conflict and struggle which are given
+below:
+Withdrawing: In this  the person resolves the problem by stepping back from the
+situation of struggle (lose-lose approach).
+Smoothing: This  comprises of putting emphasis on points of common interests
+and avoiding discussion on matters of debate or controversy. Thus this approach
+tries to minimize differences between the two warring factions (lose-lose approach).
+Compromising: This strategy  seeks to decrease differences through discussion
+(lose-lose approach).
+Forcing: This approach is an   all or none approach in that it takes a competitive
+stand. It is this way or that way approach (win-lose approach).
+Confrontation and problem solving: Both parties openly discuss all matters and
+the best mutually acceptable solution is accepted (win-win approach)
+
+
+===== PAGE 38 =====
+42
+Attitudes, Stereotypes,
+Prejudice and Discrimination 4.6 TWO DIMENSIONAL MODEL
+This model presumes that all sorts of conflict handling behaviour can be understood
+in terms of two dimensions i.e. assertiveness and cooperation.  These two basic
+dimensions of behaviour define five different modes for responding to conflict
+situations:
+Competing is assertive and uncooperative—an individual pursues his own concerns
+at the other person’s expense. This is a power-oriented mode in which you use
+whatever power seems appropriate to win your own position—your ability to
+argue, your rank, or economic sanctions. Competing means “standing up for your
+rights,” defending a position which you believe is correct, or simply trying to win.
+Accommodating is unassertive and cooperative—the complete opposite of
+competing. When accommodating, the individual neglects his own concerns to
+satisfy the concerns of the other person; there is an element of self-sacrifice in this
+mode. Accommodating might take the form of selfless generosity or charity, obeying
+another person’s order when you would prefer not to, or yielding to another’s
+point of view.
+Avoiding is unassertive and uncooperative—the person neither pursues his own
+concerns nor those of the other individual. Thus he does not deal with the conflict.
+Avoiding might take the form of diplomatically sidestepping an issue, postponing
+an issue until a better time, or simply withdrawing from a threatening situation.
+Collaborating is both assertive and cooperative—the complete opposite of
+avoiding. Collaborating involves an attempt to work with others to find some
+solution that fully satisfies their concerns. It means digging into an issue to pinpoint
+the underlying needs and wants of the two individuals. Collaborating between two
+persons might take the form of exploring a disagreement to learn from each
+other’s insights or trying to find a creative solution to an interpersonal problem.
+Compromising is moderate in both assertiveness and cooperativeness. The
+objective is to find some expedient, mutually acceptable solution that partially
+satisfies both parties. It falls intermediate between competing and accommodating.
+Compromising gives up more than competing but less than accommodating.
+Likewise, it addresses an issue more directly than avoiding, but does not explore
+it in as much depth as collaborating. In some situations, compromising might mean
+splitting the difference between the two positions, exchanging concessions, or
+seeking a quick middle-ground solution.
+Each of us is capable of using all five conflict-handling modes. None of us can
+be characterised as having a single style of dealing with conflict. But certain
+people use some modes better than others and, therefore, tend to rely on those
+modes more heavily than others—whether because of temperament or practice.
+Third party intervention Another way of resolving group conflict is to seek
+mediation of an arbitrator or third party. This third party tries to arrive at a
+solution keeping in view the characteristics of the warring factions. Solution generated
+by the third party is binding on all the concerned parties. A good feature of this
+type of resolution is that the third party does not enforce a decision but the
+decision is arrived at through open discussion and negotiation over points of
+problems. However, this approach requires third party to be very mature and
+adept at human relations.
+
+
+===== PAGE 39 =====
+43
+Social Conflict and
+Its ResolutionSelf Assessment  Questions
+1) Describe in detail what Blake and Mouton strategies involve in conflict
+resolution?
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+2) Discuss the two dimensional model in conflict resolution.
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+3) What is meant by third party intervention and how does it help in resolving
+the conflict?
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................
+4.7 GROUP CONFLICT IN INDIAN SOCIETY
+Tribal problems  In Indian society tribal groups have a special place. They
+represent minority communities and always emphasise on keeping their independent
+existence. These tribes think that assimilation with majority population would
+jeopardize their separate identity. Formation of state of Jharkhand out of Bihar
+exemplifies this attitude of tribals.
+Caste conflict India is conglomeration of castes which can broadly be divided
+into three categories, that is the  forward castes, backward castes and scheduled
+castes and tribes. These castes always show an inclination to outsmart each other.
+Communal problems  Since independence India has been plagued with communal
+problem between Hindus and Muslims. This has witnessed innumerable bloody
+riots between the people of two religions and cost thousands of innocent lives and
+millions of dollars worth property.
+Demolition of Babri Masjid is a blatant example of conflict between these two
+communities.
+Other social conflict problems are— labour management problems, student
+problems, landlord-tenant problem, confrontation between advantaged and
+disadvantaged class, language problem and job problem etc.
+
+
+===== PAGE 40 =====
+44
+Attitudes, Stereotypes,
+Prejudice and Discrimination 4.8 LET US SUM UP
+In this unit we studied the nature of social conflict. We tried to understand various
+elements involved in it. We also studied different types of social conflict and their
+implications on the life of people in the society. This was followed by a detailed
+discussion on methods of conflict resolution. Now we understand different
+approaches taken to resolve social conflict and the rationale behind them.
+4.9 UNIT END QUESTONS
+1) Discuss social conflict and various forms of social conflict in detail.
+2) Throw light on various approaches to conflict resolution.
+3) Discuss in detail different types social conflict that plague India and suggest
+approaches for their resolution.
+4.10 SUGGESTED READINGS
+Arrow, Kenneth J.(1995). Barriers to Conflict Resolution. W.W. Norton. NY
+Burton, John W. and Frank Dukes.(1990).  Conflict: Readings in Management
+and Resolution. St. Martin’s Press. NY

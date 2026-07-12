@@ -1,0 +1,653 @@
+
+
+===== PAGE 1 =====
+40
+Personality: Theories and
+Assessment UNIT 3 ASSESSMENT OF PERSONALITY
+Structure
+3.0 Introduction
+3.1 Objectives
+3.2 Needs and Aims of Assessment
+3.3 Methods of Personality Assessment
+3.3.1 Interviews
+3.3.2 Projective Techniques
+3.3.3 Classification of Projective Techniques
+3.3.4 Association Technique
+3.4 Ink Blot Technique
+3.4.1 Construction Technique
+3.4.2 Completion Technique
+3.4.3 Expressive Techniques
+3.4.4 The Rorschach Inkblot Technique
+3.4.5 The Holtzman Inkblot Test
+3.4.6 The TAT
+3.4.7 The Sentence Completion Tests
+3.4.8 Limitations of the Projective Tests
+3.5 Behavioural Assessment
+3.5.1 Limitations of Behavioural Assessment
+3.6 Personality Inventories
+3.6.1 The Mmpi – 2
+3.6.2 Limitations of Personality Inventories
+3.7 Let Us Sum Up
+3.8 Unit End Questions
+3.9 Glossary
+3.10 Suggested Readings and References
+3.0 INTRODUCTION
+Personality assessment refers to the estimation of one’s personality make up,
+that is the person’s characteristic behaviour patterns and salient and stable
+characteristics. As there are different theoretical accounts of personality, and the
+question is how do people find out what kind of personality they have? The
+methods of estimating or measuring or assessing personality vary according to
+the theory of personality used to develop those methods.
+However, most of the psychological professionals doing personality assessment
+do not necessarily tie themselves to one theoretical view point only, rather they
+prefer to take an eclectic view of personality. The eclectic view is a way of
+choosing the parts of different theories that seem to best fit a particular situation,
+rather than using only me theory to explain a phenomenon.
+In fact, looking at behaviour from different perspectives can often bring insights
+into a person’s behaviour that would not easily come from taking only one
+
+===== PAGE 2 =====
+41
+Assessment of Personalityperspective (Ciccarelli and Meyer, 2006). Therefore, many of the professional
+doing personality assessment use different perspectives and also take on different
+techniques for its assessment.
+It is also important to note here that personality assessment may also differ with
+respect to the purposes for which its is done. For example, if the purpose is self-
+understanding, the person may select different tests/inventories, if the purpose is
+to classify person’s as per their personality traits a different set of tests may be
+useful. Finally, if the purpose is diagnostic (clinical psychologist, counselors
+etc.) an entirely different set of tests may be more useful.
+There are several tests/inventories which are available for the assessment of
+personality. Broadly, these can be grasped into one of the three categories. These
+are the subjective, objective and projective methods. The subjective approach
+incorporates the assessment of one’s personality taking his/her work into account
+e.g. what he or she had done throughout his/her life. It may also consider his/her
+autobiographical accounts and biographies etc. But there is a major limitation of
+it that there are possibilities that the person may exaggerate his/her strengths and
+may minimise the account of his/her limitations and therefore we may be devoid
+of the true picture of personality. In personality assessment the effort is to make
+the assessment free from bias of any sort both from the subject/participant (whose
+personality is to be assessed) and from that of the assessor. It presents that there
+are so many such test/inventories whereby we can assess personality of a person
+objectively and these are the important tools for the purpose. While some tests
+assess the surface characteristics, others uncover the underlying aspects of
+personality. Among the major procedures that are in use currently, the important
+ones are those based on content relevance, empirical criterion keying, factor
+analyses, and personality theory. Personality assessment may differ in the purposes
+for which they are conducted. Personality assessment is used in the diagnosis of
+personality disorders by clinical and counseling psychologists, psychiatrists; and
+other psychological professionals.
+3.1 OBJECTIVES
+After reading this unit, you will be able to:
+• Define personality assessment;
+• Explain the prominent features of personality assessment;
+• Explain the aims of personality assessment;
+• Explain the various methods used in the assessment of personality;
+• Differentiate between different types of tools of personality assessment;
+• Explain projective techniques in detail; and
+• Explain objective techniques in detail.
+3.2 NEEDS AND AIMS OF ASSESSMENT
+Testing is becoming more and more important with each growing area of
+psychology. Traditionally, tests were employed only to measure individual
+differences or intraindividual reactions under different circumstances. The nature
+and extent of individual differences, their possessed psychological traits,
+
+===== PAGE 3 =====
+42
+Personality: Theories and
+Assessment
+differences among various groups etc. are becoming some of the major
+components demanding assessment as an aid of measurement.
+Personality testing is an essential pre-requisite for identifying the various
+constituents of personality. Testing in personality provides measures of emotional
+and motivational traits of personality.
+3.3 METHODS OF PERSONALITY ASSESSMENT
+Some of the important tests and techniques measuring personality include (i)
+Interviews (ii) Projective techniques (iii) Association techniques  (iv) Expressive
+techniques
+3.3.1 Interviews
+Interview is a method of personality assessment in which the interviewee has to
+answer the questions asked by the professional, in a structured or unstructured
+fashion. Some therapists note down the answers of the interviewee in a survey
+process. This type of interview is unstructured in manner and moves naturally.
+Limitations of Interviews
+Interview by the psychologist demands the report of innermost feeling, concerns
+and urges on the part of client. This is something that can be known directly by
+the client/interviewee and thus, the problems encountered with self report data
+like survey are faced with interviewing also. Interviewees/Clients can misinform,
+lie, distort the actual facts or reality and hide the true information for social
+desirability. Also, biases can occur on the part of the interviewers as their personal
+belief system or prejudices may put obstacles in the interpretation of the
+information given by the interviewee.
+Halo effect is the other problem with interviews. Halo effect is a tendency to
+form a favorable or unfavorable impression of someone at the fist meeting and
+after that first impression all of the comments and behaviour of that person are
+interpreted in agreement with the impression. Those who make a good first
+impression due to clothing, physical appearance or some other characteristic
+seem to have a “halo” for everything they do in a positive light.
+3.3.2 Projective Techniques
+These techniques are assumed to reveal those central aspects of personality that
+lie in the unconscious mind of an individual. Unconscious motivations, hidden
+desires, inner fears and complexes are presumed to be elicited by their unstructured
+nature that affect the client’s conscious behaviour. The assignment of a relatively
+unstructured task is a major distinguishing feature of projective techniques.
+An unstructured task is one that permits an endless range of possible responses.
+The underlying hypothesis of projective techniques is that the way the test material
+or “structures” are perceived and interpreted by the individual, reflects the
+fundamental aspects of her or his psychological functioning. In other words, the
+test material serves as a sort of screen on which respondents “project” their
+characteristic thought processes, anxieties, conflicts and needs .
+
+===== PAGE 4 =====
+43
+Assessment of PersonalityClients are shown ambiguous visual stimuli by the psychologist and are asked to
+tell what they see in that stimuli. It is presumed that the client will project the
+unconscious concerns and fears onto the visual stimulus and thus the psychologist
+can interpret the responses and understand the psychodynamic underlying the
+problem of the client. Tests that utilise this method are called projective tests.
+These tests, besides their function of exploring one’s personality, also serve as a
+diagnostic tool to uncover the hidden personality issues.
+The history of projective techniques began in the beginning of the 15
+th century
+when Leonardo da Vinci selected pupils on the basis of their attempt to find
+shapes and patterns in ambiguous form (Piotrowski, 1972). In 1879, a Word
+association test was constructed by Gallon. Similar tests were used in clinical
+settings by Carl Jung. Later, Frank (1939, 1948) introduced the term projective
+method to describe a range of tests which could be used to study personality
+with unstructured stimuli.
+This way, the individual has enough opportunity to project his own personality
+attributes which in the course of normal interview or conversation the person
+would not reveal. More specifically, projective instruments also represent
+disguised testing procedures in the sense that the test takers are not aware of the
+psychological interpretation to be made of their responses.
+Rather than measuring the traits separately the attention is focused on the
+composite picture. Finally, projective techniques are an effective tool to reveal
+the latent or hidden aspects of personality that remain embedded in the
+unconscious until uncovered. These techniques are based on the assumption that
+if the stimulus structure is weak in nature, it allows the individual to project his/
+her feelings, desires and needs that are further interpreted by the experts.
+Self Assessment Questions
+1) What is the need for Personality Assessment?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) How can personality assessment prove to be an aid in understanding
+human behaviour?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+===== PAGE 5 =====
+44
+Personality: Theories and
+Assessment 3) What is the underlying approach behind personality testing?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4) What is projective technique?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3.3.3 Classification of Projective Techniques
+Various types of projective techniques have been classified into several categories
+by psychologists.
+i) Constructive: It includes all those tests and situations where the construction
+of some specific task is to be done by the examinee. The subject needs to
+frame a structure upon the situation presented by the examiner, and be asked
+to draw a human figure allowing the person to freely express the examiner’s
+inclination.
+ii) Constitutive: This category includes those tests which require the examinee
+to constitute structures upon some given unstructured materials, as for
+example, The Rorschach Ink Blot technique. In this test the examinee
+imposes own structure upon the unstructured ink blots (Zubin, Eros and
+Schumer, 1965) and the subject’s responses are scored and interpreted.
+iii) Cathartic: It includes those situations where the examinee can release his
+wishes, inner demands, conflicts etc. through some manipulative tasks.
+iv) Interpretative: It includes those test situations where the examinee has to
+add a detailed meaning to the given situation. For example, the Thematic
+Apperception Test (TA T) and the Word Association Test.
+v) Refractive: This category includes all those techniques through which the
+examinee gets the opportunity to depict his personality in the form of
+drawing, painting etc. Frank cited that graphology is the best example of
+this category.
+If we evaluate Frank’s classification, it is obvious that it consists of several
+limitations. The biggest one is that according to his classification, same test can
+be included in two or more categories, causing considerable overlap. This way,
+Frank’s classification is not a popular classification of projective methods.
+
+===== PAGE 6 =====
+45
+Assessment of Personality3.3.4 Association Techniques
+This category includes all those situations where responses are to be given by
+the examinee in the form of associations which he makes after seeing or listening
+to the stimulus material . E.g. The Word Association Test etc. In the Word-
+Association test, the examinee is provided with a number of words in the form
+of a list and he is required to utter the very first word that comes to his mind on
+listening the stimulus word. The responses in accordance with the reaction time
+are used for the analysis of personality of the individual.
+3.4 INK BLOT TECHNIQUES
+The Ink blot techniques consist of two popular techniques, that is, The Rorschach
+Test and The Holtzman Ink blot test. In these tests the examinee has to respond
+to an unstructured situation composed of some ink blots.
+3.4.1 Construction Techniques
+All those situations are included here in which a story is constructed by the
+examinee on seeing the stimulus material within some given time limit. The
+themes and mode of responding are considered relevant in such tests. The
+Thematic Apperception Test (TA T), the Object Relations Test are some of the
+examples of construction techniques. Some other tests like Draw-A-Person test
+are also included in this category. In all these tests, the examinee constructs or
+produces simple/complex statements in a story form or draws some picture or
+person.
+3.4.2 Completion Techniques
+These include the situations where some incomplete sentences are presented to
+the examinee and he can complete them in the form he desires. For example
+I want ………..,
+I feel excited about…………………..
+The subject has to fill up the blanks and the responses given by the examinee are
+recorded and analysed to get a picture of the individual’s personality. For example,
+Rotter’s Incomplete Sentences Blank. Some people consider it as a semi projective
+technique.
+3.4.3 Expressive Techniques
+These include those tests where some manipulative tasks are used by the examinee
+to depict his or her personality. Some interaction with the given material is the
+theme of these techniques. Some of the common expressive techniques include
+role playing, finger painting, play, drawing etc. The characteristic feature of
+expressive techniques is that the examiner pays much attention to the manner in
+which the given materials are manipulated by the examinee.
+3.4.4 The Rorschach Inkblot Test
+Rorschach inkblot test was developed in 1921 by Swiss psychiatrist Hermann
+Rorschach. It consists of 10 inkblots, five in black ink on a white background
+and five in colored inks on a white background. The Rorschach test is a measure
+of both the intellectual and non intellectual personality traits. While developing
+
+===== PAGE 7 =====
+46
+Personality: Theories and
+Assessment
+this technique, Rorschach experimented with a large number of ink blots which
+were administered to different psychiatric groups. On the basis of such clinical
+observations various psychiatric syndromes that differentiate response
+characteristics were taken up in the scoring system.
+In the test , the subjects are asked to simply state whatever each inkblot looks
+like to them. Responses are scored by the psychologists using predetermined
+categories, on key factors such as color and shape, movement, whether the whole
+or part blot has been seen, and whether the response is given in content to the
+whole or to peculiar details in the blot.
+These blots are frequently used for personality description, diagnosis of mental
+disorders and for behaviour predictions (Watkins et al, 1995; Wiener, 1997).
+The whole procedure of The Rorschach Test is a combined set of three
+components, viz., performance proper, inquiry, and scoring.  Let us deal with
+each of these one by one.
+Administration of Rorschach test
+The administration of the Rorschach test can be put be up in two stages as given
+below.
+a) Performance proper
+The examinee is asked to get seated and rapport is established with him. First
+plate is then handled to the client with the question “What do you think this
+could be?” During the process the examinee needs to be careful about the
+following things:
+1) Reaction time which means the time gap between the card presentation and
+examinee’s response. Exclamations and comments are excluded from
+scoring.
+2) The position of the card is also taken account of while examinee is responding
+and are scored as v, ^, <, >.depending on the direction in which the card is
+turned.
+3) The responses are recorded verbatim for the reason that the examiner can
+read it and analyse the same effectively.
+4) The total time for which the card is kept by the subject is also recorded. The
+time lapsed between the presentation of the card and the first response the
+subject gives is called the reaction time.
+On completion of the first plate, the second plate is given to the examinee and
+similarly all the 10 plates are presented in a sequential manner. The total number
+of responses is also termed as response productivity ratio and is coded as R. On
+a Rorschach protocol, for most adults the score varies from 15 to 30. V ague and
+uncertain response by the examinee is noted down to be clarified in the second
+stage of administration, that is, the inquiry stage.
+Inquiry
+It is the second stage of administration of the Rorschach test. It is taken up after
+obtaining responses on all the ten cards during “performance proper”. The basic
+purpose of conducting inquiry is to collect all the necessary information for the
+accurate scoring of the responses. Here, a location sheet is presented before the
+
+===== PAGE 8 =====
+47
+Assessment of Personalityexaminee and he is asked to locate the part on the basis of which he has responded,
+so as to maintain a permanent record of the area of the blot used by the subject in
+responding. The questions framed for the inquiry stage are based on the examiner’s
+skill and expertise.
+Scoring of Rorschach test
+The major differences among the various scoring systems of the Rorschach test
+flourished in 1930s to the 1960s. There is also the focus of concern for Rorschach
+interpretation based either on the content of the responses or on their formal
+characteristics, such as location, determinants, form quality, and the various
+quantitative summaries derived from the responses, that is, the content.
+Scoring of location is important.  Location refers to that part of the plot with
+which each response of the subject is associated. For example, whether the whole
+blot or a common detail or a usual detail has been used by the respondent and are
+scored as W, D ,d, Dd etc. The determinants of the response include form, color
+shading and “movement” and are coded as F,C,S,M etc. The respondent’s
+perception of the blot as a moving object is scored in context of “movement”.
+The various types of movement include human movement, animal movement
+etc.
+The form quality of responses may depict the precision with which the response
+match the location used, to their originality.
+The treatment of content also varies from one Rorschach system to another except
+some major regularly employed categories. Some of the main categories are
+human figures, human details, animal details etc. and are coded as H, A , Hd, Ad
+etc. Some other broad scoring categories may include art objects, plants, maps,
+landscapes, clothing etc. For each of the 10 cards, certain specific responses are
+scored as popular because of their common occurrence and thus, constitute the
+popularity score.
+Qualitative interpretations of the Rorschach scores include the association of
+“whole” responses with conceptual thinking. The colour responses given by the
+subject are indicative of the subject’s emotionality and fantasy life. The entire
+response for all the 10 cards including the enquiry are integrated together to
+interpret the psychodynamics underlying the problem and also decide upon the
+diagnostic issues.
+However, after a prolonged use of the Rorschach test as a psychometric
+instrument, some of the researchers found a number of difficulties inherent in
+the method itself, such as the variability in the total number of responses, examiner
+effects and interdependence of scores etc. The five major Rorschach systems in
+use developed in the United Sates show vast differences which were documented
+by John E. Exner, Jr. (1969).  He, with his extensive investigations of clinical
+use of the Rorschach Test came up with a single, distilled system encompassing
+all the useful features being possessed by the method. Questions are also asked
+about the reliability and validity of the assessment done through the Rorschach
+Test.
+In this context, it is pertinent to mention here that the Rorschach Ink blot test
+was never developed as a psychometric tool, rather, it was developed as an
+instrument to aid in the clinical diagnosis.
+
+===== PAGE 9 =====
+48
+Personality: Theories and
+Assessment
+To briefly state about this test, it can be concluded that more research still needs
+to be conduced to invent a standard method of administration and scoring of the
+Rorschach. Test.
+3.4.5 The Holtzman Inkblot Test
+Holtzman et. Al. (1961) developed an inkblot test known as the Holtzman Inkblot
+Test (HIT). This test was developed by Holtzman in order to remove the inherent
+technical difficulties of the Rorschach like unlimited number of responses, poor
+scorer reliability etc. There are two parallel forms (A and B) having 45 cards,
+both colored and achromatic and markedly asymmetric. One response per card
+is taken by the respondent. Each response is followed by a two fold simple
+question : where was the percept represented in the blot and what the percept
+suggests about the blot ? All the responses are then classified under 22 response
+variables.
+It has been found by many researchers that Holtzman test appears to be better
+standardised than the Rorschach test. Also the scorer reliability of the HIT is
+highly satisfactory validity data on HIT have also yielded satisfactory results. It
+has also overcome the problem of productivity ratio by specifying the number of
+responses.
+Recently, Holtzman (1988) has also developed a variant of HIT called HIT 25.
+Consisting of 25 cards. It has been found to be successful in diagnosing
+schizophrenia.
+3.4.6 The TAT
+This test was developed by Henry Murray and his colleagues (Morgan and Murray,
+1935). The Thematic Apperception Test (TA T) consists of 20 pictures which are
+all black and white. The people depicted in the picture are deliberately drawn in
+ambiguous situations. After showing the picture, a story is to be told by the
+client about the person or people in the picture. They have to say what is happening
+in the picture, what has caused the event and what could have taken place in the
+past and what would happen in the future. The story narrated by the client is
+interpreted by the psychologist, who tries to look for revealing statements and
+projection of the client’s hidden emotions onto the characters in the pictures. In
+the original interpretation method of TAT scores, the examiner first determines
+who is the “hero”, the character of either sex with whom the respondent
+presumably identifies himself or herself. The content of the stories is then analysed
+in reference to Murray’s list of “needs” and “press”. Achievement, affiliation
+and aggression are the examples of needs whereas “press” refers to environmental
+forces that may facilitate or interfere with need satisfaction.
+However, TAT has been used extensively in the research of personality but the
+high variations in administration and scoring procedures associated with TA T
+has made it quite difficult to investigate the psychometric properties of the TAT.
+Nevertheless, the value of Thematic Apperception Techniques has been confirmed
+and also the clinical utility of various versions of the TAT both for traditional
+and specific applications have been established.
+3.4.7 The Sentence Completion Tests
+Other than these two well-known projective tests, there are some other types of
+projective tests which include Sentence Completion test, Draw-A-Person test,
+
+===== PAGE 10 =====
+49
+Assessment of Personalityand House-Tree-Person Test. In the sentence completion test, verbal material is
+used. Various incomplete sentences are given to the subject to complete them.
+Some of the incomplete sentences are like example given below:
+I feel very …….,
+I wish my mother….
+The subject is asked to complete the sentence the way he/she desires. In the
+Draw-A-Person and House-Tree-Person, the client is supposed to draw the named
+items on a white sheet.
+3.4.8 Limitations of the Projective Tests
+Projective tests are basically subjective in nature and the interpretation of the
+answers of clients needs deep analytic and artistic traits. Reliability and validity
+related problems always exist in projective tests. There are no standard grading
+scales for projective tests. Person’s varying mood may decide the person’s answer
+which may vary considerably from one day to another.
+Some situational variables like the examiner’s physical characteristics are likely
+to influence the responses on projective techniques. It has also been seen that the
+changed instructions on the part of examiner also influence the examinee’s scores
+on projective techniques to a great extent.
+Finally, in the words of Eysenck (1959), projective techniques can be summarised
+as those in which the relationship between projective indicators and personality
+traits have not been demonstrated by any empirical evidences.
+A number of evidences show that most studies of projective techniques are guided
+by methodological flaws and are ill designed.
+Projective techniques are not guided by any consistent, meaningful and testable
+theories.
+There is no evidence showing a relationship between global interpretation of
+projective techniques by experts and psychiatrists.
+Generally, projective techniques have poor predictive ability regarding failure or
+success in various walks of life.
+Self  Assessment Questions
+1) Define Projective techniques as a tool of assessment.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+===== PAGE 11 =====
+50
+Personality: Theories and
+Assessment 2) Explain various projective techniques in detail.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) Discuss the classification of projective techniques according to various
+researchers.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4) Critically evaluate various personality testing procedures.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3.5 BEHAVIOURAL ASSESSMENT
+Behaviorists assume that personality is a composite set of learned responses to
+stimuli in the environment, they undertake to watch such behaviour as a preferred
+method to study.
+One of the methods is direct observation, that requires the psychologist to observe
+the client while engaged in ordinary, daily-routine behaviour, at home, school,
+workplace or any other natural setting.
+Among other methods often used by behavioural therapists are rating scales and
+frequency counts. In a rating scale, either the psychologist or the client assigns a
+numeric rating or some specific behaviour. On the other hand, in a frequency
+count, the frequency of certain behaviours in a specified time limit is counted.
+Both rating scales and frequency counts are being used by educators in the
+diagnosis of various behavioural problems like attention deficit disorder etc.
+3.5.1 Limitations of Behavioural Assessment
+Observer bias is the major limitation of behavioural assessments.
+In observational method, there is no control over the external environment and
+this may lead to interpret the events in fruitless direction.
+
+===== PAGE 12 =====
+51
+Assessment of Personality
+3.6 PERSONALITY INVENTORIES
+Personality inventory is a printed form that consists of a set of statements or
+questions applying to human behaviour. The list of questions is a standard one
+and requires specific answers such as “yes”, “no” and “cannot decide”. As the
+questions demand close-ended answers, these assessments are quite objective in
+nature.
+Cattell’s 16PF is one such personality inventory. NEO-PI by Costa and McCrae
+(2000) has been revised, which is based on the five factor model of personality
+traits. Myers-Briggs Type Indicator (MBTI) is another commonly used inventory.
+Introversion, Extraversion (I/E) is a classic dimension that began with Jung and
+is represented in nearly every personality theory, including the Big Five. The
+sensing / intuition (S/I), thinking / feeling T/P), Introversion / Extroversion (I/E)
+and Perceiving/Judging (P/J) are the four dimensions that can differ for each
+individual resulting in ISTJ, ISTP , ISFP , ISFJ personality types possibly (Briggs
+and Myers, 1998). For example, an ESTJ is an organiser, practical in nature and
+energetic in activity, an ESTJ is also a good school administrator.
+Eysenck Personality Questionnaire (Eysenck & Eysenck, 1993), the California
+Psychological Inventory (Gough, 1995) and the Sixteen Personality Factor
+Questionnaire (Cattell, 1994) are some other common personality tests.
+3.6.1 The MMPI-2
+Minnesota Multiphasic Personality Inventory, V ersion-II or MMPI-2 is the most
+common personality inventory. It tests specifically, the abnormality inventory. It
+tests specifically, the abnormal behaviour patterns in personality MMPI-2 consists
+of 567 statements such as “I believe I am being plotted against”. The answers to
+the statements must be in “true”, “false”, or “cannot say”. It has 10 clinical scales
+and eight validity scales besides various subscales. Each scale tests a particular
+kind of behaviour. Ranging from mild to more serious disorders such as
+schizophrenia and depression, are assessed using this inventory.
+Validity scales ascertain that whether the person taking the inventory is responding
+honestly or not. For example, if one of the statements is “I am contended with
+whatever I have” and a person responds “true” to that statement, gets into suspicion
+that the person is lying. If several of validity scale questions are answered in this
+manner, it clearly depicts that the person is not being honest.
+3.6.2 Limitations of Personality Inventories
+Personality inventories have certain advantages over projective tests and
+interviews in the sense that inventories are standardised. Also, observer bias and
+interpretation bias are not possible due to their objective frame. Inventories are
+also superior to projective tests in terms of validity and reliability (Anastasi &
+Orbina, 1997).
+However, there are some problems with inventories too. Even though, good at
+validity end, some people still fake their answers and respond in socially
+acceptable ways. Also, some people follow a regular course of answering the
+statements without actually considering them, there as others may pick statements
+to answer at random rather than answering each and every statement.
+
+===== PAGE 13 =====
+52
+Personality: Theories and
+Assessment
+Though, the tasks of personality assessment and measurement is a skilled and
+sophisticated one, today predictions of behaviour are based on measurement of
+personality.
+Self  Assessment Questions
+1) Explain the meaning of personality inventories.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) Discuss the nature of personality inventories.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) Critically evaluate different personality inventories.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4) Critically evaluate behavioural assessment method.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3.7 LET US SUM UP
+All types of personality tests available possess certain difficulties which are both
+of theoretical and practical in nature. Every approach comes up with certain
+advantages and disadvantages. However, personality measurement research has
+gained enough importance. Still various devices are in the process of
+improvement.
+
+===== PAGE 14 =====
+53
+Assessment of PersonalitySome upcoming trends in personality testing include increasing evidence of
+mutual influence between emotional and cognitive traits. Second, development
+of a comprehensive model relating to human activity subsuming all sorts of
+basic research on both emotional and cognitive traits.
+3.8 UNIT END QUESTIONS
+1) What are the advantages and limitations of using interviews as a tool of
+personality assessment?
+2) How can projective tests be used to explore personality?
+3) What are the problems encountered in using projective tests?
+4) How can behavioural assessments be used in personality testing?
+5) What are the different kinds of personality inventories used in personality
+assessment?
+5) How can further research in personality testing prove useful in enriching the
+existing personality assessment procedures?
+3.9 GLOSSARY
+Method : Procedures of gathering information in
+any field of study.
+Interview : A method of personality assessment in
+which the interviewer asks questions to
+the clients and the client is allowed to
+answer either in a structured or an
+unstructured fashion.
+Halo effect : Tendency of an interviewer to allow
+positive characteristics of a client to
+influence the assessments of client
+behaviour and statements.
+Projective tests : Assessment of personality that presents
+ambiguous visual stimuli to the client and
+ask the client to respond with whatever
+comes to his mind.
+Rorschach ink blot test : Projective test that uses 10 ink blots as
+the ambiguous stimuli.
+Thematic Apperception test : Projective test that uses 20 pictures of
+persons in ambiguous situations as the
+visual stimuli.
+Personality Inventory : Paper and pencil tests that consist of
+statements requiring a specific and
+standardised response from the person
+taking the test.
+
+===== PAGE 15 =====
+54
+Personality: Theories and
+Assessment 3.10 SUGGESTED READINGS AND REFERENCES
+Anastasi, A. (1997). Psychological Testing. New York: Macmillan.
+Ciccarelli, S.K. and Meyers, G .E. ( 2006) Psychology. New Delhi : Pearson
+Education.
+References
+Butcher, J.N.,& Rouse, S.V .(1996). Personality: Individual differences and clinical
+assessment. Annual Review of Psychology, 47,87-111.
+Camara,W.J.,Nathan,J.S.,& Puente,A.E. (2000). Psychological test usage:
+Implications in professional psychology. Professional Psychology: Research and
+Practice, 31(2), 141-154.
+Exner, J.E.Jr.(1966). The Rorschach systems.New York: Grune & Statton.
+Eysenck, H.J.,& Eysenck, S.B.G .(1993). Eysenck Personality Questionnaire
+[Revised]. London: Hodder & Stoughton.
+Gough,H.G .(1995).California Psychological Inventory(3rd ed.). Palo Alto, CA:
+Consulting Psychologist –Press.
+Holtzman, W.H., Thorpe, J.S. ,(1961). Inkblot perception and personality-
+Holtzman Inkblot technique. Austin: University of Texas Press
+Wiener, I.B. (1997).Current status of the Rorschach Inkblot Method. Journal of
+Personality Assessment,68,5-19.

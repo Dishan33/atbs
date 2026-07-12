@@ -1,0 +1,2603 @@
+
+
+===== PAGE 1 =====
+5
+Nature of Problem Solving
+UNIT 1 NATURE OF PROBLEM SOLVING
+Structure
+1.0 Introduction
+1.1 Objectives
+1.2 Types of Problems
+1.3 Characteristics of Difficult Problems
+1.4 Nature of Problem Solving
+1.4.1 The Stages of Problem Solving
+1.5 Types of Thinking Involved in Problem Solving
+1.5.1 The Kinds of Thinking Processes
+1.6 Concept of Insight Problems
+1.7 Let Us Sum Up
+1.8 Unit End Questions
+1.9 Suggested Readings
+Problem Solving
+“Solving a problem means finding a way out of a difficulty, a way around
+an obstacle, attaining an aim that was not immediately understandable.
+Solving problem is the specific achievement of intelligence and intelligence
+is the specific gift of mankind. Solving problems can be regarded as the
+most characteristically human activity.”
+George Polya (1962)
+1.0 INTRODUCTION
+In our day to day life we usually solve problems be it the classroom, family, or
+workplace. It is nearly inescapable in everyday life. We use problem solving
+when we want to reach a certain goal, and that goal is not readily available. It
+involves situations in which something is blocking our successful completion of
+a task. To study problem solving satisfactorily, a good way will be to start the
+chapter by solving some problems. Give these ones a try:
+Problem1: What one mathematical symbol can you place between 2 and 3 that
+result in a number greater than 2 and less than 3?
+Problem2: Rearrange the letters NEWDOOR to make one word.
+Problem3: How many pets do you have if all of them are birds except two , all of
+them are cats except two, all of them are dogs except two.
+There are many different kinds of problems, including many kinds of recreational
+problems, career and school oriented problems (such as the problem of how to
+get promoted or the problem of how to study for a test), personal problems (such
+as the problem of who to marry or whether to have a child), and scientific problems
+(such as how to find a cure for cancer or how to prove a particular theorem) etc.
+We all solve many problems like these or others every day. Problem solving can
+be as commonplace as finding out how to prepare a meal or as significant as
+developing a psychological test.
+
+
+===== PAGE 2 =====
+6
+Problem Solving
+1.1 OBJECTIVES
+After completing this unit, you will be able to :
+• Define the basic nature of problem solving;
+• Enlist the  different kinds of problems;
+• Describe types of thinking involved in problem solving; and
+• Analyse and explain the Insight Problem Solving.
+1.2 TYPES OF PROBLEMS
+Problems vary from ill defined to well defined. In a well defined problem such
+as a mathematical equation or a jigsaw puzzle  both the nature of the problem
+and the information needed to solve it are available and clear. Thus, one can
+make straightforward judgments about whether a potential solution is appropriate.
+With an ill defined problem, such as how to bring peace, not only may the specific
+nature of the problem be unclear, the information required to solve the problem
+may be even less obvious.
+Greeno (1978) suggested one method of classifying well defined problems based
+on the general kinds of psychological skills and knowledge needed to solve
+different problems. Typically, well defined problems falls into one of the three
+categories viz., (i)  Arrangement (ii) Inducing Structure  and (iii) Transformation.
+Solving each of these types of problems requires somewhat different type of
+psychological skills and knowledge.
+i) Arrangement of  problems requires that the  problem solver must rearrange
+or recombine elements in a way that will satisfy a certain criteria. Usually,
+several different arrangements can be made but only one or few arrangements
+will produce a solution. For example, one can say that Anagram problems
+and jigsaw puzzles are examples of arrangement problems.
+ii) In Problems of inducing Structure, a person must identify the existing
+relationships among the elements presented.  He then should  construct a
+new relationship among them, so that the problem could be solved.  In such
+a problem, the problem solver must determine not only the relationships
+among the structures but also the structure and sise of elements involved.
+iii) In Transformation Problems, one takes into consideration.  An attempt is
+made to change the initial state to a goal state. The Tower of Hanoi is an
+example of this kind of problem where the initial state is the original
+configuration, the goal state is to have the three disks on the third peg, and
+the method is the rules for moving the disks. According to Greeno  1978
+solving transformation problems primarily requires skills in planning  based
+on a method called means end analysis. Means end analysis requires
+identifying differences that exist between the current state and the goal state
+and selecting operations that will reduce these differences.
+
+
+===== PAGE 3 =====
+7
+Nature of Problem Solving
+1.3 CHARACTERISTICS OF DIFFICULT
+PROBLEMS
+Some of the typical characteristics of difficult problems are as given below:
+• Intransparency (lack of clarity of the situation)
+• Commencement opacity.  (confusion regarding how to start stating the
+problem)
+• Continuation opacity (Continuing confusion in regard to the problem as
+there is no clarity)
+• Polytely (The problem has multiple goals and so reaching and selecting a
+particular goal is difficult)
+• Inexpressiveness (inability to express the problem clearly)
+• Opposition
+• Transience (the problem keeps changing)
+• Complexity (The problem is in large numbers of items, too many
+interrelationships  and decisions)
+• Enumerability (It is not possible to list it or quantify it)
+• Connectivity (There are hierarchy of problems in relation to relationship,
+communication and  allocation )
+• Heterogeneity (The problem is not homogeneous and so difficult to handle)
+• Dynamics (time considerations)
+• Temporal constraints (There is limitation to time factor as it has to be got
+done within a time period)
+• Temporal sensitivity (The problem is influenced and affected by time factor)
+• Phase effects ( There are changes in different phases of the problem and
+these affect the problem from being solved)
+• Dynamic unpredictability (The problem is complex and consists of high
+degree of unpredictability)
+The resolution of difficult problems requires a direct attack on each of the above
+mentioned  characteristics encountered.
+In reform mathematics, greater emphasis is placed on problem solving relative
+to basic skills, where basic operations can be done with calculators. However
+some “problems” may actually have standard solutions taught in higher grades,
+like for instance multiplying rather than adding. For example, kindergarteners
+could be asked how many fingers are there on all the gloves of 3 children.
+Normally they will add the fingers in each glove of the three children and say 15.
+But at a higher level 5 × 3 = 15, which is done quickly and solved by applying
+multiplication.
+
+
+===== PAGE 4 =====
+8
+Problem Solving
+Self Assessment Questions
+1) Define problems
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+2) Define problem solving
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+3) What are the different types of problems?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4) What is meant by difficult problems?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+5) What are the characteristics of difficult problems.?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+
+
+===== PAGE 5 =====
+9
+Nature of Problem Solving
+1.4 NATURE OF PROBLEM SOLVING
+The nature of human problem solving methods has been studied by psychologists
+over the past hundred years. There are several methods of studying problem
+solving, including introspection, behaviourism, simulation, computer modeling
+and experiment.
+Beginning with the early experimental work of the Gestaltists in Germany and
+continuing through the 1960s and early 1970s, research on problem solving was
+typically conducted in  relatively simple, laboratory tasks that appeared novel to
+participants (e.g. Mayer, 1992). In these  tasks, they  had clearly defined optimal
+solutions which  were solvable within a relatively short time frame, and
+researchers could trace participants’ problem-solving steps, and so on.
+The researchers made the underlying assumption that simple tasks such as the
+Tower of Hanoi captured the main properties of “real world” problems, and that
+the cognitive processes underlying participants’ attempts to solve simple problems
+were representative of the processes engaged in when solving “real world”
+problems. Thus researchers used simple problems for reasons of convenience.
+Simple laboratory based tasks can be useful in explicating the steps of logic and
+reasoning that underlie problem solving.  However, they omit the complexity
+and emotional valence of “real-world” problems. In clinical psychology, researchers
+have focused on the role of emotions in problem solving,  demonstrating that poor
+emotional control can disrupt focus on the target task and impede problem
+resolution (Rath, Langenbahn, Simon, Sherr, & Diller, 2004).
+Human problem solving consists of two related processes, viz.,(i)  problem
+orientation, and (ii)  problem-solving skills which, if While problem orientation
+deals with the motivational/attitudinal/affective approach to problematic
+situations, the problem solving skills deal with  the actual cognitive behavioural
+steps. If cognitive skills are  successfully implemented,  it will lead to effective
+problem resolution.
+Problem solving is a mental process and is part of the larger problem process
+that includes problem finding and problem shaping. Considered the most complex
+of all intellectual functions, problem solving has been defined as higher-order
+cognitive process that requires the modulation and control of more routine or
+fundamental skills.
+Problem solving occurs when an organism or an artificial intelligence system
+needs to move from a given state to a desired goal state. Problem solving is one
+of the many forms that thinking or cognition may take.
+By cognition one refers to the mental representation of information which can
+be manipulated and used to solve problems. Problem solving is a major cognitive
+behaviour.
+Problem solving becomes necessary when an individual wants to reach a goal
+but that goal is not easily available. It is a state in which there are some obstacles
+to reach the goal. V arious psychologists have defined problem solving.
+
+
+===== PAGE 6 =====
+10
+Problem Solving According to Baron (2001) problem solving involves efforts to develop or choose
+among various responses in order to attain desired goals.
+Witting and Williams III (1984) defined problem solving as the use of thought
+processes to overcome obstacles and work towards goals.
+1.4.1 The Stages of Problem Solving
+The situation that prevails at the beginning of the problem solving task is the
+initial state. The system then moves through a series of different, intermediate
+states, designed to lead to the goal. When the goal is achieved, the system is said
+to have attained the goal state. Thus there are four molar components of any
+problem solving activity and these are given below:
+• The initial state: How the starting conditions are defined
+• The Operators: Moves or operations to move from one state to another
+• Intermediate Problem States: Any states that are generated by applying an
+operator to a  state on the way to final goal.
+• The goal state: How the final state or goal conditions are described.
+The internal representation (or mental model) of these four states of a problem is
+called “Problem Space”. This problem space varies from one individual to another.
+It must be kept in mind that each individual’s problem space is unique and depends
+also on the nature of the problem.  The initial state of a problem is  critical to
+problem solving and some problem’s initial state may lead to efficient problem
+solving while another may end up in high complexity.
+Problem solving strategies Creative problem solving
+Group problem solving Problem solving approach
+Management problems solving Elementary problem solving
+Problem solving activities Problem solving worksheets
+Teaching problem solving Problem solving lesson plans
+Problem solving skills
+Art Problem solving
+Self Assessment Questions
+1) Describe the nature of problem solving.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+2) What are real world problems? Give suitable examples.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+
+
+===== PAGE 7 =====
+11
+Nature of Problem Solving
+3) What are the two processes in human problem solving.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4) Describe the stages of problem solving.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+5) What are the four molar components of any problem solving activities?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+6) What is meant by “Problem Space”?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+1.5 TYPES OF THINKING INVOLVED IN
+PROBLEM SOLVING
+According to Wertheimier (1959) effective problem solving requires:
+i) Productive thinking
+ii) Being sensitive and open to structural requirements
+iii) Going beyond the knowledge learnt from previous problem solving tasks
+For productive thinking there is a need to have a grasp of the general principles
+that apply in the particular problem situation. Since individuals do have a  tendency
+to reproduce thinking appropriate for other situations, they need to think beyond
+
+
+===== PAGE 8 =====
+12
+Problem Solving that solution and look for unique solutions.  It is important to keep in mind the
+structure of the problem without which solutions may not come about.
+1.5.1 The Kinds of Thinking Processes
+The kinds of thinking processes involved in problem solving are:
+1) Analytical Thinking
+2) Synthetic Thinking.
+In analytic thinking, there is nothing more in solution than in the premise. For
+example if the problem is a simple question like “how many doors are there in
+your house”, then the answer is simple counting of the doors and adding it up.
+There can be no other answer and there can also be no other solution.
+In contrast, Synthetic Thinking does not contain the conclusion in the premise
+itself because the solution is not needed in the construction of the mental object.
+For example, we know that 2 is a divisor of 4, 4 is a divisor of 8, and 2 is also a
+divisor of 8. In general, it is true that a divisor of a divisor of a number is a
+divisor of that number.
+Such solutions are best reached by constructing mental model like images like
+number lines.
+The importance of synthetic thinking is that you can get out more than you put
+into it.
+After you construct a mental model, you can see relationships that were not
+evident before you constructed it. Seeing these new relationships is what
+comprises problem solving through synthetic thinking.
+In other words, one is synthesizing the available information and facts to derive
+new solution.  This is also termed as developing insight.
+Newell is one of the most influential cognitive psychologists who made computer
+stimulation approach to the study of problem solving.
+Newell stated that the goal is to construct a mental model.  From this model one
+will find answers to a problem by inspecting that model itself. To do this, one
+writes parts of the problem mentally  on the model. Once the model has been
+constructed one can  read the results of what has been written. It is important to
+note that in order to read these results one needs the “mind’s eye”.
+The mind’s eye has traditionally been a controversial issue in cognitive
+psychology. Another word for it is “homunculus” meaning “little man in the
+head”. Most cognitive psychologists disapprove of this concept of Mind’s eye
+on the premise that it reflects nonscientific theories of behaviour that were largely
+based on soul.
+Self Assessment Questions
+1) What types of thinking are involved in problem solving?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+
+
+===== PAGE 9 =====
+13
+Nature of Problem Solving
+2) What are the kinds of thinking processes?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+3) Describe Newell’s Mental Model.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+1.6 CONCEPT OF INSIGHT PROBLEMS
+There are two types of solutions to problems and these are (i) Insightful solutions
+and (ii) solutions without involving insight.
+The essential characteristics of an insight solution to a problem is that the solution
+appears suddenly, without warning.
+By contrast, problems solved without insight are solved gradually rather than
+suddenly. The solution process here involves a stepwise progression towards the
+solution.
+For example, arithmetic and algebraic problems fall into the category of problems
+solved without insight. In this, the subjects themselves must be able to distinguish
+between these two types of solutions.
+As the subjects solve a non insight problem, they should be able to tell that they
+are getting closer to the solution. For non-insight problems subjects generally
+have a greater feeling of warmth as they get closer and closer to the solution.
+This is because non-insightful problems are solved step by step and with each
+step the subject gets closer to the solution and thus warmer in each step.
+As for insight problems there is no  gradual approach to the solution and so
+subjects do not feel warmer until the solution actually appears.
+Feeling of knowing and feeling of warmth reflect judgments that subjects make
+about their own knowledge. Such judgments are examples of metacognition.
+Metacognition refers to what one  knows about  the technique of how accurately
+one can assess one’s own cognitive processes.
+It has been shown that people’s metacognitive assessments of their performance
+on noninsight problems are quite accurate. However, their metacognitive
+assessments of their performance on insight problems are not accurate, because
+an insight is not something that can be planned.
+
+
+===== PAGE 10 =====
+14
+Problem Solving An insight is something that happens to the person, not something that a person
+decides to have. In insight solution, the problem is solved by the sudden
+illumination characteristic of insight.
+Insight is preceded by a gradual process whereby relevant parts of the problem
+are identified. However, solvers may not be aware that this process is leading
+toward an insight.
+Another aspect of insight problems is  that the source of difficulty in some insight
+problems is the inability to see that something you already know is needed for
+the solution. Hints  given within the  context of the problem are fairly effective
+in facilitating subsequent insight As the Gestalt psychologists often observe,
+people are generally not efficient at realising that a new problem can be solved
+with information already at their disposal.
+People differ in their ability to select information that is relevant to the problem
+at hand. This ability to discover what is essential about situation is important as
+well as the ability to remember information that is relevant to the problem.  This
+ability is called sagacity. Sagacity differs from learning in that it  involves a
+sensitivity to detail, a discernment of what is important in a situation. Sagacity is
+the ability to see into the situation and to discriminate the important aspects of it.
+The format  in which the information is presented makes a difference in insightful
+problem solving. That is,  one can give the information in a puzzle format or in
+a declarative format.  The information given in the puzzle format leads the subject
+to discriminate the relevant information better than when the information is in
+declarative format.  This is so because, the  puzzle format leads the subject to
+process the relevant information in a way that makes it accessible for later use.
+On the other hand the  declarative format leads to the acquisition of the relevant
+information, but in a way that makes it possible for the person to see its relevance
+for subsequent problem solving.
+Select a word that can be interpreted in different ways. For example, the word
+lake can refer to a frozen or unfrozen body of water. Most people interpret the
+word to refer to an unfrozen body of water. A riddle can be constructed by requiring
+the problem solver to come up with the less accessible meaning in order to make
+sense of what is being described. If the subject is presented with a clue that the
+stone rested on the surface of the lake for 3 months, after which it sank to the
+bottom some 10 meters below., this would provide the solution that lake here
+refers to frozen one for 3 months and then running water lake afterwards.
+1.7 LET US SUM UP
+Problem solving is an important part of thinking processes. In general a problem
+is any kind of conflict or difference between one situation and another that one
+wishes to to produce, that which is the goal.
+Problem solving typically involves three major stages: preparation, production
+of solutions and evaluation of solutions that have been generated.
+Problem solving can be done either with or without insight and utilises analytical,
+synthetic thinking along with metacognition.
+
+
+===== PAGE 11 =====
+15
+Nature of Problem SolvingThis it can be said that, like many other cognitive processes, problem solving is
+a  dynamic and complex process and involves many different types of thinking
+processes depending on the nature of the problem.
+1.8 UNIT END QUESTIONS
+1) What are the various categorisations of problems? Can you categorise your
+day to day problems into these categories?
+2) What is the role of various types of thinking involved in solving diferent
+kinds of problems ?
+3) Describe the four molar stages of problem solving.
+4) Compare and contrast the role of productive thinking and structurally blind
+thinking in problem solving.
+5) Emotional states can affect many cognitive processes. What can be the affect
+of  these various emotional states on problem solving ?
+6) Critically discuss the concept of insight problems and insightful solutions.
+7) Solutions involving insight and solutions without involving insight –
+Differentiate.
+1.9 SUGGESTED READINGS
+Feldman, R . S. (2008). Essentials of Understanding Psychology . New Delhi:
+Tata McGraw Hill.
+Sternberg, R.J. (2009). Applied Cognitive Psychology: Perceiving, Learning,
+and Remembering. London: Cengage
+Galotti , K.M. (2008). Cognitive Psychology In and Out of the Laboratory .
+Canada: Nelson Education.
+References
+Hunt, R. R., & Ellis, H.C. (2006). Fundamentals of Cognitive Psychology. New
+Delhi: Tata McGraw Hill.
+Reed, S.K. (2010). Cognition: Theories and Applications. London: Cengage.
+Solso, R.L. (2006). Cognitive Psychology. New Delhi: Pearson Education.
+
+
+===== PAGE 12 =====
+16
+Problem Solving
+UNIT 2 STAGES OF PROBLEM SOLVING
+Structure
+2.0 Introduction
+2.1 Objectives
+2.2 Nature of the Problem
+2.3 Generating Solutions
+2.3.1 Judging the Best Among the Likely Solutions
+2.3.2 Strategies for Problem Solving
+2.3.3 Some Specific Techniques of Problem Solving
+2.3.3.1 Generate and Test Techniques
+2.3.3.2 Means Ends Analysis
+2.3.3.3 Backward Search
+2.3.3.4 Planning Strategy
+2.3.3.5 Thinking Aloud
+2.3.3.6 Other Strategies
+2.4 Creativity and Problem Solving
+2.4.1 Stages Involved in Creative Discoveries
+2.5 Artificial Intelligence in Problem Solving
+2.5.1 Criticisms of the Computer Simulation Approach
+2.6 Let Us Sum Up
+2.7 Unit End Questions
+2.8 Suggested Readings
+2.0 INTRODUCTION
+In this unit, we will examine the basic steps and strategies involved in problem
+solving – the ways to reach to solutions of the problems, and the various methods
+to solve different kinds of problems. For this, in particular, the following topics
+are discusses in detail.  We will deal with Stages of Problem Solving, Techniques
+of problem solving, Creativity and Problem solving and the role of Artificial
+Intelligence in Problem Solving
+2.1 OBJECTIVES
+After completing this unit, you will be able to:
+• Define problem solving and problems;
+• Describe the various stages in problem solving;
+• Analyse the various solutions; and
+• Explain the steps to reach the best solution.
+2.2 NATURE OF THE PROBLEM
+The first step to solve the problem is to understand its different aspects and
+nature i.e. to figure out just what issues, obstacles and goals are involved.
+According to Greeno (1977), Understanding involves constructing an internal
+representation. For e.g.  If you understand a sentence, you create an internal
+
+
+===== PAGE 13 =====
+17
+Stages of Problem Solvingrepresentation or pattern in your head so that concepts are related to each other
+in the same way that they are related to each other in the original sentence.
+In order to create this pattern in your head you must use background knowledge,
+such as the meaning of the various words in the sentence. In order to understand
+a problem you must pay attention to the important information in a problem.
+Furthermore, you must ignore the information that is irrelevant. As soon as the
+problem solver has decided which information is essential and which can be
+disregarded the next step is to find a good way to represent the problem. The
+representation can be done by using symbols, lists, matrices, graphs and visual
+images.
+2.3 GENERATING SOLUTIONS
+The next stage is finding variety of potential solutions for the problem. For this
+one can use one’s  past experiences and/or present resources and thinking critically
+about the problem. Several strategies can be used to solve the problems. Some
+methods are very time consuming but they will yield an answer. Other methods
+are less wasteful of time, but they may not produce a solution. These strategies
+are discussed in another section of the unit.
+2.3.1 Judging the Best Among the Likely Solutions
+At this stage we must evaluate each alternatives and outcomes of the problem.
+The objective of this step is to move closer to goal and learn about major obstacles
+and hidden costs of the particular solution and choose the best solution.
+Carrying out the best solution
+This stage involves actually working out the best solution. Various strategies can
+be adopted in reaching the solution. Algorithms and heuristics are the strategies
+which can be used depending upon the requirements of the problem. These are
+being dealt in the next section.
+Evaluation of solution
+In this the problem solver compares the solution with the representation of the
+problem. The path taken from the initial state to the goal state is checked as to
+whether it is specified as legal or not. Sometimes the evaluation stage leads to
+the conclusion that the problem has not been solved  adequately, and thus one
+starts from an earlier stage, depending upon the source of the inadequacy.
+2.3.2 Strategies for Problem Solving
+An individual uses various kinds of methods or strategies to solve problems.
+Some strategies when used take a long time but definitely give an answer. On the
+other hand, there are some other strategies which take lesser time but do not
+always guarantee success. These strategies can be mainly classified under two
+categories, viz., (i) algorithm and (ii) heuristics.  These two are discussed in the
+following section.
+Algorithm
+An algorithm is a specific procedure for solving a type of problem. An algorithm
+invariably leads to the solution if it is used properly, that is. It is a procedure of
+
+
+===== PAGE 14 =====
+18
+Problem Solving steps that does guarantee a solution if one follows the steps correctly. The rules
+of multiplication constitute an algorithm because a correct answer is guaranteed
+if one follows the rules.
+Consider anagram problems in which we try to reorganise groups of letters into
+words. Examples of algorithms are systematic and unsystematic random search
+techniques. Unsystematic random search means that we try out all kinds of
+possible answers but make no attempt to be orderly in our search and keep no
+record of our previous attempts. As a consequence we may repeat a response
+that has already proved to be wrong. In systematic random search we try out all
+possible answers using a specified system. This method is somewhat more
+efficient than unsystematic random search, but it is highly time consuming when
+there are many alternative answers. If you are given a 3 letter anagram, YBO,
+with instructions to unscramble it, proceed with a systematic random search:
+YOB, BYO, BOY , ! However, notice how time consuming it would be to use a
+systematic random search to solve a longer anagram, such as
+LSSTNEUIAMYOUL.
+Heuristics
+In this strategy an individual does not go for all the alternatives to solve problems
+but choose some most relevant alternatives. This is kind of short cut rule which
+takes lesser time but does not guarantee success. Heuristics are rules of thumb
+that help us simplify and solve problems.
+Heuristics do not guarantee a correct solution to a problem but when they work,
+they permit more rapid solutions. A heuristic device for solving the anagram
+problem would be to look for familiar letter combinations. For e.g. how many
+words can you make from the pool of letters DW ARG? In this anagram we can
+find the familiar combinations dr and gr. We may then quickly find draw, drag,
+and grad. The drawback to this method, however, is that we might miss some
+words.
+Psychologists have paid more attention to how humans use heuristics than how
+they use algorithms. Let us look at some of the heuristics as strategies in solving
+problems. Problem solvers can use one or more of these heuristics as they attack
+a problem.
+Self Assessment Questions
+1) Define problem and problem solving.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+2) Discuss the nature of the problem.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+
+
+===== PAGE 15 =====
+19
+Stages of Problem Solving
+3) How do we generate solutions to the problem?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4) Discuss strategies for problem solving.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+5) What is algorithm?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+6) What is heurisitcs?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+2.3.3 Some Specific Techniques of Problem Solving
+The way to solve a problem depends to a great extent on the nature of the problem
+itself. For example, if you want to go from New Delhi to Chennai you will call
+various travel agents for information regarding the various available options for
+traveling and staying. However, if you want to know your bank balance you will
+not call a travel agent for assistance but go to your bank or nearest ATM or use
+net-banking. This is called domain specific problem solving approaches, that is
+the solution that work only for a limited class of problems. In the following
+section, a certain class of general, domain independent techniques of problem
+solving is discussed.
+2.3.3.1  Generate and Test Techniques
+To understand this let us begin with a simple problem:
+“Think of ten words beginning with letter c that you eat or drink.”
+
+
+===== PAGE 16 =====
+20
+Problem Solving The process that most of us use to arrive at the solution to such a problem generally
+involves what is called generate and test technique. It consists of generating
+possible solutions and then testing them. For example, for the above problem of
+generating a list of things to eat or drink beginning with letter c, some of the
+names that often come to our mind that sound as if beginning with c but which
+actually do not (like ketchup) and some that start with c but are not names of
+eatables/drinks (like cable, can) might have come to your mind a s a solution but
+on thinking you would have discarded these words. This explains the process of
+thinking of possible solutions (generating) and then seeing if those possibilities
+met all the criteria (testing).
+Generate and test is a technique that loses its effectiveness very rapidly when
+there are many possibilities and when there is no particular guidance over the
+generation process. For example, if you forget your A TM pin, the technique
+might eventually work but your frustration level by that time might exceed beyond
+your willingness to work on the task. Moreover, if we do not have a way to keep
+track of the possibilities that we have already tried, along with the ones that we
+still have to try, we might be further frustrated.
+Generate and test can be useful when there aren’t a lot of possibilities to keep
+track of. If you have lost your keys somewhere between your classroom and
+college cafeteria the technique can be easily used to help search the keys.
+2.3.3.2  Means-ends Analysis
+It is a strategy in which the problem solver divides the problem into a number of
+sub problems, or smaller problems. Each of these sub problems is solved by
+detecting the difference between the original state and the goal state and then
+reducing the difference between these two states. The name means ends analysis
+fits the process, because it involves figuring out the “ends” you want and then
+figuring out what “means” you will use to reach those ends. Every day we all
+solve problems by using means ends analysis. Means ends analysis involves
+subgoals to eliminate the difference between the current state and the condition
+for applying desired operator.
+Our original state at one point is an equation
+2s – 10 + 5 = s + 5 + 8
+and our goal state is an equation with a single s alone one side. We reduced the
+difference between the two states by adding +5 to each side of the equation and
+subtracting s from each side of the equation.
+This strategy repeatedly compares states and seeks operators, establishing
+subgoals and finding ways to reach the sub goals, all on the way to finding a path
+to the final goal.
+2.3.3.3  Backward Search
+With the backward search heuristic, the problem solver starts at the goal state.
+Sometimes it is useful to start at the goal state of a problem and attempt to work
+backward to the initial state. In solving a paper-pencil maze, it may be easier to
+see the correct path by starting at the end. Working backwards can be a very
+useful heuristic, particularly for problems that contain a uniquely specified goal
+state. For example, a backward search would be ideal for a maze with many
+paths out of the beginning point yet only one path leading form the goal.
+
+
+===== PAGE 17 =====
+21
+Stages of Problem SolvingThe reason working backward helps lies in the subgoals that one begins to see
+by starting with the final goal. Once the problem solver can envision a string of
+subgoals projecting backward from the goal state, then going about solving the
+subgoals in a forward direction can be readily accomplished. Working backward
+is only viable when the goal state is uniquely well defined (Wickelgren, 1974).
+2.3.3.4    Planning Strategy
+In this heuristic, the problem is divided into two simple aspects and complex
+aspect. First, the simple aspect of the problem is solved leaving behind the
+complex one, and thereafter the complex aspect is taken and is solved. It is
+particularly useful if the aspects that are ignored can easily be worked into the
+solutions to the complicated problems.
+One common kind of planning strategy is analogy. In analogy, a solution to an
+earlier problem is used in order to help with an original problem. The current
+problem is solved on the basis of past experience of solving similar problems.
+This heuristic looks for similarities between a current problem and one solved in
+the past. Try to solve the anagram BODUT. By thinking of words D, O, U will
+simplify the problem information. The usefulness of the planning strategy depends
+on the extent to which the solution to the simple  problem will be helpful when
+the complex problem is considered.
+2.3.3.5   Thinking Aloud
+Ericsson and Simon referred to the method of thinking aloud as a Method for
+Studying Human Problem Solving is referred too as concurrent verbalisation ,
+that is verbalisation of information at the time the subject is attending to it.  This
+is to be distinguished from retrospective verbalisation, in which the subject is
+asked about cognitive processes that occurred at an earlier point in time.
+Concurrent verbalisation relies on short-term memory whereas retrospective
+verbalisation relies on long-term memory.
+When subjects think aloud, they put into words a process that normally takes
+place nonverbally. This provides a description of the subject’s solution process.
+A verbal description so obtained is called a protocol. Although there may be
+omissions in these protocols, they still contain a great deal of useful information.
+NeweIl (1977) recommended a series of steps in order to clarify the protocol.
+1
+st Step: First, the protocol needs to be divided into phrases, which are
+descriptions of single acts.
+2nd Step:Seconcd, the experimenter constructs a problem behaviour graph, a
+concrete description of the way in which the subject moves around in
+the problem space. This description can be used as the basis for a
+production system designed to model the subject’s behaviour.
+Although concurrent verbalisation is widely used, there is evidence suggesting
+that it may interfere with some aspects ‘of the problem-solving process. For
+example, Schooler, Ohlsson, and Brooks (1993) did a study in which subjects
+were interrupted while trying to solve an insight problem.
+
+
+===== PAGE 18 =====
+22
+Problem Solving One group was then asked to describe their problem-solving strategies, while
+another group engaged in an activity irrelevant to the problem. Subjects then
+resumed attempting to solve the problem.
+The group that had verbalised their strategies were less likely to solve the problem
+than the group engaged in an irrelevant activity. Schooler, Ohlsson, and Brooks
+concluded that there are “non reportable or unconscious processes” that lead to
+insightful solutions, and these are interfered with by verbalisation.
+These non reportable processes may be memory searches that lead to the recovery
+of the items needed for the solution. These processes may be disrupted by the
+attempt to verbalise the solution process. Therefore, researches using think-aloud
+techniques should also consider including silent control groups to determine
+whether verbalisation influencing performance.
+2.3.3.6   Other Strategies
+Some other strategies that people often employ in problem solving include:
+Abstraction: This technique involves solving the problem in a model of the system
+before applying it to the real system.
+Divide and conquer: While using this approach to problem solving, people  break
+down a large, complex problem into smaller, solvable problems.
+Hypothesis testing: This involves assuming a possible explanation to the problem
+and trying to prove (or, in some contexts, disprove) the assumption.
+Lateral thinking: Many problems involve approaching solutions indirectly and
+creatively and this involves the use of lateral thinking.
+Method of focal objects:  This approach involves synthesizing seemingly non-
+matching characteristics of different objects into something new and reaching to
+a solution.
+Reduction: Problem solving may also be done by transforming the problem into
+another problem for which solutions exist and this is called reduction.
+Research: This involves employing existing ideas or adapting existing solutions
+to similar problems.
+Root cause analysis: involves eliminating the cause of the problem.
+Trial-and-error: This is one of the most widely studied methods in psychology
+and involves testing possible solutions until the right one is found.
+Brainstorming: This approach is especially used among groups of people wherein
+a large number of solutions or ideas are suggested by various members of the
+groups and later these ideas are combined and developed until an optimum
+solution is found.
+Self Assessment Questions
+1) What are some of the specific techniques of problem solving?
+..............................................................................................................
+..............................................................................................................
+
+
+===== PAGE 19 =====
+23
+Stages of Problem Solving..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+2) What is involved in “generate and test” technique?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+3) What do you understand by the term “Means Ends “ analysis?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4) What is backward search in problem solving?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+5) Discuss “thinking aloud” as a method for studying human problem
+solving.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+2.4 CREATIVITY AND PROBLEM SOLVING
+As discussed in Unit1, many of the problems are called insight problems,  and
+are believed to have a solution that comes from insight. The process by which
+insight comes is not well understood. However it is strongly believed that
+creativity plays a vital role in insight and vice versa.
+Although the term is difficult to define precisely, many psychologists believe
+that creativity has to do with appropriate novelty,  that is, originality that suits
+some purpose (Hennessey & Amabile, 1988).
+
+
+===== PAGE 20 =====
+24
+Problem Solving Appropriate ideas that lack novelty are mundane; conversely original ideas that
+do not address some problem in a useful way are bizarre. Cognitive scientists
+refer to creativity as a combination, or recombination, of knowledge, information
+or mental representations.  In other words the person who has created it knows
+about it, and also has depicted  it.(Dartnall, 2002). Creative problem solving
+forms the essence of insight problem solutions. Insight seems to involve at least
+three separate problem-solving skills (Davidson, 1986; Davidson & Sternberg,
+1984) and these are (i) selective encoding (ii) selective combination (iii) selective
+comparison.  These are discussed below.
+1) Selective Encoding. When we try to solve a new problem, we are often
+overwhelmed by large amounts of useless information. An insight arises
+when we determine which information is relevant for further consideration.
+Sir Alexander Fleming discovered penicillin through selective encoding.
+Fleming’s attempts to grow bacteria had been disrupted by the appearance
+of a mold in his culture. Rather than dismissing this mold as irrelevant to
+his original experiments, he realised that the mold’s bacteria has a  killing
+ability that  was relevant to a greater medical concern, that is the need for
+antibiotics to kill disease-causing organisms.
+2) Selective Combination: When we have a problem to solve, we often have
+all the pieces of the solution, but we do  not  know how to put them together.
+An insight arises when we discover a novel way of combining the elements
+of the solution.
+For example, Darwin’s construction of the theory of evolution involved
+selective combination. The various facts about natural history had been
+available to him for a long time. What Darwin did was to combine this
+information into an innovative and coherent theory.
+3) Selective Comparison. When we solve a problem, we often use a model
+solution that we encountered in the past. Insight occurs when we discover
+that a more novel comparison leads to unforeseen consequences.
+To give an example, Kekule’s discovery of the structure of the benzene ring
+involved selective comparison.
+In a dream Kekule saw a snake curl back on itself and catch its own tail. Upon
+waking, he realised that this was the structure he had been seeking. His insight
+was to discern the underlying similarity between his dream image and the benzene
+ring.
+As the above  examples suggest, insight is an important aspect of the creative
+process. Even though the laboratory puzzles and problems that we have been
+discussing in this Unit as examples bear little resemblance to the kinds of problems
+that Fleming, Darwin, and Kekule worked on, they all involve insight in that a
+solution suddenly comes to mind. They also share another property, that is, the
+person begins in the dark, not knowing what to do. What factors promote creative
+solutions to important problems?
+2.4.1 Stages Involved in Creative Discoveries
+Many creative discoveries seem to occur in these four stages:
+1) Preparation
+2) Incubation
+
+
+===== PAGE 21 =====
+25
+Stages of Problem Solving3) Insight
+4) V erification.
+As discussed, Creativity is the ability to see something new in something quite
+ordinary.
+Preparation: First a goal is set. Then potentially relevant information is gathered,
+sometimes deliberately, sometimes by accident.
+Incubation: This preparation done, a period of apparent inactivity, that is
+incubation can set in. Incubation may involve unconscious mental activity, or it
+may simply be a period of waiting for some important missing link to fall into
+place.
+Insight: The moment of insight (also called illumination) often involves familiar
+elements coming together in new ways. The mathematician Henri Poincare wrote,
+“To create consists of making new combinations of associative elements that are
+useful” (1929).
+Verification: The final step, verification, tells whether a new combination is, in
+fact, useful. Two characteristics stand out in the creative person:
+The first is a clear sense of purpose: An invention, a painting, a musical
+composition, or any other creative product is a solution to a problem. Without a
+clear goal, a clear problem to solve, nothing would be created. The second
+outstanding characteristic of creative people is their store of knowledge and
+techniques. Inventors have to know both the content and the techniques of their
+field, composers have to know music and the craft of composition, and scientists
+must know the facts and theories of their field and master the mathematical and
+technical tools of the trade. Because “creativity” has an almost mystical
+connotation, it is easy to forget how basic and indispensable purpose and
+knowledge are.
+Self Assessment Questions
+1) How are creativity and problem solving related?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+2) What are the 3 problem solving skills that insight involves?  Give
+examples
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+
+
+===== PAGE 22 =====
+26
+Problem Solving
+3) What are the various stages in creative discoveries?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+2.5 ARTIFICIAL INTELLIGENCE IN PROBLEM
+SOLVING
+Researchers studying problem solving propose problem space hypothesis which
+states that “every possible state of affairs within a problem corresponds to a
+particular mental node and the entire set of nodes occupy some mental area and
+this area together with the mental graph is a problem space”.
+This problem space hypothesis has been used to create expert systems called
+computer programmes designed to model the judgments of one or more human
+experts in a particular field.
+Expert systems contain a knowledge base that  store facts relevant within that
+field. They typically also contain a set of inference rules, a search engine that the
+programme uses to search knowledge base using inference base and some interface
+or means of interacting with a human user who has a question or problem for
+which he/ she is consulting the expert system.
+These are computer programmes that solve problems in ways that are similar to
+the intelligent way in which humans solve problems are called artificial
+intelligence approaches and have been found to be extremely influential.
+2.5.1 Criticisms of the Computer Simulation Approach
+Not all researchers agree that computer simulation can capture the way that people
+think when they solve problems. Some people argue that thinking is just too
+complex to be mimicked by a machine. However, as we know, computer programs
+can produce some solutions to very complicated problems. Current experience
+and researches suggest that there appear to be no reason, in principle, why
+computer program should not-approach (or surpass) the complexity of human
+thought.
+Other criticisms derive from the belief that whatever it is that computer programs
+do it does not really count as thinking and problem solving. People who express
+this belief often ally themselves with the German philosopher Heidegger (1968).
+The properties of computer programs that they can represent the chain of
+inferences leading from one state to another are not the essence of thinking for
+Heidegger who strongly propound that ‘Computer programmes are good
+stimulators of such processes as reasoning and calculating. However, the essence
+of thinking lies behind such processes as reasoning and calculating and computer
+programmes are not reducible to them. It is the subjective origin of thinking-the
+
+
+===== PAGE 23 =====
+27
+Stages of Problem Solvingconcern with the fundamental problem of being alive in the world which the
+computer programmes do not capture. Despite these arguments, in the current
+times artificial intelligence is widely used for problem solving and appears to
+have promising future.
+Self Assessment Questions
+1) How does artificial intelligence function in problem solving?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+2) What is meant by computer simulation approach in problem solving?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+3) What are the criticisms against computer simulation?  Discuss
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+2.6 LET US SUM UP
+Problem solving involves both domain specific and general strategies that people
+may use. General strategies (like generate and test, means-ends analysis, reasoning
+by analogy) are believed to be general strategies of problem solving that people
+use in wide variety of situations. In contrast there are domain specific strategies
+that are suitable in one particular situation and problem but not for others.
+Many expert systems that represent artificial intelligence are specially designed
+computer programmes that mimic a human expert in a specific field. However,
+there are many unanswered questions pertaining to the utility of artificial
+intelligence in problem solving.  Insight problem solving has been found to be
+related to creativity. In summary, problem solving is a multi step process and
+may be facilitated by individual characteristics such as creativity.
+
+
+===== PAGE 24 =====
+28
+Problem Solving
+2.7 UNIT END QUESTIONS
+1) What are the stages in problem solving? Highlight the stages with a problem
+from your day to day life.
+2) Compare and contrast the generate- test, the means ends and the backward
+search method of problem solving.
+3) Discuss “thinking aloud as a method of studying human problem solving
+4) Discuss “other strategies” in problem solving.  For example, abstraction,
+divide and conquer etc.
+5) Critically evaluate the utility of artificial intelligence in problem solving?
+6) Compare and contrast the general stages of problem solving with the stages
+of creative problem solving.
+7) Discuss the concept of thinking aloud approach of problem solving.
+2.8 SUGGESTED READINGS
+Hunt, R. R., & Ellis, H.C. (2006). Fundamentals of Cognitive Psychology. New
+Delhi: Tata McGraw Hill.
+Solso, R.L. (2006). Cognitive Psychology. New Delhi: Pearson Education.
+Sternberg, R.J. (2009). Applied Cognitive Psychology: Perceiving, Learning,
+and Remembering. London: Cengage.
+References
+Feldman, R. S. (2008). Essentials of Understanding Psychology . New Delhi:
+Tata McGraw Hill.
+Galotti, K.M. (2008). Cognitive Psychology In and Out of the Laboratory. Canada:
+Nelson Education
+Reed, S.K. (2010). Cognition: Theories and Applications. London: Cengage.
+
+
+===== PAGE 25 =====
+29
+Stages of Problem Solving
+UNIT 3 THEORETICAL APPROACHES TO
+PROBLEM SOLVING
+Structure
+3.0 Introduction
+3.1 Objectives
+3.2 Approaches to Problem Solving
+3.2.1 Traditional Approaches
+3.2.2 Gestalt Approaches
+3.2.3 Information Processing and Computer Simulation Approach
+3.2.3.1 The General Problem Solver
+3.2.3.2 Mean end Analysis
+3.2.3.3 Wickegren’s General Problem Solving Strategies
+3.3 Newell’s Approach
+3.3.1 Summary of the Problem Space Hypothesis
+3.4 Problem Solving as Modelling
+3.5 Let Us Sum Up
+3.6 Unit End Questions
+3.7 Suggested Readings
+3.0 INTRODUCTION
+The different forms of thinking behaviour including problem solving vary along
+a number of dimensions. The degree to which we are conscious of our thought
+processes can vary considerably. We tend to be conscious of the products of
+problem solving rather than the processes themselves. Furthermore, even these
+conscious products may not be recalled accurately in retrospect by people.
+Problem solving tasks can also be more or less directed. Some problem solving
+tasks are directed towards specific, well-defined goals, whereas other forms are
+rambling and goal-less. Thinking episodes directed at problem solving also differ
+in terms of the amount of knowledge that comes into play to achieve .a goal and
+these may be knowledge-lean or knowledge-rich. Most of the early research on
+problem solving has examined directed thinking in knowledge-lean situations
+that have specific goals (i.e. puzzles). Later research considers more knowledge-
+rich situations (e.g. expert problem solving). In the present unit  we focus on the
+various theoretical approaches to understanding the process and nature of problem
+solving.
+3.1 OBJECTIVES
+On completing this unit, you will be able to:
+• Explain the theoretical aspects of problem solving;
+• Give a historical account of problem solving; and
+• Describe the various theories related to problem solving.
+
+
+===== PAGE 26 =====
+30
+Problem Solving
+3.2 APPROACHES TO PROBLEM SOLVING
+In this unit,  we will examine the theoretical understandings of nature and process
+of problem solving  from the traditional to the most recent viewpoints. The
+theoretical models that are discussed in detail include the traditional models of
+problem solving,  Gestaltists Theories, Information processing and computer
+simulation, The General Problem Solver (GPS), Wickelgren’s general problem
+solving strategies and Newell’s approach to understanding Problem Solving.
+3.2.1 Traditional Approaches
+Traditional approaches explain problem solving in terms of principles of
+associative learning derived from the studies of classical and instrumental
+conditioning. According to some theorists an individual enters a problem situation
+with an existing complex of stimulus response associations as a result of prior
+experience. The problem is more likely to elicit some of these associations than
+others, with a clear implication that problem difficulty will depend on the strength
+of the correct association relative to the strength of other incorrect associations.
+In the course of problem solving, the associative complex gets rearranged as
+some tendencies are weakened through extinction (failure) and other strengthened
+through reinforcement (success). This viewpoint stresses the transfer of prior
+learning to the problem situation and to the learning which takes place during
+problem solving.
+3.2.2 Gestalt Approaches
+A different view of problem solving was proposed by the gestalt psychologists.
+These theorists emphasised the importance of the structure of the problem situations
+and the formation of new combinations of old ideas. They were particularly
+interested in how people solve problems by rearrangement of objects. A well known
+example is the problem described by Kohler (1925) in his book, The Mentality of
+Apes. Kohler hung some fruits from the top of a cage to reach it. The cage contained
+several sticks and crates. The solution depended on finding a correct way to rearrange
+the objects. According to the Gestalt analysis, solving the problem required the
+reorganisation of the objects into a new structure. Gestaltists argued that discovering
+the correct organisation usually occurred as a flash of insight. Insight is the sudden
+discovery of the correct solution following a period of incorrect attempts based
+primarily on trial and error. Insightful solutions seem to occur in a flash.
+Gestalt psychologists distinguished between reproductive and productive thinking
+(Wertheimer, 1959). Reproductive thinking entails the application of tried and
+true paths to solution. The thinker reproduces a series of steps that are known to
+yield a workable answer by using rote memory. Productive thinking on the other
+hand, requires insight and creativity. According to gestalts view the thinker must
+see a new way of organising the problem, a new way of structuring the elements
+of thought and perception. A classic problem calling for productive insightful
+thinking is the nine dot problem shown below:
+ •  •               •
+  •               •               •
+  •               •               •
+Fig. 1: The Nine dot problem
+
+
+===== PAGE 27 =====
+31
+Theoretical Approaches to
+Problem Solving
+The task (problem) is to connect the nine dots with just four straight lines, without
+lifting your pencil from the paper in drawing the lines. To think productively in
+this problem situation one must restructure the problem, to throw off the
+unnecessary assumption that the lines must lie within the visual boundaries.
+Self Assessment Questions
+1) Describe traditional approaches to problem solving.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+2) Describe Gestalt approaches to problem solving.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+3) Compare and contrast the traditional and Gestalt approaches.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+3.2.3 Information Processing and Computer Simulation
+A number of researchers have tried to program computer to perform tasks that
+human beings do. Such computer simulation research has had a profound
+influence on psychology of human cognitive processes. The method consists of
+programming a computer to work in a specified manner and comparing its
+performance to that of human subjects given the same tasks. Researchers
+employing computer simulation have made major contributions to the
+development of  information processing view of problem solving.
+A problem requires a person not only to register information from the environment
+but also to operate on, modify, or transform that information in some way in
+order to reach a solution.
+Solving problem also requires the retrieval of both factual and procedural
+knowledge from long term memory. Especially for longer problems, reaching a
+solution might involve repeated storage and retrieval of information generated
+early in the problem for use in later stages. Even this brief listing clearly indicates
+
+
+===== PAGE 28 =====
+32
+Problem Solving that problem solving is not a single cognitive process but rather involves a number
+of activities which need to be properly executed and organised to be successful.
+The most promising kind of theory in the early 1980s involves computer
+simulation. In the last couple of decades a number of computer simulation theories
+of problem solving have emerged. The general problem solver (GPS) developed
+by Newell, Shaw and Simon (1958). It introduced a way of looking at problem
+solving which has influenced virtually all problem solving theories.
+3.2.3.1   The General Problem Solver (GPS)
+The program was equipped with the equivalent of:
+A limited capacity working memory characterised by rapid storage and retrieval
+A large capacity long term memory characterised by relatively low storage and
+retrieval
+A serial processor that performs one operation at a time
+A reliance upon heuristics, rather than algorithms that would require a large
+number of high speed calculations.
+Newell and his colleagues collected verbal protocols that were used and  kept as
+a record of people talking aloud as they solved problems. Then they transcribed
+these lengthy records carefully to see if they could find general heuristics that
+emerged. It introduced a way of conceptualising problem that is adopted in most
+contemporary theories of problem solving.
+The General Problem Solver (GPS) assumes that the problem solver represents
+a problem as a problem space which consists of a set of nodes, each node
+corresponding to a state of knowledge about the problem. The problem solver
+begins at the initial state of knowledge and seeks to convert it into the goal state
+by applying operators, which are actions that are permitted in order to move
+from one state of another. Problem solving, then, requires a constructive search
+during which the solver builds up a problem space, which leads from the initial
+to goal state using a set of allowed operators.
+3.2.3.2   Means End Analysis
+This was recognised as a general problem solving heuristic which involves a
+search for operations that will reduce the difference between present state of
+knowledge and the goal state. In particular, means-end analysis involves the
+following steps:
+Set up a goal
+Look for a difference between the current problem state and the goal state.
+Look for a method to decrease or eliminate the difference between the two stages.
+Set as a sub goal which is the application of that method.
+If necessary apply means- ends analysis to apply to the sub goal.
+Thus, the main heuristic used in GPS involves setting up goals and sub goals. In
+fact, this strategy can be expressed very precisely as a production system, that is,
+as a set of if – then pairs stored in the computers memory as production.
+
+
+===== PAGE 29 =====
+33
+Theoretical Approaches to
+Problem Solving
+An illustrative geometric problem:
+The problem is that ABCD is a rectangle; prove that AD and BC are same length.
+Steps in problem solving:
+Represent the problem as a proposition or in visual form
+Determine the goal.
+Break down the goal into sub goals.
+Select a problem solving technique
+Solution is:
+It can thus be proven that triangles ACD and BDC are congruent if one could
+prove that two sides included angles are equal. (We reason from goal to sub
+goal, proving the triangles congruent, from the sub goal to another sub goal
+improving the sides and angle equal), and so on, until we reach a sub goal that
+we have a ready means of obtaining).
+The 3 strategies that we can use to solve this problem are difference reduction,
+means-end-analysis, and working backwards and these three strategies are
+extremely general and can be applied to virtually any problem.
+3.2.3.3    Wickelgren’s General Problem Solving Strategies
+Wickelgren’s view of problem solving is based on information processing theories
+such as GPS. According to this view, a formal problem contains three types of
+information:
+A statement of the initial state.
+Description of the goal state.
+Description of set of operation or transformations.
+A solution can be defined as a sequence of state or actions which helps to represent
+in a diagram called the State Action Tree.  The nodes or branch points on the tree
+represent all the possibly different problem states that could result from all the
+different action sequences.
+
+
+===== PAGE 30 =====
+34
+Problem Solving The branches on the tree represent the possible actions that could be made at the
+particular state of knowledge. The given state is represented by the single node
+at the top level of the state action tree, and the goal state is represented by the
+indicated node in the lowest level of the tree.
+For this schematic tree, we assume that from the goal state there are only two
+possible actions that the person can take. One of which starts the person on the
+path toward the goal, the other of which does not.
+Having chosen one of these (thereby leading the person to state level 1), the
+person is then faced with a new set of possible actions. Here, we arbitrarily
+assume that there are three possible actions that could be taken at either of the
+state level 1 nodes.
+This successive making of choices goes on and on until the person either reaches
+the goal state or finds himself at a dead end. Thinking about state action trees is
+the fact that as you get further into a problem (i.e. lower and lower levels in the
+tree) the number of possible action sequences increases rapidly. Wickelgren argues
+that there are  seven general problem solving techniques for searching the state
+action tree.
+i) Inference: Deducing from the explicitly stated goals givens, and operations
+stated in the problem
+ii) Classification of action sequences: organising possible sequences of actions
+(or operations) that are equivalent as far as the problem is concerned. These
+are called equivalence classes.
+iii) State evaluation and hill climbing:  state evaluation involves defining a
+quantitative evaluation function that can be calculated for all possible
+problem states and hill climbing involves choosing the action to be taken
+next that will have an evaluation that is closest to the goal.
+iv) Subgoals: This stage involves searching for sub goals involve breaking down
+the problem into sub goals to make it simpler.
+v) Contradiction: deriving some inference from the givens that is inconsistent
+with the goal state to narrow down the state action tree in a systematic
+fashion by eliminating possibilities that could possibly not work.
+vi) Working backward: It involves beginning with the goal state and working
+backward from it.
+vii) Finding relations between problems:  finding relations between the new
+problems and problems solved previously.
+Self Assessment Questions
+1) Describe and delineate the characteristic features of information  and
+computer simulation approach to problem solving.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+
+
+===== PAGE 31 =====
+35
+Theoretical Approaches to
+Problem Solving2) What do you understand  by the term General Problem Solver.?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+3) Describe the Menan end analysis with examples
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4) Put forward in detail the general problem solving strategies of
+Wickelgren.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+3.3 NEWELL’S APPROACH
+It is very natural to think of problems as being solved through the exploration of
+different paths to a solution. Taker maze for example.  In  this, you start from a
+point outside the maze and then progress through it to the centre. On your way,
+you reach junctions where you have to choose between going straight on, turning
+to the left or right, or turning back. Each of these alternative paths may branch
+again and again so that, in the maze as a whole, there are hundreds of alternative
+paths (only some of which will lead to the centre). Different strategies can be
+used to find one’s way through a labyrinth.
+The strategies provide you with a systematic method for searching the maze and
+help you to select one from among the many alternative paths.
+Newell and Simon used parallels to these basic ideas to characterise human
+problem solving behaviour.
+They suggested that the objective structure of a problem can be characterised as:
+i) a set of states, beginning from an initial state (e.g. standing outside the maze),
+ii) involving many intermediate states (e.g. moving through the maze), and
+iii) ending with a goal state (e.g. being at the centre of the maze).
+
+
+===== PAGE 32 =====
+36
+Problem Solving The application of these operators (turn left, go straight etc.)  results in a move
+from one state to another. In any given state there may be several different
+operators that apply (e.g. turn left, turn right, go back) and each of these will
+generate numerous alternative states. Thus, there is a whole space of possible
+states and paths through this space , and only some of these will lead to the goal
+state. This problem space describes the abstract structure of a problem.
+3.3.1 Summary of  The Problem Space Hypothesis
+For any given problem there are a large number of alternative paths from an
+initial state to a goal state; the total set of such states, as generated by the legal
+operators, is called the basic problem space.
+People’s problem solving behaviour can be viewed as the production of
+knowledge states by the application of mental operators, moving from an initial
+knowledge state to a goal, knowledge state.
+Mental operators encode legal moves that can be made.  There are also restrictions
+which disallow a move if certain conditions hold.
+People use their knowledge and various heuristic methods (like means-end
+analysis) to search through the problem space and to find a path from the initial
+state to the goal state.
+All of these processes occur within the limits of a particular cognitive system.
+That is,  there may be working memory limitations and limitations on the speed
+with which information can be stored and retrieved from long-term memory.
+Newell’s approach, which is based on this problem space hypothesis, propounds
+that the knowledge level rationalises behaviour in terms of the reasons that an
+agent has to believe that certain actions will lead to achieving certain goals. In
+this sense knowledge is a means to an end, a resource for behaviour.
+The goal of problem solving is to select one of the possible actions.
+3.4 PROBLEM SOLVING AS MODELLING
+More recently, a different view is being explored, namely the view of problem
+solving as modeling.
+The idea is that problem solving is the construction of  situation specific model
+or case model.
+From a knowledge level perspective the person’s  perception of the world is
+through knowledge alone. A goal therefore must correspond to the desired state
+of ones knowledge about the world.
+Consequently this knowledge must refer to the specific systems that the goal is
+about. The case model thus summarises the person’s  understanding of the
+problem, and allows it to eventually conclude that the goal has been reached.
+The actions are the means by which the person interacts with the world. Since at
+the knowledge level the person’s perception is through knowledge, the  interaction
+must be viewed as a way of obtaining knowledge about the reality. Thus one
+may say that actions of perception and interactions fit in this scheme.
+
+
+===== PAGE 33 =====
+37
+Theoretical Approaches to
+Problem Solving
+In the problem solving as modeling, the actions are not the goal of problem
+solving but are themselves a means to an end. That end is the construction of a
+model which will help in eventually achieving the goals. Whether it is the domain
+model or task model the construction of the model should be such that it should
+lead to the goal.
+For instance, in making a domain model, it  is not just packaging statements
+about the domain, but it should involve augmenting  statements with a series of
+assumptions about how the information about the systems is connected.
+In regard to  task model, it  embodies assumptions about the meaning of goals.
+For example, if a diagnostic task is modeled as a process to generate and test
+over components of a system, then one implicitly assumes that the fault one is
+looking for can be localised in a component.
+Thus, modeling a task corresponding to a goal is to make more precise what one
+assumes that goal to mean.
+The role of the problem solving method is to tie domain and task models together
+in an argument on what accomplishing the task means in terms of the available
+models. This is termed as competency theory.
+To give an  example, a heuristic classification problem solver assumes that the
+solution to its problem is within the differential and it is what the problem solver
+believes that it can say about the problem. This actually defines its competence.
+In addition the competence theory also talks about what rationality means. A
+heuristic classification problem solver will use the  knowledge and actions
+pertaining to rationality to reduce the sise of the differential. This is called
+specialised principle of rationality. It contains the basis for all “why” questions
+about the system’s behaviour.
+This model is the case model and it is obtained from the competence theory
+through actions. Specific control regimes (e.g., data-driven or hypothesis-driven
+heuristic classification) correspond to different ways of operationalising the
+specialised principle of rationality.
+The configuration of models, tasks and methods entails a set of assumptions that
+together can be interpreted as a model of the problem. The goal of problem
+solving is to instantiate this model by making it realistic.
+This can be done by making derivations from
+i) the case-specific knowledge obtained by the person’s  actions and
+ii) the assumptions embodied in the domain and task models.
+The form of the case model is determined by the selection of problem solving
+method.
+In this view problem solving is no longer an input-output process (as in KADS-
+I).  It is also not  a means to select actions (as in Newell’s knowledge level
+theory).  It is also not a model transformation process (as in Components of
+Expertise).  It is in fact a process of organising knowledge  by making assumptions
+(i.e., constructing a model) that allow one to conclude (in effect, only assume)
+that the task is accomplished.
+
+
+===== PAGE 34 =====
+38
+Problem Solving Successful problem solving is a matter of making the right assumptions and
+exploring their consequences.
+Problem solving is thus viewed as the ‘creation’ of a suitable case model and the
+interaction with the world is only a resource for this.  It is almost a side-effect in
+the process of maintaining an internal organisation and identity.
+Self Assessment Questions
+1) Describe Newell’s approach to problem solving.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+2) What do you understand by the term problem space hypothesis?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+3) Summarise the Problem space hypothesis.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4) What is problem solving as modeling?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+5) Discuss successful problem solving.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+
+
+===== PAGE 35 =====
+39
+Theoretical Approaches to
+Problem Solving3.5 LET US SUM UP
+Like most of the psychological and cognitive constructs problem solving has
+also been construed in different light by different researchers following different
+schools of psychology. The more traditional approaches explained problem
+solving in terms of principles of associative learning derived from the studies of
+classical and instrumental conditioning.
+Gestaltists viewed it differently and emphasised the importance of the structure
+of the problem situations and the formation of new combinations of old ideas.
+Since then we have observed many different approaches to understanding problem
+solving in terms of the Information Processing and Computer Simulation
+approach, the General Problem Solver (GPS) approach, Wickelgren’s general
+problem solving strategies and Newell’s approach which is based on problem
+space hypothesis.
+As knowledge and research progresses it is likely that one may  come up with
+more comprehensive theories of problem solving.
+3.6 UNIT END QUESTIONS
+1) What are the traditional approaches to understand problem solving? Think
+of some problems that you can explain based on these approaches.
+2) Explain Wickelgren’s  approach of general problem solving strategies.
+3) Compare the Gestallt approach of problem solving with information
+processing approach to problem solving.
+4) Newell’s problem solving approach rests on a famous hypothesis in the
+literature of problem solving. Name and explain this hypothesis.
+5) Critically discuss Newell’s approach to problem solving.
+6) What do you understand by the term “General Problem Solver”. Explain
+with examples.
+7) Do you think that a single approach amongst the approaches discussed in
+this chapter is sufficient to explain all kinds of problems and problem solving
+that we face.
+3.7 SUGGESTED READINGS
+Darley, J.M., Glucksberg, S., & Kinchla, R.A. (1991).  Psychology. New Jersey:
+Prentice Hall.
+Feldman, R . S. (2008). Essentials of Understanding Psychology . New Delhi:
+Tata McGraw Hill.
+Hunt, R. R., & Ellis, H.C. (2006). Fundamentals of Cognitive Psychology. New
+Delhi: Tata McGraw Hill.
+
+
+===== PAGE 36 =====
+40
+Problem Solving References
+Galotti , K.M. (2008). Cognitive Psychology In and Out of the Laboratory. Canada:
+Nelson Education.
+Reed, S.K. (2010). Cognition: Theories and Applications. London: Cengage.
+Solso, R.L. (2006). Cognitive Psychology. New Delhi: Pearson Education.
+Sternberg, R.J. (2009). Applied Cognitive Psychology: Perceiving, Learning,
+and Remembering. London: Cengage.
+
+
+===== PAGE 37 =====
+41
+Theoretical Approaches to
+Problem SolvingUNIT 4 IMPEDIMENTS TO PROBLEM
+SOLVING
+Structure
+4.0 Introduction
+4.1 Objectives
+4.2 Effective Problem Solving
+4.3 Other Methods for Problem Solving
+4.3.1 Einstellung
+4.3.2 Understanding the Problem
+4.4 Overcoming the Constraints
+4.4.1 Typical Processes in Solving a Problem
+4.5 Impediments to Problem Solving
+4.6 Productive Problem Solving and Impediments Thereof
+4.6.1 Impediments ot Productive Problem Solving
+4.7 Problem Solving in Team and Small Groups
+4.8 Critical Thinking in Problem Solving and Impediments
+4.9 Other Barriers to Problem Solving
+4.9.1 Perceptual Blocks
+4.9.2 Emotional Blocks
+4.9.3 Intellectual Blocks
+4.9.4 Expressive Blocks
+4.9.5 Environmental Blocks
+4.9.6 Cultural Blocks
+4.10 Teaching and Learning Strategies that Enhance Problem Solving Skills
+4.10.1 Pedagogical Stuff
+4.10.2 Promoting Transfer
+4.10.3 Dialogue
+4.11 Functional Fixedness
+4.12 Using Complete or Incorrect Representations
+4.13 Lack of Problem Specific Knowledge or Expertise
+4.14 Let Us Sum Up
+4.15 Unit End Questions
+4.16 Suggested Readings
+4.0 INTRODUCTION
+You might have come across many situations when your attempts at problem
+solving may have failed. This is largely because the problem space is not
+adequately searched or because it is not represented well in the first place. There
+are numerous factors that are influential impediments to problem solving.
+Einstellung (or set or mental set) and functional fixedness are classic obstacles
+to both proper representation and search identified by the Gestalt psychologists.
+However, there are other impediments to problem solving also. In this chapter
+we will study some of these impediments to problem solving.
+
+
+===== PAGE 38 =====
+42
+Problem Solving
+4.1 OBJECTIVES
+After completing this unit, you will be able to :
+• Define probles;
+• Differentiate between problems and dilemmas;
+• Define and describe Mental Set;
+• Describe Luchin’s Water Jar Problem;
+• Explain impediments to problem solving;
+• Define Functional Fixedness;
+• Explain Incomplete or Incorrect Representations; and
+• Analyse Lack of Problem Specific Knowledge or Expertise.
+4.2 EFFECTIVE PROBLEM SOLVING
+Depending on the kind of dilemma or problem,  there are a number of models
+that can help people to think through their approaches to decision-making.
+Haynes’ model
+This suggests a 3-step approach in the form of reflective questions, for dealing
+with ethical decision-making dilemmas and problems
+When working out a solution to the problem, there are a few questions one should
+pose to oneself and these are for instance, “If this particular solution is considered
+what will be the consequences and would there be more benefits vis a vis harmful
+effects?”
+Hall’s model (2001)
+Alan Hall (University of Waikato) offers a set of questions that educators can
+use to help consider all things before deciding what they ought to do when
+confronted with an ethical problem, and how they will do it:
+What is the basic issue concerned with the problem?
+What principle is at risk?
+Who will benefit?
+Will benefits be more than harm?
+4.3 OTHER METHODS FOR PROBLEM SOLVING
+4.3.1 Einstellung
+It is the term used by the Gestaltists to describe the tendency to set the mind into
+a routine approach to problem solving. When we considered Wertheimer’s
+laboratory problems, we noted that sometimes previous experience can blind a
+person to simple solutions. The experiments of Luchins (1942; Luchins &
+Luchins, 1950, 1994a, 1994b) are among the most interesting demonstrations of
+the way in which repeating a particular problemsolving method can make a person
+blind to alternative ways of solving the problem.
+
+
+===== PAGE 39 =====
+43
+Impediments to Problem
+Solving
+Luchins (1942) discovered set or Einstellung effects with the water jar problems.
+In this problem it is required to measure out a desired quantity of water using
+three jars with different capacities. Jars used have no gradations on them so they
+have to be filled up to the top to measure amounts that result in the desired
+quantity.
+Luchin’s Water Jar Problems
+                                                                    Jar Sizes
+A B C Goal
+Problem 1 21 127 3 100
+Problem 2 14 163 25 99
+Problem 3 18 43 10 5
+Problem 4 9 42 6 21
+Problem 5 20 59 4 31
+Problem 6 23 49 3 20
+For instance, suppose the desired quantity was 5 cups and Jar A held 10 cups, Jar
+B held 4 cups, and Jar C held 1 cup, the  solution would be to fill A first. Next
+from A pour into B once, and then pour from B into C once (A-B-C). Try all six
+problems in above Table  before proceeding.
+Luchins found that problem solvers adopt a set in solving these problems. After
+solving the first two or three, they automatically try the solution B-A-2C without
+searching the problem space for an alternative solution. Take a look at problem
+6 again. Although B-A-2C works fine, it entails much more effort than A-C. Yet
+because of Einstellung, people typically overlook the obvious, easy solution.
+Langer (1989) saw that Einstellung effects are one type of mindlessness that
+characterises human behaviour, particularly in our dealings with other people.
+All too often we act from a single perspective or rule that has worked in the past.
+Instead of exploring our environment carefully to seek out alternative courses of
+action, we sample just enough features to recognise that our set approach seems
+to be on track.
+Einstellung also constrains how we represent problems as well as how we search
+them.
+Self Assessment Questions
+1) Define problem solving.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+
+
+===== PAGE 40 =====
+44
+Problem Solving
+2) Describe effective problem solving.  What is required for effective
+problem solving.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+3) What are the various other methods of problem solving?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4) What is Einstellung?  Explain
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4.3.2 Understanding the Problem
+1) Interpretation
+Develop a relatively clearer understanding of the problem before attempting
+to solve it.
+Devote more time and effort to the initial formulation of ill structured
+problems.
+Look at the immediate problem in its relation to the broader mission and
+problems of the organisation.
+2) Goals
+Adopt a broader range of goals for problem solving
+When solving problems in groups, have less personal stake in any
+preconceived solution. Because their aim is to arrive at the best solution the
+group can produce.
+4.4 OVERCOMING THE CONSTRAINTS
+The problem solver must adequately anticipate many of the constraints likely to
+arise during problem solving.
+
+
+===== PAGE 41 =====
+45
+Impediments to Problem
+Solving
+They must show a greater tendency to plan, in advance, for how to address
+anticipated constraints.
+They must respond more adaptively and flexibly to constraints that arise
+unexpectedly.
+They should not view the constraints as major impediments to problem solving.
+4.4.1 Typical Processes in Solving a Problem
+• Think through their solution processes in considerable detail
+• Develop an explicit plan for solving the problem, which often includes many
+steps.
+• Collect comprehensive amounts of relevant information from reliable sources
+as part of developing and implementing their solution plan.
+• Monitor progress with the plan and refine it when outcomes are not
+satisfactory.
+• Consult, often extensively, with others in developing their solution plan.
+• Plan for follow-up.
+4.5 IMPEDIMENTS IN PROBLEM SOLVING
+Solving problems is a complex process and each of us is better at the skills
+required at some stages than others.
+A problem exists when an obstacle prevents the person from reaching an objective.
+In order to achieve effective problem solving , this problem solving itself can  be
+divided into stages, which  must be  followed methodically.
+Solving problems effectively requires a controlled mixture of analytical and
+creative thinking.
+The following are the  list of some of the reasons why people fail to find effective
+solutions include:
+• Not being methodical
+• Lack of commitment to solving the problem
+• Misinterpreting the problem
+• Lack of knowledge of the techniques and processes  involved in problem
+solving
+• Inability to use the techniques effectively.
+• Using a method inappropriate to the particular problem
+• Insufficient or inaccurate information
+• Inability to combine analytical and creative thinking
+• Failure to ensure effective implementation.
+
+
+===== PAGE 42 =====
+46
+Problem Solving
+Self Assessment Questions
+1) What are the two important aspects involved in problem solving?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+2) What are the ways in which the constraints in regard to problem solving
+could be overcome?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+3) What are the various impediments in problem solving?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4) Why do people fail to find effective solutions to problems?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4.6 PRODUCTIVE PROBLEM SOLVING AND
+IMPEDIMENTS THEREOF
+Let us first consider what is required for productive problem solving. The
+following provides the requirements
+A clear description of the problem.
+A description of the limiting (or negative) factors involved in the problem.
+A description of the constructive (or positive) factors involved in the problem.
+
+
+===== PAGE 43 =====
+47
+Impediments to Problem
+Solving
+A clear delineation of the “ownership’’ of the problem. Whose problem is it:
+mine, yours, the other guy’s, my boss’, my spouse’s, my child’s, my parents’, my
+teacher’s?
+A clear description of the scope of the problem: How extensive a problem is it?
+How long has this problem existed? How many people are affected? What else
+is affected by this problem?
+A clear description of the consequences if the problem were not solved: What is
+the possible impact on my family, job, marriage, school performance, life in this
+community, etc., if this problem isn’t solved? What is the worst possible thing
+that could happen if this problem isn’t solved?
+A list of brainstormed solutions to the problem, with each alternative analysed
+as to its reality, its benefits and the consequences for following each one.
+A system of ranking each solution to finalise the decision-making process. A
+rating system for analysing each solution is developed, e.g., 100 percent chance
+of success, 75 percent chance of success, 50 percent chance of success.
+It is always ideal to brainstorm the problem and to do this one should follow the
+rules given below:
+1) Express all ideas.
+2) Deem no idea too wild to be considered.
+3) Quantity is important; every idea that comes to mind should be included.
+4) Getting together with others to brainstorm is desirable.
+5) Criticism or negative evaluation regarding any idea is forbidden until
+brainstorming is completed.
+Some of the questions one should ask of oneself in order to achieve effective
+problem solving are:
+• Am I procrastinating?
+• Am I avoiding the problem?
+• Am I in denial?
+• Am I shutting down or blocking my creativity on this problem?
+• Am I ignoring it, hoping it will go away?
+• Am I using magical and/or fantasy thinking in addressing the problem?
+4.6.1 Impediments to Productive Problem Solving
+• A “Yes, but’’ attitude.
+• Intellectual defensiveness closed to new ideas.
+• Fear of being perceived as being incompetent.
+• Fear of one’s ideas being unaccepted.
+• Inability to be objective about the problem.
+• Fear of being wrong.
+• Inability to be creative, imaginative or “off the wall’’ in developing alternative
+solutions.
+
+
+===== PAGE 44 =====
+48
+Problem Solving • Being inflexible or too serious to have fun while problem solving.
+• Not tuning into one’s “inner child’’.
+• Being so chronically immersed or emotionally “stuck’’ in problems that no
+feelings or emotions can be elicited.
+• Believing that one’s emotions and feelings about a problem are “wrong’’
+and should be discounted in problem solving.
+• Resentment about having to solve the problem and blaming others for causing
+the Problem.
+• No desire to own up to the problem yourself.
+• Believing that problems are the concerns of others,  why waste time in trying
+to solving them.
+• Mental and/or physical fatigue from trying to cope with problems and finding
+no fruitful solutions.
+• Burnout, feeling so stressed, anxious or tense in the face of a problem that
+your body systems shut down.
+• Getting so angry about the problem that all energy and attention is drawn to
+the anger rather than to the problem.
+• Feeling sorry for oneself so much that the “self-pity’’ overwhelms and
+obstructs all creative thinking on the matter.
+• Getting so down or depressed about the problem that it is impossible to
+come up long enough to deal with the problem.
+• Denial that the problem exists.
+• Bargaining in dealing with the problem; e.g., agreeing to perform certain
+steps only as long as the solution to the problem benefits you.
+Self Assessment Questions
+1) What is meant by Productive problem solving?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+2) What are the essential pre requisites for productive problem solving?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+
+
+===== PAGE 45 =====
+49
+Impediments to Problem
+Solving3) What are the impediments to productive problem solving?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4) How can you overcome these impediments to productive problem
+solving?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4.7 PROBLEM SOLVING IN TEAMS AND SMALL
+GROUPS
+There are many things that make a group or team fail to solve a problem. Some
+of the barriers in this regard include the following:
+1) Lack of structure.
+When there is no structure group members lose focus and direction.
+2) Poor communication.
+This is a barrier that can wreak havoc for every group member that is involved.
+Poor communication can lead to misunderstanding of the problem.  Further
+poor communication itself can be caused by  inattentiveness and dominance
+that can be made by one or more group members. Ineffective communication
+will definitely be a negative against any discussion or meeting.
+3) No communication
+This would be a problem solving killer.
+4) Negative attitude
+This is a barrier to problem solving in small groups. If members are not
+flexible and open minded during a discussion or meeting, then a balanced
+opinion can not be produced.
+5) No goal or agenda
+When having a team or small group meet for problem solving, it is very
+important to have a goal or agenda. This in turn will help to avoid most
+barriers and keep the group focused and organised.
+6) Lack of participation
+It is important in a small group or team every member should participate in
+the problem solving process. They must all have clear idea as to what  the
+
+
+===== PAGE 46 =====
+50
+Problem Solving group is trying to achieve and give all members time to participate and give
+their views and feelings. This path, in the end, will help to keep focus,
+structure, and communication open for all members.
+In addition to the above other problems that may affect the problem solving
+processes are:
+• Emotions
+• Learning styles
+• Gender
+• Cognitive barriers
+• The lack of transfer of structure between problems.
+4.8 CRITICAL THINKING IN  PROBLEM
+SOLVING AND IMPEDIMENTS
+Critical thinking consists of three steps:
+1) Becoming aware that assumptions exist
+2) Making assumptions explicit
+3) Assessing their accuracy
+Misconceptions about Critical Thinking
+• It is a wholly negative process – it tears down ideas and puts nothing in their
+place
+• It will lead to relativistic freeze – the inability to make commitments to
+people, ideas, and structures. 
+• It seems to involve traumative change – one is expected to abandon old
+assumptions continually. 
+Other fallacies in regard to problem solving are :
+• Irrelevant reason.
+• The person’s character attached to discredit arguer rather than argument
+• Generalisation – one event which follows was cause by first
+• Slippery slope with an either or approach which leads to non resolving a
+problem.
+• Appeal to emotion – emotional appeals rather than logical reasons to persuade.
+Self Assessment Questions
+1) How do problems get resolved in teams and groups?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+
+
+===== PAGE 47 =====
+51
+Impediments to Problem
+Solving2) What makes solution to the problem a failure in teams and groups?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+3) What is meant by critical thinking in problem solving?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4) What are the impediments to problems solving through critical thinking?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4.9 OTHER BARRIERS TO PROBLEM SOLVING
+These are Perceptual blocks, Emotional blocks, Intellectual blocks, Environmental
+blocks, Culture blocks.
+4..9.1 Per ceptual Blocks
+Perceptual blocks exist when we are unable to clearly perceive a problem or the
+information needed to solve it effectively .
+They include:
+a) Seeing only what you expect to see
+Obscures the “true nature of a problem, either because we exclude relevant
+information  or include information simply because we assume it is there.
+b) Stereotyping
+Often we don’t look beyond the obvious and tend to label. For example, if
+someone isn’t working as hard as we would like and we apply the label ‘lazy’ to
+that person, we might overlook the possibility that boredom with monotonous
+work is the problem, and not laziness
+
+
+===== PAGE 48 =====
+52
+Problem Solving c) Not recognising problems
+Problems go unnoticed until the effects have become severe and emergency action
+is required.
+d) Not seeing the problem in perspective
+This results from  taking too narrow a view of the situation, so that we recognise
+only part of the problem or the information required to solve it.  Sometimes
+people fail to recognise how different parts of the problem are related, rather
+they look at the problem more superficially and hence the solution alsom becomes
+inadequate.
+e) Mistaking cause and effect
+If cause and effect are confused then we are unlikely to find an effective solution.
+For example, if goods do not arrive and we assume that the supplier is late in
+despatching them when in fact our ordering department has failed to send out
+the order, then our search for solutions will be misdirected. In this situation the
+late despatch of the goods is an effect of the problem and not a cause.
+4.9.2 Emotional Blocks
+Emotional blocks exist when we perceive a threat to our emotional needs. These
+needs differ in type and strength from person to person but include needs for
+achievement, recognition, order, belonging and self-esteem. The emotional blocks
+include:
+a) Fear of making mistakes or looking foolish
+This is the most significant emotional block because it affects most of us and is
+difficult to overcome. As a result of traditional schooling, the expected reaction
+when we make a mistake or suggest radically different ideas is laughter and
+ridicule. No one likes being laughed at and as a result we learn to fear making
+mistakes and to avoid suggesting ideas which are different.  This block becomes
+more severe in the presence of colleagues of a different rank to our own. With
+those who are more senior we imagine that we will be thought inexperienced or
+immature. With those more junior we want to protect our image as being
+knowledgeable and experienced.
+b) Impatience
+Being impatient to solve a problem may be due either to a desire to succeed
+quickly or to end the discomfort or loss caused by the problem. This has two
+major consequences. We tend to grab the first solution which comes along, without
+adequate analysis of the problem, and we evaluate ideas. too fast, almost
+instinctively rejecting unusual ideas. Either way, our solution is unlikely to be
+the most effective available.
+c) Avoiding anxiety
+This is another common block. Some of- us are more susceptible to anxiety and
+also find it more unpleasant than others. Many factors can cause anxiety, including
+high risk, disorder and ambiguity, long-term stress, and fear for our security. The
+effects on problem solving include avoiding risks, indecision in situations which
+are not ‘black and white’, excessive reliance on others’ judgement, and avoiding
+challenging the status quo.            .
+
+
+===== PAGE 49 =====
+53
+Impediments to Problem
+Solving
+d) Fear of taking risks
+This leads to the avoidance of situations where the outcome is uncertain or could
+be unpleasant. A major cause is our desire for security. The consequences include
+setting objectives within easy reach, so that there is no risk of failure, and accepting
+known solutions in preference to the unusual because their value is certain. A
+liking for taking risks and over-confidence in being able to avoid unpleasant,
+consequences are more dangerous blocks.
+e) Need for order
+This is related to avoiding anxiety. It can lead to an inability to cope with the
+frustration of situations which are not clear cut or where ambiguities exist.
+f) Lack of challenge
+This may arise when the problem is routine or the benefits/losses are not
+significant to us. The result is that either we don’t tackle the problem or we take
+the easiest, quickest route to solution.
+4.9.3 Intellectual Blocks
+Intellectual blocks exist when we don’t have the necessary thinking skills to find
+a successful solution, or are unable to use them effectively. They include:
+a) Lack of knowledge or skill in the problem solving process
+This is one of the most common blocks. It includes: inadequate skills in analytical
+and creative thinking; an inflexible strategy, using one approach for every type
+of problem; the inability to use the various problem solving techniques. They
+can all lead to ineffective solutions.
+b) Lack of creative thinking
+This is always caused by an inability to use the skills rather than their absence,
+resulting from the dominance of analytical thinking in our day-to-day lives and
+a lack of practice.
+c) Inflexible thinking
+This is a difficulty in switching from one type of thinking skill to another, such
+as from analysis to idea generation or from verbal to visual thinking.
+d) Not being methodical
+This is perhaps the most common block. A step-by-step approach is essential to
+solving problems effectively.
+e) Lack of knowledge or skill in using the ‘Language’  of the problem
+If a problem involves a language that we cannot understand or cannot use, such
+as specialist jargon or statistical analysis, we will not be able to tackle the problem
+effectively. Similarly, we may use an inappropriate language, such as trying to
+find an error in accounts by describing the situation verbally rather than analysing
+it mathematically.
+f) Using inadequate information
+This happens when we do not make sufficient effort to collect the relevant
+information, or do not understand what information is relevant, where to find it,
+
+
+===== PAGE 50 =====
+54
+Problem Solving or how it relates to the problem. Similarly, using inaccurate information can lead
+us to the wrong conclusions.
+4.9.4 Expressive Blocks
+Expressive blocks arise when we are unable to communicate in the way required
+to produce an effective solution, e.g. not being able to express our ideas effectively
+to those who have to implement the solution.            .
+Expressive blocks exist when we do not have the knowledge or skills necessary
+to communicate or record ideas in the ways required. They are caused by an
+inability to use ‘languages’ effectively, such as words, drawings, mathematics,
+scientific symbols, and so on. They include:
+a) Using the wrong language
+Some problems are more effectively solved or communicated using one language
+rather than another. For example, we are unlikely to get very far if we record data
+only verbally when the problem requires quantitative analysis. Similarly, people
+may find it hard to grasp our meaning if we try to explain our feelings about a
+situation using mathematics instead of words.
+b) Unfamiliarity with a particular application of a language
+The most obvious example is the difficulty many people have making a speech,
+even though they can write their ideas effectively on paper.
+Inadequate explanations
+These can result from a real lack of information about what you are trying to
+convey, or from assuming that your audience already has some of the information
+when, they don’t.
+c) A passive management style
+A situation where we are reluctant to or find it difficult to exert influence may
+prevent us communicating our ideas effectively. This is particularly important
+when people need to be convinced of the validity of ideas.
+d) A dominant management style
+This is when we exert oppressive control, either deliberately or unconsciously,
+and can make those we are communicating with automatically reluctant to accept
+what we say or hostile to our ideas.
+4.9.5 Environmental Blocks
+Environmental blocks are caused by external obstacles in the social or physical
+environment, which prevent us from solving a problem effectively, e.g.
+distractions from the task.
+Environmental blocks, which exist when the social or physical environment
+hinders our problem solving, include:
+i) Management style
+The way in which we are managed can influence both our attitude to problem
+solving and the freedom we have to create and implement ideas. For example, if
+
+
+===== PAGE 51 =====
+55
+Impediments to Problem
+Solving
+our ideas are dismissed constantly with comments such as ‘No, it wouldn’t work
+because ...’, or ‘No, we’ve tried it before and it didn’t work’, we soon give up
+trying.
+ii) Distractions
+Due to excessive noise and interruptions, these affect some people more than
+others, but in general they have a detrimental effect on problem solving.
+iii) Physical discomfort
+This can create a distraction as well as resulting in stress or lethargy depending
+on the circumstances. For example, poorly designed chairs may create a distraction
+by giving us backache which, in turn, can make us irritable and less interested in
+any type of work.
+iv) Lack of support
+This comes in many forms. For example, we may need specialist information,
+advice, skills or other resources, or authority to take action. A more pervasive
+aspect of this block is a lack of encouragement and the necessary organisational
+structure to support and exploit people’s ideas.
+v) Stress
+Stress due to pressure of work and deadlines, affects people differently. For those
+who are susceptible to stress it can be a powerful block, hindering creative thinking
+in particular.
+vi) Lack of communication
+This has a number of effects, including inability to get the information you require
+and a lack of encouragement.
+vii) Monotonous work
+This can dull enthusiasm for solving problems and put us onto ‘automatic pilot’,
+making us blind to problems when they occur.
+viii)Expectations of others
+These can influence both our general performance in problem solving and the
+objectives we set ourselves. For example, if our peers and superiors are happy
+with a regular solution to a problem we may feel that it’s a waste of time looking
+for a new; more effective solution. On the other hand, if we are expected to find
+an innovative solution we are likely to make a greater effort. 
+4.9.6 Cultural Blocks
+Cultural blocks result from our conditioning to accept what is expected or ‘normal’
+in a given situation, e.g. when the work ethic says that we must be serious-
+minded, but finding an effective solution requires some playful fantasy. 
+Cultural blocks exist when our problem solving is hindrance by accepting that
+some things are good or right and are done, while others are bad or wrong and
+are not done, So that we become bound by custom. They include: 
+
+
+===== PAGE 52 =====
+56
+Problem Solving a) Unquestioning acceptance of the status quo
+There is a tendency to conform to established ideas an methods of working and
+not to question them or express ideas which depart from them. If something is
+not normal done we tend to look for the reasons why it can’t be done or why it
+wouldn’t work, rather that looking for ‘the reasons why it should be done or why
+it could work’.
+b) Dislike of change
+The attitude that tradition is preferable to change can arise, from the need for
+security. If a situation is acceptable as it is, any change, which must involve
+some uncertainty, is felt to be threatening by some people. However, as we become
+more and more accustomed to change this block is becoming less common, but
+there must be reasons for change. Change for change’s sake can be dangerous.
+c) Fantasy and humour are not productive
+There is still a widespread belief that fantasy and humour have no place in the
+serious business of problem solving. Subjective reports from innovators suggest
+otherwise. Fantasy and humour are connected by one common feature – the
+unlikely combination of ideas (think about it’ next time you hear a good joke –
+the punch line is always unexpected). Innovative solutions to problems arise in
+the same way – by making a link between apparently unrelated ideas.
+d) Feelings, intuition and subjective judgements are unreliable’
+There is a strong bias towards reason, logic and quantitative judgements because
+they can be measured and communicated in accurate terms. Feelings, intuition
+and subjective judgements, which cannot be measured or communicated as
+effectively, are seen as unrealiable and are mistrusted.
+Even in mathematics, one of the most logical of sciences, intuition is often reported
+as playing a key role in, problem solving. A good problem solver needs to be
+able to use both objective, logical methods and subjective, intuitive methods in
+the search for solutions.
+e) Over-emphasis on competition or cooperation
+A strongly competitive environment (for recognition, promotion, and so on) can
+make people unwilling to listen to the ideas of those with whom they are
+competing. Similarly, in a strongly cooperative environment we may avoid
+expressing new ideas because we don’t want to stand out from the crowd.
+f) Taboos
+Some actions and ideas are excluded from problem solving because they are
+regarded as distasteful, or are harmful, or contravene accepted moral codes. For
+example, in a test of creativity a group of students were given a problem to solve
+using calculus. They had to follow certain rules and the objective was to see who
+produced the largest number of different routes to the correct solution. A few
+students produced a lot more than the others because they chose to break the
+rules they were told to follow. 
+Although eventually we may not decide to break a taboo, there is no harm in
+breaking them in thought. This can often lead to new perspectives on a problem.
+
+
+===== PAGE 53 =====
+57
+Impediments to Problem
+Solving
+We can overcome most of our own blocks permanently by re-learning, and
+overcome other people’s blocks which hinder us by learning ways to sidestep
+them.
+Self Assessment Questions
+1) What are the various other barriers to problem solving?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+2) What is meant by perceptual blocks to problem solving?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+3) Discuss the emotional and Intellectural blocks in problem solving
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4) Discuss the expressive and environmental blocks  in problem solving
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+5) What are the cultural blocks that affect problems solving?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+
+
+===== PAGE 54 =====
+58
+Problem Solving Other barriers
+Learning styles: Other barriers to problem solving include Learning styles or
+how persons  learn to solve problems. Some people learn primarily visually,
+others aurally; some learn step-by-step, others employ an all-or-nothing process;
+some cogitate on a problem introspectively, while others find they work problems
+best when they can discuss them.
+There is also evidence that some thinking styles that affect the ability to solve
+problems are gender-linked. For instance it has been found that  females organise
+and relate data more efficiently than males.
+Cognitive barriers: to mastering problem-solving is another important factor.
+The primary difficulty is the inability to identify and use concepts and procedures
+in analogous but novel situations.
+The lack of transfer of structure:  between problems is a significant cognitive
+difficulty, not only for inexperienced problem-solvers but also for experts.
+Successful transfer rests on the ability to recognise analogies, but even when
+given an analogy, students often fail to see how to employ it.
+A lack of transfer skills:  is frequently marked by functional fixedness, the
+perception that a particular object or concept has only one use. Another problem
+is superficial transference, where persons identify and link words or variables
+between problems instead of linking deeper, more meaningful structures.
+4.10 TEACHING AND LEARNING STRATEGIES
+THAT ENHANCE PROBLEM-SOLVING SKILLS
+There are two types of strategies that can overcome difficulties in problem-solving:
+Pedagogical strategies, which are teacher-centered methods, and Methodological
+strategies, which tend to be learner-centered.
+4.10.1 Pedagogical Strategies
+Some pedagogical strategies allow the teacher to address the emotional,
+psychological, and cognitive barriers to problem-solving simultaneously. For
+example, on the first day of class, the teacher could have open discussion about
+the nature of the course material, etc., and encourage students to voice their fears
+and concerns about it. This approach helps create a comfortable learning
+environment. Class discussion also reinforces success and transfer of learned
+skills.
+One effective strategy is that active involvement is critical in developing problem-
+solving skills, and thus student learning groups  can be used to promote active
+experimentation with problems.
+Other effective strategies include accepting multiple attempts of solutions for an
+assignment.  The persons should be asked to record how the problem was solved
+etc., and then discuss if there are other methods that could be used to solve the
+problem.
+
+
+===== PAGE 55 =====
+59
+Impediments to Problem
+Solving
+Different learning styles as well as gender-specific differences in thinking can
+be addressed by employing a variety of activities and approaches in teaching.
+The traditional instructional mode of lecturing and explaining is effective for
+only one learning style.
+One  might use graphics to illustrate concepts, provide opportunities for practice
+in class, ask for the persons interpretations of data,  etc.  could also be used to
+address the other learning styles.
+The five steps usually contained in many solution strategies is IDEAL.
+1) Identify the problem.
+2) Define and represent the problem.
+3) Explore possible solution strategies.
+4) Act on the strategies.
+5) Look back and evaluate.
+This scheme is beneficial in a large number of disciplines.
+4.10.2 Promoting Transfer
+Other strategies assist persons in transferring problem solving techniques from
+one problem to very similar or analogous problems.
+For successful transfer to occur, it is essential for persons  to identify the central
+theme that is common to a set of problems so they can readily recognise and
+apply it in more abstract settings.
+Through the conscious use of analogy, persons can explore situations which are
+similar, transferring structure to the problem at hand.
+4.10.3 Dialogue
+This can also be useful in promoting transfer by highlighting the differences
+between the problem-solving techniques used by experts and novices. In order
+to solve a problem, both experts and novices do follow the same pattern, that is,
+they read and analyse, plan a strategy, act on that strategy to produce a solution,
+and then try to verify it.
+Encouraging people to talk through the differences between problems that have
+similar superficial structures but different deep structures decreases the risk of
+incorrect transfer.
+Having students work on numerous problems individually and in groups also
+facilitates transfer.
+Choosing problems which evolve from simple and well-defined to complex and
+ill-defined will help people to develop transfer skills.
+To develop better problem-solvers, persons should be helped to overcome both
+emotional and cognitive barriers to learning effective problem-solving skills.
+By first creating a comfortable environment and helping people to overcome
+their fears and anxieties related to problem-solving, one lays the necessary
+foundation for successful learning.
+
+
+===== PAGE 56 =====
+60
+Problem Solving Then using an array of pedagogical and methodological strategies, one can
+promote in the person the ability to reflect on the problem-solving process itself
+and provide critical tools for and practice in productive problem-solving.
+Self Assessment Questions
+1) Discuss the other barriers related to the person that affect the problem
+solving adversely.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+2) What is IDEAL.  Elaborate. How do these help in problem solving?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+3) Discuss the pedagogical strategiesin problem solving.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4) Explain how promoting transfer and dialogue help in problem solving?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4.11 FUNCTIONAL FIXEDNESS
+Functional fixedness discovered by Duncker (1935) refers to the tendency to see
+objects as having only a single, typical use. A hammer is for pounding nails and
+other things for instance. We categorise objects based on their functional features
+as well as their features. Generally the prototypical function dominates the way
+we think.
+
+
+===== PAGE 57 =====
+61
+Impediments to Problem
+Solving
+Duncker in his experiment led an individual into a room with a table holding
+several small objects. They included three cardboard boxes filled with candles,
+tacks and matches, respectively and an ashtray, paper, paper clips, string, pencils,
+and tinfoil. The individual was instructed to mount the candles at eye level on
+the wall, ostensibly to prepare the room for a vision experiment. Can you think
+of a way to put the candles on the wall using these materials?
+Duncker found that only 43% of his participants could develop a solution to the
+problem. He hypothesised that they fixated on the common function of a box,
+namely, to serve as a container.
+To help break their functional fixedness, he repeated the experiment but this
+time emptied the candles, tacks, and matches on the table, leaving the boxes
+empty. Under these circumstances, all participants solved the problem by first
+mounting the boxes on the wall using the tacks, which then served as platforms
+for the candles.
+Here is another example of functional fixedness, called the coin  problem (Simmel,
+1953). Suppose you have eight coins and a balance. One of the coins is a
+counterfeit coin and therefore lighter than the others. The problem is to find the
+counterfeit coin by using the balance only twice?
+Most people initially think of dividing the coins into two groups of four coins
+each. One of the groups of four will be lighter and so must contain the counterfeit
+coin. Then you can take the four coins from that group, and weigh them two
+against two. Of course, one of the groups of two will be lighter. However, you
+cannot determine which of the two remaining coins is counterfeit, because you
+have already used the balance twice.
+Before we consider how to approach this problem correctly, let us analyse the
+previous solution attempt. Why do we initially divide the coins into two groups
+of four? One reason is that we know that eight things can be evenly divided into
+two groups of four. One of the functions of the number eight is that it can be so
+divided.
+The fact that 4 + 4 = 8 is a highly available bit of knowledge for us. Because this
+property of the number eight is so available, it is the first thing we think of. In
+fact, when people try to solve this problem, they often keep coming back to the
+four versus four divisions. When the obvious way of using things keeps us from
+seeing the correct way of using them, then we are functionally fixed.
+In Simmel’s coin problem, the solution is often very difficult to see. You need to
+divide the coins in a way that is far from obvious at first. Suppose you divide
+them into three groups of three, three and two coins. Then weigh three versus
+three. If they balance, then the counterfeit coin must be in ‘the group of two
+coins. Your second weighing, then, is to take the group of two coins, and weigh
+one versus one.  Alternatively, suppose on your first weighing one group of three
+coins is lighter: Then on your second weighing, take any two of the three coins
+and weigh one against the other. If they balance, then the third (unweighed) coin
+must be the counterfeit one. If they do not balance, then lighter one is counterfeit.
+This procedure is guaranteed to find the solution. However, it is much more
+complex and unfamiliar than the wrong procedure.
+
+
+===== PAGE 58 =====
+62
+Problem Solving Thus, finding solutions to problems may require you to overcome functional
+fixedness. It may only be after you have realised that the obvious ways of tackling
+a problem do not work that you will be open to a reorganisation of the problem
+that will allow you to see the solution.
+4.12 USING INCOMPLETE OR INCORRECT
+REPRESENTATIONS
+A related difficulty in problem solving has to do with initial interpretation of the
+problem. If the information is misunderstood, or if the wrong information is
+provided/ focused upon, the solver is at a disadvantage. This can be illustrated
+by a problem from Perkins (1981):
+“There is a man at home. That man is wearing a mask. There is a man coming a
+home. What’s happening?”
+Most of the people start to go wrong in making assumptions about the home in
+situation. Many equate home with house, although the answer is baseball game.
+Perkins (1981) argue that assumptions people make in interpreting the problem
+are a kind of mental set and that this mental set hinders problem solving.
+In terms of representation, representing the problem in terms of a person sitting
+in a house would lead you down the wrong path. It would be a case of using an
+incorrect representation, that is  one that included information not presented in
+the problem and not correct.
+The choice of representation can often make a great difference. Schwartz (1971),
+studying problems such as this one found that people who constructed charts
+and flow charts were successful in solving the problems than people who merely
+wrote down available facts.
+Here’s another example of a case where representation can make a problem either
+very easy or very hard. It is called the numbers game and the objective of each
+player is to choose from the set of digits enough to make an exact total of fifteen
+from three digits.
+Two players are given a sheet of numbers, 1 2 3 4 5 6 7 8 9.
+They take turns crossing one of the digits off the list and adding it to their own
+list.
+The first player to have three digits totaling 15 (for example 4, 5, 6; or 1, 6, 8)
+wins.
+If you were to play this game, what would your problem solving strategy be?
+What if you played first, which digits would you choose? What if you played
+second and your opponent had first chosen a five?
+The first time or two if you play this game, you might find it surprisingly
+challenging. Now look at the figure below and notice how this problem can be
+represented alternatively:
+67 2
+15 9
+83 4
+
+
+===== PAGE 59 =====
+63
+Impediments to Problem
+Solving
+Notice that, depicted this way, the difficult numbers game is actually the game
+of tic tac toe in disguise. Represented this way the game is easy but without this
+representation the problem is much harder to solve.
+Self Assessment Questions
+1) What is Functional Fixedness?  Explain mental set in problem solving.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+2) Present Duncker’s experiment.
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+3) How does coin problem demionstrate functional fixedness?
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4) What is meant by incomplete or incorrect represtnations?  How do
+these affect problem solving? Give suitable examples
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+..............................................................................................................
+4.13 LACK OF PROBLEM SPECIFIC KNOWLEDGE
+OR EXPERTISE
+Until now we have been discussing general problem solving abilities with
+problems that have a puzzle like character. The assumption is that most of these
+problems are about equally unfamiliar to everyone and that people basically go
+about solving them in the same way. Other kinds of problems – for example,
+
+
+===== PAGE 60 =====
+64
+Problem Solving those in chess or others killed games; textbook problems in physics, geometry,
+or electronic; computer programming and problems in diagnoses and management
+of health problems – seem to be different kind from the puzzles we have been
+talking about. In particular, experts and novices approach most such problems
+differently (Chi, Glaser & Farr, 1988).
+Familiarity with a domain of knowledge seems to change the way one solves
+problems within a frame of reference. A good example is to compare the ability
+to of undergraduate psychology students from their professors in designing
+experiments.
+A classic study of expert novice differences was carried out by de Groot (1965).
+He examined the thinking process of both chess masters and weaker players
+considered about the same number of possibilities but somehow chose the best
+move more easily. Chase and Simon (1973), in a replication study, found that the
+more expertise a chess player had, the more information he extracted even from
+brief exposures to chess boards set up to reflect ongoing chess games. That is,
+when a chess master and chess beginner are both shown a chess board for five
+seconds, the chess master will remember more about where the pieces were
+placed, but only if the pieces are configured to depict a chess game.
+In problem solving, experts see and represent a problem in their domain at a
+deeper and more principled level than do novices, who tend to represent
+information superficially (Chi, Feltovich, & Glaser 1981). For example, when
+solving physics problems experts tend to organise the problems in terms of physics
+principles like Newton’s first law of motion; novices instead tend to focus on the
+objects mentioned in the problem, such as an inclined plane or a frictionless
+surface. Experts tend to spend proportionately more time qualitatively analysing
+the problem, trying to grasp or understand it; relative to novices who are more
+likely to plunge in and start looking at solutions. Finally, throughout the process
+of problem solving, experts are more likely to check for errors in their thinking.
+Expertise by itself is not always enough for problem solving other factors like
+medical status, mental status and other related aspects can also affect problem
+solving abilities (Goel & Grafman, 2000).
+4.14   LET US SUM UP
+As discussed in earlier chapters problem solving involves both domain specific
+and general strategies that people may use and may be attained through various
+techniques. However, most of us often come across many situations when our
+attempts at problem solving fail. This is largely because there are numerous
+factors that are influential impediments to problem solving. Einstellung (or set
+or mental set) and functional fixedness are classic obstacles to both proper
+representation and search identified by the gestalt psychologists. Einstellung is
+the tendency to set the mind into a routine approach to problem solving. Functional
+fixedness refers to the tendency to see objects as having only a single, typical
+use. Researchers have also talked about the novice versus expert differences in
+problem solving.
+
+
+===== PAGE 61 =====
+65
+Impediments to Problem
+Solving4.15   UNIT END QUESTIONS
+1) What is a mental set? Think of the few problem situations where you think
+your mental set hampered effective problem solving.
+2) Describe some novice expert differences in problem solving.
+3) Critically evaluate the concept of functional fixedness.
+4) Compare and contrast  with the help of examples the concept of Einstellung
+with the concept of functional fixedness.
+5) How does lack of problem specific knowledge or experience affect problem
+solving?
+4.16 SUGGESTED READINGS
+Hunt, R. R., & Ellis, H.C. (2006). Fundamentals of Cognitive Psychology. New
+Delhi: Tata McGraw Hill.
+Reed, S.K. (2010). Cognition: Theories and Applications. London: Cengage.
+Solso, R.L. (2006). Cognitive Psychology. New Delhi: Pearson Education.
+Sternberg, R.J. (2009). Applied Cognitive Psychology: Perceiving, Learning,
+and Remembering. London: Cengage.
+References
+Gage, N. L. and D. C. Berliner (1992). Educational Psychology, 5th ed., Houghton
+Mifflin Co..
+Galotti , K.M. (2008). Cognitive Psychology In and Out of the Laboratory .
+Canada: Nelson Education.
+Gick S. and G . Holyoak (1983). “Schema Induction and Analogical Transfer,”
+Cognitive Psychology 15: 1-38.
+Feldman, R. S. (2008). Essentials of Understanding Psychology . New Delhi:
+Tata McGraw Hill.
+Kimura, D. (1992). “The Mind and the Brain,” Scientific American, September.
+Kurfiss J. (1988). Critical Thinking: Theory, Research, Practice, and Possibilities,
+ASHE-ERIC Higher Education Reports #2.
+Wason, P . (1982). “Realism and Rationality in the Selection Task,” In Thinking
+and Reasoning: Psychological Approaches, J. Evans, ed., Routledge and Kegan
+Paul.
+Woolfolk, A. E. (1993). Educational Psychology, 5th ed., Allyn and Bacon.

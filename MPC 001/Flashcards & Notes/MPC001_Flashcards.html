@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MPC 001 — Revision Flashcards</title>
+<style>
+  :root {
+    --bg: #0f172a;
+    --card-bg: #1e293b;
+    --card-front: #1e293b;
+    --card-back: #0f172b;
+    --accent: #3b82f6;
+    --accent-light: #60a5fa;
+    --text: #e2e8f0;
+    --text-muted: #94a3b8;
+    --text-bright: #f8fafc;
+    --border: #334155;
+    --success: #22c55e;
+    --tag-bg: #1e3a5f;
+    --tag-text: #93c5fd;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); min-height:100vh; }
+
+  /* Top bar */
+  .topbar { background: var(--card-bg); border-bottom: 1px solid var(--border); padding: 16px 24px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+  .topbar h1 { font-size: 1.25rem; color: var(--text-bright); font-weight: 700; }
+  .topbar h1 span { color: var(--accent-light); }
+  .topbar-right { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+
+  /* Theme filter */
+  .theme-select { background: var(--bg); color: var(--text); border: 1px solid var(--border); padding: 8px 12px; border-radius: 8px; font-size: 0.875rem; cursor: pointer; }
+  .theme-select:focus { outline: none; border-color: var(--accent); }
+
+  /* Buttons */
+  .btn { background: var(--accent); color: #fff; border: none; padding: 8px 16px; border-radius: 8px; font-size: 0.875rem; cursor: pointer; font-weight: 600; transition: background 0.2s; }
+  .btn:hover { background: var(--accent-light); }
+  .btn-outline { background: transparent; border: 1px solid var(--border); color: var(--text); }
+  .btn-outline:hover { border-color: var(--accent); color: var(--accent-light); }
+  .btn-sm { padding: 6px 12px; font-size: 0.8rem; }
+
+  /* Progress */
+  .progress-bar { height: 3px; background: var(--border); }
+  .progress-fill { height: 100%; background: linear-gradient(90deg, var(--accent), #a855f7); transition: width 0.3s ease; }
+
+  /* Main area */
+  .main { max-width: 860px; margin: 0 auto; padding: 24px 16px; }
+
+  /* Counter */
+  .counter { text-align: center; margin-bottom: 16px; font-size: 0.9rem; color: var(--text-muted); }
+  .counter strong { color: var(--accent-light); font-variant-numeric: tabular-nums; }
+
+  /* Card */
+  .card-container { perspective: 1200px; margin-bottom: 24px; }
+  .card { width: 100%; min-height: 420px; position: relative; cursor: pointer; transform-style: preserve-3d; transition: transform 0.6s cubic-bezier(0.4,0,0.2,1); }
+  .card.flipped { transform: rotateY(180deg); }
+  .card-face { position: absolute; inset: 0; backface-visibility: hidden; border-radius: 16px; padding: 32px; overflow-y: auto; border: 1px solid var(--border); }
+  .card-front { background: var(--card-front); }
+  .card-back { background: var(--card-back); transform: rotateY(180deg); border-color: var(--accent); }
+  .card-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-muted); margin-bottom: 12px; font-weight: 700; }
+  .card-label.back-label { color: var(--accent-light); }
+  .card-title { font-size: 1.15rem; font-weight: 700; color: var(--text-bright); margin-bottom: 16px; line-height: 1.4; }
+  .card-body { font-size: 0.925rem; line-height: 1.7; color: var(--text); }
+  .card-body p { margin-bottom: 10px; }
+  .card-body strong { color: var(--text-bright); }
+  .card-body em { color: var(--accent-light); font-style: normal; }
+  .card-body ul, .card-body ol { margin: 8px 0 10px 20px; }
+  .card-body li { margin-bottom: 4px; }
+  .card-body .key-terms { margin-top: 16px; padding-top: 12px; border-top: 1px solid var(--border); }
+  .card-body .key-terms-title { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--success); font-weight: 700; margin-bottom: 6px; }
+  .tag { display: inline-block; background: var(--tag-bg); color: var(--tag-text); padding: 2px 8px; border-radius: 4px; font-size: 0.78rem; margin: 2px; font-weight: 500; }
+  .hint { text-align: center; font-size: 0.75rem; color: var(--text-muted); margin-top: 8px; }
+
+  /* Nav buttons */
+  .nav-row { display: flex; justify-content: center; gap: 12px; margin-bottom: 20px; flex-wrap: wrap; }
+  .nav-row .btn { min-width: 100px; }
+
+  /* Shuffle indicator */
+  .shuffle-on { color: var(--success); font-size: 0.8rem; display: none; align-items: center; gap: 4px; }
+  .shuffle-on.active { display: inline-flex; }
+
+  /* Keyboard hints */
+  .kbd-hints { text-align: center; color: var(--text-muted); font-size: 0.75rem; margin-top: 16px; }
+  kbd { display: inline-block; background: var(--bg); border: 1px solid var(--border); border-radius: 4px; padding: 1px 6px; font-size: 0.7rem; font-family: inherit; margin: 0 2px; }
+
+  /* Responsive */
+  @media (max-width: 600px) {
+    .card-face { padding: 20px; }
+    .card { min-height: 340px; }
+    .topbar { padding: 12px 16px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <h1>🃏 MPC 001 <span>Flashcards</span></h1>
+  <div class="topbar-right">
+    <select class="theme-select" id="themeFilter">
+      <option value="all">All Themes (37)</option>
+      <option value="foundations">Foundations of Cognitive Psychology</option>
+      <option value="info-processing">Information Processing</option>
+      <option value="memory">Memory</option>
+      <option value="intelligence">Intelligence</option>
+      <option value="creativity">Creativity</option>
+      <option value="problem-solving">Problem Solving</option>
+      <option value="language">Language</option>
+      <option value="disorders">Cognitive/Neurodevelopmental Disorders</option>
+    </select>
+    <button class="btn btn-outline btn-sm" id="shuffleBtn" onclick="toggleShuffle()">🔀 Shuffle</button>
+    <button class="btn btn-outline btn-sm" onclick="resetCard()">↻ Reset</button>
+  </div>
+</div>
+<div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+
+<div class="main">
+  <div class="counter">Card <strong id="currentNum">1</strong> of <strong id="totalNum">37</strong> <span class="shuffle-on" id="shuffleIndicator">🔀 shuffled</span></div>
+
+  <div class="card-container">
+    <div class="card" id="flashcard" onclick="flipCard()">
+      <div class="card-face card-front" id="cardFront"></div>
+      <div class="card-face card-back" id="cardBack"></div>
+    </div>
+  </div>
+  <div class="hint">Click card to flip</div>
+
+  <div class="nav-row">
+    <button class="btn btn-outline" onclick="prevCard()">← Prev</button>
+    <button class="btn" onclick="nextCard()">Next →</button>
+  </div>
+
+  <div class="kbd-hints">
+    <kbd>←</kbd> Prev &nbsp; <kbd>→</kbd> Next &nbsp; <kbd>Space</kbd> Flip &nbsp; <kbd>S</kbd> Shuffle
+  </div>
+</div>
+
+<script>
+const cards = [
+  // — FOUNDATIONS —
+  {theme:"foundations", title:"Cognitive Psychology: Meaning, History, Domains",
+   front:"Define cognitive psychology. Outline its history from ancient philosophy to the modern neocognitive revolution. List the twelve principal domains.",
+   back:`<p><strong>Definition:</strong> "The study of how people perceive, learn, remember, and think about information" (Neisser, 1967). Also: "the scientific study of the mind."</p>
+   <p><strong>History — three periods:</strong></p>
+   <ol>
+     <li><em>Early thoughts:</em> Empiricists (knowledge from experience) vs. nativists (innate). Aristotle — knowledge in heart; Plato — in brain.</li>
+     <li><em>Renaissance &amp; beyond:</em> Mundus sensibilis (senses) + mundus intellectualis (divine). British Empiricists (Berkeley, Hume, J. Mill, J.S. Mill) — three types of internal representation. William James — <em>Principles of Psychology</em> (1890).</li>
+     <li><em>20th century:</em> Behaviourism (S-R) displaced mental-process study for ~50 years. Tolman (1932) — cognitive map. Bartlett (1932) — schema. Neocognitive revolution (1950s) — six forces.</li>
+   </ol>
+   <p><strong>Twelve domains:</strong> Cognitive Neuroscience, Perception, Pattern Recognition, Attention, Consciousness, Memory, Knowledge Representation, Imagery, Language, Developmental Psychology, Thinking &amp; Concept Formation, Human &amp; Artificial Intelligence.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">scientific study of the mind</span><span class="tag">empiricists vs. nativists</span><span class="tag">William James (1890)</span><span class="tag">Tolman (1932) cognitive map</span><span class="tag">Bartlett (1932) schema</span><span class="tag">six forces of neocognitive revolution</span><span class="tag">twelve domains</span></div>`},
+
+  {theme:"foundations", title:"Research Methods in Cognitive Psychology",
+   front:"What are the four distinctive research methods used in cognitive psychology? Describe each and note its advantages and limitations.",
+   back:`<p><strong>Goals:</strong> data gathering, data analysis, theory development, hypothesis formulation, hypothesis testing, application. Seek to "explain cognition as well as describe it."</p>
+   <p><strong>Four methods:</strong></p>
+   <ol>
+     <li><strong>Laboratory/controlled experiments:</strong> IV/DV/control variables; random, representative sample; infer <em>probable causality</em>.</li>
+     <li><strong>Psychobiological research:</strong> (a) post-mortem brain study, (b) brain images of individuals with known cognitive deficits, (c) brain imaging during normal cognitive activity (MRI, PET, EEG).</li>
+     <li><strong>Self-reports, case studies, naturalistic observation:</strong> Useful for hypothesis <em>formulation</em> and rare events. Experiments better for hypothesis <em>testing</em>.</li>
+     <li><strong>Computer simulations &amp; AI:</strong> indirect — computer-based models; direct — simulations and AI.</li>
+   </ol>
+   <p><strong>Cognitive science</strong> = cross-disciplinary field using cognitive psychology, psychobiology, AI, philosophy, linguistics, anthropology.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">independent/dependent/control variables</span><span class="tag">probable causality</span><span class="tag">psychobiological research (3 categories)</span><span class="tag">self-reports</span><span class="tag">computer simulations and AI</span><span class="tag">cognitive science</span></div>`},
+
+  {theme:"foundations", title:"Cognitive Neuroscience",
+   front:"What is cognitive neuroscience? How has the relationship between cognitive psychology and neuroscience evolved? What imaging techniques are used?",
+   back:`<p>Cognitive neuroscience is the convergence of cognitive psychology, computer science, and neuroscience. Every cognitive process from sensation to memory is supported by <strong>electrochemical processes</strong> in the brain and nervous system.</p>
+   <p><strong>Evolution:</strong> Early — little attention to physiological psychology. <strong>Karl Lashley (1929)</strong> debated localisation vs. distributed processing. Recently — cognitive psychologists seek neurological explanations; neuroscientists seek cognitive explanations.</p>
+   <p><strong>Imaging techniques:</strong> <strong>MRI</strong> (brain structures), <strong>PET</strong> (brain activity), <strong>EEG</strong> (electrical activity). These show structures and processes of cognition.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">cognitive neuroscience</span><span class="tag">electrochemical processes</span><span class="tag">Lashley (1929)</span><span class="tag">MRI, PET, EEG</span><span class="tag">neurocognitive imagery</span></div>`},
+
+  {theme:"foundations", title:"Bloom's Taxonomy of Cognitive Domain",
+   front:"Describe Bloom's Taxonomy of the Cognitive Domain. Who proposed it, when, and what are its levels? How has it been revised?",
+   back:`<p><strong>Origin:</strong> <strong>Benjamin Bloom (1965)</strong> — three domains: (1) Cognitive, (2) Psychomotor, (3) Affective. Not mutually exclusive.</p>
+   <p><strong>Taxonomy (Bloom, Englehart, Furst, Hill &amp; Krathwohl, 1956):</strong> Six cognitive levels, each more complex:</p>
+   <ol>
+     <li><strong>Knowledge/Knowing</strong> — repeat back; very little elaboration.</li>
+     <li><strong>Comprehension</strong> — rudimentary understanding; summarise/paraphrase.</li>
+     <li><strong>Application</strong> — use concepts/principles to solve problems.</li>
+     <li><strong>Analysis</strong> — understand relationships among parts.</li>
+     <li><strong>Synthesis</strong> — put parts together in original manner.</li>
+     <li><strong>Evaluation</strong> — make judgments based on comparison to standard.</li>
+   </ol>
+   <p><strong>Revision:</strong> Anderson &amp; Krathwohl (2000) propose reversing top two. Hummel &amp; Huitt (1994) confirmed first four form a valid hierarchy.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">Bloom (1956/1965)</span><span class="tag">three domains</span><span class="tag">six levels</span><span class="tag">Anderson &amp; Krathwohl (2000)</span><span class="tag">Hummel &amp; Huitt (1994)</span><span class="tag">elaboration</span></div>`},
+
+  {theme:"info-processing", title:"Principles of Information Processing",
+   front:"What are the four basic principles of information processing? Cite the relevant theorists and years.",
+   back:`<p>Information processing = "the change (processing) of information in any manner detectable by an observer" (Huitt, 2000). Cognition = computational (mind = software, brain = hardware). <strong>Neisser (1967)</strong>: "how people encode, structure, store, retrieve, use or otherwise learn knowledge."</p>
+   <p><strong>Four principles (Huitt, 2000):</strong></p>
+   <ol>
+     <li><strong>Limited capacity</strong> — "bottlenecks" (Broadbent, 1975; Case, 1978).</li>
+     <li><strong>Control mechanism</strong> — executive function (Atkinson &amp; Shiffrin, 1971).</li>
+     <li><strong>Two-way flow</strong> — bottom-up + top-down processing.</li>
+     <li><strong>Genetic/biological preparedness</strong> — infants prefer faces; universal language milestones.</li>
+   </ol>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">Neisser (1967)</span><span class="tag">computational metaphor</span><span class="tag">bottlenecks</span><span class="tag">executive function</span><span class="tag">bottom-up vs. top-down</span><span class="tag">biological preparedness</span></div>`},
+
+  {theme:"info-processing", title:"Sternberg's Information Processing Approach",
+   front:"Explain Sternberg's information processing approach. What are the three kinds of information-processing components?",
+   back:`<p><strong>Sternberg (1988).</strong> Development = skills-based and continuous (not staged). Focus on intelligence.</p>
+   <p><strong>Three components:</strong></p>
+   <ol>
+     <li><strong>Metacomponents</strong> — executive; guide planning and decision making; identify problem and connect with past experiences.</li>
+     <li><strong>Performance components</strong> — actions taken in completing task; weigh merit/consequences of actions.</li>
+     <li><strong>Knowledge-acquisition components</strong> — ability to learn new information; more abstract.</li>
+   </ol>
+   <p>Componential aspect — one part of larger <strong>triarchic theory</strong>. Links to <strong>Bruner (1977, 1986)</strong> and <strong>Vygotsky (1978)</strong> — social context shapes cognition.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">Sternberg (1988)</span><span class="tag">metacomponents</span><span class="tag">performance components</span><span class="tag">knowledge-acquisition components</span><span class="tag">triarchic theory</span><span class="tag">automatisation</span></div>`},
+
+  // — MEMORY —
+  {theme:"memory", title:"Atkinson & Shiffrin Model of Memory",
+   front:"Describe the Atkinson & Shiffrin multi-store model of memory (1968). What are its three stages? What is the critical distinction between memory and store?",
+   back:`<p><strong>Atkinson &amp; Shiffrin (1968).</strong> "Traditionally, the most widely used model of information processing is the stage theory model."</p>
+   <p><strong>Three stages:</strong></p>
+   <ol>
+     <li><strong>Sensory register</strong> — holds sensory input ~½ s (vision, Sperling 1960) or ~4–5 s (hearing, Darwin et al. 1972). Attention + automaticity govern transfer.</li>
+     <li><strong>Short-term store (STS) / working memory</strong> — ~20–30 s; maintenance rehearsal vs. elaborate rehearsal. 5 ± 2 units.</li>
+     <li><strong>Long-term store (LTS)</strong> — organised into categories; days to lifetime. Types: episodic, semantic (Tulving, 1972), declarative, procedural, imagery (Paivio).</li>
+   </ol>
+   <p><strong>Critical distinction:</strong> Memory (data retained) ≠ Store (structural component). Also postulated direct sensory register → LTS pathway.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">Atkinson &amp; Shiffrin (1968)</span><span class="tag">stage theory model</span><span class="tag">sensory register</span><span class="tag">Sperling (1960)</span><span class="tag">maintenance vs. elaborate rehearsal</span><span class="tag">5 ± 2</span><span class="tag">Tulving (1972)</span></div>`},
+
+  {theme:"memory", title:"Three Storage Systems (Sensory–STM–LTM)",
+   front:"Explain the three storage systems of memory. What are their characteristics, capacities, and durations?",
+   back:`<p><strong>Sensory Memory:</strong> Transduction (energy → electrical signals). Exact-copy retention. &lt; ½ s (vision), ~3 s (hearing). Two ways into STM: interesting feature or activates known pattern.</p>
+   <p><strong>STM:</strong> Selective attention determines transfer. Stored as sounds or images. <strong>Miller (1956)</strong> — 7 ± 2 items; 3–20 s; decay is primary loss mechanism. Operations: iconic (visual), acoustic (sounds, held longer), working memory (conscious). <strong>Chunking</strong> extends capacity.</p>
+   <p><strong>LTM:</strong> Relatively permanent. Stored on basis of meaning and importance. Encoding/consolidation — not a function of time but of organising complex information. <strong>Schemas</strong> = mental models; stored in interrelated networks. <strong>Top-down processing</strong> — prior knowledge shapes perception (basis of bias).</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">transduction</span><span class="tag">Miller (1956) 7 ± 2</span><span class="tag">iconic/acoustic/working memory</span><span class="tag">decay</span><span class="tag">chunking</span><span class="tag">schemas</span><span class="tag">top-down processing</span></div>`},
+
+  {theme:"memory", title:"Waugh & Norman's Primary/Secondary Memory Model",
+   front:"Describe Waugh & Norman's (1965) primary/secondary memory model. What experimental method did they use? What did they find about interference vs. decay?",
+   back:`<p><strong>Waugh &amp; Norman (1965).</strong> "The first modern behavioural model to travel down memory lane." Borrowed from William James's primary/secondary memory dichotomy.</p>
+   <p><strong>Dualistic model:</strong></p>
+   <ul>
+     <li><strong>Primary Memory (PM)</strong> — short-term, verbatim recall, limited capacity, loss by <em>displacement</em> (not pure decay). "Vertical file" analogy.</li>
+     <li><strong>Secondary Memory (SM)</strong> — longer-term. Transfer from PM requires <em>rehearsal</em>.</li>
+   </ul>
+   <p><strong>Experiment:</strong> 16-digit probe task at one digit/second vs. four digits/second. <strong>Finding:</strong> Rate of forgetting similar at both rates → <strong>interference &gt; decay</strong>. Norman (1966) confirmed.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">Waugh &amp; Norman (1965)</span><span class="tag">William James dichotomy</span><span class="tag">PM vs. SM</span><span class="tag">displacement</span><span class="tag">vertical-file analogy</span><span class="tag">16-digit probe task</span><span class="tag">interference &gt; decay</span></div>`},
+
+  {theme:"memory", title:"Levels of Processing Model (Craik & Lockhart)",
+   front:"Explain the Levels of Processing model (Craik & Lockhart, 1972). How does it differ from the multi-store model? What are its criticisms?",
+   back:`<p><strong>Craik &amp; Lockhart (1972).</strong> "A reaction against the boxes-in-the-head scheme of memory."</p>
+   <p><strong>Core idea:</strong> Stimuli subjected to analyses — from <strong>shallow sensory</strong> to <strong>deeper semantic</strong>. Deeper processing = better retention.</p>
+   <p><strong>Levels:</strong> Sensory/featural → pattern recognition → meaning extraction → long-term associations, images, stories.</p>
+   <p><strong>Rehearsal distinction:</strong> Maintenance rehearsal (maintains at one level — not better retention) vs. elaborate rehearsal (elaborates to deeper level — better retention).</p>
+   <p><strong>Three criticisms (Baddeley, 1978):</strong> (1) mundane conclusion; (2) vague and untestable; (3) circular reasoning.</p>
+   <p><strong>Supporting experiments:</strong> Craik &amp; Tulving (1975): structural &lt; phonological &lt; semantic. Zinchenko (1962): LOR. Rogers, Kuiper &amp; Kirker (1977): self-reference effect.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">Craik &amp; Lockhart (1972)</span><span class="tag">LOP</span><span class="tag">shallow vs. deep processing</span><span class="tag">maintenance vs. elaborate rehearsal</span><span class="tag">three criticisms (Baddeley)</span><span class="tag">self-reference effect</span></div>`},
+
+  {theme:"memory", title:"Memory and Brain / Cellular Bases",
+   front:"What are the cellular bases of learning and memory? Describe Hebb's Law, LTP, and the NMDA receptor mechanism. How have case studies H.M. and R.B. informed our understanding?",
+   back:`<p><strong>Case H.M. (1953):</strong> Bilateral medial temporal lobe removal (Scoville &amp; Milner). Severe anterograde amnesia; normal STM. Bilateral hippocampal damage → cannot form new long-term memories.</p>
+   <p><strong>Case R.B.:</strong> Ischemic episode. Lesions restricted to <strong>CA1 pyramidal cells</strong> in hippocampus.</p>
+   <p><strong>Hebb's Law (1949):</strong> Repeated co-activation of pre- and post-synaptic neurons strengthens the synapse — <strong>Hebbian learning</strong>.</p>
+   <p><strong>Long-Term Potentiation (LTP):</strong> Hippocampal circuits subjected to intense stimulation develop enhanced sensitivity; lasts weeks or longer.</p>
+   <p><strong>NMDA receptor:</strong> Doubly gated; glutamate = major excitatory transmitter. AP5 blocks NMDA → prevents LTP induction but not maintenance. NMDA central to <em>producing</em> LTP; non-NMDA to <em>maintaining</em> it.</p>
+   <p><strong>HERA model</strong> (Haxby &amp; Ungerleider, 1996): encoding = left hemisphere; retrieval = right. <strong>Schacter et al. (1996):</strong> implicit and explicit retrieval = separate brain systems.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">H.M. (1953)</span><span class="tag">R.B. (CA1 pyramidal cells)</span><span class="tag">Hebb (1949)</span><span class="tag">LTP</span><span class="tag">NMDA receptor</span><span class="tag">glutamate</span><span class="tag">AP5</span><span class="tag">HERA model</span></div>`},
+
+  {theme:"memory", title:"Memory Consolidation",
+   front:"What is memory consolidation? What role does the hippocampus play? How does evidence from amnesia support the consolidation theory?",
+   back:`<p><strong>Definition:</strong> "Memories are solidified in long-term stores over days, weeks, months, and years" — biological changes underlying long-term retention.</p>
+   <p><strong>Hippocampus's role — not storage:</strong> "The hippocampus is <em>not</em> the repository of stored knowledge. Rather, the medial temporal lobe appears to support the <em>process</em> of forming new memories; the hippocampal region is critical for the <em>consolidation</em> of information in long-term memory."</p>
+   <p><strong>Evidence:</strong> Amnesics have temporally limited retrograde amnesia (1–few years before damage) — supports role in consolidation, not storage.</p>
+   <p><strong>Neural mechanism:</strong> Hippocampus coordinates strengthening of associations; effects take place in <strong>neocortex</strong>. Once consolidated, hippocampus no longer required.</p>
+   <p><strong>Diencephalic amnesia:</strong> Dorsomedial nucleus of thalamus + mammillary bodies. <strong>Korsakoff's syndrome</strong>: chronic alcoholism → vitamin deficiency → brain damage.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">consolidation</span><span class="tag">hippocampus — NOT storage repository</span><span class="tag">neocortex</span><span class="tag">retrograde amnesia (temporally limited)</span><span class="tag">acquisition vs. consolidation</span><span class="tag">dorsomedial thalamus</span><span class="tag">mammillary bodies</span><span class="tag">Korsakoff's syndrome</span></div>`},
+
+  // — INTELLIGENCE —
+  {theme:"intelligence", title:"Alfred Binet & IQ",
+   front:"Describe Alfred Binet's contribution to the measurement of intelligence. What was the Binet-Simon Scale? How was the IQ concept derived?",
+   back:`<p><strong>Alfred Binet (1857–1911):</strong> Commissioned by French government to identify mentally deficient children.</p>
+   <p><strong>Binet-Simon Scale (1905):</strong> 30 problems, 50 children. First measured intelligence during <strong>clinical interview</strong>. Innovation: age-graded norms, rank-order items, first estimate of mental age.</p>
+   <p><strong>1908 revision:</strong> Items arranged by age levels. <strong>1911 revision:</strong> Age range extended through adulthood; five items per age level.</p>
+   <p><strong>IQ concept:</strong> <strong>William Stern (1912/1914)</strong> — IQ = (Mental Age / Chronological Age) × 100. <strong>Lewis Terman (1916)</strong> — Stanford-Binet Intelligence Scale.</p>
+   <p><strong>Binet's definition (1890):</strong> "intelligence, that is to say, reasoning, judgment, memory, and the power of abstraction." Five components: abstract reasoning, comprehension, clear direction of thought, purposeful thinking, self-corrective judgment.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">Binet-Simon scale (1905)</span><span class="tag">Theodore Simon</span><span class="tag">mental age</span><span class="tag">IQ = (MA/CA) × 100</span><span class="tag">William Stern</span><span class="tag">Stanford-Binet (1916)</span><span class="tag">Terman</span></div>`},
+
+  {theme:"intelligence", title:"Spearman's Two-Factor Theory",
+   front:"Explain Spearman's two-factor theory of intelligence. What are the 'g' and 's' factors? Who were his critics?",
+   back:`<p><strong>Spearman (1904).</strong> "No single event in the history of mental testing has proved to be of such momentous importance" — Guilford (1954).</p>
+   <p><strong>"g" factor:</strong> General intellective factor / "mental energy." Important in every mental act. Tests with high "g" loadings: abstract reasoning, comprehension, problem solving. Confirmatory: Jensen (1998), Carroll (1993, Stratum III).</p>
+   <p><strong>"s" factors:</strong> Specific to particular tests.</p>
+   <p><strong>Group factors:</strong> Verbal, numerical, mental speed, mechanical ability, attention, imagination.</p>
+   <p><strong>Method:</strong> Factor analysis; tetrad difference (F = r₁₃r₂₄ − r₁₄r₂₃ ≈ 0).</p>
+   <p><strong>Critics:</strong></p>
+   <ul>
+     <li><strong>Thorndike (1926):</strong> Intercorrelations too small; three intelligences: social, concrete, abstract.</li>
+     <li><strong>Thomson (1939):</strong> Sampling theory — "g" as constant combination of ability elements.</li>
+     <li><strong>Thurstone (1935):</strong> Seven primary abilities (later found hierarchical with "g" at top).</li>
+   </ul>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">Spearman (1904)</span><span class="tag">g factor ("mental energy")</span><span class="tag">s factor</span><span class="tag">factor analysis</span><span class="tag">tetrad difference</span><span class="tag">Thorndike (1926)</span><span class="tag">Thomson (1939)</span><span class="tag">Thurstone (1935)</span></div>`},
+
+  {theme:"intelligence", title:"Guilford's Structure of Intellect (SOI)",
+   front:"What is Guilford's Structure of Intellect model? Describe its three dimensions.",
+   back:`<p><strong>Guilford (1956 first version; modified 1977).</strong> Intelligence is not monolithic but multiple, relatively independent abilities. Rejected Spearman's "g."</p>
+   <p><strong>Three dimensions (cube):</strong></p>
+   <ol>
+     <li><strong>Contents (5):</strong> Visual, Auditory, Symbolic, Semantic, Behavioural.</li>
+     <li><strong>Operations (5):</strong> Cognition, Memory, Divergent Production, Convergent Production, Evaluation.</li>
+     <li><strong>Products (6):</strong> Unit, Class, Relation, System, Transformation, Implication.</li>
+   </ol>
+   <p><strong>Original:</strong> 4 × 5 × 6 = <strong>120 factors</strong>. <strong>Modified (1977):</strong> 5 × 5 × 6 = <strong>150 cells</strong>. Open system.</p>
+   <p><strong>Criticisms (Eysenck, 1972):</strong> (1) restricted range, (2) orthogonal rotation, (3) factors too narrow.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">SOI (1956/1977)</span><span class="tag">150 cells</span><span class="tag">cube</span><span class="tag">Contents/Operations/Products</span><span class="tag">rejection of "g"</span><span class="tag">Eysenck's criticisms</span></div>`},
+
+  {theme:"intelligence", title:"Gardner's Multiple Intelligences (& Bodily-Kinesthetic)",
+   front:"Explain Gardner's Theory of Multiple Intelligences. List each intelligence. What are the eight criteria? Define bodily-kinesthetic intelligence.",
+   back:`<p><strong>Gardner (1983, <em>Frames of Mind</em>).</strong> Intelligence = "bio-psychological potential to process information that can be activated in a cultural setting to solve problems or create products of value in a culture."</p>
+   <p><strong>Eight criteria:</strong> brain isolation by damage, evolutionary history, core operations, susceptibility to encoding, developmental progression, idiot-savants/prodigies, experimental psychology support, psychometric support.</p>
+   <p><strong>Eight intelligences:</strong></p>
+   <ol>
+     <li><strong>Linguistic</strong> — facility with words.</li>
+     <li><strong>Logical-Mathematical</strong> — patterns, deduction.</li>
+     <li><strong>Musical</strong> — rhythm, pitch, timbre.</li>
+     <li><strong>Bodily-Kinesthetic</strong> — <em>potential to use whole body/parts of body to solve problems; mental abilities to coordinate bodily movements.</em> Learn by muscular movement/doing. Careers: athletes, dancers, actors, surgeons, builders.</li>
+     <li><strong>Spatial</strong> — wide/confined spaces.</li>
+     <li><strong>Interpersonal</strong> — understand others' intentions/motivations.</li>
+     <li><strong>Intrapersonal</strong> — understand oneself.</li>
+     <li><strong>Naturalistic</strong> — relating to natural surroundings (added 1999).</li>
+   </ol>
+   <p><strong>Existential</strong> = considered 9th. <strong>Criticisms:</strong> Morgan (1996), Hunt (2001), Eysenck (1990).</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">Gardner (1983)</span><span class="tag">eight criteria</span><span class="tag">eight intelligences</span><span class="tag">bodily-kinesthetic</span><span class="tag">personal intelligences</span><span class="tag">Project Zero</span></div>`},
+
+  {theme:"intelligence", title:"Sternberg's Triarchic Theory of Intelligence",
+   front:"What is Sternberg's Triarchic Theory? Describe each subtheory. What criticisms has it faced?",
+   back:`<p><strong>Sternberg (1985, <em>Beyond IQ</em>).</strong> "A comprehensive theory… takes into account social and contextual factors."</p>
+   <p><strong>Three subtheories:</strong></p>
+   <ol>
+     <li><strong>Componential (Analytical):</strong> Internal world. Metacomponents, performance components, knowledge-acquisition components.</li>
+     <li><strong>Experiential (Creative):</strong> Novelty + automation.</li>
+     <li><strong>Contextual (Practical):</strong> Adaptation, shaping, selection. "Street smarts."</li>
+   </ol>
+   <p>Central thesis: balance of analytical, creative, practical abilities. Central feature = <strong>adaptability</strong>.</p>
+   <p><strong>Criticisms:</strong> Gottfredson (2003) — unempirical; Das (2004) — hard to psychometrically measure.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">Triarchic theory (1985)</span><span class="tag">Componential/Experiential/Contextual</span><span class="tag">metacomponents/performance/knowledge-acquisition</span><span class="tag">novelty &amp; automation</span><span class="tag">adaptation/shaping/selection</span><span class="tag">"street smarts"</span></div>`},
+
+  {theme:"intelligence", title:"PASS Theory of Intelligence",
+   front:"What is the PASS theory? Describe its four components and how they relate to Luria's functional units.",
+   back:`<p><strong>Das, Nagliery &amp; Kirby (1994).</strong> Grounded in <strong>Luria's neuropsychology (1966, 1973, 1980)</strong>.</p>
+   <p><strong>Four components:</strong></p>
+   <ol>
+     <li><strong>Planning</strong> — programming, regulation, verification; prefrontal cortex.</li>
+     <li><strong>Attention-Arousal</strong> — keeping alert; brain stem + reticular activating system.</li>
+     <li><strong>Simultaneous processing</strong> — occipital-parietal; <em>surveyability</em>.</li>
+     <li><strong>Successive processing</strong> — fronto-temporal; <em>serial order</em> (syntax, articulating speech).</li>
+   </ol>
+   <p><strong>Luria's three functional units:</strong> (1) cortical arousal/attention (brain stem), (2) simultaneous/successive processing, (3) programming/executive functioning (prefrontal lobes).</p>
+   <p><strong>Knowledge base:</strong> Integral component; all processes embedded within it. <strong>CAS</strong> = psychometric instrument.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">PASS (1994)</span><span class="tag">Luria's three functional units</span><span class="tag">brain stem/reticular activating system</span><span class="tag">occipital-parietal (simultaneous)</span><span class="tag">fronto-temporal (successive)</span><span class="tag">prefrontal cortex (planning)</span><span class="tag">surveyability</span><span class="tag">CAS</span></div>`},
+
+  // — CREATIVITY —
+  {theme:"creativity", title:"Creativity: Meaning, Aspects, Stages",
+   front:"Define creativity. What are its aspects (Guilford, Torrance)? What are the four stages of creative discovery (Wallas, 1926)?",
+   back:`<p><strong>Definition:</strong> "Appropriate novelty" (Hennessey &amp; Amabile, 1988). "Goal-directed thinking which is unusual, novel and useful." Newell, Shaw &amp; Simon (1963) — four criteria.</p>
+   <p><strong>Aspects — Guilford (1986):</strong> Divergent thinking: fluency, flexibility, originality, elaboration, sensitivity to problems, redefinition, freedom from functional fixedness.</p>
+   <p><strong>Aspects — Torrance (1966, 1974) TTCT:</strong></p>
+   <ol>
+     <li>Fluency, (2) Flexibility, (3) Originality, (4) Elaboration, (5) Abstractness of Titles, (6) Resistance to Premature Closure.</li>
+   </ol>
+   <p><strong>Four stages — Wallas (1926):</strong></p>
+   <ol>
+     <li><strong>Preparation</strong> — gather info, trial-and-error.</li>
+     <li><strong>Incubation</strong> — sink into unconscious; rest.</li>
+     <li><strong>Illumination</strong> — sudden insight.</li>
+     <li><strong>Verification</strong> — test and check.</li>
+   </ol>
+   <p>Two key characteristics: clear sense of purpose + store of knowledge/techniques.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">appropriate novelty</span><span class="tag">Hennessey &amp; Amabile (1988)</span><span class="tag">Guilford (1986) divergent thinking</span><span class="tag">Torrance (1966, 1974) TTCT</span><span class="tag">Wallas (1926) four stages</span><span class="tag">little-c vs. Big-C</span></div>`},
+
+  {theme:"creativity", title:"Investment & Confluence Theory of Creativity",
+   front:"Describe Sternberg's Investment and Confluence Theory of Creativity (2006). What are the six resources?",
+   back:`<p><strong>Sternberg (2006).</strong> Creativity requires confluence of six resources.</p>
+   <p><strong>Six resources:</strong></p>
+   <ol>
+     <li><strong>Intellectual abilities:</strong> Synthetic (new ways), Analytic (evaluate ideas), Practical-contextual (sell ideas).</li>
+     <li><strong>Knowledge:</strong> Must know enough, but can produce entrenched perspective.</li>
+     <li><strong>Thinking styles:</strong> Legislative style (preference for new ways). Global + local.</li>
+     <li><strong>Personality:</strong> Overcome obstacles, take sensible risks, tolerate ambiguity, self-efficacy. "Buy low and sell high."</li>
+     <li><strong>Motivation:</strong> Intrinsic, task-focused (Amabile, 1983).</li>
+     <li><strong>Environment:</strong> Supportive and rewarding.</li>
+   </ol>
+   <p><strong>Confluence principle:</strong> Thresholds, partial compensation, multiplicative interaction.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">Sternberg (2006)</span><span class="tag">six resources</span><span class="tag">synthetic/analytic/practical-contextual</span><span class="tag">legislative style</span><span class="tag">"buy low and sell high"</span><span class="tag">Amabile (1983)</span><span class="tag">thresholds</span></div>`},
+
+  {theme:"creativity", title:"Creativity and Intelligence (Relationship)",
+   front:"What is the relationship between creativity and intelligence? Describe the threshold hypothesis, triangularity hypothesis, and certification hypothesis.",
+   back:`<p><strong>Weak relationship:</strong> Torrance (1977): median r = .20 (178 correlations). Factor analyses → separate factors.</p>
+   <p><strong>Terman (1925):</strong> 1,528 gifted children (mean IQ 151) — none showed noteworthy creativity. High IQ insufficient.</p>
+   <p><strong>Threshold hypothesis (Guilford, 1967):</strong> IQ ≥ 120 necessary but not sufficient. Triangular pattern in scatter plots — no low-IQ/high-creativity data points.</p>
+   <p><strong>Triangularity hypothesis:</strong> Refers to the triangular pattern in scatter plots of IQ vs. creativity.</p>
+   <p><strong>Certification hypothesis (Hayes, 1989):</strong> Creative opportunities require formal education (correlated with IQ) → society denies low-IQ individuals the chance to display creativity.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">Terman (1925)</span><span class="tag">Torrance (1977) r = .20</span><span class="tag">Guilford (1967) threshold hypothesis</span><span class="tag">triangularity hypothesis</span><span class="tag">Hayes (1989) certification hypothesis</span></div>`},
+
+  // — PROBLEM SOLVING —
+  {theme:"problem-solving", title:"Problem Solving: Approaches & Strategies",
+   front:"What are the major approaches to problem solving? Describe the master strategies (algorithm vs. heuristic).",
+   back:`<p><strong>Definition:</strong> "A higher-order cognitive process requiring modulation and control of more routine skills." Two processes: problem orientation + problem-solving skills.</p>
+   <p><strong>Four approaches:</strong></p>
+   <ol>
+     <li><strong>Traditional/Associative learning:</strong> S-R associations; extinction weakens wrong, reinforcement strengthens correct.</li>
+     <li><strong>Gestalt:</strong> Structure of problem; new combinations; insight.</li>
+     <li><strong>Information Processing:</strong> GPS (Newell, Shaw &amp; Simon, 1958); problem space; operators; heuristics.</li>
+     <li><strong>Problem Solving as Modelling:</strong> Domain model + task model → competency theory.</li>
+   </ol>
+   <p><strong>Master strategies:</strong></p>
+   <ul>
+     <li><strong>Algorithm:</strong> Guarantees solution; systematic vs. unsystematic random search.</li>
+     <li><strong>Heuristic:</strong> Rules of thumb; faster but no guarantee.</li>
+   </ul>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">problem orientation vs. skills</span><span class="tag">algorithm</span><span class="tag">heuristic</span><span class="tag">GPS (Newell, Shaw &amp; Simon, 1958)</span><span class="tag">problem space</span><span class="tag">operators</span></div>`},
+
+  {theme:"problem-solving", title:"Gestalt Approach to Problem Solving",
+   front:"Explain the Gestalt approach to problem solving. What are reproductive vs. productive thinking? What role does insight play?",
+   back:`<p><strong>Kohler (1925, <em>The Mentality of Apes</em>):</strong> Reorganisation of objects into new structure. Solution occurred as a <strong>flash of insight</strong>.</p>
+   <p><strong>Insight:</strong> "The sudden discovery of the correct solution following incorrect attempts based on trial and error."</p>
+   <p><strong>Reproductive vs. productive thinking (Wertheimer, 1959):</strong></p>
+   <ul>
+     <li><strong>Reproductive:</strong> Tried-and-true paths; rote memory.</li>
+     <li><strong>Productive:</strong> Insight + creativity; new way of organising problem.</li>
+   </ul>
+   <p><strong>Nine-dot problem:</strong> Requires restructuring — lines must extend beyond visual boundaries.</p>
+   <p><strong>Sagacity:</strong> Ability to see into the situation and discriminate important aspects.</p>
+   <p>Gestalt-originated obstacles: <strong>Einstellung (mental set)</strong> and <strong>functional fixedness</strong>.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">Kohler (1925)</span><span class="tag">insight</span><span class="tag">reproductive vs. productive thinking</span><span class="tag">Wertheimer (1959)</span><span class="tag">nine-dot problem</span><span class="tag">sagacity</span><span class="tag">Einstellung</span></div>`},
+
+  {theme:"problem-solving", title:"Well-Defined vs. Ill-Defined Problems",
+   front:"Distinguish between well-defined and ill-defined problems. What are Greeno's (1978) three categories? What makes problems difficult?",
+   back:`<p><strong>Well-defined:</strong> Nature of problem and info needed are clear. E.g., math equation, jigsaw puzzle.</p>
+   <p><strong>Ill-defined:</strong> Nature unclear; info required less obvious. E.g., "how to bring peace."</p>
+   <p><strong>Greeno (1978) — three categories:</strong></p>
+   <ol>
+     <li><strong>Arrangement problems:</strong> Rearrange elements to satisfy criterion. E.g., anagrams, jigsaw.</li>
+     <li><strong>Inducing structure:</strong> Identify existing relationships, construct new ones.</li>
+     <li><strong>Transformation problems:</strong> Change initial to goal state. E.g., Tower of Hanoi. Requires planning via means-end analysis.</li>
+   </ol>
+   <p><strong>Characteristics of difficult problems:</strong> Intransparency, commencement opacity, continuation opacity, polytely (multiple goals), inexpressiveness, opposition, transience, complexity, enumerability, connectivity, heterogeneity, dynamics, temporal constraints, temporal sensitivity, phase effects, dynamic unpredictability.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">well-defined vs. ill-defined</span><span class="tag">Greeno (1978)</span><span class="tag">arrangement problems</span><span class="tag">inducing-structure problems</span><span class="tag">transformation problems</span><span class="tag">Tower of Hanoi</span><span class="tag">polytely</span></div>`},
+
+  {theme:"problem-solving", title:"Techniques of Problem Solving",
+   front:"What are the specific techniques of problem solving? Describe each major technique. What are Wickelgren's seven strategies?",
+   back:`<p><strong>Specific techniques:</strong></p>
+   <ol>
+     <li><strong>Generate and Test:</strong> Generate solutions, test against criteria.</li>
+     <li><strong>Means-Ends Analysis:</strong> Detect difference between current and goal state; reduce it. Involves subgoals.</li>
+     <li><strong>Backward Search:</strong> Start at goal, work backward. Wickelgren (1974): only viable when goal uniquely defined.</li>
+     <li><strong>Planning / Analogy:</strong> Split into simple/complex; solve simple first. Analogy = using earlier solution.</li>
+     <li><strong>Thinking Aloud (Ericsson &amp; Simon):</strong> Concurrent vs. retrospective verbalisation. Protocol → problem behaviour graph (Newell, 1977). Schooler, Ohlsson &amp; Brooks (1993): verbalisation interferes with insight.</li>
+   </ol>
+   <p><strong>Wickelgren's seven strategies:</strong> Inference, Classification (equivalence classes), State evaluation &amp; hill climbing, Subgoals, Contradiction, Working backward, Finding relations between problems.</p>
+   <p><strong>Other strategies:</strong> Abstraction, Divide &amp; Conquer, Hypothesis Testing, Lateral Thinking, Reduction, Brainstorming, IDEAL (Bransford &amp; Stein).</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">generate and test</span><span class="tag">means-ends analysis</span><span class="tag">backward search</span><span class="tag">Wickelgren (1974)</span><span class="tag">Ericsson &amp; Simon</span><span class="tag">protocol</span><span class="tag">state-action tree</span><span class="tag">hill climbing</span></div>`},
+
+  {theme:"problem-solving", title:"Functional Fixedness",
+   front:"What is functional fixedness? Who discovered it? Describe the candle experiment and Simmel's coin problem.",
+   back:`<p><strong>Duncker (1935).</strong> Tendency to see objects as having only a single, typical use. "The prototypical function dominates the way we think."</p>
+   <p><strong>Duncker's candle experiment:</strong> Three boxes filled with candles, tacks, matches. Mount candles on wall. Only <strong>43%</strong> solved (boxes as containers). When boxes emptied → <strong>100%</strong> solved (boxes as platforms).</p>
+   <p><strong>Simmel's coin problem (1953):</strong> 8 coins, one lighter; find in 2 weighings. Most divide 4+4 then 2+2 (fails). Correct: 3+3+2. "When the obvious way keeps us from seeing the correct way, we are functionally fixed."</p>
+   <p>Functional fixedness = cognitive barrier; lack of transfer skills. Remedy: reorganisation of the problem.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">Duncker (1935)</span><span class="tag">functional fixedness</span><span class="tag">prototypical function</span><span class="tag">candle problem (43% vs. 100%)</span><span class="tag">Simmel (1953) coin problem</span><span class="tag">reorganisation</span></div>`},
+
+  {theme:"problem-solving", title:"Environmental & Cultural Blocks in Problem Solving",
+   front:"What are environmental and cultural blocks in problem solving? List and describe the named sub-types of each.",
+   back:`<p><strong>Environmental blocks (8):</strong></p>
+   <ol>
+     <li>Management style — how we are managed influences attitude/freedom.</li>
+     <li>Distractions — noise, interruptions.</li>
+     <li>Physical discomfort — irritability.</li>
+     <li>Lack of support — information, advice, skills, resources, encouragement.</li>
+     <li>Stress — pressure of work/deadlines.</li>
+     <li>Lack of communication.</li>
+     <li>Monotonous work — "automatic pilot."</li>
+     <li>Expectations of others.</li>
+   </ol>
+   <p><strong>Cultural blocks (6):</strong></p>
+   <ol>
+     <li>Unquestioning acceptance of status quo.</li>
+     <li>Dislike of change.</li>
+     <li>Fantasy and humour not productive.</li>
+     <li>Feelings/intuition unreliable.</li>
+     <li>Over-emphasis on competition or cooperation.</li>
+     <li>Taboos.</li>
+   </ol>
+   <p>Five barrier types: Perceptual, Emotional, Intellectual, Expressive, Environmental, Cultural.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">environmental blocks (8)</span><span class="tag">cultural blocks (6)</span><span class="tag">management style</span><span class="tag">stress</span><span class="tag">status quo</span><span class="tag">taboos</span><span class="tag">re-learning</span></div>`},
+
+  // — LANGUAGE —
+  {theme:"language", title:"Language Acquisition: Stages & Building Blocks",
+   front:"What are the building blocks of language and the stages of language acquisition? Compare the four major theories.",
+   back:`<p><strong>Building blocks:</strong> Phonemes (smallest distinguishable units), Morphemes (smallest meaningful units), Syntax (rules for arrangement), Semantics (meaning), Pragmatics (use in context).</p>
+   <p><strong>Stages:</strong></p>
+   <ol>
+     <li><strong>Cooing</strong> — vowel sounds; universal.</li>
+     <li><strong>Babbling</strong> — consonant + vowel; shift to own language phonemes.</li>
+     <li><strong>Holophrases</strong> — one-word utterances; overextension errors.</li>
+     <li><strong>Telegraphic speech</strong> — "want juice," "doggie bite."</li>
+     <li><strong>Basic adult sentences</strong> — by age 4. Vocabulary ~1000 at 3.</li>
+   </ol>
+   <p><strong>Four theories:</strong></p>
+   <ul>
+     <li><strong>Behaviourist (Skinner, 1957):</strong> Imitation + reinforcement.</li>
+     <li><strong>Innateness (Chomsky):</strong> LAD; innate language faculty.</li>
+     <li><strong>Cognitive (Piaget):</strong> Language part of cognitive development.</li>
+     <li><strong>Interactionist (Bruner, 1966):</strong> CDS, scaffolding, LASS.</li>
+   </ul>
+   <p>Critical period: guaranteed up to 6, compromised until after puberty (Lenneberg, 1967). Williams Syndrome: IQ ~50 but fluent language.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">phoneme/morpheme/syntax/semantics/pragmatics</span><span class="tag">cooing/babbling/holophrase/telegraphic speech</span><span class="tag">overextension</span><span class="tag">Skinner/Chomsky/Piaget/Bruner</span><span class="tag">LASS</span><span class="tag">critical period</span></div>`},
+
+  {theme:"language", title:"Chomsky's Innateness Theory of Language",
+   front:"Explain Chomsky's innateness theory. What is the LAD? What evidence supports innateness? What are its limitations?",
+   back:`<p><strong>Chomsky (1957, 1959).</strong> Children born with innate language capacity. <strong>LAD</strong> = Language Acquisition Device — innate faculty for language.</p>
+   <p><strong>Principles and Parameters / Universal Grammar:</strong> Principles = general features common to all languages; parameters = variables for diversity.</p>
+   <p><strong>Slobin's modification:</strong> LAD = process mechanism, not set of linguistic categories.</p>
+   <p><strong>Evidence:</strong></p>
+   <ol>
+     <li>Human vocal tract adapted for speech.</li>
+     <li>Broca's and Wernicke's areas.</li>
+     <li>Chimpanzee experiments — no grammatical competence.</li>
+     <li>Creole formation (Bickerton) — pidgin → creole.</li>
+     <li>Nicaraguan signing creole (Pinker, 1994).</li>
+   </ol>
+   <p><strong>Limitations:</strong> Theoretical only; no account of interaction; Jim case (Bard &amp; Sachs, 1977).</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">LAD</span><span class="tag">Universal Grammar</span><span class="tag">Principles and Parameters</span><span class="tag">Chomsky (1957, 1959)</span><span class="tag">creolisation (Bickerton)</span><span class="tag">Broca's/Wernicke's areas</span><span class="tag">Jim case</span></div>`},
+
+  {theme:"language", title:"Single-System vs. Dual-System Hypotheses",
+   front:"What are the single-system and dual-system hypotheses regarding multilingual brain representation? What does the evidence suggest?",
+   back:`<p><strong>Single-system:</strong> Two languages in one system/brain region. Supported by Hernandez et al. (2001) in early multilinguals.</p>
+   <p><strong>Dual-system:</strong> Languages in separate systems (De Houwer, 1995; Paradis, 1981).</p>
+   <p><strong>Evidence:</strong></p>
+   <ul>
+     <li>Bilingual aphasia — equivocal: sometimes L1 recovers first, sometimes L2.</li>
+     <li>Meinzer et al. (2006): trained in L1 only → L1 recovery, no L2 change.</li>
+     <li>Ojemann &amp; Whitaker (1978): cortical stimulation → "some aspects singly, others separately."</li>
+   </ul>
+   <p><strong>Related:</strong> Concept Mediation account (Kroll &amp; Sholl, 1992): lexical = language-specific, semantic = common. Paivio (1986): both language-specific.</p>
+   <p>Early bilinguals build adaptable network; late bilinguals establish new neural areas.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">single-system</span><span class="tag">dual-system</span><span class="tag">Hernandez et al. (2001)</span><span class="tag">De Houwer (1995)</span><span class="tag">Paradis (1981)</span><span class="tag">Ojemann &amp; Whitaker (1978)</span><span class="tag">Concept Mediation</span></div>`},
+
+  {theme:"language", title:"Clark & Clark: Three Elements of Language Expression",
+   front:"What are Clark & Clark's (1977) three elements of language expression? Describe each. What are the five stages of speech production?",
+   back:`<p><strong>Three elements (Clark &amp; Clark, 1977):</strong></p>
+   <ol>
+     <li><strong>Speech Acts:</strong> Speakers intend to influence listeners. Searle (1969) — indirect speech acts. Meaning depends on context.</li>
+     <li><strong>Propositional Content:</strong> Describes states/events. More propositions → longer reading time (van Dijk &amp; Kintsch, 1983).</li>
+     <li><strong>Thematic Structure:</strong> Good speakers judge what listeners know; track their lead.</li>
+   </ol>
+   <p><strong>Five stages of speech production:</strong></p>
+   <ol>
+     <li>Discourse plans, (2) Sentence plans, (3) Constituent plans, (4) Articulatory program, (5) Articulation.</li>
+   </ol>
+   <p><strong>Gricean Maxims (1975):</strong> Quantity, Quality, Relation, Manner. Violation = conversational implicature.</p>
+   <p><strong>Deep vs. surface structure (Chomsky, 1965, 1975):</strong> Transformational rules. Synonymous sentences = same deep structure, different surface structures.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">Clark &amp; Clark (1977)</span><span class="tag">speech acts</span><span class="tag">propositional content</span><span class="tag">thematic structure</span><span class="tag">five stages of speech production</span><span class="tag">Gricean Maxims</span><span class="tag">deep vs. surface structure</span></div>`},
+
+  {theme:"language", title:"Multilingualism and Thinking",
+   front:"What is multilingualism? How does it affect cognition? Distinguish additive from subtractive bilingualism. What cognitive benefits have been documented?",
+   back:`<p><strong>Multilingualism:</strong> Knowledge of more than one language. Bloomfield (1933) — native-like competence. Modern (Grosjean, 1982) — uses languages regularly, switches where necessary.</p>
+   <p><strong>Types:</strong> Elite vs. neighbourhood. Simultaneous vs. sequential.</p>
+   <p><strong>Additive bilingualism (Cummins, 1976):</strong> L2 added to well-developed L1 → positive effects. <strong>Subtractive:</strong> L2 replaces L1 → negative effects.</p>
+   <p><strong>Threshold effect:</strong> High competence in both languages needed for positive effects.</p>
+   <p><strong>Documented benefits:</strong></p>
+   <ul>
+     <li>Enhanced metalingual abilities (Bialystok, 2001).</li>
+     <li>Better language manipulation for thinking/problem solving (Cummins, 1981).</li>
+     <li>Better verbal and spatial abilities (Diaz, 1983).</li>
+     <li>Greater cognitive flexibility (Hakuta, 1986).</li>
+     <li>Better creativity, analogical reasoning (Diaz, 1985); divergent thinking (Landry).</li>
+     <li>Competent multilinguals score highest on analogy-solving (Eleanor, 1993).</li>
+   </ul>
+   <p><strong>Neural:</strong> Early bilinguals = adaptable network; late = new neural areas.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">additive/subtractive (Cummins, 1976)</span><span class="tag">threshold effect</span><span class="tag">Bialystok (2001)</span><span class="tag">Hakuta (1986)</span><span class="tag">Diaz (1983, 1985)</span><span class="tag">Landry</span><span class="tag">code-switching</span></div>`},
+
+  {theme:"language", title:"Second Language Acquisition",
+   front:"What factors affect second language acquisition? Is there a critical period for L2? How does L2 acquisition differ from L1?",
+   back:`<p><strong>Age factor:</strong> Nativelike pronunciation depends on early acquisition. "There do not appear to be critical periods for second-language acquisition" (Birdsong, 1999). Possible exception: native accent.</p>
+   <p><strong>Adults vs. children:</strong> Adults retain native language as dominant. Young children switch dominant language → higher mastery.</p>
+   <p><strong>L2 learning:</strong> Cognitive procedures + LAD (more for L1, less for L2) + LASS (Bruner, 1982, 1983) + Vygotskyan scaffolding (Vygotsky, 1978).</p>
+   <p><strong>Differential difficulty:</strong> Depends on shared roots and inflection. English→Spanish easier than English→Russian. "Difficulty of learning L2 does not have much to do with difficulty as L1."</p>
+   <p><strong>Neural:</strong> Early bilinguals build adaptable network; late bilinguals establish new neural areas.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">Birdsong (1999)</span><span class="tag">critical period for L2 (absent except accent)</span><span class="tag">Vygotsky (1978)</span><span class="tag">Bruner (1982, 1983)</span><span class="tag">LAD (less for L2)</span><span class="tag">differential difficulty</span></div>`},
+
+  // — DISORDERS —
+  {theme:"disorders", title:"Aphasia / Speech Disorders",
+   front:"What is aphasia? Distinguish Broca's and Wernicke's aphasia. What are the main categories of speech disorders?",
+   back:`<p><strong>Aphasia:</strong> "Impairment of language functioning caused by damage to the left hemisphere" (Garrett, 2003).</p>
+   <p><strong>Types:</strong></p>
+   <ul>
+     <li><strong>Broca's:</strong> Premotor area. Non-fluent, agrammatic; comprehension preserved.</li>
+     <li><strong>Wernicke's:</strong> Left temporal lobe. Fluent but semantically incoherent; neologisms.</li>
+     <li><strong>Global:</strong> Both areas impaired. 32% of aphasias post-stroke.</li>
+     <li><strong>Anomic:</strong> Word-retrieval difficulty.</li>
+   </ul>
+   <p><strong>Speech disorders (Roseberry-McKibbin, 1995):</strong> Voice, articulation, fluency.</p>
+   <ul>
+     <li><strong>Voice disorders:</strong> Phonation/resonation problems.</li>
+     <li><strong>Speech sound disorders:</strong> Articulation (phonetic) vs. phonemic.</li>
+     <li><strong>Fluency disorders:</strong> Cluttering, stuttering.</li>
+     <li><strong>Apraxia of speech, dysprosody, dysarthria.</strong></li>
+   </ul>
+   <p><strong>Other:</strong> Autism (echolalia); Alzheimer's (semantic simplification); SLI (~50% → dyslexia).</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">aphasia</span><span class="tag">Broca's area</span><span class="tag">Wernicke's area</span><span class="tag">agrammatism</span><span class="tag">neologisms</span><span class="tag">global aphasia</span><span class="tag">echolalia</span><span class="tag">SLI</span></div>`},
+
+  {theme:"disorders", title:"Dyspraxia",
+   front:"What is developmental dyspraxia? How does it differ from apraxia of speech? What are its symptoms and causes?",
+   back:`<p><strong>Developmental dyspraxia (Dewey, 1995):</strong> Impairment in planning/executing sensory and motor tasks. "Out of sync" with environment. Lifelong disorder. Average-to-above-average intelligence.</p>
+   <p><strong>Symptoms:</strong> Poor balance/coordination, clumsiness, vision problems, perception difficulties, difficulty with reading/writing/speaking, poor social skills, poor posture, poor short-term memory.</p>
+   <p><strong>Apraxia of speech / verbal dyspraxia:</strong> Trouble saying what one wants correctly and consistently.</p>
+   <p><strong>Two types:</strong></p>
+   <ul>
+     <li><strong>Acquired:</strong> Adults; brain damage (stroke, head injury, tumour).</li>
+     <li><strong>Developmental (DAS):</strong> Present from birth; more boys than girls. Also: childhood apraxia of speech.</li>
+   </ul>
+   <p><strong>Causes:</strong> Not yet known. Genetic factors suggested (Kasper et al., 2005). Brain imaging has not found specific lesions.</p>
+   <p><strong>Symptoms:</strong> Inconsistent mistakes; "groping" for sounds; incorrect prosody.</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">developmental dyspraxia</span><span class="tag">Dewey (1995)</span><span class="tag">"out of sync"</span><span class="tag">acquired vs. developmental (DAS)</span><span class="tag">prosody errors</span><span class="tag">"groping"</span><span class="tag">Kasper et al. (2005)</span></div>`},
+
+  {theme:"disorders", title:"Learning Disability (Dyslexia)",
+   front:"What is dyslexia? Describe the types and functional subtypes. How is it related to other language disorders?",
+   back:`<p><strong>Definition (World Federation of Neurologists, 1968):</strong> "A disorder in children who, despite conventional classroom experience, fail to attain language skills of reading, writing, spelling commensurate with their intellectual abilities." Average-to-superior intelligence. More common in boys.</p>
+   <p><strong>Types (Heim, Tschierse &amp; Amunts, 2008):</strong></p>
+   <ul>
+     <li><strong>Primary dyslexia:</strong> Left-cortex dysfunction; hereditary; does not change with age.</li>
+     <li><strong>Secondary/developmental:</strong> Hormonal; diminishes with maturation (Galaburda &amp; Cestnick, 2003).</li>
+   </ul>
+   <p><strong>Functional subtypes:</strong> Visual, Auditory, Dysgraphia (Facoetti et al., 2003).</p>
+   <p><strong>Warning signs:</strong> Letter/number reversals (Birsh, 2005); difficulty copying; uncoordinated.</p>
+   <p><strong>SLI → dyslexia link:</strong> ~50% SLI children develop dyslexia (Bishop &amp; Snowling, 2004).</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">dyslexia</span><span class="tag">World Federation of Neurologists (1968)</span><span class="tag">primary vs. secondary</span><span class="tag">visual/auditory dyslexia</span><span class="tag">dysgraphia</span><span class="tag">Bishop &amp; Snowling (2004)</span></div>`},
+
+  // — BONUS —
+  {theme:"intelligence", title:"Gardner's Eight Criteria for Multiple Intelligences (Bonus)",
+   front:"What are Gardner's eight criteria for identifying a candidate intelligence?",
+   back:`<p>A capacity had to meet <strong>eight criteria</strong>:</p>
+   <ol>
+     <li><strong>Brain isolation by brain damage</strong> — potential for selective impairment.</li>
+     <li><strong>Evolutionary history</strong> — evidence of evolutionary basis.</li>
+     <li><strong>Core operations</strong> — identifiable core operations.</li>
+     <li><strong>Susceptibility to encoding</strong> — can be encoded in a symbol system.</li>
+     <li><strong>Developmental progression</strong> — distinct stages.</li>
+     <li><strong>Idiot-savants, prodigies, exceptional people.</strong></li>
+     <li><strong>Experimental psychology support.</strong></li>
+     <li><strong>Psychometric support.</strong></li>
+   </ol>
+   <p>These criteria argue for treating each intelligence as a <strong>relatively autonomous capacity</strong>, not merely a sub-skill of "g."</p>
+   <div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+     <span class="tag">eight criteria</span><span class="tag">brain isolation</span><span class="tag">evolutionary history</span><span class="tag">core operations</span><span class="tag">encoding</span><span class="tag">developmental progression</span><span class="tag">idiot-savants</span></div>`}
+];
+
+// --- App state ---
+let currentIndex = 0;
+let filteredCards = [...cards];
+let isShuffled = false;
+let cardFlipped = false;
+
+function renderCard() {
+  const card = filteredCards[currentIndex];
+  if (!card) return;
+  document.getElementById('cardFront').innerHTML = `
+    <div class="card-label">${getThemeLabel(card.theme)}</div>
+    <div class="card-title">${card.title}</div>
+    <div class="card-body"><p>${card.front}</p></div>`;
+  document.getElementById('cardBack').innerHTML = `
+    <div class="card-label back-label">Answer</div>
+    <div class="card-title">${card.title}</div>
+    <div class="card-body">${card.back}</div>`;
+  document.getElementById('currentNum').textContent = currentIndex + 1;
+  document.getElementById('totalNum').textContent = filteredCards.length;
+  document.getElementById('progressFill').style.width = ((currentIndex + 1) / filteredCards.length * 100) + '%';
+  // Reset flip
+  cardFlipped = false;
+  document.getElementById('flashcard').classList.remove('flipped');
+  // Scroll card faces to top
+  document.getElementById('cardFront').scrollTop = 0;
+  document.getElementById('cardBack').scrollTop = 0;
+}
+
+function getThemeLabel(theme) {
+  const labels = {
+    foundations: 'Foundations of Cognitive Psychology',
+    'info-processing': 'Information Processing',
+    memory: 'Memory',
+    intelligence: 'Intelligence',
+    creativity: 'Creativity',
+    'problem-solving': 'Problem Solving',
+    language: 'Language',
+    disorders: 'Cognitive/Neurodevelopmental Disorders'
+  };
+  return labels[theme] || theme;
+}
+
+function flipCard() {
+  cardFlipped = !cardFlipped;
+  document.getElementById('flashcard').classList.toggle('flipped');
+}
+
+function nextCard() {
+  if (currentIndex < filteredCards.length - 1) {
+    currentIndex++;
+    renderCard();
+  }
+}
+
+function prevCard() {
+  if (currentIndex > 0) {
+    currentIndex--;
+    renderCard();
+  }
+}
+
+function resetCard() {
+  cardFlipped = false;
+  document.getElementById('flashcard').classList.remove('flipped');
+}
+
+function toggleShuffle() {
+  isShuffled = !isShuffled;
+  document.getElementById('shuffleIndicator').classList.toggle('active', isShuffled);
+  if (isShuffled) {
+    filteredCards = [...filteredCards].sort(() => Math.random() - 0.5);
+  } else {
+    applyFilter();
+  }
+  currentIndex = 0;
+  renderCard();
+}
+
+function applyFilter() {
+  const theme = document.getElementById('themeFilter').value;
+  if (theme === 'all') {
+    filteredCards = [...cards];
+  } else {
+    filteredCards = cards.filter(c => c.theme === theme);
+  }
+  if (isShuffled) {
+    filteredCards = [...filteredCards].sort(() => Math.random() - 0.5);
+  }
+  currentIndex = 0;
+  renderCard();
+}
+
+// Theme filter change
+document.getElementById('themeFilter').addEventListener('change', () => {
+  isShuffled = false;
+  document.getElementById('shuffleIndicator').classList.remove('active');
+  applyFilter();
+});
+
+// Keyboard navigation
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'ArrowRight') nextCard();
+  else if (e.key === 'ArrowLeft') prevCard();
+  else if (e.key === ' ') { e.preventDefault(); flipCard(); }
+  else if (e.key === 's' || e.key === 'S') toggleShuffle();
+});
+
+// Initial render
+renderCard();
+</script>
+</body>
+</html>

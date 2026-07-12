@@ -1,0 +1,2983 @@
+
+
+===== PAGE 1 =====
+5
+Introduction to Assessment
+and TestingUNIT 1 INTRODUCTION TO ASSESSMENT
+AND TESTING
+Structure
+1.0 Introduction
+1.1 Objectives
+1.2 History of Personality Assessment
+1.2.1 The OSS
+1.2.2 Important Steps in Personality Assessment
+1.2.3 Personality Assessment and Related Fields
+1.3 Influence of Psychological Assessment
+1.4 Meaning and Purpose of Personality Assessment
+1.4.1 Meaning of Personality Assessment
+1.4.2 Purpose of Personality Assessment
+1.5 Testing and Measurement Concepts
+1.5.1 S tandardisation
+1.5.2 Norms
+1.5.3 Reliability
+1.5.4 V alidity
+1.6 Let Us Sum Up
+1.7 Unit End Questions
+1.8 Glossary
+1.9 Suggested Readings and References
+1.0 INTRODUCTION
+A pervasive theme in the study of personality is individual differences in people’s
+behaviour and experience. In pursuing the study of individual differences – how
+are people different from one another – personologists deal with two related
+concerns. First, is the ways in which people are different.  Personologists have
+used different theoretical concepts to describe the distinctiveness about an
+individual. Terms such as trait, type, motive, value, temperament, etc. have been
+used to depict enduring aspects of human behaviour. Second, personologists are
+interested in developing ways of measuring individual differences ( a process
+called assessment ).
+Formal personality assessment not only makes it possible to obtain information
+about individual differences in a meaningful and exact manner but also makes it
+possible to communicate this information to others in a clear and unambiguous
+fashion. In this unit 1, we will be dealing with the historical perspectives of
+personality assessment and measurement, provide meaning and definition and
+description of personality assessment and follow it up by the reason for assessing
+personality. The assessment of personality is made through measuring social
+traits, motives, adjustment etc. Assessment has to be reliable and valid and in
+order to know how this is to be done, we will be learning in this unit how a test
+of personality or for that matter any psychological test is standardised, how norms
+
+
+===== PAGE 2 =====
+6
+Assessment of Personality are developed and we would also learn what is reliability and validity and how
+these have to be calculated.
+1.1 OBJECTIVES
+After reading this unit, you will be able to:
+• Define personality assessment;
+• Describe the individual differences measured in personality assessment;
+• Trace the history of personality assessment;
+• Explain the meaning and purpose of personality assessment; and
+• Describe the criteria for standardisation of personality assessment techniques.
+1.2 HISTORY OF PERSONALITY ASSESSMENT
+The ways in which people behave have always been of interest. They are of
+immediate interest to family, friends, and neighbours, for whom the behaviour
+of a certain person is likely to have direct consequence. Thus there have been
+many attempts by psychologists and experts to look for and devise instruments
+to assess personality.
+As one traces the history of psychological testing it is interesting to see that as
+early as 1000 B.C., written tests were introduced by the Chinese in order to fill
+up civil service positions. In the United States around the year 1850 one finds
+tests for the civil services examinations starting. James Cattell in 1890 developed
+a mental test for assessing college students in order to measure their strength,
+resistance to pain and reaction time. As is well known the first scale of mental
+development for classifying the mentally retarded children in France was in the
+year 1905 and this scale originated from Binet and Simon and bears their name
+as Binet Simon scale of mental development. World War I required tests to quickly
+classify the new recruits to army and this was done through the Army Alpha and
+Beta tests, which were specially developed for this purpose in 1914.
+It was in 1916 that the term Intelligent Quotient was introduced by Terman who
+developed Standford Binet Test after which came the many personality tests and
+inventories. Between 1920 and 1940 using factor analysis projective tests and
+personality tests were devised. Between 1941-1960 many vocational interest
+tests were developed and between 1961 – 1980 neuropsychological testing became
+prominent. Between 1980 to the present date many tests have been developed
+which could be administered through the computer, scored and also interpreted. 
+In regard to personality tests, as one traces the history, one finds that the first
+name is of a Greek physician Hippocrates. He was a departure from the spiritual
+side of human behaviours. He theorised that every boy has four fluids (humors);
+blood, phlegm (...respiratory secretions) yellow bile and black bile. He thought
+that these fluids affect human body in a number of ways. In 190 AD Galen,
+another Greek Physician put forward a theory of four body fluids and pointed
+out that based on the body fluids there are four temperaments, viz., sanguine,
+phlegm, choleric and melancholic. The sanguine person is supposed to be warm,
+optimistic and confident, while the phlegmatic body brings about a temperament
+
+
+===== PAGE 3 =====
+7
+Introduction to Assessment
+and Testing
+which is sluggish, apathetic and indifferent.  The yellow bile according to Galen
+causes a choleric body and thus the temperament consists of violence, anger and
+aggression. The last one was the black bile body which causes the person to have
+a melancholic body and the temperament that goes with it includes, sadness,
+depression and melancholy. He also believed that food, weather, life-periods
+and geographical conditions affect body temperaments. He was of the view that
+a healthy body is the direct result of a balance in the ratio of these four body
+temperaments.
+Avicenna, a Muslim physician not only introduced four body temperaments to
+the Arab world but also analysed many other reasons of human illness.
+It was actually Wilhelm Wundt (1879 A.D.) who founded the first psychology
+laboratory in Leipzig Germany, was the first to make clear the distinction between
+human body and personality. He theorised that the four temperaments; sanguine,
+phlegm, cholera and melancholy are four dimensions of the human personality.
+He gave the psychological touch to the personality tests.
+While the history of personality tests took a psychological turn with Wilhelm
+Wundt, many psychologists contributed to the personality assessment methods.
+Given below are some of the contributors who belong to the 20
+th century.
+In 1905, Eduard Spranger, a German Philosopher, theorised four attitudes towards
+ethical values. He named those value attitudes as artistic, religious, theoretic and
+economic.
+Hugo Munsterberg, a professor of the Harvard University made a survey and
+asked the executives of different organisations to respond. He asked them for
+qualities which they want to see in their employees. He listed them and devised
+the first personality test. He intended to help the employers to make the best
+hiring decisions.
+Ernest Kretchmer (1920) , a German philosopher presented a theory of four
+character styles, viz., hypomanic, depressive, hyperesthetic or anesthetic
+depending upon their character styles.
+Erich Fromm, another German philosopher wrote that there are four human
+orientation which he termed as exploitative, hoarding, receptive and marketing.
+In 1922, Carl Jung, a Swiss psychologist, was the first person to theorise that
+people always prefer certain identifiable behaviours if they are given a free choice.
+He also said that on the basis of human preferences, they can be divided in
+different personality types. Based on this theorisation, two women psychologists,
+Myers Briggs and Katherine Briggs in the year 1958, applied Jung’s theory and
+developed types of personality which were to be decided based on the answers
+to four questions which are as given below:
+a) Preferred source of your energy? (Internal or external)
+b) Preferred source of perception? (Senses or Intuition)
+c) Preferred decision making system? (On logics or feelings)
+d) Preferred life style? (ordered or adaptable)
+
+
+===== PAGE 4 =====
+8
+Assessment of Personality On the basis of the answers received, they identified four cognitive functions;
+sensory perception, sensory judgment, intuitive feeling and intuitive thinking.
+Their theory influenced another psychologuist named Kiersy, who identified four
+personality temperaments. David Kiersy associated four temperaments with
+Myers Briggs four cognitive functions. He developed a personality assessment
+scale called as “Temperament sorter” which identified four personality
+temperaments viz., the guardian, the rational, the idealist and the artisan. A person
+having ‘guardian’ temperament will value responsibility and team membership.
+The person’s core desires are security, service and system. Such a person is not
+only responsible towards his job and the organisation but also to his family and
+the society.
+On the other hand, a person having ‘rational’ temperament will value knowledge,
+skill and intuitive evaluation. Such persons are analytical, experimental and
+factual. They not only understand abstraction but also can theorise it. Such a
+person is a knowledge seeker.
+The ‘Idealist’ temperament person follows ideals and their intuitive and feeling
+preferences make them perform great tasks. They desire not only develop
+themselves but also people around them.
+If Kiersey temperaments scale sorts a person an artisan, that person is expected
+to be action seeker. The core needs of such a person are action and variety. These
+persons prefer using their five senses to understand information. They are
+impulsive and spontaneous, dislike routines and schedules, but love freedom of
+action and experiments.
+One can also see how personality assessments became more and more important
+especially in the work situations. For instance, the German government established
+a program for selecting officer candidates in the 1920s. By 1936, they had 15
+psychological laboratories, with 84 psychologists, evaluating over 40,000
+candidates per year. Thus, the Germans invented the modern assessment center
+in which 4 or 5 candidates are intensively evaluated with interviews and realistic
+job simulations for two days. At the end, a committee judged the potential of
+each candidate. The German method examined the “total personality” and
+produced an overall evaluation of suitability.
+Historically, one finds the English selecting military officers using interviews
+focusing on a candidate’s social class-the higher, the better. When the war started,
+the supply of upper class candidates was quickly exhausted. The British
+government then established War Office Selection Boards (WOSB)-assessment
+centers modeled on the German method. They compared their traditional interview
+with the WOSBs, and found the assessment centers were superior at identifying
+good leaders in combat.
+1.2.1 The OSS
+The U.S. was unprepared for World War II. To enhance its intelligence capabilities,
+Congress created the Office of Strategic Services (OSS) in 1942; William
+Donovan, a World War I hero and Wall Street banker, was the director. Donovan
+and Murray used the German assessment center to screen applicants for the OSS.
+The Assessment of Men (1948) provides evidence regarding the effectiveness of
+this process.
+
+
+===== PAGE 5 =====
+9
+Introduction to Assessment
+and Testing
+Three points about this assessment tradition should be noted.
+1) It selected candidates based on evaluations of competence and not the absence
+of psychopathology.
+2) Researchers consistently evaluated the validity of their process.
+3) It was demonstrated by Eysenck in 1953 that the one hour of paper and
+pencil testing yielded results fully comparable to those obtained from the
+two and one half day assessment center. The same would be true today.
+Thus from the above one can state that from the beginning of personality
+measurement in the 19th century and for the next 75 years, a large number of
+personality assessment scales were devised to measure a large number of
+personality concepts. The relatively more recent ‘ Five Factor Model’ personality
+assessment scale  showed that there was a surprising degree of order beneath
+these personality assessment tests. This predicts occupational performance as
+well as measures of cognitive ability. In this context, Murray Barrick and Michael
+Mount showed that personality measures, organised in terms of the Five-Factor
+Model, predict occupational performance across a wide range of jobs and
+industries.
+1.2.2 Important Steps in Personality Assessment
+There are two important steps in personality assessment which are given below.
+Step 1. Stipulate the agenda for personality assessment. The agenda for personality
+assessment concerns forecasting individual differences in a person’s potential
+for getting along and getting ahead.
+Step 2. It must be decided as to which aspect of personality one wants to measure.
+If one wants to assess personality from the inside identity, then a measure of
+values is needed. This would help to evaluate how well a person will fit into the
+culture of a specific organisation, as opposed to trying to predict occupational
+performance. If, however, one wants to assess personality from the outside
+reputation then one should use observer ratings (e.g., a 360-degree feedback
+instrument). The optimal use of assessments of reputation is to forecast
+occupational performance, as opposed to trying to predict person/culture fit.
+If the foregoing distinctions are appropriately observed, personality and
+personality assessment will be indispensable tools for making decisions about
+people in organisations.
+1.2.3 Personality Assessment and Related Fields
+Astrology, palmistry, and phrenology are considerably older than any current
+professional assessment techniques.
+Astrology: This is a field in which the personality of the individual is predicted
+on the basis of the date of birth, place of birth and the time of birth. At the time
+the person is born, the planetary positions are determined and based on these the
+individual’s personality and the future of the person are predicted. Such attempts
+to forecast events on earth through observation of fixed stars and other heavenly
+bodies, is thought to have originated twenty-five centuries ago in Mesopotamia.
+Their belief that the stars were powerful Gods, led the ancients to conclude that
+human affairs could be foretold by study of the heavens. Personality and the
+
+
+===== PAGE 6 =====
+10
+Assessment of Personality course of events in each individual’s life were determined by consulting a
+horoscope. The notion that human lives are predicted by the configuration of the
+stars at the moment of birth seems though extremely naïve, lots of work and
+teaching are continuing on in this field.
+Biorhythms: Analogous to astrology is the technique of biorhythm, a method for
+personal prediction developed initially by Wilhelm Fleiss, a colleague of Sigmund
+Freud and promoted by George Thommen(1973). According to this theory, day-
+to-day effectiveness is governed by a position on three “cycles”, viz., physical,
+emotional, and mental – that are fixed according to the moment of birth and are
+not otherwise modifiable. Because each of the cycles has a different period, they
+can periodically combine to produce “triple low “days, on which things are likely
+to go badly, and “triple- high” days, when the opposite will be true.
+Palmistry refers to the determining of an individual’s character by interpreting
+the various irregularities and the folds of the skin of the hand. It is known to
+have existed as a standardised system in China as early as 3000 B.C.
+Humoural theory: The search for clear- cut relation between the physical attributes
+of an individual and his/her psychological characteristics has been continual.
+This concern had an early expression in the humoural theory, that remained
+current through middle-ages.. This theory proposed four ‘ingredients’: blood,
+phlegm, yellow bile(choler), and black bile(melancholy). The particular
+proportion of these four ingredients in different people determine their
+complexions (or personality characteristics), their physical, and mental qualities
+and their unique dispositions. It was therefore claimed that, by reading physical
+signs of the relative amounts of these humours in a given individual, his/her
+distinctive personality can be determined.
+Somatotype theory: The humoural theory came into disuse, with the assumption
+that human personality is a reflection of physical body. This has been suggested
+in the seminal work of Sheldon and his colleagues whose theory of somatotypes
+divides people into three major types: the ectomorph, who is thin and fragile; the
+mesomorph, who is powerful and muscular; and the endomorph, who is round,
+soft and fat. According to the theory, each of these ideal types has a specific
+personality that has an innate consequence of that particular body build. Because
+most individuals have a combination of these three body types, the personality
+characteristics are determined by the relative proportions of the body type factors
+in their individual somatotype.
+Self Assessment Questions
+1) Define and describe personality assessment.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+
+===== PAGE 7 =====
+11
+Introduction to Assessment
+and Testing2) Trace the history of personality assessment.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) Discuss Jung’s contribution to personality testing.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4) What is OSS? Discuss its needs and how it is used as personality
+assessment?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+5) Discuss how personality assessment is related to other fields such as
+astrology, biorhythm, humorology and somatotype theories?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+1.3 INFLUENCE OF PSYCHOLOGICAL
+ASSESSMENT
+Scientific personality assessment has its roots in the study of individual differences
+through psychological measurement. The study of individual differences was
+given considerable impetus by Darwin’s work on evolution. Sir Francis Galton,
+A famous British scholar of the 19
+th century, became interested in the inheritance
+of differences and devoted the later portion of his life to their study.
+The study of individual differences in the U.S. was pioneered by James Mckeen
+Cattell. Although, his interests were mainly in the area of psychophysics,
+perception, and reaction time, Cattell had a strong influence on the development
+of other psychological measurement devices, including personality tests.
+
+
+===== PAGE 8 =====
+12
+Assessment of Personality At about the same time in France, Alfred Binet , who had become enthusiastic
+about Galton’s work on individual differences , began a series of studies of eminent
+persons in the arts and science. Binet used a standardised series of experimental
+tasks, including observation on body types, head measurement, and handwriting.
+He also began a series of investigation into mental functioning (which includes
+personality), using a wide variety of tasks involving word knowledge, reasoning
+and numerical ability. These investigations led to the development of now famous
+Binet Tests of intelligence. Some of the tasks in the tests, involved telling stories
+about pictures and identifying inkblots, which all paved way for the emergence
+of ‘projective’ tests of personality.
+Thus, prior to 1915, research on the measurement of personality was preceded
+by work on the measurement of skills or abilities, it grew out of the early academic
+interests in the measurement of human individual differences. Galton had
+introduced the use of direct behaviour samples in real life situations, and his
+work had stimulated considerable interest in both U.S. and France. Two of
+Galton’s followers, Karl Pearson and Charles Spearman, played a major part in
+the development of statistical procedures that provided powerful tools for later
+work in assessment.
+1.4 MEANING AND PURPOSE OF PERSONALITY
+ASSESSMENT
+1.4.1 Meaning of Personality Assessment
+The term “personality” refers to the total functions of an individual who interacts
+with the environment. Such definition automatically includes all traits as the
+main themes of the personality. The purpose of the measurement of personality
+is to describe a person in terms of some of the measurable factors such as the
+traits. Trait is nothing but the observed consistency of behaviour of a person.
+Traits are not directly observed but inferred from the consistent behaviour of an
+individual. The most general cues to traits are what and how the person does, has
+well how well the task is done by the individual. .
+1.4.2 Purpose of Personality Assessment
+Nunnally (1979: P.354) has opined that personality measurement aims at studying
+the four broad types of traits, viz., social traits, motives, personal conceptions
+and adjustment. These are being discussed in the following section.
+Social traits
+Social traits are those traits, which determine how persons interact with other
+persons in society. Examples of typical social traits are friendliness, honesty,
+dominance, responsibility, shyness, etc. Thus, within social traits are included
+traits related to temperament and character.
+Motives
+Motives here include the non-biological drives such as the need to earn money
+and prestige, need for the academic, achievement, need for affiliation, aggression,
+etc. These non- biological needs are often said to constitute what is known as
+personality dynamics.
+
+
+===== PAGE 9 =====
+13
+Introduction to Assessment
+and Testing
+Personal conceptions
+Under the trait of personal conceptions are included those methods which determine
+people’s attitude toward self and others, a person’s values, interests, etc.
+Adjustment
+Adjustment in psychology refers to the establishment of a satisfactory relationship
+representing harmony, conformance, adaptation or the like. It is a process of
+finding and adopting modes of behaviour suitable to the environment or the
+change in the environment. Adjustment is the process by which a living organism
+maintains a balance between its needs and the circumstances that influences the
+satisfaction of these needs. Adjustment includes traits like the freedom from
+emotional worries or instability and other related aspects of behaviour.
+One general characteristic of these four types of traits is that they are correlated
+with each other, that is they are not independent. For instance, a social trait, say
+dominance, is likely to influence motives, personal conceptions (interests,
+attitudes) and adjustment. Similarly, an individual’s motive is likely to influence
+the interaction of the person with others in society (social traits). It would also
+include the individual’s personal conceptions and adjustment. To cite an example,
+let us say an individual is highly prejudiced against a particular caste (personal
+conception). In such cases, the individual’s social interaction, motives, and
+adjustment all would be similarly affected. Likewise, if a person has a satisfactory
+general adjustment, That person’s social traits, motives and personal conceptions
+would be in congruence with social norms. On the other hand, if an individual is
+maladjusted, s/he would have extreme social traits, eccentric motives and personal
+conceptions.
+Self Assessment Questions
+1) How does psychological assessment influence personality assessment?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) Discuss the meaning and purpose of personality assessment.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) Discuss the four broad types of traits which can be measured.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+
+===== PAGE 10 =====
+14
+Assessment of Personality
+1.5 TESTING AND MEASUREMENT CONCEPTS
+Assessment techniques must meet four technical criteria before they can be
+considered scientifically acceptable measures of individual differences in people’s
+enduring qualities. These criteria are standardisation, norms, reliability, and
+validity. Let us deal with each of these and understand what these terms mean.
+1.5.1 Standardisation
+A key concept in the measurement of personality dimensions is that of
+standardisation. This concept refers to the uniform procedures that are followed
+in the administration and scoring of an assessment tool. For instance, in self-
+report scale, the examiner must make every effort to ensure that subjects read
+and understand the printed instructions, respond to the same questions, and stay
+within any stated time limits. It also involves information (in the manual) about
+the conditions under which the assessment test should or should not be given,
+who should or should not take the test (sample group), specific procedures for
+scoring the test, and the interpretative significance of the scores.
+1.5.2 Norms
+The standardisation of a personality assessment test includes information
+concerning whether a particular “raw score” ranks low, high, or average relative
+to other “raw scores” on the test. Such information, called test norms, provides
+standards with which the scores of various individuals who take the test later can
+be compared. Usually, the raw scores on a test are converted into percentile
+scores, which indicate the percentage of people who score at or below a particular
+score. Thus, test norms permit the comparison of individual scores to a
+representative group so as to quantify the individual’s relative rank standing to
+others.
+1.5.3 Reliability
+Any test whether personality or intelligence or aptitude etc., should have reliability
+and this should be demonstrated. Reliability means that repeated administrations
+of the same test or another form of test should yield reasonably the same results
+or scores. Thus, reliability refers to the consistency or stability of an assessment
+technique when given to the same group of people on two different occasions.
+This kind of reliability is termed as test- retest reliability (Anastasi, 1968) .
+To determine test- retest reliability, the scores from the first administration are
+correlated with those of the second by a simple correlation procedure. The
+magnitude of resulting correlation coefficient gives us an estimate of the test’s
+consistency over time. Although there are no fixed guidelines about acceptable
+levels of reliability, the reliability coefficients for most psychological tests are
+above +.70. The closer this statistic approaches +1.00, the more reliable the test
+is. In other words, when retested, people’s scores should match their first scores
+quite closely.
+A second kind of reliability is determined by splitting the test into two sets (e.g.,
+odd-numbered items versus even- numbered items), summing people’s scores
+for each set, and correlating the two sets of summed scores with each other. The
+correlation between these sets is termed split- half reliability  and reflects the
+
+
+===== PAGE 11 =====
+15
+Introduction to Assessment
+and Testing
+test’s internal consistency. If the composite set of test items is consistently
+measuring the same underlying personality dimension, then people who score
+high on odd items should also score high on even items, and people who score
+low on odd items should also score low on even items (again reflected in a high
+positive correlation) .
+A third type of reliability is based on the correlation of two versions of the same
+test (made up of similar items) administered to same group of individuals. If the
+scores on these different forms are about the same, the test yields reliability of
+parallel forms. In such a case, the correlation of two parallel forms would indicate
+that the items on both tests measure the same thing.
+Lastly, reliability also applies to the degree of agreement between two or more
+judges in scoring the same assessment test. This is called inter scorer reliability,
+and must be demonstrated whenever scoring involves subjective interpretations,
+such as those made by personologists examining projective data. Inter scorer
+reliability tends to be especially low with qualitative data in general, such as
+interview conversations, dream reports, and other open ended response formats
+that are not objectively quantified. But, agreement is increased when judges use
+manuals with explicit scoring rules and instructions for analysing such data (Yin,
+1984).
+1.5.4 Validity
+Whether or not a test measures what it is intended to measure or predicts what it
+is supposed to predict, is known as validity. It is another significant concept in
+personality assessment. There are three main types of validity: (1) Content validity,
+(2) Criterion- related validity, (3) Construct validity.
+To be content valid, an assessment tool must include those items whose contents
+are representative of the entire domain or dimension it is supposed to measure.
+For instance, a personality test measuring shyness, should actually reflect the
+personal (“Is your shyness a major source of personal discomfort?”), Social (“Do
+you get embarrassed when speaking in front of a large group?”), and cognitive
+(“Do you believe that others are always judging you?”) aspects of shyness. A
+content valid test would assess each of these components defining the construct
+of shyness. Content validity is almost entirely determined by agreement among
+experts that each item does in fact represent aspects of the variable or attribute
+being measured.
+For criterion related validity, personality assessment is commonly undertaken
+for the purpose of making predictions about specific aspects of an individual’s
+behaviour. For example, the behavioural criterion being predicted may include
+academic performance in management school, occupational success. The extent
+to which a test accurately forecasts some agreed- upon criterion measures
+determined by correlating subject’s scores on the test with their scores on
+independently measured criterion. For instance, the criteria is success in
+management school as measured by management school grade point average
+(GPA).The Common Aptitude Test would be validated if it accurately predicted
+the criterion( management school GPA).
+
+
+===== PAGE 12 =====
+16
+Assessment of Personality There are three types of criterion related validity.
+i) Predictive validity
+ii) Concurrent validity
+iii) Construct validity
+Predictive validity involves determining the capacity of a test to predict some
+criterion behaviour in the future. For instance, an intelligence test has predictive
+validity if it accurately predicts subsequent performance in school.
+Concurrent validity involves determining the extent to which a test correlates
+significantly with another currently derived test from a theory or existing criterion
+measure. For instance, if a person’s scores on a test that measures paranoid
+tendencies is assessed by clinical psychologists, and the test also shows paranoid
+tendencies as was obtained in the interview, then we would say that concurrent
+validity exists. But the clinicians must not have prior knowledge of the patient’s
+paranoid test scores. Otherwise, their ratings may be biased by their knowledge,
+a situation called criterion contamination.
+Construct V alidity: The third type of measurement validation, and the one most
+crucial to personality assessment as a whole, is called construct validity. The
+concept of construct validity addresses the question of how well a test measures
+something that, in reality, is but a useful abstract invention (Cronbach & Meehl,
+1955).
+The abstract nature of many psychological constructs such as self- actualisation,
+ego- identity, social interest, and repression, makes this approach complicated
+and results uncertain.
+Construct validation is the process whereby evidence is gathered to demonstrate
+that a test measures a hypothetical construct. It is a laborious process requiring
+several studies that examine the correlations between test scores and measures
+assumed to be related to the construct in question.
+Convergent Validity
+In order to demonstrate that a test measures a construct, we can correlate test
+scores of the construct in question with scores from another test that purportedly
+measures the same construct. This procedure is known as convergent validation
+(Campbell & Fiske, 1959).
+For instance, we have a new test that we think measures the construct of self-
+esteem. If our new test does measure the construct of self-esteem, it should
+correlate positively with another established and validated measure of self- esteem.
+Also, if several different self-esteem measures agree with each other and with
+our new test, we have some evidence for the construct validity of our new test of
+self- esteem.
+Divergent validity
+Another way to demonstrate construct validity is to show the assessment tool
+does not correlate with measures of qualities that it was not intended to measure,
+particularly the qualities unrelated to the conceptual definition that the theorist
+
+
+===== PAGE 13 =====
+17
+Introduction to Assessment
+and Testing
+formulated. This aspect of the validation process is termed as divergent validity
+(Campbell & Fiske, 1959).
+For instance, if our new self-esteem test does not correlate with measures of
+other, conceptually distinct qualities, we have evidence of discriminate validity
+(since our self-esteem measure is discriminated from non- self- esteem measures,
+as it should be).This is an important step in establishing the construct validity of
+an assessment technique.
+Self Assessment Questions
+1) What is meant by standardisation?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) What are norms? How are they established?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) What is relaiability?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4) What are the different ways in which treliability could be tested?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+5) What is V alidity?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+
+===== PAGE 14 =====
+18
+Assessment of Personality
+6) What are the types of validity testing?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+7) Differentiate between convergent and divergent validity.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+1.6 LET US SUM UP
+The ways in which people behave have always been of interest to significant
+others, as well as for whom the behaviour is likely to have direct consequences.
+Personality assessment involves systematic efforts to understand and predict
+behaviour of an individual. It has a long history, that can be traced from astrology,
+palmistry, biorhythms, and the like. Personality refers to the total functions of an
+individual who interacts with his environment. The purpose of the measurement
+of personality is to describe a person in terms of traits. And traits are referred as
+observed consistency of behaviour in an individual. Hence, personality
+measurement aims at studying the four broad types of traits , namely, social
+traits, motives, personal conceptions, and adjustment. Lastly, an assessment
+technique must meet four criteria before they can be considered scientifically
+acceptable measures of individual differences. These are standardisation, norms,
+reliability, and validity.
+1.7 UNIT END QUESTIONS
+1) Discuss the meaning and purpose of personality assessment.
+2) Trace the historical development of personality assessment.
+3) What is meant by standardisation? Discuss the important aspects related to
+standardisation.
+4) Describe the four technical criteria to consider assessment technique as
+scientifically acceptable measure.
+1.8 GLOSSARY
+Assessment : The measurement of individual differences having
+to do with various personality traits.
+Concurrent validity : Degree to which a test correlates with an
+independent measure of the same characteristics or
+variables obtained at the same time.
+
+
+===== PAGE 15 =====
+19
+Introduction to Assessment
+and Testing
+Construct validity : Extend to which there is evidence that a test
+measures a particular hypothetical construct;
+involves validation of both the test and theoretically
+related characteristic that underlies it.
+Content validity : Degree to which a test includes items that is relevant
+to the variable being measured.
+Convergent validity : Degree to which a test correlates with another test
+that supposedly measures the same characteristics
+or construct in question.
+Divergent validity : The degree to which a test does not measure qualities
+it was not intended to measure.
+Palmistry : Determining of an individual’s character by
+interpreting the various irregularities and the folds
+of the skin of the hand.
+Predictive validity : Degree to which a test can accurately predict some
+criterion related measure in the future.
+Reliability : The measurement of consistency or stability of a
+test (or other kind of measurement technique). The
+consistency of scores when a test is administered
+repeatedly to the same group of people is called test
+– retest reliability. The consistency of scores across
+items within a test is called split half or internal
+reliability.
+Standardisation : The use of uniform procedures in the administration
+and scoring of a psychological test.
+Test norms : Established standards of performance for a test (e.g.,
+mean, median, and percentile).
+Validity : Degree to which a test measures what it aims to
+measure.
+1.9 SUGGESTED READINGS AND REFERENCES
+Anastasi, A. (1968). Psychological Testing. London: Macmillan Company.
+Campbell, D.T. & Fiske, D.W. (1959). Convergent and discriminate validation
+by the multi trait multi method matrix. Psychological Bulletin, 56, 81-105.
+Nunnally, J. C. Jr. (1959).Tests and Measurements: Assessment and Prediction.
+New York:Mcgraw -Hill Book Co.
+References
+Hjelle, L. A. & Zieglar, D.J. (1992).Personality Theories. Basic Assumptions,
+Research, and Applications. McGraw Hill Book Co.
+Lanyon, R. I. & Goodstein, L.D.(1997).Personality Assessment.3
+rd edition. John
+Wiley & Sons.
+Singh, A. K. (1997). Tests, Measurements and Research Methods in Behavioral
+Sciences. Bharti Bhawan, Patna.
+
+
+===== PAGE 16 =====
+20
+Assessment of Personality
+UNIT 2 APPROACHES TO PERSONALITY
+ASSESSMENT (SELF-REPORT,
+PROBLEMS OF RESPONSE IN
+PROJECTIVE AND BEHAVIOURAL
+ASSESSMENT)
+Structure
+2.0 Introduction
+2.1 Objectives
+2.2 Self-Report Personality Tests (Inventory)
+2.2.1 Single T rait Tests
+2.2.2 Multidimensional Tests
+2.2.3 Strengths and Weaknesses of Self-report Tests
+2.2.4 Faking in Personality Inventories
+2.2.5 Measures to Avoid Faking
+2.2.6 Methods to Overcome Weaknesses in Self-report Tests
+2.3 Some Important Personality Inventories
+2.3.1 The Sixteen Personality Factors Questionnaire (16 PF)
+2.3.2 Neurotic/Extraversion/Openness Personality Inventory
+2.3.3 Myers Briggs Type Indicator (MBTI)
+2.3.4 Minnesota Multiphasic Personality Inventory (MMPI)
+2.4 Projective Techniques
+2.4.1 Classification of Projective Techniques
+2.4.2 Strengths and Weaknesses of Projective Techniques
+2.5 Behavioural Assessments
+2.5.1 Observation Techniques
+2.5.2 Situational Tests
+2.5.3 Weaknesses in the Behavioural Assessment Tests
+2.6 Let Us Sum Up
+2.7 Unit End Questions
+2.8 Glossary
+2.9 Suggested Readings and References
+2.0 INTRODUCTION
+V ariety of assessment techniques is available to personologists in gathering
+information about people. They include questionnaire, ink blots, personal
+documents, behavioural assessment procedure, peer judgments, and what people
+reveal when asked questions about themselves. Each has specific strength and
+weakness regarding the kinds of responses obtained, scoring, interpretation,
+reliability, and validity. In this unit you will learn all about Self-Report Personality
+Tests (Inventory). What they are and how they are devised and administered.
+This unit will also discuss the merits and demerits of these self reports and would
+also indicate how these weaknesses could be overcome. In this unit you will also
+
+
+===== PAGE 17 =====
+21
+Approaches to Personality
+Assessment (Self-Report,
+Problems of Response in
+Projective and behavioural
+Assessment)
+learn some of the important self reports available . There will be another section
+in this unit that would discuss the projective techniques , its importance, merits
+and demerits, and the available tests of projective techniques. This will be
+followed by another section dealiong with behavioural assessments and their
+importance, weaknesses and strengths.
+2.1 OBJECTIVES
+After reading this unit, you will be able to:
+• Define and describe Self-Report Personality Tests (Inventory);
+• Explain the Strengths and weaknesses of self-report tests;
+• Analyse factors to overcome the weaknesses in self-report tests;
+• Elucidate important kinds of self-report tests;
+• Define and describe Projective Techniques;
+• Explain the strengths and weaknesses of projective techniques; and
+• Define and describe behavioural Assessments.
+2.2 SELF REPORT PERSONALITY TESTS
+(INVENTORY)
+Self-report inventories, also known as personality inventories are self rating
+questionnaires, where the individual describes own feelings, environment, and
+reactions of others towards self. In other words, on the self-report inventories a
+person reports about one’s own self in the light of the questions (or items) given
+therein.. Hence, the method is known as a self-report inventory.
+Self-report inventories are classified into five types, as given below:
+1) Inventories that attempt to measure social and certain other specifies traits
+such as self confidence, dominance, extroversion, etc.
+2) Inventories that attempt to evaluate the adjustment of the person to different
+aspects of the environment such as school, home, health.
+3) Inventories that attempt to evaluate pathological traits.
+4) Inventories that attempt to screen individuals into two or three groups.
+5) Inventories that attempt to measure attitudes, interests, and values of persons.
+Let us deal with the above five self report inventories one by one.
+1) These are tests or inventories which attempt to measure social and other
+specific traits including self confidence, dominance, extraversion etc.
+Examples of such an inventory are that of Bernreuter Personality Inventory,
+Eysenck Personality Questionnaire, Differential Personality Scale etc.
+2) These are inventories that try to evaluate the level of adjustment of a person
+to different aspects of one’s life. For instance some of the adjustments that
+are studied here include adjustment to self, health, home and school. Example
+for such an inventory is Bells Adjustment Inventory.
+
+
+===== PAGE 18 =====
+22
+Assessment of Personality 3) These are Inventories that attempt to evaluate the pathological traits in an
+individual. Some of these try to evaluate a large number of traits of
+pathological nature, while some confine to a few pathological traits. For
+instance the MMPI (The Minnessota Multiphasic Personality Inventory)
+tries to get at a very large number of pathological traits in addition to some
+normal traits. The 16 PF inventory attempts to evaluate 16 personality traits
+including 4 pathological traits.  These pathological traits may include
+hysteria, paranoia, hypomania, depression, schizophrenia, etc.
+4) These are inventories which attempt to screen individuals into two or three
+groups. The Cornell Index is the best example of such as inventory. The
+Cornell Index screens the persons into two groups - those having
+psychosomatic difficulties like asthma, peptic ulcer, migraine, etc., and those
+not having them that is, those who are normal.
+5) These are Inventories that attempt to measure attitudes, interests, and values
+of persons. E.g., In regard to attitude we can give the example of Bogardus
+Social distance scale; in regard to interest inventory we can give the example
+of Strong V ocational Interest Blank, and in regard to values, we can give the
+example of Allport-V ernon Study of Vaues Scale.
+This classification is based upon the purpose and the nature of item content. All
+the above self-report inventories are based upon same principle, which states
+that behaviour is nothing but the manifestation of trait and one can find out the
+presence or absence of a trait by means of assessing the behaviour. Self-report
+inventories are more widely used than any form of personality assessment. These
+are paper-and-pencil test that ask people to respond to questions concerning their
+traits, values, attitudes, motives, feelings, interests, abilities.
+The term “self-report” refers to any information the person reveals directly about
+himself / herself by responding to specific questions or items with a limited
+number of prescribed choices (e.g.”Yes”.“No”, “Always”, “Don’t know”).
+General feature of self-report test is standardisation of response alternatives.
+That is, people taking the tests have to select either true or false, agree or disagree,
+an alternative that varies from 1(very characteristic of me) to 6, and so on.
+In this manner, objectivity is achieved by restricting the degree of freedom people
+have in responding to test items.
+Similarly standardisation of scoring procedures minimises the risk of personal
+bias of the persons scoring the tests.
+Self- report inventories differ in regard to the number of personality dimensions
+they measure at one time.
+2.2.1 Single-traits Tests
+These are developed and used by researchers to measure some specific aspects
+of personality. They then examine whether people who score at the upper and
+lower end on the trait measure perform differently on the behavioural measure
+or differ on the self-report measure. In other words any person participating in
+the study may receive a high score (or may receive a medium or low score), but
+every person’s score is equally meaningful as a representation of that person’s
+personality.
+
+
+===== PAGE 19 =====
+23
+Approaches to Personality
+Assessment (Self-Report,
+Problems of Response in
+Projective and behavioural
+Assessment)
+Some single-dimension tests also provide separate measures of two or three traits.
+Examples of single-trait tests include
+a) the Locus of Control Scale (Rotter, 1966),
+b) the Sensation Seeking Scale (Zuckerman, 1978),
+c) the Self Monitoring Scale (Snyder, 1974).
+The scores obtained from these tests are assumed to reflect relatively stable
+individual differences along specific trait dimensions. In addition to these scales,
+there are many self-report inventories that measure several personality dimensions
+simultaneously.
+2.2.2 Multidimensional Tests
+These multi-dimensional tests have the advantage of providing a more
+comprehensive overview of the person being assessed and are used extensively
+in clinical, counseling, and personnel settings. For instance the Sixteen Personality
+Factor Questionnaire (16-PF) is a 187-item test which measures 16 source traits
+of the normal personality identified by Raymond Cattell (1965). Scores derived
+from each of the source trait measures (e.g., submissive-dominant, trusting-
+suspicious) are plotted on a graph to provide a personality profile. This profile
+may be used by psychologist for counselling and to make important employment
+and promotion decisions about people.
+2.2.3 Strength and Weakness of Self-report Tests
+Assessment of individual differences is a significant aspect of personology. Much
+emphasis has been placed on self-reports as the basis for measuring the individual
+differences. The major advantage is that self-report tests provide more thorough,
+precise, and systematic information about an individual’s personality than does
+casual information. The strengths of the self report inventories are given below:
+• The objectivity of scoring minimizes personal or theoretical bias
+• Also, self-report measures can be administered easily by someone with
+relatively little formal training.
+• Self-report tests have greater reliability than do other assessment techniques.
+• Finally, multi-dimensional inventories allow for measurement of several
+different personality traits at once.
+Apart from the aforesaid, strengths, self report tests have some weaknesses.
+The major limitations of self report tests are given below:
+• They are susceptible to deliberate deception,
+• There is considerable influence of social desirability,
+• There is the influence of the response set (Kleinmuntz, 1982).
+• Deliberate deception is most likely to occur when the person believes there
+is something to be gained from fraudulent responding (Furnham, 1990).
+2.2.4 Faking in Personality Inventories
+Let us understand how faking can occur.
+A job applicant might “fake good” by intentionally agreeing with those items
+she/he believes will create favourable impression in an employment situation.
+
+
+===== PAGE 20 =====
+24
+Assessment of Personality As well as, a person might also “fake bad” by intentionally answering items that
+she/he believes will create the impression of being more psychologically disturbed
+than is actually true.
+This might occur in a situation where a person is being assessed to determine
+competency to face charges for a criminal offence.
+Another way to fake is to respond to items in ways that make “look good”. This
+tendency is called social desirability and it is a problem that can occur in all
+assessment techniques, not only self-reports. In this, people who display social
+desirability bias may be unaware of their tendency to slant answers in a favourable
+direction as opposed to giving frank answers. They unintentionally present
+themselves in a favourable light that probably does not correspond to reality.
+There are many strategies to detect or reduce the problem of social desirability
+response bias. For instance, MMPI includes questions intended to assess the
+likelihood that a respondent is giving socially desirable answers. Other tests are
+constructed to directly measure the extent to which people give self flattering
+responses. For instance, Marlowe-Crowne Social Desirability Scale (Crowne &
+Marlowe, 1964) is designed to measure the tendency of people to present
+themselves in a favourable light .
+2.2.5 Measures to Avoid Faking
+To overcome this problem, safeguards are to be built into tests to detect deliberate
+deception.
+The MMPI, for instance, includes validity scales designed to indicate whether
+respondents are lying, defensive, or evasive when answering the test items.
+Another option is to include filler items which can make the purpose of a test
+less obvious to a person. But these efforts may be only partially successful in
+detecting the extent to which a respondent is engaging in conscious deception. If
+possible, important decisions about a person should not be based on self-report
+data alone.
+Another way to deal with the problem is to carefully evaluate the social desirability
+of each item before it is included in a test.
+Lastly, in self- report measures, people have a tendency to respond in a particular
+way regardless of the content of the items. For instance, some people are more
+likely than others to agree with virtually every question on a test.
+This acquiescence response set is a major problem on self-report measures that
+require a true- false or a yes- no answer (E.g.,MMPI).
+If this response set is not counteracted in someway, the scores of highly
+acquiescent people will be distorted and not accurately reflect the personality
+traits. This problem is comparatively easy to counteract. Many test makers phrase
+the items so that true or false or yes or no responses are equally likely to be
+indicative of the trait being measured. Therefore, any bias coming from the
+tendency to respond “true” or “yes” is balanced when the test is scored.
+2.2.6 Methods to Overcome Weaknesses in Self-report Tests
+Distortions in the actual responses of self-report measures of personality are
+major problems for users of personality tests. Thus, it is essential that attempts
+
+
+===== PAGE 21 =====
+25
+Approaches to Personality
+Assessment (Self-Report,
+Problems of Response in
+Projective and behavioural
+Assessment)
+be made to overcome these distortions and make the self-report responses more
+representatives of the true responses. The following methods may be adopted
+for the purpose:
+Method 1. Establishment of rapport
+Distortions occur when the testees feel discomfort and find themselves in an
+unfriendly environment. It is essential that before actual administration of an
+inventory, the tester should make every effort to establish a warm and cooperative
+relationship called “rapport” with the testees. This relationship is dependent upon
+the skill of the testers skill and their ability to bring about a subtle modification
+of the testing situation. This will help in expressing the truth in an unhesitant
+way and thereby reducing the major proportion of distortion.
+Method 2. Use of forced-choice technique
+This technique has been used in controlling faking good or socially desirable
+response sets. In forced-choice items the subject is forced to choose between
+two or more than two equally desirable or undesirable terms or phrases or
+statements. The subject who wants to give socially desirable responses is out-
+witted by the forced choice between equally desirable statements.
+Method 3. Concealing the main purpose of the test:
+When the subjects do not know the real purpose of the test it becomes difficult
+for them to fake although in such a situation they may be more suspicious and
+defensive in their responses. Subjects may guess from the nature of the items,
+but they may be not definite that some inferences about their tendencies or traits
+are to be made and this will lessen the probability to fake.
+There can be two ways to conceal the purpose. One method is to state such a
+plausible purpose of the test which is not the real purpose. For instance a
+personality test may be described as a test of ability, and if it appears so to the
+subject the faking is likely to be reduced to a great extent.
+Another method of concealment is to insert information which is actually false
+among items of information which are actually true. For instance the subjects
+may be asked to endorse those titles of the book in the booklist which they have
+gone through. This list of titles will also contain some fictitious titles. The greater
+the number of endorsements of such fictitious titles, the higher the deceit.
+Method 4. Use of verification and correction keys
+Use of various kinds of correction and verification keys gives an indication
+whether or not the subject is projecting the true picture of the self. For instance
+MMPI uses four validity scores which aims at checking carelessness, evasiveness,
+misunderstanding and operation of other response sets.
+2.3 SOME IMPORTANT PERSONALITY
+INVENTORIES
+As mentioned earlier, the first attempt to measure personality through a
+questionnaire was made by Galton in 1880. He developed a questionnaire for
+studying mental imagery, that is inner world of perception and feeling.
+
+
+===== PAGE 22 =====
+26
+Assessment of Personality Thereafter, the first systematic effort to develop a personality inventory was made
+by Woodworth in 1918. This inventory was known as Woodworth Personal Data
+Sheet and consists of 116 questions all relating to neurotic tendencies. The purpose
+was to screen out emotionally unfit men before they were sent overseas during
+the World War I. Since then a number if inventories have come into practice.
+Using a statistical technique, called factor analysis that looks for groupings and
+commonalities in numerical data, Cattell discovered 16 source traits, and although
+he later determined there might be another seven source traits to make a total of
+23 (Cattell & Kline, 1977), He developed his assessment questionnaire, namely,
+2.3.1 The Sixteen Personality Factor Questionnaire (16 PF)
+Cattell, (1995) devised a personality inventory based on just 16 source traits.
+These 16 source traits are seen as trait dimensions or continuums, in which there
+are two opposite traits at each end with many possible degrees of the traits possible
+along the dimension. For example, someone scoring near the reserved end of the
+reserved\ outgoing dimension would be more introverted than someone scoring
+in the middle or at the opposite end.
+2.3.2 Neuroticism\Extraversion\ Openness Personality
+Inventory (NEO- PI )
+This inventory is based on the five- factor model of personality traits that has
+been developed by Costa & McCrae.
+2.3.3 Myers Briggs Type Indicator
+Another inventory in common use is the Myers- Briggs Type Indicator (MBTI).
+This inventory is based on the ideas of Carl Jung and looks at four personality
+dimensions, that is (i) Sensing/ intuition, (ii) Thinking/feeling, (iii) Introversion/
+Extraversion (iv) Perceiving / Judging.
+The sensing\ intuition(S\I) dimension includes people who prefer to rely on what
+they can see, hear, and so on through their  physical senses (sensing) and, on its
+opposite end those who look for patterns and trust their hunches(intuition).
+Sensing people are considered to be detail oriented, preferring to work only with
+the known facts, whereas intuitive people are more willing to use metaphors,
+analogies, and look for possibilities.
+The Thinking\feeling (T\F) dimension runs from those who prefer to use logic,
+analysis, and experiences that can be verified as facts (thinkers) to those who
+tend to make decisions based on their personal values and emotional
+reactions(feeling).
+Introversion\extraversion (I\E) is the same classic dimension that began with
+Jung, and is represented in nearly all personality theories.
+Perceiving\ judging (P/J) describes those who are willing to adapt and modify
+decisions, be spontaneous, and who are naturally curious and to put off making
+a final decision so that all possibilities are covered (perceiving) as well those
+who are the opposite : the action- oriented,   decisive, get the task done and look
+back type (judging).
+
+
+===== PAGE 23 =====
+27
+Approaches to Personality
+Assessment (Self-Report,
+Problems of Response in
+Projective and behavioural
+Assessment)
+These four dimensions can differ for each individual, resulting in 16(4 x 4)
+possible personality types: ISTJ, ISTP , ISFP, ISFJ, and so on (Myers- Briggs) is
+often used to assess personality to help people know the kinds of careers for
+which they may best be suited.
+ISTJ (Introverted, Sensing, Thinking, Judgemental). ISTP (Introversion, Sensing,
+Thinking and Perceiving). ISFP (Introversion, Sensing, Feeling and Perceiving).
+ISFJ ( Introversion, Sensing, Feeling and Judgemental).
+2.3.4 Minnesota Multiphasic Personality Inventoryh (MMPI)
+By far the most common personality inventory is the Minnesota Multiphasic
+Personality Inventory, V ersion II, or MMPI 2, which specifically tests abnormal
+behaviour patterns in personality (Butcher & Rouse, 1996; Butcher et al., 2000,
+2001).
+This questionnaire consists of 567 statements such as “I am very often tense”.
+The person taking the test must answer “true”, “false”, or “cannot say”.
+The MMPI has 10 clinical scales and 8 validity scales in addition to numerous
+subscales. Each scale tests for a particular kind of behaviour.
+The behaviour patterns include relatively mild personality problems such as
+excessive worrying and shyness as well as more serious disorders such as
+schizophrenia and depression.
+V alidity scales, which are built into any well designed psychological inventory,
+are intended to indicate whether or not a person taking the inventory is responding
+honestly. Responses to certain items on the test will indicate if people are trying
+to make themselves look better or worse than they are, for example, certain
+items are repeated throughout the test in a slightly different form, so that anyone
+trying to “fake” the test will have difficulty in responding to those items
+consistently(Butcher et al.,2001). For example, if one of the statements is “ I am
+always very happy” and a person responds “true” to that statement , the suspicion
+would be that this person is trying to look better s\he really is. If several of the
+validity scale questions are answered in this way, the conclusion is that the person
+is not being honest.
+There are also inventories in India. For example, Bengalee(1964) developed
+Multiphasic Personality Inventory, known as Youth Adjustment Analyser
+(Y AA).The purpose of the inventory was to screen out maladjusted students
+from the college going students. Mohsin & Hussain (1981) adapted the Bell
+Adjustment Inventory in Hindi.
+Self Assessment Questions
+1) What do you mean by the term personality inventory?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+
+===== PAGE 24 =====
+28
+Assessment of Personality
+2) Describe Self Report Personality Tests
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) What are single trai and Multidimensional tests?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4) What are the various types of faking possible? Discuss the measures to
+overcome the same
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+5) What are the weaknesses in self report inventories ? How are these
+overcome?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+6) What are the different kinds of personality inventories used to measure
+personality?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+7) Discuss the advantages and disadvantages of self- report measures.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+
+===== PAGE 25 =====
+29
+Approaches to Personality
+Assessment (Self-Report,
+Problems of Response in
+Projective and behavioural
+Assessment)
+2.4 PROJECTIVE TECHNIQUES
+Projective tests of personality are mainly designed to assist the clinical
+psychologist in diagnosing the nature and severity of a particular person’s
+emotional disturbance. The rationale for these tests is based on Freud’s theory
+that unconscious processes are important for understanding psychopathology.
+The purpose of projective personality assessment is to uncover the person’s
+unconscious conflicts, fears, and concerns. Frank (1939) coined the term
+projective technique to describe assessment methods that present people with
+ambiguous stimuli for which there is no obvious culturally defined to personality
+assessment, allow people to “project” upon ambiguous material their feelings,
+needs, attitudes, and ways of viewing life.
+The responses elicited by the test stimuli (such as inkblots, vague pictures) reveal
+signs of pent up impulses, “ego defenses” and other “interior” aspects of the
+personality. All projective techniques have a set of common important features.
+They are as follows:
+• They all use ambiguous or unstructured test stimuli.
+• The test taker is never told the purpose of the test or how responses will be
+scored or interpreted.
+• Instructions emphasise that there is no correct or incorrect answers and that
+the test taker is free to respond in any manner s\he sees fit.
+• Scoring and interpretation rely heavily on subjective clinical judgements.
+2.4.1 Classification of Projective Techniques
+The classification of projective techniques has been recently provided by Lindzay
+(1959). Based upon the responses of the examinees, he has divided projective
+techniques into the following five categories, iz., (i) Association technique (ii)
+Construction technique (iii) Completion technique (iv) Expressive technique
+(v) Choice technique. These are being explained below.
+Association Technique
+This category includes all those situations where the examinee is required to
+respond with the associations which are evoked in mind after seeing or listening
+to stimulus materials. E.g., the Rorschach test, the Holtzman Inkblot test and the
+Word Association test. The reaction time (the time elapsing between the
+presentation of the stimulus word and the response word) and the responses are
+analysed for studying personality.
+Construction Technique
+This category includes all those situations where the examinees are required to
+construct a story after seeing the stimulus materials (usually the picture) within
+certain specified time. No record is generally kept of time but the examinee’s
+themes and mode of responding are considered relevant. For example, Thematic
+Apperception test, Children’s Apperception test. Rosenzweig Picture Frustration
+test. The Blacky Pictures, The Object Relations test, etc. In all these tests the
+examinee is required to construct or produce simple statement or complex
+statements in the form of a story.
+
+
+===== PAGE 26 =====
+30
+Assessment of Personality Completion Technique
+These techniques include those situations where the examinee is presented with
+some incomplete sentences with the construction to complete them in any way
+he desires.
+E.g., My sex life is ...................................
+I feel tense ......................................
+My ambition in life is ....................
+I often get nervous when ..............
+Responses are given by the examinee are interpreted and analysed to find some
+aspect of the personality. But these methods lack a uniform and standard mode
+of analysis. E.g., Sack’s Sentence Completion test, Madeline Thomas Completion
+Stories test.
+Expressive Technique
+This technique includes those situations where the examinee expresses his
+personality through some manipulative tasks, which usually involve some
+interaction with given materials. For example, play, drawing role- playing painting
+finger painting, etc. An important feature is that examiner pays much attention
+to the way or process by which the examinee manipulates the given materials.
+For example, the examiner may ask the examinee to play with a given set of
+dolls; he may pay attention to the process by which dolls are selected and handled
+during the play.
+Also, in such techniques, significance is given to the process or way of handling
+the test materials rather than upon the end product of the process (such as the
+content or theme of the stories, etc.).
+Choice Technique
+Choice technique, also known as ordering technique, is not a projective in its
+true sense; rather may be regarded as a step towards objectifying the projective
+techniques (Kerlinger, 1973). The examinee is presented with some sets of pictures
+or items (which convey the different degrees of a trait) with the instruction to
+choose the most relevant and appropriate picture. Sometimes, he may be asked
+to order or rank those pictures in terms of his preferences, and thus, the name
+ordering technique. The choice of the items, becomes the basis for inference
+regarding one’s personality. The Szondi test is an example of ordering technique
+because the examinees are required to rank set of pictures along a like-dislike
+dimension.
+2.4.2 Strengths and Weaknesses of Projective Techniques
+There are two unique strengths of projective tests. First, the testing stimuli are
+relatively ambiguous to people. As such, the person does not know how the test
+provides information to the examiner. This indirect method helps in disguising
+the real purpose of the test and it reduces the possibility that people will engage
+in intentional deception. Second, the indirect method used in projective tests
+allows circumventing conscious defenses, thus making them sensitive to aspects
+of personality that are hidden.
+
+
+===== PAGE 27 =====
+31
+Approaches to Personality
+Assessment (Self-Report,
+Problems of Response in
+Projective and behavioural
+Assessment)
+However some of the disadvantages include that projective tests are poorly
+standardised, in large part because there are no established methods of
+administration, scoring, and interpretation. In particular, the scoring of these
+tests often relies on the skill and clinical intuition of the examiner, thus making
+their reliability quite low.
+Evidence suggests that extensive training in a specific scoring system leads to
+satisfactory levels of inter judge agreement( Goldfried, et al., 1971;Exner, 1986).
+A more serious problem concerns the interpretation of a person’s scored responses
+to a projective test. Interpretation of such tests depends all too often on the personal
+insights and intuition of the clinician. There is also little convincing evidence to
+support the validity of projective tests (Aiken, 1984; Peterson, 1978). Therefore,
+psychologists are well advised not to base an entire diagnosis solely on projective
+tests. Projective tests should be considered in the context of other information
+obtained through interviews, case histories, and self- report tests.
+Despite the aforesaid problems, many clinical psychologists continue to apply
+these methods as a means to explore a person’s unconscious conflicts, fantasies
+and motives(Singer & Kolligian, 1987). They are more capable of revealing
+human personality in greater depth and detail than some of the personality
+inventories where considerable faking is possible. People have more faith in
+interpreting projective tests than personality inventories. A survey of the member
+of the Society for Personality Assessment found that Rorschach and TA T were
+ranked as second and fourth, respectively, in terms of usage among all
+psychometric instruments.
+Self Assessment Questions
+1) What do you mean by a projective test? Describe the same
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) How are Projective tests classified?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) What are the strengths and weaknesses of projective techniques?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+
+===== PAGE 28 =====
+32
+Assessment of Personality
+4) Name some of the projective tests that are commonly used.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2.5 BEHAVIOURAL ASSESSMENTS
+Behaviourists do not want to typically “look into the mind” of an individual,
+because they assume that personality is merely habitually learned responses to
+stimuli in the environment, the preferred method for a behaviourist would be to
+watch that behaviour unfold in the real world.
+2.5.1 Observation Technique
+In direct observation, the psychologist observes the client engaging in ordinary,
+everyday behaviour, preferably in the natural setting of home, school, or
+workplace, for example. A therapist who goes to the classroom and observes
+that tantrum behaviour only happens when a child is asked to do something
+involving fine motor abilities (like drawing or writing) might be able to conclude
+that the child has difficulty with those skills and throws a tantrum to avoid the
+task.
+Observation is the sine qua non of any approach to personality study. In some
+cases, hunches for research begin unsystematic observation. Personal observations
+often pave the way for more refined study of people’s behaviour.
+Another way to learn about behaviour is to observe and record it as it naturally
+occurs (in real-life settings), but in a more systematic and rigorous manner than
+is evident in unsystematic behaviour. This is called observation naturalistic.
+The play and friendship patterns of children, antisocial behaviour in adolescents,
+eating behaviours of obese and no obese people, leadership styles of effective
+business managers, and many clinical phenomenons have been investigated
+through naturalistic observation. Such naturalistic observation does not explain
+behaviour, but they are a rich source of information about what people do in
+their natural environments.
+Naturalistic observation has some limitations also.
+1) The main problem is that observers are often at the mercy of unpredictable
+events over which they have little or no control.
+2) There are problems of observer bias and expectations influencing those
+aspects and events that are attended to and remembered.
+3) The generalisation of observation based on a few people and situations, is
+questionable in regard to reliability and validity.
+4) Finally, observers may unwittingly interfere with the actual events they wish
+to observe or record (Kazdin, 1982).Despite this problem, the advantage of
+naturalistic observation is obvious.
+
+
+===== PAGE 29 =====
+33
+Approaches to Personality
+Assessment (Self-Report,
+Problems of Response in
+Projective and behavioural
+Assessment)
+2.5.2 Situational Tests
+One gets a sample of how people respond to their day-to-day situations amid
+friends and families without the contrived atmosphere of a laboratory or interview.
+A situational test is a kind of compromise between a standardised test and
+observational methods of assessing personality. Personality traits are measured
+on the basis of observations of ratings of what a person thinks and does in a
+given situation, which resembles a real situation of everyday life. The subject
+has usually no idea that he is being studied. The situation represented by such
+tests is a social situation having opportunities for interaction with other individuals
+and especially designed to emphasise those aspects of personality which are
+under study.
+The first situational test of personality was developed by United Stated Office of
+Strategic Services (OSS) during World War II to screen out men for military
+several reassignments. Situational tests are more suited to the measurement of
+traits like leadership, dominance, responsibility, extroversion-introversion, and
+the like.
+Sometimes these tests utilise directly observable units of behaviour as the basis
+of assessment of the traits. Such situational tests are called behavioural tests
+because they are directly concerned with observable behaviour. For instance,
+honesty, self-control, and co-operation are such traits, related to character.
+One of the first attempts to study these traits was made by Hartshhorne, May &
+Shuttleworth (1930) in their Character Educational Inquiry(CEI). In general, CEI
+behavioural tests utilised natural situations lying within the day to day routine of
+a school child such as games, class room examination, etc. Children placed in
+these situations were not aware of the fact that they were being studied. The CEI
+tests were principally designed to measure behavioural traits like, altruism,
+honesty, and self control.
+However, most of the CEI tests were concerned with measuring honesty among
+children by providing opportunity for cheating. These tests utilised different modes
+or techniques for studying honesty.
+In one such technique called the duplicating technique  the children were
+administered one of the classroom tests like the arithmetical reasoning test or
+the vocabulary test. A set of children’s responses was duplicated, unknown to
+them . In the subsequent administration the original test is again given with a
+request to score their own responses with the help of a scoring technique. A
+simple comparison of the responses scored with the duplicated responses revealed
+whether or not the children had changed their responses in scoring, that is, whether
+they had cheated or not. Other CEI tests intended to measure honesty provided
+situations in which the person had an opportunity to lie or to steal something.
+Situational tests represent real-life situations and therefore, their findings can be
+easily generalised to natural life situations,even though they have several
+important limitations.
+Limitations
+1) The situational tests are extremely time consuming, costly, and laborious
+techniques. They are time-consuming because ordinarily observations in
+
+
+===== PAGE 30 =====
+34
+Assessment of Personality contrived situations last for several hours; they are costly because they
+demand the services of trained observers and they are laborious techniques
+because creating a real –life situation involves a good deal of labour on the
+part of the observers.
+2) Subjectivity and bias may operate in the observation of a situational test.
+Observers, even if professionally trained, may not make a fair and objective
+observation because of certain bias towards the individuals to be observed.
+Likewise, other subjective elements may enter into the observation process.
+Although, an attempt is made to control such subjective elements, they cannot
+be completely eliminated because the observer is always a human being.
+3) For increasing the reliability and validity of the observation made under
+situational tests, the experimenter gives emphasis on studying an isolated
+bit of behaviour. The problem arises as to what significance or meaning to
+such an isolated bit of behaviour can be attached.
+4) Another limitation is concerned with ‘What to observe’. This is a problem
+in situational tests, which cannot be planned to study all behaviours of the
+individual. Only the limited behaviour should be selected for observation.
+In such a situation determination and selection of a meaningful set of
+behaviours to be observed is always an important problem.
+5) Lastly, whether the observer should be kept visible or invisible is also a
+problem in most situational tests. If the group is small, the physical presence
+of the observer in the group may change what actually takes place in the
+group. How the observer can be fitted into such a setting is always a problem.
+Other methods often used by behavioural therapists and other assessors are rating
+scale and frequency counts.
+In a rating scale, a numerical rating is assigned, either by the assessor or the
+client, for specific behaviours (Nadeau et al., 2001). In a frequency count, the
+assessor literally counts the frequency of certain behaviours within a specified
+time limit. Educators make use of both rating scales and frequency counts to
+diagnose behavioural problems such as attention deficit disorder and aspects of
+personality such as social skill level through the various grade levels.
+2.5.3 Weaknesses in the Behavioural Assessment Tests
+Problems with these assessments can include the observer effect (when a person’s
+behaviour is affected by being watched) and observer bias, which can be controlled
+by having multiple observers and correlating their observations with each other.
+As with any kind of observational method, there is no control over the external
+environment.
+A person observing a client for a particular behaviour may not see that behaviour
+occur within the observation time.
+All of the above described methods convey the full meaning about the traits to
+be assessed only when they are followed by other standardised tests. Merely on
+the basis of behavioural methods it is difficult to arrive at a particular conclusion.
+
+
+===== PAGE 31 =====
+35
+Approaches to Personality
+Assessment (Self-Report,
+Problems of Response in
+Projective and behavioural
+Assessment)
+Self Assessment Questions
+1) What are the different behavioural assessment methods in assessing
+personality?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) Briefly discuss some of the weaknesses of behavioural assessments
+techniques.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) Discuss the observational tests and the situational tesgts.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4) What are the advantages and disadvantages of observation and situation
+tests.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2.6 LET US SUM UP
+There are three most common tools or methods of personality assessment.
+These tools are self-report inventories, projective techniques, and behavioural
+assessment method that include observation, rating scale, frequency count, and
+situational tests.
+
+
+===== PAGE 32 =====
+36
+Assessment of Personality Personality inventories are typically developed by trait theorists and provide a
+detailed description of certain personality traits. They are objective tests rather
+than subjective tests.
+The NEO-PI is based on five-factor model of personality, whereas Myers-Briggs
+Type Indicator is based on Jung’s theory of personality types.
+The MMPI- 2 is designed to detect abnormal personality.
+Personality inventories include validity scales to prevent cheating, but such
+measures are not perfect and cheating is sometimes possible. Projective tests are
+based on the defense mechanism of projection and are used by psychoanalysts.
+Projective tests include the Rorschach inkblot test and Thematic Apperception
+test. Projective tests can be helpful in finding starting points to open a dialogue
+between therapist and client but have been criticized for poor reliability and
+validity. Behavioural assessments are primarily used by behaviourists and include
+direct observation of behaviour rating scales of specific behaviour, and frequency
+counts of behaviour.
+Behavioural assessments have the disadvantage of the observer effect, which
+causes an observed person’s behaviour to change, and observer bias on the part
+of the person doing the assessment.
+2.7 UNIT END QUESTIONS
+1) Self-report measures are commonly used in personality assessment. Discuss
+some of the strengths and weaknesses accompanying self-report measures.
+Is it possible to overcome the weaknesses?
+2) How do projective techniques differ from self-report test in the assessment
+of personality? Do projective tests have any advantage or disadvantage in
+comparison to self-report measures?
+3) How can behavioural assessments be used in measuring personality?
+2.8 GLOSSARY
+Acquiescence : A response set of tending to say “yes” or “no”
+to test item regardless of their content.
+Direct observation : Assessment in which the professional observes
+the client engaged in ordinary day-to-day
+behaviour in either a clinical or natural setting.
+Frequency count : Assessment in which a numerical value is
+assigned to specific behaviour that is listed in
+the scale.
+Multidimensional tests : Self-report personality that provide measures
+of several aspects of the respondents
+personality at once (e.g., MMPI).
+Naturalistic observation : Careful observation of behaviour as it occurs
+in real-life settings without direct intervention
+by the investigation.
+
+
+===== PAGE 33 =====
+37
+Approaches to Personality
+Assessment (Self-Report,
+Problems of Response in
+Projective and behavioural
+Assessment)
+Projective techniques : A class of psychological tests that ask people
+to respond to ambiguous stimuli in ways that
+may reveal their needs, feelings, and conflicts.
+Rating scale : Assessment in which the frequency of a
+particular behaviour is counted.
+Self-report techniques : Self –report tests in which the response format,
+administration, and scoring features are
+standardised.
+Single-trait tests : Self-report tests that measure a specific trait
+of the respondent’s personality.
+Situational test : Personality traits are measured on the basis of
+observations of ratings of what a person thinks
+and does in a given situation, which resembles
+a real situation of everyday life.
+Social desirability : A tendency seen in some people to give
+socially acceptable answers to test items.
+2.9 SUGGESTED READINGS AND REFERENCES
+Aiken, L. R. (1984). Psychological Testing and Assessment (4th edition). Boston:
+Allyn & Bacon.
+Anastasi, A. (1968). Psychological Testing. London: Macmillan Company.
+Ciccarelli, S.K., & Meyer, G.E.(2009). Psychology. South Asian Edition. Pearson,
+New Delhi.
+Freeman, F.S.(1962). Theory and Practice of Psychological Testing. New York:
+Holt, Rinehart and Winston (Indian Edition).
+Hjelle, L.A., Zieglar, D.J.(1992). Personality Theories. Basic Assumptions,
+Research, and Applications. 3
+rd ed.McGraw Hill.
+Singh, A.K. (1997). Tests, Measurements and Research Methods in Behavioural
+Sciences. Bharti Bhawan, Patna.
+References
+Butcher, J. N., Graham, J.R., Ben-Poarth, Y .S., Tellegen, A., Dahlstorm, W.G .,&
+Kaemmer, B.(2001). Minnesota Multiphasic Personality Inventory 2. Manual
+for administration, scoring and interpretation (revised edition). Minneapolis, MN:
+University of Minnesota Press.
+Butcher, J. N., Rouse, S. V ., & Perry, J. N.(2000).Empirical description of
+psychopathology in therapy clients: Correlates of MMPI-2 scales. In J. N. Butcher
+(ed.), Basic sources in MMPI-2 (pp. 487-500). Minneapolis, MN: University of
+Minnesota Press.
+Cattell, R. B. (1995). Personality structure and the new fifth edition of the 16PF.
+Educational and Psychological Measurement, 55 (6), 926-937.
+
+
+===== PAGE 34 =====
+38
+Assessment of Personality Cattell, R. B., & Kline, P .(1977). The scientific analysis of personality and
+motivation. New York: Academic Press.
+Crowne, D. P., & Marlowe, D. (1964). The approval motive: Studies in evaluative
+dependence. New York: Wiley.
+Exner, J. E. (1986).The Rorschach: A comprehensive system (vol.1). Basic
+foundations (2nd edition). New York:Wiley.
+Frank, L. K. (1939). Projective methods for the study of personality. Journal of
+personality, 8, 389-413.
+Furnham, A. (1990).Faking personality questionnaires: Fabricating different
+profiles for different purposes. Current Psychology: Research and Reviews, 9,
+46-55.
+Goldfried, M.R., Stricker, G ., & Weiner, I.B.(1971). Rorschach handbook of
+clinical and research applications. Engelwood Cliffs, NJ: Prentice Hall.
+Hartshorne, H., May, M. A., & Shuttleworth, F.K. (1930). Studies in organisation
+and character. New York: Macmillan.
+Kazdin, A. E. (1982).The token economy: A decade later. Journal of Applied
+Behaviour Analysis, 15, 431-445.
+Kleinmuntz, B.(1982).Personality and psychological assessment. New York: St.
+Martin’s Press.
+Lindzay, G . (1959). On the classification of projective techniques. Psychological
+Bulletin , 56, 158-168.
+Nadeau, K.G ., Quinn, P.,& Littman, E.(2001).AD\HD Self-rating for girls.
+Springfield, MD: Advantage books.
+Peterson, R.A. (1978). Review of the Rorschach. In O.K.Buros(ed.).Eighth mental
+measurements yearbook (pp. 1042-1045). Highland Park, NJ: Gryphon.
+Singer, J.L., & Kolligian, J.R., Jr.(1987).Personality: Developments in the study
+of private experience. Annual review of Psychology, 38, 533-574.
+
+
+===== PAGE 35 =====
+39
+Approaches to Personality
+Assessment (Self-Report,
+Problems of Response in
+Projective and behavioural
+Assessment)
+UNIT 3 BEHA VIOURAL ASSESSMENT
+Structure
+3.0 Introduction
+3.1 Objectives
+3.2 Definition of Behavioural Assessment
+3.2.1 The Theoretical Model Underlying the Application of Behavioural Assessment
+Procedures
+3.2.2 Common Characteristics and Assumption of Behavioural Assessment Methods
+3.2.3 Advantages and Limitations of Behavioural Assessment
+3.3 Functional Behavioural Assessment
+3.3.1 Reliability and V alidity Issues in Behavioural Assessment
+3.3.2 Uses of Behavioural Assessment
+3.3.3 Types of Behavioural Assessment
+3.3.4 Process of Behavioural Change: Assessment, Treatment and Evaluation
+3.4 Case Study Method
+3.4.1 Purpose of Case Study Method
+3.4.2 Types of Case Study Method
+3.4.3 Strengths and Weaknesses of Case Study Method
+3.5 Interview Method
+3.5.1 Meaning and Purpose of Interview Method
+3.5.2 Strengths and Weaknesses of Interview Method
+3.6 Other Measures
+3.7 Let Us Sum Up
+3.8 Unit End Questions
+3.9 Glossary
+3.10 Suggested Readings and References
+3.0 INTRODUCTION
+In this unit we will be dealing with many methods which are behavioural in
+nature. This would include the case history method, followed by the interview
+method and other methods. As one deals with the case history method, we would
+also be dealing with the menaing and purpose of case history method. There are
+also many types of case histories which will be presented in this unit. While
+dealing with this method, the strengths and weaknesses of the method will also
+be put forward. The next method in behavioural assessment will be the interview
+method. Defining this method, the unit will be putting for the meaning and purpose
+of this method and its use in different settings. Also the advantages and
+disadvantages of this interview method will also be discussed. Other measures
+such as the experience sampling and biologivcal measures will also be discussed.
+3.1 OBJECTIVES
+After completing this unit, you will be able to:
+• Define and describe behavioural assessment;
+• Elucidate the categories of behavioural assessment;
+
+
+===== PAGE 36 =====
+40
+Assessment of Personality • Explain what is functional behavioural assessment;
+• Explain some of the advantages and disadvantages of the case history method;
+• Elucidate the types of case history method;
+• Define and describe interview as a method of assessment;
+• Explain the meaning and purpose of the interview method;
+• Elucidate the types of interviews; and
+• Analyse other methods of assessment in the behavioural category.
+3.2 DEFINITION OF BEHA VIOURAL ASSESSMENT
+Behavioral assessment refers to assessing and measuring various constituents of
+a behaviour that are indicative of why a  certain behaviour occurs and what
+cvauses that behaviour. These would include overt behaviours, feelings, and
+cognitions and their controlling variables that could be both from within the
+individual and outside of the individual. Behavioural assessment focuses on what
+a person does rather than on what a person has or is. It is also said that behavioural
+assessment is more an exploratory activity which tries to find out the range of
+procedures used to understand children, adults, groups etc. This definition
+emphasises a hypothesis-testing problem-solving model of assessment, the goal
+of which is to identify appropriate intervention strategies in order to remediate
+specified behaviour problems.
+The history of behavioural assessment cannot be separated from behaviourism
+as a paradigm of scientific psychology and its clinical application. Thus,
+behavioural assessment began when complex human behaviours were first
+considered as a subject for scientific study (e.g., Staats 1963, Bandura 1969).
+Since the 1960s, four main phases have been identified.
+As for the nature of behavioural assessment, it may be stated that its main goal
+has been behavioural change. Therefore, all conceptual and methodological
+features emerge from the attempt to define and measure a particular behavioural
+problem and its causal or controlling conditions and design the best treatment.
+The following five traits could be considered the essence of behavioural
+assessment: functional analysis, triple response modes and multi-causality,
+idiographism, multimethodism, and the experimental method.
+3.2.1 The Theoretical Model Underlying the Application of
+Behavioural Assessment Procedures
+The theoretical underpinnings of the above concept of behavioural assessment
+stem from the interaction between the person’s previous learning and the external
+and organismic environments within which the person functions.
+The setting in which the behaviour occurs is of primary importance. The biological
+makeup and physiological functioning help the individuals to adapt and respond
+to the environment. Evaluating behaviour requires assessment of the person, the
+setting, and the interaction between the two. Setting in this context refers to the
+environmental circumstances that might be influencing the occurrence and
+nonoccurrence of the behaviour. Environmental circumstances in turn refer to
+those environmental events preceding the behaviour, both immediately and
+distally, and those following the behaviour.
+
+
+===== PAGE 37 =====
+41
+Behavioural Assessment3.2.2 Common Characteristics and Assumptions of Behavioural
+Assessment Methods
+While there is a wide variety of techniques available for carrying out behavioural
+assessment, they have certain features in common.
+1) They all focus on behaviour
+Both overt and covert behaviours are measured or evaluated as they occur
+in specific situations.  Behaviours are observed at a specific time and in a
+limited location The variables and concepts with descriptions of behaviour
+are taken up objectively, as assessment requires objective information, which
+is more useful than inferences or subjective interpretations.
+2) All behavioural assessment methods believe in Quantification
+Behavior is quantified so as to allow for reliable comparisons across time
+and persons and to allow for communication between persons. This leads to
+greater objectivity of information.
+3) All the behavioural assessment methods use trained, impartial observers
+Observers are trained in the use of the various measurement techniques of
+behavioural assessment, recording of the same and collecting information
+in an objective manner.  Observers are expected to achieve a specified
+standard of consistency in their collecting data, recording the information
+and interpreting the data.
+4) All of them use empirically validated measures.
+It is important to have consistency in the measurement across situations.
+The measures should be empirically validated.
+5) All of them recognize errors and try to counteract the errors or minimise
+errors to the extent possible using statistical methods.
+All assessment involves differing degrees of error causing unreliability of
+the results. Hence it is important to minimize the errors and this is generally
+carried out through statistical techniques..
+6) All of these believe that the behaviour concerned occurs due to stimuli
+from the environment.
+Assessment is directed toward discovering the situational influences on
+behaviour.  The emphasis is on public events and direct observation of
+behaviour in the natural environment, with behaviour being recorded at the
+time of its occurrence whenever possible.
+7) All these assessment techniques depend not on one but multiple sources
+of information.
+In addition to the behavioural assessment, a wide-range of assessment
+strategies are used, including behavioural interviews, checklists, rating scales,
+standardised instruments, self-reports, self-monitoring forms, and
+observations, as no single test or source could give adequate information as
+to why a behaviour occurs.
+8) All the behavioural assessment techniques ultimately place high
+emphasis on intervention.
+The primary purpose of assessment is not to categorise or label a person but
+to obtain information that will assist in developing effective intervention
+
+
+===== PAGE 38 =====
+42
+Assessment of Personality strategies. The emphasis on intervention results in the application of the
+behavioural assessment model to the particular person , situation etc.
+9) All the behavioural assessment techniques use continuous assessment.
+Assessment is continuous throughout baseline, intervention, and follow up
+phases. The effectiveness of intervention strategies is continuously evaluated.
+10) Each of these behavioural assessment techniques emphasises on
+empirically based decision making process.
+Decisions about specific assessment strategies and interventions are based
+on empirical data available on the individual concerned from the person’s
+self and the environment in which the person lives.
+11) Most of these behavioural assessment techniques focus on individual
+person rather than groups.
+Assessment focuses on the individual person rather than comparisons to a
+norm group. There is a recognition of individual differences in behaviour
+and its determinants, leading to idiosyncratic assessment and intervention.
+12) High emphasis is placed on individual differences.
+Individual differences among persons are not absolute. Differences must be
+seen in relative terms, with consideration given to situational and cultural
+differences. It must be kept in mind that a certain behaviour considered
+normal in one setting may be considered abnormal in another setting.
+13) All behavioural assessment techniques not only look for causes contributing
+to the problem but also try to solve the problem concerned, once the
+cause is known.
+The purpose of behavioural assessment is problem solving, and hence
+identification of causes is extremely important so as to devise intervention
+strategies to overcome the problem.
+14) All the behavioural assessment techniques focus on developing adaptive
+behaviour in the individual.
+The focus of behavioural assessment is on developing adaptive, positive, or
+desirable behaviour rather than on control and reduction of undesirable
+behaviours. Hence behavioural interventions should be designed and
+implemented with the benefit of the particular person concerned in mind.
+3.2.3 Advantages and Limitations of Behavioral Assessment
+Advantages
+• Behavioral assessment provides objective data for deciding specific
+instructional content and strategies for intervention.
+• Behavioural assessment leads directly to the formulation of intervention
+strategies.
+• Behavioural assessment can be undertaken in the setting in which the
+concerned behaviour occurs or in simulated conditions resembling the natural
+setting.
+• Behavioral assessment is tailored to the unique characteristics of the referred
+person and the targeted environment.
+
+
+===== PAGE 39 =====
+43
+Behavioural Assessment• The continuity of behavioural assessment facilitates determining the progress
+and evaluation of outcomes.
+• Behavioural assessment has such variety of techniques that these help in
+multifaceted assessment.
+• Most behavioural assessment techniques can be implemented by anyone
+with sufficient training and do not require advanced degrees.
+Limitations of behavioural assessment
+• Much of behavioural assessment methodology is not standardised.
+• Differing levels of specification of the concerned behaviours may result in
+inconsistent data.
+• Narrow definitions of behaviour may result in less consistency in behavioural
+observation.
+• Behavioral assessment methodology may appear rather easy to apply.
+However if the psychologist or behaviourist is not trained in the techniques,
+the assessment will be defective and consequently the intervention will be
+ineffective.
+3.3 FUNCTIONAL BEHA VIOURAL ASSESSMENT
+A Functional Behavioral Assessment (FBA)  is an attempt to look beyond the
+obvious interpretation of behaviour as “bad” and determine what function it
+may be serving for the individual. Truly understanding why the person behaves
+the way he or she does is the first step to developing strategies to stop the
+behaviour.  The process usually involves documenting the individual’s behaviour
+in different situations, interviewing the family members and obtaining information
+about the behaviour of the individual, if necessary getting information from the
+work place regarding the behaviour of the individual and many other related
+sources. All these are done by a behavioural specialist, based on which the
+intervention plan is drawn.
+Behavioural assessment provides information that typically cannot be obtained
+from traditional assessment but which is necessary for establishing effective
+remedial strategies and interventions for problems exhibited by individuals.
+3.3.1 Reliability and Validity Issues in Behavioural Assessment
+Reliability in behavioural assessment, refers to agreement between observers
+viewing the same behaviour at the same time (inter rater reliability), or a single
+observer observing the same behavioural sequence on different occasions. On
+the other hand validity in behavioural assessment refers to data obtained from
+one measure (e.g., classroom observation) being predictive of behaviour obtained
+through other measures (e.g., classroom achievement scores or teacher ratings)
+in different settings, under different conditions, at different times, or by different
+observers.
+Multifaceted assessment is the rule in behavioural assessment, and each of the
+assessment procedures utilised should provide equivalent data ( convergent
+validity).
+
+
+===== PAGE 40 =====
+44
+Assessment of Personality Another important consideration with respect to validity in behavioural
+assessment is the extent to which information gathered through a multifaceted
+assessment leads to beneficial treatment outcomes (treatment validity).
+3.3.2 Uses of Behavioural Assessment
+Behavioural assessment is used in many situations and for many purposes, as for
+example screening, problem identification and analysis and for selection of a
+good intervention programme which will be effective in resolving the problem
+concerned.
+The assessment continues even after the intervention is completed. Assessment
+at this point is important to know how far the intervention had been effective in
+resolving the problem for which the individual was assessed. Some of the issues
+on which the assessment will be done are given below:
+• Has the treatment been administered as planned?
+• Have changes in behaviour been monitored and documented?
+• If change occurred, has it been demonstrated that it is due to the treatment?
+• Have treatment costs been assessed and has it been decided whether the
+benefits are cost effective?
+• Has a decision been made about modifying the treatment or maintaining
+treatment gains if desired outcomes have been achieved?
+3.3.3 Types of Behavioural Assessment
+Behavioural assessment can be of different types and some of which are given
+below:
+1) Direct assessment
+2) Analogue assessment
+3) Indirect assessment
+4) Idiographic assessment
+5) Contextual assessment.
+Let us discuss each of these in a little detail.
+Direct assessment: Here the recording of a behaviour is done as it occurs in the
+situation.
+Analogue assessment: This involves measuring of behaviour under simulated
+conditions as at times the behaviour may not occur in a natural situation.(e.g.
+role play)
+Indirect Assessment:  Here the behaviour is not observed but inferred through
+retrospective analysis.
+Idiographic assessment: This describes the behavioural characteristics of the
+individual concerned. For example let us say a child with a disorder called
+Attention Deficit Hyperactivity Disorder. Here the assessment is disorder focused.
+Contextual assessment: The stimuli in the environment that cause the behaviour
+are in focus in this method of assessment.
+
+
+===== PAGE 41 =====
+45
+Behavioural AssessmentThe main tool of behavioural assessment is functional analysis.
+Behavioural problems were to be defined through the triple response mode—
+motor, cognitive, physiological— and diverse potential causes—multicausality—
+were to be accepted.
+For example, a person’s depression should be defined through cognitive (feelings
+of loneliness, attention and concentration problems), physiological (sleep
+disturbance) and motor (low rate of social behaviours and physical activity)
+behaviours.
+This problem can be explained functionally by several conditions of the subject,
+such as a reinforcement system deficit, inadequate motivational system (personal
+condition), or a dysfunction in biological conditions—and usually by the
+interaction of all of these factors.
+Since behavioural problems should be described through the triple response mode,
+that is through motor, cognitive, physiological modes, other methods of
+assessment than observation of overt behaviour and other informants (than the
+subject) should be considered. In other words, multi methodism is one of the
+most important characteristics of behavioural assessment.
+Behavioral assessment provides the basis for behavioural change, and behavioural
+change requires treatment, and treatment demands experimental manipulations
+and evaluation This is why, throughout the history of behavioural assessment,
+the experimental method has been a constant among its basic characteristics.
+3.3.4 Process of Behavioural Change: Assessment, Treatment,
+and Evaluation
+One of the most important features of behavioural assessment is its role in
+behaviour modification or behavioural change. In order to change the behaviour,
+the first step is to make an assessment as to why a behaviour occurs as it is. Once
+assessment is made, the cause becomes known and one can formulate the
+treatment intervention and evaluate as to whether the intervention brought about
+the desired change.
+Behavioural assessment has several challenges to face, it is presently applicable
+only in the clinical field. It has to be made applicable to other fields also.
+Behavioural assessment needs measurement instruments and improved
+measurement devices.
+Assessment involves a process of decision-making that is well known in terms
+of the operations undertaken. Nevertheless, this process is not prescriptive. We
+might expect that in future standards or guidelines for the assessment process
+will be developed and supported by scientific associations. Not only disorders
+should be assessed but we must have assessment instruments that could measure
+normal behaviour and propose successful living.
+3.4 CASE STUDY METHOD
+The case study method is one of the important types of research method which is
+non-experimental or descriptive research. It is not a specific technique, but is
+one way of organising social data for the purpose of viewing reality. It tends to
+
+
+===== PAGE 42 =====
+46
+Assessment of Personality preserve the unitary character of a social object being studied. It tends to examine
+a social unit as a whole. The unit may be a person, a family, a social group, a
+social institution or even a community (Good & Hatt, 1981; Best & Kahn, 1992).
+The detailed study of a single individual’s behaviour over an extended period of
+time is called a case history or case study. This approach is used frequently in
+clinical and medical settings in order to diagnose and treat people who have
+psychological problems.
+As such, case histories usually deal with abnormal or troubled people whose
+lives are studied during psychotherapy or diagnosis (Runyan, 1982). The clinician
+seeks to achieve an understanding of the person’s life experiences and behaviour
+patterns through a variety of procedures, including the person’s own recollections,
+interviews with others who know the person, autobiographical and biographical
+documents, and any available information from psychological tests.
+The clinician, usually searches clues in the past or present life to determine the
+causes of the person’s difficulties. Case history provides a primary data enabling
+the clinician to establish effective strategies to treat emotional disorders. Fredrick
+le Play (1806-1882) had, for the first time, introduced case history method into
+social sciences research in the studies of family budgets. Herbert Spencer, an
+English sociologist (1820-1882) was the first to use the case materials in his
+ethnographic studies. William Healy, a psychiatrist, for the first time adopted the
+case study method in his work with juvenile delinquents.
+Case histories made by clinicians working with patients have played an important
+role in the development of certain personality theories and clinical thinking in
+general. Freud’s psychodynamic theory is almost entirely based on intensive
+study of single cases. Freud and his fellow psychoanalysts spent years probing
+deeply into all sorts of behaviour: early childhood recollection of dreams,
+fantasies, physical illnesses, love-hate relationships. Along with gaining rich
+insights into the uniqueness of persons, Freud used case studies to support his
+theoretical claims. Carl Rogers also relied heavily on case studies of psychotherapy
+clients in formulating his phenomenological approach to personality.
+3.4.1 Purpose of Case Study Method
+The purpose of the case study method is to understand the important aspects of
+the life cycle of a unit. Case study analyses deeply and interprets the interactions
+between the different factors that influence the change or growth of unit. Thus, it
+is a basically a longitudinal approach which studies the units over a period of
+time. A review of literature in this field suggests that case studies are not confined
+to the study of individuals and their important behavioural characteristics, rather,
+case studies have been made of all types of communities and of all types of
+individuals. Whatever the type of individual or community is, the element of of
+typicalness, rather than uniqueness, is the focus of attention in case study.
+Though case study is a detailed description and analysis of a particular individual’s
+personality, it is also an immensely important research strategy. A single case-
+study suggests a deep insight about human behaviour, but usually one case does
+not provide a firm basis for deriving general principles of behaviour. However,
+if a number of case studies are accessible for scrutiny, researchers may be able to
+identify threads of consistency among them and draw some general conclusions.
+
+
+===== PAGE 43 =====
+47
+Behavioural AssessmentThe case study method may also be used to study the lives of normal individuals.
+A group led by Henry Murray (Murray et al., 1938) at the Harvard Psychological
+Clinic provides a rare but compelling model for the intensive study of individual
+lives over a substantial period of time. The Harvard “personologists” focused on
+in depth assessments of a small group of college males. The objective was to
+learn about the basic needs, conflicts, values, attitudes, and patterns of social
+interaction evident among these young men. The assessment techniques included
+several self-report personality questionnaires and projective tests administered
+at different times. In addition to this, assessment of these students involved
+gathering extensive biographical data and autobiographical sketches, putting them
+into small-scale experiments, and conducting stress interviews where they were
+focused to answer embarrassing questions or were challenged to defend some of
+their deeply held values. Finally, the students were studied in small group settings
+so that the observers could ascertain their public styles of interpersonal interaction.
+The methods used by Murray and his colleagues covered many topics and facets
+of each student’s life and produced a rich narrative account of each student as a
+whole in his natural setting. To better assess each student’s thoughts, feelings,
+and actions, Murray assembled a group of experienced psychologists who shared
+their insights of each student at a staff conference or “diagnostic council”. In this
+council, different researchers from different background who had studied the
+same student would offer their respective clinical impressions about the student.
+Debate followed and eventually a conclusion about how best to characterise the
+student’s personality was reached by majority vote.
+The eclectic approach adopted by Harvard personologists to the study of
+personality influenced an entire generation of researchers by directing their
+attention to the whole person, to the importance of environment, and to the need
+for comprehensive assessment. Robert White’s Lives in Progress  (1975), a
+longitudinal study of three relatively normal individuals, illustrates the importance
+of the case history as a strategy well-suited for conducting personality research.
+3.4.2 Types of Case Study Method
+Based upon the number of individuals, the case study may be of two types – the
+individual case study, and the community case study. In individual case study the
+social unit consists of one individual or person. Since there is only one individual
+involved, it emphasises analysis in depth. Such an individual case study is
+significant in developing some hypothesis to be tested but is not helpful in making
+broad generalisations. The community case study is one in which the social unit
+is not a person, rather, a family or social group. Such case study is a thorough
+observation and analysis of a group of people who are living together in a particular
+geographical territory. The community case study tries to deal with different
+elements of the community life such as location, prevailing economic activity,
+climate and natural resources, historical development, social structure, life values,
+health education, and the like.
+On the basis of the purpose a case study may be subdivided into two categories-
+deviant case analysis and isolated clinical case analysis. In the former, the
+researcher starts with the difference already found between two people or groups
+of persons and his task is to read backward to deduce the condition that might
+have produced the difference (Warwick & Osherson, 1973).
+
+
+===== PAGE 44 =====
+48
+Assessment of Personality In the latter, the emphasis is upon the individual units with respect to some
+analytical problem. Such study is popular in psychoanalysis. Freud’s study of
+little Hans is a well-known case which can be cited as an example o isolated
+clinical case analysis. Freud’s theories of psychoneurosis were formulated through
+accumulation of many isolated clinical case studies of the individuals.
+3.4.3 Strengths and Weaknesses of Case Study Method
+The advantage of case study method is that it provides an account of the
+complexities and idiosyncrasies of an individual’s personality that is not possible
+from other strategies. If the goal is to study processes going in one or few persons
+and to learn how persons cope with life experiences, then case history is the
+most appropriate strategy. Also, case histories are the only way rare instances of
+a phenomenon can be studied.
+But one should also keep in mind the shortcomings encountered while studying
+only one individual. The chief disadvantage of case studies is that the researcher
+can never be totally certain about cause-and-effect relationships. Researchers
+cannot control factors that might affect the events or outcomes that they observe;
+it is always possible that causes other than those they infer may be operating.
+Second, because a case study examines only one person, its results have limited
+generalisability. Just because one person behaves in a certain way does not mean
+all people behave that way. Third, the data obtained by the case history method
+may be retrospective or second-hand in nature and thus distorted by time. Lastly,
+even if the accuracy of such data can be verified, the conclusions drawn about
+the individual may reflect the personal biases of the investigator.
+Despite these shortcomings, case histories can be rich source of information
+about a particular phenomenon. In fact, case study can be considered as a
+preliminary research strategy that can offer intriguing hypothesis about human
+personality. Researches can ten examine these hypotheses with more rigorous
+experimental procedures.
+Self Assessment Questions
+1) Define case history method.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) Give a general overview of the merits and demerits of case history
+method.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+
+===== PAGE 45 =====
+49
+Behavioural Assessment
+3.5 INTERVIEW METHOD
+3.5.1 Meaning and Purpose of Interview Method
+The interview is one of the oldest and most widely used methods of collecting
+information about persons. In the interview, the personologist obtains information
+from the person being evaluated by asking relevant questions and listening to
+answers. The interviewer and respondent engage in a face-to-face dialogue for
+the purpose of achieving a specific goal. In fact, the way in which an interview is
+conducted depends on the particular objective or goal in question. An employment
+interview, for instance, seeks to assess the personality characteristics of the job
+applicant.
+A research interview aims to gather information about a person concerning a
+specific research topic under investigation. A clinical interview has its goal the
+diagnosis of a patient’s problem and the type of therapy technique that may be
+most appropriate for the given diagnosis. Interviews are also used to measure
+specific aspects o personality.
+Psychoanalysis uses one type of interview to probe supposedly underlying aspects
+of personality. But in modern research special types of interviews, in which
+individuals are asked questions assumed to be related to specific traits, are often
+used instead. For instance, interviews are used to measure the Type A behaviour
+pattern, an important aspect of personality related to personal health. Persons
+high on this pattern are always in a hurry and they hate being delayed. Thus,
+questions asked during the interview focus on this tendency; for instance: “What
+do you do when you are stuck on the highway behind a slow driver?”
+There is a variety in the degree to which interviews may be structured or
+unstructured. In the former type of interview, questions are carefully worded
+and skillfully presented in a prescribed order. For instance: “How long have you
+been married?” “How many children do you have?” “Do you believe that children
+should be allowed to do whatever they want?” “If you had a teenager would you
+allow him or her to quit school and take a part time job?” As you can see, the
+most personal and threatening questions appeared last.
+The strategy behind asking general and innocuous questions first is that they
+should be at least threatening for respondents and pave the way for divulging
+more intimate more information once they have developed a sense of trust toward
+the interviewer.(White & Speisman,1982).
+In an unstructured interview, questions are framed in such a way as to allow the
+person considerable latitude in responding. The interviewer may say, “You feel
+that your spouse really lets you down,” or “That must have been a very stressful
+experience.” The respondent is free to reveal whatever information s\he desires
+to such questions. In turn, the interviewer may abandon a certain line of
+questioning if it seems to be generating no useful information and some other
+area of questioning. Compared to a structured interview, an unstructured interview
+allows the personologist more flexibility to probe the respondent’s thoughts and
+feelings in the context of give-and-take exchange.
+
+
+===== PAGE 46 =====
+50
+Assessment of Personality 3.5.2 Strengths and Weaknesses of Interview Method
+Interview method when used by a highly skilled interviewer can produce
+extremely valuable information regarding the individual’s personality and life
+situations. The ability to communicate effectively with others, perceptions of
+self and significant others, level of anxiety, plans for future, and job satisfaction
+are a few examples of data that can be obtained from a well conducted interview.
+A well planned interview can also be profitably used in hypothesis testing research.
+At the same time, issues of reliability and validity may arise in the event that
+respondents are free to say about their past and present life experiences.
+Structuring the kinds of questions asked of the person is one way to make interview
+information more valid and reliable. That is why the structured format tends to
+be preferred in the research setting, whereas the unstructured format tends to be
+preferred by clinical psychologists in the therapeutic setting.
+The interview technique provides a rich source of personality data. But such
+data is highly subjective and may reflect the theoretical biases of the interviewer.
+Also, the impact of the of the interviewer’s personality can subtly influence how
+truthful and disclosing the person will be in an assessment setting. This can
+result in the withholding or distorting of information vital to the purpose of an
+interview.
+Lastly, an assessment interview, especially when supplemented by more objective
+sources of data, is one the most basic and indispensable of all assessment
+techniques.
+Self  Assessment Questions
+1) Differentiate between structured interview and unstructured interview
+as a measure o personality assessment.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) What are some of the advantages offered by interview method?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3.6 OTHER MEASURES
+Apart from the above cited methods, there are also other less significant techniques
+existing to assess personality.
+
+
+===== PAGE 47 =====
+51
+Behavioural Assessmenti) Experience sampling method: With the advent of electronic pagers now
+allows researchers to beep individuals at random or pre-established times
+during the day in order to obtain descriptions of their behaviour at these
+times? This experience sampling method (Stone, Kessler, &
+Haythornthwaite, 1991) can often reveal much about stable patterns of
+individual behaviour; and these constitute an important aspect of personality.
+ii) Biological measures:  In recent years several biological measures of
+personality have also been developed. Some of these use positron emission
+tomography (PET) scans to see if individuals show characteristic patterns
+of activity in their brains- patterns that are related to differences in their
+overt behaviour. Other measures focus on hormone levels, for instance, the
+question of whether highly aggressive persons have different levels of certain
+sex hormones than other persons. Some results suggest that this may indeed
+may be the case(Harris et al., 1996).
+It may be concluded that there are many tools for measuring personality. None
+are perfect, but together they provide psychologists with many useful techniques
+for investigating the stable patterns of behaviour that make each of us a unique
+human being.
+3.7 LET US SUM UP
+The case study or case history method seeks to provide an in-depth account of an
+individual’s personality. Its primary focus is to diagnose and treat a person’s
+suffering from emotional problems. Also, case histories have played a role in the
+development of certain personality theories and the study of normal persons
+over many years.
+Several assessment techniques may be used in conducting a case history, including
+biographical and autobiographical sketches, personality and projective tests,
+interviews, and information provided by others who know the person reasonably
+well. Although case histories are valuable source of insights about people, several
+shortcomings faced in studying one person at a time were noted.
+Case histories do not identify factors that might cause the events observed, the
+results obtained are o limited generalisability, and the data collected may be
+subject to personal bias and difficult to verify in terms of accuracy.
+Principal features of unstructured and structured interviews are that in the former,
+the interviewer can “dig deeper”, and get a deeper understanding of the
+respondents questions. While in the latter, there is a systematic procedure for
+collecting information and hence, the reported validities of such interviews is
+greater than the former type of interviews.
+The other measures of personality assessment that the psychologists are currently
+using are experience sampling and biological measures.
+3.8 UNIT END QUESTIONS
+Describe the case history method for assessing personality. What are some of the
+strengths and limitations of case history method?
+
+
+===== PAGE 48 =====
+52
+Assessment of Personality How does structured interview differ from unstructured interview? Point out the
+major sources of error in interview.
+Briefly describe the current methods being used by psychologists for personality
+assessment.
+What other measures of personality do psychologists currently use?
+3.9 GLOSSARY
+Case study method : Research strategy whereby a particular person is
+studied in great detail.
+Hypothesis : A single prediction about the relationship between two
+or more variables that is logically derived from a
+theory.
+Structured interview : An interview that follows a set format, thus allows a
+person little or no freedom to digress from the
+information sought by the interviewer. An
+unstructured interview, by contrast, allows the person
+maximum freedom to divulge information in a more
+spontaneous manner.
+3.10 SUGGESTED READINGS AND REFERENCES
+Goode, W.J., & Hatt, P.K. (1981). Methods in Social Research . Singapore:
+McGraw Hill Company.
+Murray,H.A., Barrett,W.G., & Homburger,E. (1938).Explorations in Personality.
+New York: Oxford University Press.
+Warwick, D.P. & Osherson, S. (1973). Comparative Research Methods .
+Englewood Cliffs Prentice Hall.
+References
+Best, J.W. & Kahn,J.V .(1992). Research in Education, New Delhi: Prentice Hall
+of India Private Limited (eighth Indian print).
+Harris,J.A., Rushton, J.P .,Hampson, E.,& Jackson, D.N.(1996). Salivary
+testosterone and self-report aggressive and pro-social personality characteristics
+in men and women. Aggressive Behaviour, 22,321-331.
+Runyan,W.M. (1982).Life histories and psychobiography: Explanations in theory
+and method. New York: Oxford University Press.
+Stone, A.A., Kesseler,R.C.,& Haythornthwaite, J.A.(1991). Measuring daily
+events and experiences: Decisions for the researchers. Journal of Personality,
+59, 575 – 607.
+White, R.W. (1975). Lives in progress: A study of the natural growth of personality
+(3
+rd.). New York: Holt, Rinehart and Winston.
+White, K.M. & Spiesman, J.C. (1982). Research approaches to personality.
+Monterey, C.A.: Brookes/Cole.
+
+
+===== PAGE 49 =====
+53
+Behavioural AssessmentAnastasi, A. (1968).Psychological testing.London: Macmillan Company.
+Ciccarelli, S.K.,& Meyer, G.E.(2009). Psychology. South Asian Edition. Pearson,
+New Delhi.
+Freeman, F.S.(1962). Theory and practice of psychological testing.New York:
+Holt, Rinehart and Winston (Indian Edition).
+Hjelle, L.A., Zieglar, D.J.(1992). Personality theories. Basic assumptions,
+research, and applications.3
+rd ed.McGraw Hill.
+Singh, A.K.(1997). Tests, measurements and research methods in behavioural
+sciences. Bharti Bhawan, Patna.
+
+
+===== PAGE 50 =====
+54
+Assessment of Personality
+UNIT 4 OTHER MEASURES OF
+PERSONALITY
+Structure
+4.0 Introduction
+4.1 Objectives
+4.2 Self-Report Questionnaires and Inventories
+4.2.1 Minnesota Multi Phasic Personality Inventory (MMPI)
+4.2.2 Millon Clinical Multiaxial Inventory (MCMI)
+4.2.3 NEO- Personality Inventory (NEO-PI)
+4.3 Ink Blot Tests
+4.3.1 Rorschach Psycho-diagnostic Test
+4.3.2 Holtz Ink Blot Test
+4.4 Apperception Test (TA T)
+4.4.1 Thematic Apperception Test (TA T)
+4.4.2 Senior Apperception Test (SA T)
+4.4.3 Children Apperception Test (CA T)
+4.5 Let Us Sum Up
+4.6 Unit End Questions
+4.7 Glossary
+4.8 Suggested Readings and References
+4.0 INTRODUCTION
+In this unit we will be discussing other measures of personality assessment. Self
+report questions and inventories are of great importance in personality assessment.
+These are being taken up in terms of definition and description of such tests and
+inventories and also we will be presenting the three important and major tests in
+this field namely MMPI, MCMI and NEO-PI. Following you will learn in this
+unit some of the major projective tests. In fact projective tests are extremely
+important to understand the psychodynamics involved in the person’s behaviour.
+Many times we cannot get the needed information through interviews because
+of the inhibitions on the part of the person or client. In such cases projective tests
+are used which help the person to project his or her feelings on to the stimulus
+material, picture or ambiguous stimuli. Inn this category of Projective tests we
+will be presenting the Rorschach test and the Holtzman Inkblot tests. In this
+category of tests you will also learn the test named Thematic Apperception Tests
+both for adults and children.
+4.1 OBJECTIVES
+After going through the following unit, you will be able to:
+• Define and describe self report inventories;
+• Describe the MMPI,MCMI and NEOPI;
+• Define projective tests;
+
+
+===== PAGE 51 =====
+55
+Other Measures of
+Personality
+• Explain the Rorschach test;
+• Differentiate the two ink blot tests;
+• Explain apperception; and
+• Describe tests related to apperception such as the TAT and CAT.
+4.2 SELF-REPORT QUESTIONNAIRES AND
+INVENTORIES
+One way of measuring personality involves asking individuals to respond to a
+self-report inventory or questionnaire. Such measures (also known as objective
+tests of personality) contain questions or statements to which individuals respond
+in various ways.
+Now we will examine the most extensively used and researched multidimensional
+test, used by psychologists to evaluate the diagnostics status of clients as well as
+to make personnel decisions about people.
+4.2.1 Minnesota Multi Phasic Personality Inventory (MMPI)
+The most widely used multi-trait self- report test is the MMPI. It was originally
+devised by Hathaway and McKinley (1943) to aid clinical psychologist in the
+diagnosis of psychological disorders. The developers believed that this test would
+be useful in evaluating the effectiveness of psychotherapy. They used an empirical
+strategy to construct MMPI. They administered hundreds of true-false items to
+several groups of people in mental institutions who had been diagnosed as having
+certain psychological disorders. These diagnoses have been determined through
+psychiatric interviews with the patients. By systematically carrying out empirical
+procedure on patient group with different psychiatric diagnosis, the test developers
+established 10 separate “clinical scales”. The test also had 4 “validity scales”
+that assess whether the person was careless, deceptive, or misunderstood the
+instructions in taking the test. The “lie scale”, for instance indicates the extent to
+which a person response in a socially desirable but untruthful way to statement
+in order to be viewed in a favouarble manner (“I cant remember ever having a
+bad night’s sleep”).
+An updated and restandardised version of MMPI was established in 1989. It is
+known as MMPI 2. This test has 567 items, as they were in the original inventory
+but is different in a number of ways. Items with sexist wordings and out moded
+content have been modified, items with objectionable content have been
+eliminated, and national norms that are more representative of the present
+population have been calculated. These significant modifications have enhanced
+the value of MMPI 2 and make it preferable over the original version of the test.
+Two general approaches are used when interpreting MMPI data and these are:
+i) clinical and
+ii) actuarial.
+In clinical interpretation an expert inspects each of the scale scores, notes the
+features of the profiles (clustering of certain high scale scores), and adds a mix
+of personal experience about individuals of each profile type to make inferences
+regarding the pathological problems and traits of the person.
+
+
+===== PAGE 52 =====
+56
+Assessment of Personality When an actuarial interpretation is made, the psychologist(or computer) merely
+checks MMPI atlas that provide empirically established characteristics which
+describes each profile, class or code type.
+The process of comparing the profile of a person with a large number of previous
+profile yleads to an interpretation based on statistical base rates and norms (without
+an subjective evaluation by the psychologist).
+Matching the person’s profile with previous MMPI test takers also enables the
+clinician to determine the appropriate diagnostic category and course of therapy
+to be undertaken.
+MMPI is by no means limited in usage to the clinical setting (Kunce and Anderson,
+1984). It is also used to determine whether individuals have personality attributes
+that are either compatible or incompatible with a demand of a job for which
+recruitment is being made.
+The MMPI has also been used extensively in studies concerning family dynamics,
+eating disorders, substance abuse, suicide, and readiness to intervention for
+rehabilitation (Butcher and Keller, 1984). It has also been one of the main sources
+of item for a number of other personality tests like Taylor Manifest Anxiety
+Scale (Taylor, 1953), the Jackson Personality Inventory (Jackson, 1974), and the
+California Psychological Inventory, etc.
+Finally, MMPI has been translated into 125 foreign languages is a testimony to
+its popularity and value as a clinical assessment technique (Butcher, 1984).
+4.2.2 Millon Clinical Multiaxial Inventory (MCMI)
+Another objective measure of personality is the Millon Clinical Multiaxial
+Inventory (MCMI) (Millon, 1987, 1997). Items of this test correspond more
+closely to the categories of psychological disorders currently used by psychologists
+than those on the MMPI. This makes the test especially useful to clinical
+psychologists, who must first identify individual’s problems before recommending
+specific forms of therapy for them.
+The recent third edition development of the MCMI-III adds the Grossman Facet
+Scales, a series of therapy guiding facet subscales, to the basic personality scales
+of the instrument. These fact scales identify the most salient clinical domains
+(e.g., interpersonal, cognitive) that characterise the patient taking the inventory.
+This information helps “personalise” and further “individualise” the MCMI test
+results by specifying those features that call for the therapist’ attention in what is
+called “personalised therapy”. But first, a few words about the basic MCMI-III
+and what distinguishes it as a clinical instrument.
+The MCMI™ (Millon™ Clinical Multiaxial Inventory) is distinguished from
+other inventories primarily by its brevity, its theoretical anchoring, multiaxial
+format, tripartite construction and validation schema, use of base rate scores,
+and interpretive depth.
+Each generation of the MCMI inventory has attempted to keep the total number
+of items small enough to encourage its use in all types of diagnostic and treatment
+settings, yet large enough to permit the assessment of a wide range of clinically
+relevant multiaxial behaviours.
+
+
+===== PAGE 53 =====
+57
+Other Measures of
+Personality
+At 175 items, the MCMI inventory is much shorter than comparable instruments.
+Terminology is geared to an eighth-grade reading level. The inventory is almost
+self-administering. The great majority of patients can complete the MCMI-III™
+in 20 to 30 minutes, facilitating relatively simple and rapid administrations while
+minimizing patient resistance and fatigue.
+Description: Based on Millon’s theory of personality and psychopathology, the
+brief Millon Clinical Multiaxial Inventory-II (MCMI-II) instrument provides a
+measure of 22 personality disorders and clinical syndromes for adults undergoing
+psychological or psychiatric assessment or treatment. Specifically designed to
+help assess both Axis I and Axis 11 disorders, the MCMI-II instrument can assist
+clinicians in psychiatric diagnosis, developing a treatment approach that takes
+into account the patient’s personality style and coping behaviour, and guiding
+treatment decisions based on the patient’s personality pattern.
+Scoring: The MCMI-II consists of 10 clinical personality pattern scales, 3 severe
+personality pathology scales, 6 clinical syndrome scales, 3 modifier indices, 1
+validity index.
+Reliability: The reliability of the MCMI II generally has been sound, with the
+Axis II scales showing the highest stability as predicted by Millon. Normal
+subjects also had noticeably higher stability coefficients than clinical subjects.
+Millon also tested the stability of high point and double-high-point configurations.
+He reports that high point codes are fairly stable over a month, with nearly two
+thirds of 168 subjects achieving the same scale high point. For double-high-
+point configurations, 25% achieve the same high scores with another 19%
+achieving the same two scales but in reverse order. Based on part of his normative
+sample, Millon reports quite high internal consistencies. The average of 22 clinical
+scales is .89, and the range is from .81 to .95.
+Validity: Because of extensive item overlap, we cannot be sure of the factor
+structure of this instrument. But there are also overlaps based on the overlap of
+the constructs; that is, the personality disorders are by no means distinct entities.
+Norms: Norms for the MCMI-II instrument are based on a national sample of
+1,292 male and female clinical subjects representing a variety of DSM-III and
+DSM-III-R diagnoses. The subjects included inpatients and outpatients in clinics,
+hospitals, and private practices. The MCMI-II manual describes the distribution
+of gender, age, marital status, religion, and other factors within the sample.
+The MCMI-II is used primarily in clinical settings with individuals who require
+mental health services for emotional, social, or interpersonal difficulties.  
+4.2.3 NEO- Personality Inventory (NEO-PI)
+A third objective test, the NEO-Personality Inventory(Costa & McRae,1989), is
+used to measure aspects of personality that are not linked to psychological
+disorders. Specifically, it tends to measure the “big five” dimensions of personality,
+as these dimensions appear to represent basic aspects of personality.
+The NEO-PI is a highly-regarded assessment of personality. Based on the Five-
+Factor model, the NEO PI-R measures the interpersonal, motivational, emotional,
+and attitudinal styles of adults and adolescents. It consists of 240 personality
+
+
+===== PAGE 54 =====
+58
+Assessment of Personality items and 3 validity items, and is available in two forms. Form-S is designed for
+self-reports and Form-R is written in the third person for observer reports.
+The NEO PI-R was designed to provide a general description of normal
+personality relevant to clinical, counseling and educational situations. NEO PI-
+R items and materials were designed to be easily read and understood. The five
+domains (factors) measured by the NEO PI-R provide a general description of
+personality, while the facet scales allow more detailed analysis. These five factors
+and their facet scales include:
+Neuroticism (Anxiety, Hostility, Depression, Self-Consciousness, Impulsiveness,
+Vulnerability)
+Extraversion (Warmth, Gregariousness, Assertiveness, Activity, Excitement-
+Seeking, Positive Emotions)
+Openness to Experience (Fantasy, Aesthetics, Feelings, Actions, Ideas, Values)
+Agreeableness (Trust, Modesty, Compliance, Altruism, Straightforwardness,
+Tender-Mindedness)
+Conscientiousness  (Competence, Self-Discipline, Achievement-Striving,
+Dutifulness, Order, Deliberation)
+Reliability and Validity
+Internal consistency coefficients range from .86 to .95 for domain scales, and
+from .56 to .90 for facet scales. Stability coefficients ranging from .51 to .83
+have been found in three-year, six-year, and seven-year longitudinal studies of
+the original NEO-PI factors. The NEO PI-R has been validated against other
+personality inventories and projective techniques.
+Use of NEO PIR
+This test can be effectively used in counseling and clinical settings with adults as
+well as senior high school and college students.  It is also very effectively used in
+business and industrial settings. This test is used in Psychological research,
+including studies in sport psychology and recreation.
+Self Assessment Questions
+1) Name some important personality inventories.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+
+===== PAGE 55 =====
+59
+Other Measures of
+Personality2) How is MMPI-2 different from original MMPI?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) Briefly describe NEO-PI.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4.3 INK BLOT TESTS
+These are psychological tests in which a subject’s interpretation of inkblots is
+analysed. This test is used in clinical psychology and psychiatry. The inkblots
+are used to determine what a person perceives in the highly ambiguous shapes.
+4.3.1 Rorschach Psychodiagnostic Test
+Swiss psychiatrist Hermann Rorschach first published the inkblot test in 1921.
+Rorschach displayed interest in inkblots from a young age and eventually
+developed a way to use them for psychological assessment.
+Hermann Rorschach was born in Zurich, Switzerland, on Nov. 8, 1884. As a
+child, Rorschach earned the nickname “Kleck” due to his love “klecksography,”
+a popular game among Swiss children that involved dropping ink on a piece of
+paper, and then folding the paper in 1/2 to create interesting designs.
+Rorschach was an excellent student and ultimately became interested in psychiatry.
+He graduated in Medicine and worked under notable Swiss psychiatrists, Eugen
+Bleuler and Carl Jung. After graduation, Rorschach worked at various psychiatric
+institutions in Switzerland and Russia. He continued to develop his interests in
+psychoanalysis and Art therapy.
+By 1911, Rorschach noticed that children playing klecksography varied widely
+in their inkblot interpretations. He then began informally studying how the
+mentally ill interpreted inkblots. Although others before him, such as Leonardo
+da Vinci, Justinus Kerner and Alfred Binet, had also experimented with inkblots,
+Rorschach was the first to develop a system to make the interpretation of inkblots
+a useful tool for psychological analysis.
+During the inkblot test, the examinee is shown a series of 10 inkblots and asked
+to describe what he sees. It is assumed that the examinee will project his own
+personality and emotions onto the ambiguous picture, providing the examiner
+with insight into his unconscious mind.
+
+
+===== PAGE 56 =====
+60
+Assessment of Personality Rorschach’s set of 10 inkblots was first published in 1921 in a book entitled
+“Psychodiagnostik.” His peers were skeptical about the ability of inkblot
+interpretation to assess personality accurately. Responding to this criticism,
+Rorschach continued his efforts to standardise testing procedures to make his
+inkblot test a useful psychological tool. However he could not see the use of this
+test as he died in 1922.
+Reliability and validity
+After Rorschach’s death, at least 4 others attempted to standardise inkblot test
+administration. However, this only resulted in further confusion and inconsistency.
+In the late 1950s, American psychologist John Exner developed what became
+known as Exner’s Comprehensive System, which consolidated these different
+approaches into one universal procedure.
+Current Use
+The Rorschach inkblot test continues to be the most popular projective test used
+today. However, critics of the inkblot test argue that the interpretation of an
+examinee’s responses is highly dependent on the examiner’s own personal
+judgment, and therefore not likely to be reliable among examiners. Alternatively,
+others contend that with proper use and training, the Rorschach can be reliably
+interpreted and therefore remains a useful psychological instrument.
+The Rorschach Plates
+The stimulus materials for the Rorschach Psychodiagnostic Technique which
+was published originally in 1921, are ten 5 ½ by 9 ½ inch cards. Each card
+contains one bilaterally symmetrical, black-and-white (five cards), red-and-grey
+(two cards), or multicolored (three cards) ambiguous figures in ink blot against
+a white background. The cards are presented individually and viewed at no greater
+than arms length, but turning the card is permitted.
+Examinees are told to report what they see in the report or what it might present.
+After all the cards have been presented the examiner may start over with card
+one and ask the examinee what features (shape, color, shading and so on) of the
+card determined the responses of the subject. Following this enquiry period,
+there may be a further period of testing the limits to discover whether the examinee
+can see certain things in the card.
+A number of scoring methods for the Rorschach have been proposed, the most
+recent being Exner’s (1991, 1993) comprehensive system. Every response given
+to a blot may be scored on several categories as given below.
+Location : where it was seen-the whole blot(W), a common detail(B), an
+uncommon detail(Dd), or, if the white space on the card was used, WS, DS,or
+DdS.
+Determinant : what aspect of the blot determine the response-form (F), color(C),
+shading-texture(T), shading-dimension(V), shading-diffuse(Y), chromatic
+color(C), achromatic color(C’), movement (M), or combinations of these.
+Content: anatomy (An), blood (Bl), Clouds (Cl), Fire (Fi), Geography (Ge), Nature
+(Na), and so forth.
+
+
+===== PAGE 57 =====
+61
+Other Measures of
+Personality
+Popularity: whether the response is a popular (P) or an original (One).
+The number of responses in each category and certain ratios computed from
+them guide the interpretation of the test protocol of the whole.
+For example, several good “whole” (W) responses are considered indicative of
+integrated or organised thinking, where as color responses suggest emotionality
+and impulsivity; many detailed responses indicate compulsivity; white-space
+responses point to oppositional tendencies; and movement responses reveal
+imagination.
+The ratio of the number of human movement responses to the number of color
+responses (experience balance) is said to be related to the degree to which a
+person is thought-minded rather than action oriented.
+The ratio of the number of form responses to the number of color responses is an
+index of the extent to which the respondent is controlled by cognition rather than
+emotion.
+Also important in evaluating Rorschach protocol is the accuracy of responses,
+that is, how well the responses fit the respective parts of the blots (good, poor, an
+indeterminate).
+Delays in responding (Reaction Time) may be interpreted as anxiety, small number
+of color and movement responses as depression, and several shading responses
+as self-control. Many original responses having poor form and other indicators
+of confused thinking suggest a psychotic process.
+One of the most reliable scores on the Rorschach, and a rough index of mental
+ability, is a simple count of the total number of responses to the ten ink blots.
+Responses may also be interpreted in terms of content, but the process is very
+subjective. For example unreal characters such as ghosts and clowns are
+interpreted as indicative of an inability to identify with real people, and mask are
+interpreted as role playing to avoid exposure. Food is interpreted as dependency
+needs or emotional hunger, death as loneliness and depression, and eyes as
+sensitivity to criticism.
+Considering the length of time required to administer and score the test, it is
+unsatisfactory when judged by conventional psychometric criteria. But still it
+remains popular among clinical psychologists and psychiatrists.
+4.3.2 Holtz Ink Blot Technique
+Holtzman Ink Blot Test  (HIT)
+The Holtzman Inkblot Technique (HIT) is a projective personality assessment
+test for persons ages five and above. The main purpose of this test is to assess
+personality structure of a subject.  It is also used as a diagnostic test particularly
+assessing schizophrenia, depression , addiction and personality disorders.
+This test requires a clinically trained examiner. The HIT should be administered
+and interpreted by a trained psychologist, psychiatrist, or appropriately trained
+mental health professional.
+
+
+===== PAGE 58 =====
+62
+Assessment of Personality The HIT, developed by psychologist Wayne Holtzman and colleagues, was
+introduced in 1961. The test was designed to overcome some of the deficiencies
+of the Rorschach Inkblot Test.
+The Holtzman is a standardised measurement with clearly defined objective
+scoring criteria. The HIT consists of 45 inkblots. The test administrator, or
+examiner, has a stack of 47 cards with inkblots (45 test cards and 2 practice
+cards) face down in front of him or her. The examiner hands each card to the
+subject and asks the test subject what he or she sees in the inkblot. Only one
+response per inkblot is requested. Occasionally, the examiner may ask the test
+subject to clarify or elaborate on a response.
+The Administration of the HIT typically takes 50-80 minutes. The HIT is then
+scored against 22 personality-related characteristics.
+The HIT can also be administered in a group setting. In group testing, 30-45
+inkblots are projected onto a screen and test subjects provide written responses
+to each inkblot.
+Holtz Ink Blot Technique (HIT) consists of two parallel forms of HIT (A and B)
+and has 45 blots each, and the examinee is limited to one response per blot. Each
+of the blots was selected on the basis of high split half reliability and an ability to
+differentiate between normal and pathological responses.
+The HIT blots are more varied than those on the Rorschach: some are
+asymmetrical, and some have colors and different visual textures. The HIT can
+be scored on the 22 response categories developed by computer analysis of
+hundreds of test protocols. The percentile norms for these 22 scores are based on
+eight groups of people, normal and pathological, ranging in age from 5 years to
+adulthood.
+The procedures for constructing and standardising the HIT were more like those
+for a personality inventory than other projective techniques, and hence its
+reliability is higher than that of Rorschach.
+Self  Assessment Questions
+1) What is meant by ink blot tests?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) Describe the Rorschach Test.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+
+===== PAGE 59 =====
+63
+Other Measures of
+Personality3) What is the criticism against the Rorschach Test?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4) How is the scoring done on Rorschach cards?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+5) Describe Holtzman inkblot test. In what these are different from the
+Rorschach test?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+6) Describe the Holtzman Inkblot test and how is the scoring done for this
+test?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4.4 APPERCEPTION TEST
+Let us first understand what is apperception. It refers to the conscious perception
+with full awareness. It is the process of understanding by which newly observed
+qualities of n object are related to past experience. This term apperception was
+introduced by Leibniz, for the mind’s reflective thinking and apprehension of its
+own states. Kant has put forward two types of apperception viz., (i) empirical
+apperception and (ii) transcendental apperception.  While the former refers to
+the ordinary consciousness, changing self etc., the latter refers to consciousness
+that unifies experience as that of one subject and is thereby the foundation of
+both experience and thought.
+
+
+===== PAGE 60 =====
+64
+Assessment of Personality Less structured than word associations and incomplete sentences but more
+structured than ink blots are pictures or other materials about which the respondent
+is asked to tell a story. The majority of these Apperception Test employ pictures
+of people, or animals as stimuli, but one (the hand test) is composed of pictures
+of hands and another (the Auditory Apperception Test) consists of auditory stimuli.
+Nearly all apperception test call for open ended response, but at least one (the
+Iowa Picture Interpretation) has a multiple choice format. Directions for the
+various picture-story tests are similar: the examinees are asked to tell the story
+about the picture, including what is going on at the moment, what led up to it,
+and what the outcome might be.
+4.4.1 Thematic Apperception Test (TAT)
+The test is based on Murray’s Need theory, and is developed by Morgan &
+Murray(1935). TAT consists of 30 black and white picture cards (four overlapping
+sets of nineteen cards, each for boys, girls, men, and women) depicting people in
+ambiguous situations, plus one blank card. The usual procedure for administering
+the TA T begins by asking the examinee to tell a complete story about each of the
+10 or so picture cards selected as appropriate for his or her age or sex. The
+examinees asked to devote approximately 5 minutes to each story, telling what
+is going on now, what thoughts and feelings the people in the story have, what
+events have led up to the situation, and how it will turn out. For example, one of
+the pictures shows a young woman in the foreground and a weird old woman
+with a shawl over her head grimacing in the background. The following story
+was told by a young college woman in response to this picture:
+This is the woman who has been quiet troubled by memories of a mother she
+was resentful towards. She has feelings of sorrow for the way she treated her
+mother; her memories of her mother plague her. These feelings seemed to be
+increasing as she grows older and sees her own children treating her the same
+way as she treated her mother. She tries to convey the feeling to her children, but
+does not succeed in changing their attitudes. She is living her past in her present,
+because the feeling of sorrow and guilt is reinforced by the way her children are
+treating her.
+From stories such as this, a skilled examiner obtains information about the
+dominant needs, emotions, sentiments, complexes, and conflicts of the story
+teller and the pressures to which he/she is subjected. As revealed by this story,
+responses to TAT pictures can be especially useful in understanding the
+relationships and difficulties between a person and his or her parents.
+When interpreting TA T stories, it is assumed that respondents project their own
+needs, desires and conflicts into the stories and characters. Interpretation of the
+stories is a fairly subjective, impressionistic process centering on an analysis of
+the needs and personality of the main character (hero/heroin), who presumably
+represents the examinee, and the environmental forces (press) impinging on the
+main character.
+The frequency, intensity and the duration of the story are all taken into the account
+in the interpretation. The following TAT responses are considered indicative of
+mental disorders of various kinds:
+• slowness or delays in responding may indicate depression;
+
+
+===== PAGE 61 =====
+65
+Other Measures of
+Personality
+• stories by men that involved negative comments about women or affection
+for other man may point to homosexuality;
+• over cautiousness and preoccupation with details are suggestive of obsessive
+compulsive disorder.
+Although the usual methods of scoring and interpreting TAT stories are highly
+impressionistic, scores determine by one of the more systematic procedures are
+fairly reliable and can be interpreted in terms of norms based on standardisation
+studies (Bellack, 1993). Asking a person to tell stories about pictures would also
+seemed to have potentially greater validity than asking for responses for ink
+blots. The content of TAT stories is influenced by the particular environmental
+context in which the test is taken, and the test does not always differentiate between
+normal and mentally disordered person (Eron, 1950),
+The TA T has been used with a range of ethnic and chronological age groups, and
+various modifications have been constructed for Blacks, children, and older adults.
+4.4.2 Senior Apperception Technique (SAT)
+The 16 stimulus pictures on this test, which was designed specifically for older
+adults, reflect themes of loneliness, uselessness, illness, helplessness, and lowered
+self-esteem, in addition to positive and happier situations. As in the case of the
+Gerontological Apperception Test (Wolk and Wolk, 1971), a similar instrument,
+responses to the pictures on the Senior Apperception Technique reflect serious
+concerns over health, getting along with other people and being placed in a nursing
+or retirement home. Both tests have been criticized for inadequate norms and
+possible stereotyping of the elderly.
+4.4.3 Children Apperception Test (CAT)
+The Children’s Apperception Test (CAT) is a projective personality test used to
+assess individual variations in children’s responses to standardised stimuli
+presented in the form of pictures of animals in common social situations.
+The main purpose of CA T is to assess personality, level of maturity, and, often,
+psychological health of the children. The theory is that a child’s responses to a
+series of drawings of animals in familiar situations are likely to reveal significant
+aspects of a child’s personality. Some of these dimensions of personality include
+level of reality testing and judgment, control and regulation of drives, defenses,
+conflicts, and level of autonomy.
+The CAT, developed by Bellak and Bellak (1949), is based on the adult Thematic
+Apperception Test. The TA T, created by psychologist Henry A. Murray uses a
+standard series of 31 picture cards in assessing perception of interpersonal
+relationships. The cards, which portray humans in a variety of common situations,
+are used to make children tell stories about relationships or social situations. The
+obtained responses are analysed and the personality of the child is delineated
+which may consist of dominant drives, emotions, sentiments, conflicts and
+complexes. The examiner summarizes and interprets the stories in light of certain
+common psychological themes.
+In creating the original CAT, animal figures were used instead of the human
+figures depicted in the TA T because it was assumed that children from three to
+ten years of age would identify more easily with drawings of animals.
+
+
+===== PAGE 62 =====
+66
+Assessment of Personality The original CA T consisted of ten cards depicting animal (CA T-A) figures in
+human social settings. The Bellaks later developed the CA T-H, which included
+human figures, for use in children who, for a variety of reasons, identified more
+closely with human rather than animal figures. A supplement to the CAT (the
+CAT-S), which included pictures of children in common family situations, was
+created to elicit specific rather than universal responses.
+Like the TA T and the Rorschach inkblot test, the CA T is a type of personality
+assessment instrument known as a projective test. The term projective refers to a
+concept originated by Sigmund Freud. In Freud’s theory, unconscious motives
+control much of human behaviour. Projection is a psychological mechanism by
+which a person unconsciously projects inner feelings onto the external world,
+then imagines those feelings are being expressed by the external world toward
+him or herself.
+As opposed to cognitive tests, which use intellectual and logical problems to
+measure what an individual knows about the world, projective assessments such
+as the CA T are designed to be open-ended and to encourage free expression of
+thoughts and feelings, thereby revealing how an individual thinks and feels.
+The CAT, which takes 20–45 minutes to administer, is conducted by a trained
+professional, a psychologist, in a clinical, research, or educational setting. The
+test may be used directly in therapy or as a play technique in other settings.
+Self Assessment Questions
+1) What do you mean by apperception?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) Describe the Thematic Apperception Test.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) What theory is TAT based on?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+
+===== PAGE 63 =====
+67
+Other Measures of
+Personality4) What are the other apperception tests available?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+5) Discuss the Children Apperception Test.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+6) Discuss Senior Apperception Test.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+7) On what criteria are the stories interpreted on TA T cards?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4.5 LET US SUM UP
+Self-report assessment techniques are of two general types: single trait tests and
+multidimensional tests. The former measure a particular aspect of personality,
+while as the latter, measures several aspects of personality at once and thus
+provides a more comprehensive assessment of the respondent’s make-up. The
+MMPI, the most commonly used multi trait scale for diagnostic purpose. Self-
+report are objective in that people have minimal freedom in responding to test
+items and scoring procedures are not influenced by personal or theoretical bias.
+Potential problems inherent in self-report tests include deliberate deception(faking
+good or bad), social desirability bias, and response sets. Projective techniques,
+like inkblot tests and apperception tests, attempt to probe unconscious aspects of
+personality by having people project their feelings, needs, and values into their
+
+
+===== PAGE 64 =====
+68
+Assessment of Personality interpretation of ambiguous stimuli. Such tests have less likelihood of respondent
+deception and are sensitive to unconscious features of personality dynamics.
+Apperception tests have been modified for elderly group as well as for children.
+4.6 UNIT END QUESTIONS
+1) Discuss the relevance of MMPI-2 as a diagnostic tool.
+2) What are the modifications done on TA T?
+3) Give a comparative account of Rorschach with TA T.
+4) Discuss the Apperception concept and the related tests.
+5) What are the uses of Apperception Tests.
+6) What are the unique features of Children’s Apperception Test?
+4.7 GLOSSARY
+Millon Clinical Multiaxial Inventory : An objective test of personality
+specifically designed to assist
+psychologists in diagnosing various
+disorders.
+MMPI : A widely used objective test based on
+empirical keying.
+NEO Personality Inventory(NEO-PI) : An objective measure of personality
+designed to assess individual’s
+relative standing on each of the “big
+five” dimensions of personality.
+Rorschach Test : A widely used projective of
+personality in which individuals are
+asked to describe what they see in a
+series of inkblots.
+Thematic Apperception Test (TAT) : A psychological test used to assess
+individual differences in several
+different motives (e.g., achievement
+motivation, power motivation).
+4.8 SUGGESTED READINGS AND REFERENCES
+Butcher, J.N. (1984). Current developments in MMPI use: An international
+perspective .In J.N. Butcher & C. D. Speilberger (Eds.) Advances in personality
+assessment (vol.4).Hillsdale, NJ: Earlbaum.
+Butcher, J.N. & Keller, L.S.(1984).Objective personality assessment. In
+G .Goldstein & M.Hersen (eds.),Handbook of psychological assessment. New
+York: Pergamon Press.
+References
+Anastasi, A. (1968).Psychological testing. London: Macmillan Company.
+Baron, R.A. (2005).Psychology. Pearson Education, Delhi, India.
+
+
+===== PAGE 65 =====
+69
+Other Measures of
+Personality
+Ciccarelli, S.K.,& Meyer, G.E.(2009). Psychology. South Asian Edition. Pearson,
+New Delhi.
+Dahlstorm,W.G.,Welsh,G.S.& Dahlstorm,L.E.(1975).An MMPI handbook(vol.2).
+Research applications. Minneapolis:University of of Minnesota Press.
+Exner, J. E. (1993). The Rorschach: A comprehensive system: V ol. 1. Basic
+foundations (3rd. ed.). New York : Wiley.
+Gough, H.G . (1987). The California Psychological Inventory administrator’s
+guide. Palo Alto,CA: Consulting Psychological Press.
+Hathaway, S.R.& McKinley, J.C.(1943).Manual for the Minnesota Multiphase
+Personality Inventory. New York: The Psychological Corporation.
+Jackson, D. N. (1974).Jackson Personality Inventory Manual.Port Huron, MI:
+Research Psychologists Press.
+Kunce, J. T . & Anderson, W. P .(1984).Perspectives on uses of the MMPI in
+non-psychiatric settings . In P . McReynolds & G .J.Chelune (eds.), Advances in
+psychological assessment (vol. 6,pp. 41-76).San Francisco: Jossey-Bass.
+Morgan, C.D.,& Murray, H. A. (1935).A method for investigating fantasies: The
+thematic Apperception Test. Archives of Neurology and Psychiatry,34,289-306.
+Taylor, J. A. (1953).A personality scale of manifest anxiety. Journal of Abnormal
+and Social Psychology, 48, 285-290.
+Freeman, F.S.(1962). Theory and practice of psychological testing.New York:
+Holt, Rinehart and Winston (Indian Edition).
+Hjelle, L.A., Zieglar, D.J.(1992). Personality theories. Basic assumptions,
+research, and applications.3
+rd ed.McGraw Hill.
+Singh, A.K.(1997). Tests, measurements and research methods in behavioural
+sciences. Bharti Bhawan, Patna.

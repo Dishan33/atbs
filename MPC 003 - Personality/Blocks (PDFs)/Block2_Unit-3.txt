@@ -1,0 +1,871 @@
+
+
+===== PAGE 1 =====
+40
+Theories of Personality-I
+UNIT 3 LEARNING THEORY OF
+PERSONALITY (PA VLOV AND
+SKINNER)
+Structure
+3.0 Introduction
+3.1 Objectives
+3.2 Pavlov: Learning Theory of Personality
+3.2.1 Process of Classical Conditioning
+3.2.2 Principles of Classical Conditioning
+3.2.2.1 Acquisition
+3.2.2.2 Generalisation and Discrimination
+3.2.2.3 Extinction and Spontaneous Recovery
+3.2.3 Principles of Behaviour Modification
+3.2.4 Process of Behaviour Modification
+3.2.5 Evaluation
+3.3 B. F. Skinner: Learning Theory of Personality
+3.3.1 Operant Behaviour
+3.3.2 Schedule of Reinforcement
+3.3.3 Aversive Stimuli
+3.3.4 Secondary Reinforcement
+3.3.5 Successive Approximation or Shaping
+3.3.6 Superstitious Behaviour
+3.3.7 Abnormal Behaviour
+3.3.8 Evaluation
+3.4 Let Us Sum Up
+3.5 Unit End Questions
+3.6 Glossary
+3.7 Suggested Readings and References
+3.0 INTRODUCTION
+Learning theory of personality presents a model of personality that emphasises
+observable behaviour, the relationship between stimuli and responses, and the
+impact of learning. The behaviourist position is that personality is no more (or
+less) than a collection of learned behaviour patterns. They do not give importance
+to the internal causes of behaviour. Personality, like other learned behaviour, is
+acquired through classical and operant conditioning, observational learning,
+reinforcement, extinction, generalisation, and discrimination. Children can learn
+things like kindness, hostility, generosity, or destructiveness. In the present unit
+we will discuss two important learning theories of personality. First, we will
+focus our attention to Pavlov’ theory of learning and then we will turn to explain
+the important features of Skinner theory of personality.
+
+===== PAGE 2 =====
+41
+Learning Thoery of
+Personality (Pavlov and
+Skinner)
+3.1 OBJECTIVES
+After reading this unit, you will be able to:
+• Define learning concepts underlying learning theories of personality;
+• Explain the learning theories of personality;
+• Delibeate  the process of classical conditioning;
+• Describe principles of classical conditioning;
+• Explain how classical conditioning develops and maintains behaviours; and
+• Explain the applications of classical conditioning in the modification of
+behaviour.
+3.2 PA VLOV: LEARNING THEORY OF
+PERSONALITY
+Ivan Petrovich Pavlov (1849-1936) was born in Ryazan, Russia, and attended
+the religious school and seminary there, where he studied natural science. He
+did not complete his studies, but entered St Petersburg University in 1870, where
+he continued to study natural science, and decided to make his career as a
+physiologist. After graduation in 1875, he went to the Military Medical Academy
+to pursue his research. He completed his doctorate there in 1883, and then went
+to Germany (1884–6), where he studied in Leipzig with Carl Ludwig, and in
+Breslau. In 1890 he was appointed professor in the department of pharmacology
+in the Military Medical Academy. In 1904 he received the Nobel Prize for his
+work on the physiology of digestion. From 1925 to 1936 he worked mainly in
+three laboratories: the Institute of Physiology of the Soviet Academy of Sciences
+(which is now named after him), the Institute of Experimental Medicine, and the
+biological laboratory at Koltushy (now Pavlov), near St Petersburg. Pavlov was
+a skillful ambidextrous surgeon; using dogs as experimental animals, he
+established fistulas from various parts of the digestive tract by which he obtained
+secretions of the salivary glands, pancreas, and liver without disturbing the nerve
+and blood supply.
+Pavlov was a behaviourist. This means that his theories focused on observable
+behaviour, because behaviour can be measured and thought can not. Pavlov
+viewed individual differences in personality as the result of learning and different
+environmental experiences. Scientific evidence is the keyword in his theory.
+Pavlov studied reflexes, that is the  automatic behaviours that are caused by a
+stimulus from the environment. Some reflexes, such as blinking our eyes when
+a puff of air comes in it, or the sucking of a baby when something is put in his/
+her mouth. This automatic behaviour can be manipulated. This is called
+conditioning.
+Conditioning has been defined as a form of learning in which capacity of eliciting
+a response is transferred from one stimulus to another. In the conditioning process,
+an unconditioned stimulus is given to a person. This stimulus causes a reflex on
+its own. In order to explain  Pavlov’s learning theory of personality, first we will
+focus our attention on the process and principles of classical conditioning, and
+see how these processes and principles are found to be helpful in the development
+and change of personality.
+
+===== PAGE 3 =====
+42
+Theories of Personality-I 3.2.1 Process of Classical Conditioning
+In order to examine the process of classical conditioning in a systematic manner,
+Pavlov first performed a simple operation on his dog, in which a rubber tube was
+inserted into salivary gland so that the precise amount of saliva secreted during
+the experiment could be measured. After making these initial preparations a
+neutral stimulus (e.g., a bell) was presented for a brief period of time, followed
+quickly by a second stimulus known to elicit salivation response and called
+unconditioned stimulus (e.g., Meat Powder). Each pairing of conditioned stimulus
+(CS) and unconditioned stimulus (UCS) served as conditioning trials, and a
+number of such pairings were conducted in rapid succession. As a result of
+repeated pairing the CS (bell) acquired the ability to evoke the salivation. Because
+the salivation to the bell (CR) began to occur only after the conditioning, it was
+termed conditioned response (CR). On the other hand the salivation response to
+the meat powder which seems to occur automatically was termed unconditioned
+response (UCR).
+                     CS (Bell)                                  ? (Exploratory responses)
+                   UCS (Food)                                CR (Saliva)
+Pavlov further stated that a conditioned stimulus can serve as the basis for further
+conditioning, which is demonstrated by Pavlov. In the experiment of first-order
+conditioning, food was removed from the situation, and a new stimulus (e.g.,
+light) was paired with bell. This new stimulus (light) also acquired the property
+of eliciting the response. Rescorla (1973) suggested that under appropriate
+circumstances even third order conditioning can be established.
+3.2.2 Principles of Classical Conditioning
+Now we will focus on some of the important principles of classical conditioning
+which governs:
+i) Acquisition
+ii) Generalisation and Discrimination
+iii) Extinction and Spontaneous recovery
+3.2.2.1    Acquisition
+There are two important factors which exert strong influence upon the ability of
+a conditioned stimulus to elicit a response.
+1) First is the number of pairings between this stimulus and the unconditioned
+stimulus. As the number of pairings increases, the conditioned stimulus
+comes to evoke a conditioned response with increasing strength. The strength
+of the response is measured in terms of magnitude, latency and probability
+of occurrence of the conditioned response.
+2) The second factor which exerts an important effect upon the process of
+classical conditioning is the interval, which elapses between the presentation
+of conditioned stimulus and unconditioned stimulus. For many different
+responses, conditioning appears to be maximal when this interval is 0.50
+seconds. However, further researches suggest that in some cases, it can be
+much longer and still produce conditioning.
+ 
+
+===== PAGE 4 =====
+43
+Learning Thoery of
+Personality (Pavlov and
+Skinner)
+For example in an experiment of Garcia, McGowan, and Green, (1972),  rats
+were given a sweet tasting liquid to drink, and were then injected with a drug
+which makes them sick in stomach. The rats were found to acquire an aversion
+to the taste even when the interval between drinking and nausea was more than
+an hour.
+Martin Seligman (1972) noted that humans, too, learn strong aversion to the
+tastes of foods which makes them sick many hours after they have eaten. The
+acquisition of irrational fears or phobias, sexual hang-up (fetish), prejudice and
+hostile feelings has successfully been explained through the process of classical
+conditioning. In both cases, stimuli initially incapable of eliciting strong reaction
+acquire this ability through repeated pairing with the unconditional stimuli.
+For example a child while playing a new pet suddenly hears the loud sound of a
+backfiring truck. In all probability the noise (which may be viewed as an
+unconditional stimulus) will frighten the child greatly (an unconditioned
+emotional response), so that the child burst into tears. If the child happens to live
+near a busy road and often plays with the pet, this situation may be repeated –
+quite by accident – on several other occasions. The child now no longer will play
+with the pet; instead he may recoil in terror and seek to escape from its presence.
+Similarly sexual hang-up can also be explained through the process of classical
+conditioning. Assume that a person for whom an article of clothing (CS) is initially
+nothing to do with sexual arousal. Now imagine that the man sees the nude body
+of his lover (UCS) along with that clothing article, and it happens to take place
+repeatedly. Now what will happen? The sexual arousal which is a natural response
+to the nude body of the lover will be associated with that article of cloth. In the
+same way development of prejudice and hostility can also be accounted by the
+process of classical conditioning.
+3.2.2.2 Generalisation and Discrimination
+Once the organism is conditioned to one stimulus, it is often found that it will
+respond to other stimuli, similar in some dimensions to it. This phenomenon is
+known as stimulus generalisation. Stimulus generalisation plays a very important
+adaptive role. For example, the sounds made by angry bees, wasps, and hornets
+are highly similar, but certainly not identical. Because of stimulus generalisation,
+however an individual who has learned through painful experience to react with
+the fear and caution to one of the sound may also respond in a similar manner to
+others as well.
+Opposite to this phenomenon is stimulus discrimination. Within the framework
+of classical conditioning,  the ability to discriminate between  two stimuli is
+developed when one of the two similar stimuli is consistently followed by an
+unconditioned stimulus while the other is not. Under such conditions, tendencies
+to respond to the first are strengthened , while the tendencies to respond to the
+second are weakened.  Although the ability of human beings and other organisms
+to discriminate between various objects is quite impressive, but it has some limits.
+The disconcerting effects may result when these limits are exceeded is suggested
+by experiments dealing with the phenomenon of experimental neurosis.  Let us
+what this experimental neurosis is.
+
+===== PAGE 5 =====
+44
+Theories of Personality-I In a famous experiment by Shenger-Krestovnika (1921) a circle was used as a
+conditional stimulus before feeding, and the dog was also trained to associate an
+ellipse with not being fed. By small steps the ellipse was then made more and
+more like a circle. When the ellipse was almost round, initially the dog could
+usually distinguish it from a circle. But after a few weeks the dog became neurotic:
+it ceased to be able to recognise obvious ellipses and a circle, became very excited,
+and was no longer calm during experiments. Pavlov termed the animal’s abnormal
+condition as experimental neurosis and he attributed it to a disturbance of the
+balance between excitatory and inhibitory processes in the nervous system.
+This explanation of experimental neurosis is grounded in Pavlov’s theory of
+personality. He explained personality by variation in the excitation of the nervous
+system. He did not, however, attribute neurosis solely to external factors, such as
+contradictory stimuli. His experiments on experimental neuroses showed that
+dogs with different ‘personalities’ were differentially susceptible to the treatment:
+the same treatment on different dogs could produce quite different neuroses.
+Although the experiment was conducted on an animal,   the results of such
+experiments however,  suggest that while the ability of human beings to
+discriminate between stimuli is impressive,  their ability to discriminate between
+highly similar stimuli has definite limits. When the environmental conditions
+require that these limits be exceeded, extreme stress may be induced.
+3.2.2.3  Extinction and Spontaneous Recovery
+When a conditioned stimulus is repeatedly presented but is never followed by
+the unconditioned stimulus with which it was formerly associated, its ability to
+elicit conditioned response gradually decreases, and may fade completely. This
+phenomenon is known as extinction. But if the same extinguished stimulus is
+then presented again at a later time, its capacity to evoke the response is found to
+reappear. This phenomenon is termed spontaneous recovery.
+Extinction of conditioned response is also very important for the development
+of normal personality. If we lack some mechanism for getting rid of useless
+reactions to stimuli which no longer serve as reliable cues for the occurrence of
+such events, we would become a walking bundle of useless conditioned responses.
+3.2.3 Principles of  Behaviour Modification
+The principles of classical conditioning are found to be very useful for the
+modification of behaviour The principles of classical conditioning have also
+been applied in the treatment of neurosis and phobias. Rather than focusing on
+the root of the problem like a traditional psychopathologist, a behaviourist could
+focus on eliminating the symptom by bringing classical conditioning into play.
+By reinforcing the extinction of the symptom, the psychopathological illness of
+the patient could be eliminated (Schwartz & Lacy, 1982). For example, the
+therapeutic technique, known as flooding which is used to treat phobias relies
+on the principles of extinction. Systematic desensitisation is still another important
+technique successfully in dealing with a wide range of mal-adaptive behaviours,
+including examination anxiety, phobias, nightmares, stuttering, depression,
+obsession, impotence, and anorexia nervosa, based on the principles of extinction
+3.2.4 Process of Behaviour Modification
+The process of classical conditioning was also found useful for treating alcoholism
+and nicotine addiction. According to  Pavlovian principles, addiction occurs
+
+===== PAGE 6 =====
+45
+Learning Thoery of
+Personality (Pavlov and
+Skinner)
+because of both the pleasurable physiological effects of nicotine and alcohol,
+unconditioned stimuli, and the taste of nicotine and alcohol, conditioned stimuli.
+When one stops ingesting the substance, as in traditional treatment procedures,
+it is extremely easy to become addicted again. After all, “simply not presenting a
+conditioned stimulus does not eliminate the relation between it and the
+unconditioned stimuli” (Schwartz & Lacy, 1982).
+With just one use, the taste and unconditioned pleasurable effects become
+associated with each other again. However, if the taste of nicotine or alcohol, the
+conditioned response, is paired with a new unpleasant effect such as nausea and
+vomiting, the result will be a negative aversion to the substances in question.
+Such was the case when both an old alcoholic man and a young chain smoking
+adolescent were given apomorphine paired with alcohol and nicotine, respectively.
+The drug apomorphine induced severe feelings of nausea and vomiting which
+caused both of them to give up these addictive substances for life. This process
+is called counter-conditioning and has had remarkable success in curing addictions
+(Schwartz & Lacy, 1982), and the therapy based on the principles of counter-
+conditioning is termed as Aversion Therapy.
+3.2.5 Evaluation
+Pavlov started his career as a physiologist. He was interested in studying the
+process of digestion and at the time of studying the digestive system he discovered
+what has later been termed as classical conditioning. So, originally his theory
+was aimed to explain the leaning process. The principles of classical conditioning
+were found to be applicable for explaining the development of many
+psychopathologies. Although Pavlov’s theory is able to explain the development
+and change of a number of aspects of personality, but it is unable to explain the
+total personality of human beings. Moreover, since many of his principles are
+drawn from the experiments conducted on animals,  it is also doubtful if these
+principles can also be applied to human beings.
+Self Assessment Questions
+1) Explain the important features of Pavlov’s theory.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) Discuss the process of classical conditioning.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+===== PAGE 7 =====
+46
+Theories of Personality-I
+3) Describe the main principles of classical conditioning, and discuss their
+roles in the development of personality.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4) The principles of classical conditioning have extensively been used in
+behaviour modification. Explain it.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3.3 B. F. SKINNER: LEANING THEORY OF
+PERSONALITY
+Burrhus Frederic Skinner was born on March 20, 1904, in a small Pennsylvania
+town of Susquehanna.  His father was a lawyer, and his mother a strong and
+intelligent housewife.  His upbringing was old-fashioned and hard-working. He
+received his BA in English from Hamilton College in upstate New York.  He
+didn’t fit in very well, not enjoying the fraternity parties or the football games. 
+He wrote for school paper, including articles critical of the school and the faculty.
+To top it off, he was an atheist — in a school that required daily chapel attendance.
+He wanted to be a writer and did try, sending off poetry and short stories.  When
+he graduated, he built a study in his parents’ attic to concentrate, but it just wasn’t
+working for him. Ultimately, he resigned himself to writing newspaper articles
+on labour problems, and lived for a while in Greenwich Village in New York
+City as a “bohemian.”  After some traveling, he decided to go back to school,
+this time at Harvard.  He got his masters in psychology in 1930 and his doctorate
+in 1931, and stayed there to do research until 1936. Also in that year, he moved
+to Minneapolis to teach at the University of Minnesota.  There he met and soon
+married Yvonne Blue.  They had two daughters, the second of which became
+famous as the first infant to be raised in one of Skinner’s inventions, the air crib. 
+In 1945, he became the chairman of the psychology department at Indiana
+University.  On August 18, 1990, B. F. Skinner died of leukemia after becoming
+perhaps the most celebrated psychologist since Sigmund Freud.
+Skinner’s theory of personality, like other learning theories of personality did
+not grow out of the therapeutic situations, rather it emerged from the works
+carried out in laboratory settings. Skinner derived his principles of learning from
+the study of individual subjects in precisely controlled condition. He focused on
+the study of individual subjects instead of generalised group which reflected his
+belief that lawful control can be seen in individual behaviour.
+
+===== PAGE 8 =====
+47
+Learning Thoery of
+Personality (Pavlov and
+Skinner)
+While other personality theorists attempted to understand personality by studying
+groups, Skinner attempted to develop general laws by studying individual.
+Skinner, in his theory of personality, emphasised some particular aspects of human
+nature like determinism, elementalism, changeability, objectivity, reactivity and
+knowability, while rejected the other aspects like rationality-irrationality and
+homeostasis-hetrostasis completely because he did not consider the internal
+sources of human behaviour important for explaining behaviour.
+According to Skinner study of personality can be done on the basis of systematic
+and precise evaluation of individual’s genetic and idiosyncratic learning history.
+It means that for studying the personality one has to study and discover the
+relationship between the behaviour of the organism and its reinforcing
+consequences. Skinner’s theory is based on the assumptions that behaviour is
+lawful, it can be predicted, and it can be controlled. Skinner’s theory can be
+explained in the following headings:
+• Operant behaviour
+• Schedule of reinforcement
+• Aversive  Stimuli
+• Secondary Reinforcement
+• Successive approximation or Shaping
+• Superstitious behaviour
+• Abnormal Behaviour
+Now let us discuss these aspects of Skinner’s theory in some detail.
+3.3.1 Operant Behaviour
+According to skinner personality of an individual can be understand through the
+study of his behaviour. He further stated that behaviour can be distinguished in
+two types, viz., (i) respondent and (ii) operant. Respondent behaviours are those
+which are elicited by the stimuli of the environment that  are well-known and
+can be identified easily. These behaviours are involuntary and automatic in the
+sense that if the stimuli is presented before the organism, the behaviour related
+to that stimuli will occur automatically. The organism has no control over it.
+Constrictions of pupil, salivation, sweating etc. are examples of such behaviours.
+These behaviours are usually not learned by the organism at simple level, but at
+complex level.
+Operant behaviours, on the other hand, are those behaviours which are not caused
+by any specific stimuli of the environment. The stimuli of the operant behaviour
+are difficult to identify. These behaviours are performed by the individual
+voluntarily. Skinner was of the opinion that behaviours of human beings are
+predominantly operant in nature.
+Operant behaviours or responses can be tied to a readily identifiable stimulus.
+These responses seem to be spontaneous and voluntary. Another property of this
+kind of behaviour is that its frequency of occurrence is changed according to the
+event that follows. More specifically, the strength of these responses increases
+when the response occurs and is followed by  reinforcement.
+The peculiarity of this class of response gives rise to Skinner’s use of the term
+“operant”. An operant is a response that operates in the environment and changes
+
+===== PAGE 9 =====
+48
+Theories of Personality-I it. The changes in the environment affect the subsequent occurrence of the
+response. In operant conditioning, therefore, the reinforcer is not associated with
+an eliciting stimulus. Instead it is associated with the response.
+Skinner prepared a special cage (called “Skinner box”) that has a bar or lever on
+one wall that, when pressed, causes a little mechanism to release a food pellet
+into the cage.  The rat is bouncing around the cage, doing whatever it is rats do,
+when he accidentally presses the lever.   So in operant conditioning it is essential
+that the reinforcer be presented after the occurrence of the response. A reinforcer
+is defined as anything that strengthens a tendency to behave in a particular way
+(food satisfies hunger so you eat; money reinforces the likelihood that you will
+keep working; a child will behave well overtime because mum and dad approve
+him).
+In other words a reinforcer is a stimulus event which if it occurs in the proper
+temporal relation with a response, tends to maintain or to increase the strength
+of a response. Reinforcer may either be positive or negative.  The likelihood of
+the behaviour will be increased by the positive reinforcement (adding something
+pleasant) and also by the negative reinforcement (turning of/removing something
+unpleasant).
+Skinner’s entire system is based on operant conditioning. Skinner’s process of
+operant conditioning is given below: A rat is moving around the cage doing what
+a rat does normally.  Accidentally it presses the lever and a food pellet falls into
+the cage. The operant (pressing the lever) is the behaviour just prior to the
+reinforcer, which is the food pellet, of course.  In no time at all, the rat is furiously
+peddling away at the lever, hoarding his pile of pellets in the corner of the cage.
+The behaviour followed by a reinforcing stimulus results in an increased
+probability of that behaviour occurring in the future. What if you do not give the
+rat any more pellets?  Apparently, after a few futile attempts, he stops his lever-
+pressing behaviour.  This is called extinction of the operant behaviour. A behaviour
+no longer followed by the reinforcing stimulus results in a decreased probability
+of that behaviour occurring in the future.
+Now, if you were to turn the pellet machine back on, so that pressing the lever
+again provides the rat with pellets, the behaviour of lever-pressing will return
+right back into existence, much more quickly than it took for the rat to learn the
+behaviour the first time. This is  called spontaneous recovery. This is because
+the return of the reinforcer takes place in the context of a reinforcement history
+that goes all the way back to the very first time the rat was reinforced for pressing
+on the lever.
+3.3.2 Schedules of Reinforcement
+Skinner decided to reduce the number of reinforcements he gave his rats for
+whatever behaviour he was trying to condition, and observed that the rats kept
+up their operant behaviours, and at a stable rate, no less.  This is how Skinner
+discovered schedules of reinforcement. Following schedules of reinforcement
+were applied by Skinner:
+1) Continuous reinforcement: In continuous reinforcement schedule, every
+time that the rat does the behaviour (such as pushing the lever), it gets the
+food.
+
+===== PAGE 10 =====
+49
+Learning Thoery of
+Personality (Pavlov and
+Skinner)
+2) Intermittent Reinforcement Schedule:  In intermittent reinforcement
+schedule the rat does not get the reinforcement every time he presses the
+lever. It is further divided into two types:  (a) The fixed ratio  (b) The fixed
+interval
+a) The fixed ratio schedule was the first one Skinner discovered:  If the
+rat presses the lever three times, say, he gets reinforcement.  Or five
+times.  Or twenty times. Or “x” times.  There is a fixed ratio between
+behaviours and reinforcers.
+b) The  fixed interval schedule uses a timing device of some sort.  If the
+rat presses the lever at least once during a particular stretch of time
+(say 20 seconds), then he gets reinforcement. If he fails to do so, he
+does not get it. Even if he presses the bar a hundred times during that
+20 seconds, he still only gets one reinforcement. One strange thing that
+happens is that the rats tend to “pace” themselves:  They slow down
+the rate of their behaviour right after the reinforcer, and speed up when
+the time for it gets close.
+Skinner also looked at variable ratios and variable  schedules. 
+V ariable ratio means you change the “x” each time — first it takes 3 presses to
+get the food, then 10, then 1, then 7 and so on.  V ariable interval means you keep
+changing the time period — first 20 seconds, then 5, then 35, then 10 and so on.
+With the variable interval schedule, they no longer “pace” themselves, because
+they can no longer establish a “rhythm” between behaviour and reward.  Most
+importantly, these schedules are very resistant to extinction. 
+3.3.3 Aversive Stimuli
+An aversive stimulus is the opposite of a reinforcing stimulus, something we
+might find unpleasant or painful. A behaviour followed by an aversive stimulus
+results in a decreased probability of the behaviour occurring in the future. This
+both defines an aversive stimulus and describes the form of conditioning known
+as punishment.  If you shock a rat for making a response, the rat will stop to
+make that response.  If you spank the baby for throwing his toys he will throw
+his toys less and less (maybe). On the other hand, if you remove an already
+active aversive stimulus after a rat or baby performs a certain behaviour, you are
+doing negative reinforcement.  If you turn off the electricity when the rat stands
+on his hind legs, he will do a lot more standing. 
+Skinner (contrary to some stereotypes that have arisen about behaviourists) does
+not “approve” of the use of aversive stimuli.  It is not because of ethics, but
+because they do not  work well. That’s because whatever was reinforcing the
+bad behaviours has not  been removed, as it would have been in the case of
+extinction. This hidden reinforcer has just been “covered up” with a conflicting
+aversive stimulus.  All baby needs to do is wait till you are out of the room, or
+find a way to blame it on its  brother, or in some way escape the consequences,
+and thus the baby is back to its old ways.  In fact, because the baby now only gets
+to enjoy its  reinforcer occasionally, the baby  has gone into a variable schedule
+of reinforcement, and it  will be even more resistant to extinction than ever.
+
+===== PAGE 11 =====
+50
+Theories of Personality-I 3.3.4 Secondary Reinforcement
+A neutral stimulus presented at the time of delivering the response also tends to
+acquire the reinforcing ability. For example in the Skinner box at the time of
+delivering reinforcement a sound of click is also produced repeatedly each time.
+It was found that this click of sound itself acquires the reinforcing characteristics
+being associated with the original reinforcer. The sound of click is now called
+secondary reinforcer.
+Skinner believed that the conditioned or secondary reinforcers are of great
+importance in  controlling human behaviour. It is obvious that our every action
+is not maintained by the presentation of unconditioned or primary reinforcers
+such as food, water, and sex. It is possible to reason that much of our behaviours
+relies on secondary reinforcement. The most common example of secondary
+reinforcer is money. It has no intrinsic value of its own, but being paired with a
+number of different unconditioned  primary reinforcers, it has itself acquired the
+reinforcing quality. The notion of secondary reinforcement is important in
+Skinner’s theory of personality, and he used it effectively to account for the
+maintenance of many responses that takes place as part of our social behaviour.
+3.3.5 Successive Approximation or Shaping
+A question Skinner had to deal with was how we get to more complex sorts of
+behaviours.  He responded with the idea of shaping, or “the method of successive
+approximations.”  Basically, it involves first reinforcing a behaviour only vaguely
+similar to the one desired.  Once that is established, you look out for variations
+that comes a little closer to what you want, and so on, until you have the organism
+performing a behaviour that would never show up in ordinary life.  Skinner and
+his students have been quite successful in teaching animals to do some quite
+extraordinary things. 
+3.3.6 Superstitious Behaviour
+The type of conditioning, in which there is no causal relationship between the
+response and the reinforcer, is referred by Skinner as superstitious conditioning.
+When the reinforcement happens to occur purely due to  chance factor at the
+time the individual made a particular response, the individual started to believe
+that the particular response made by him was the cause for getting the
+reinforcement, while there was no functional or causal relationship between the
+response he made and the reinforcement he got.
+According to Skinner many of our superstitious beliefs are the result of this
+conditioning. The members of the primitive tribe, for example, may practice
+rain making by the performance of some ritualised dance. On some occasions
+rain does happen to follow the performance. Thus the rain-making dance is
+reinforced and tends to be repeated. The tribal people believe that  a causal
+relationship exists between the dance and the rain. Similarly, take another example
+of a cat crossing your way: a superstition commonly found in Indian society.
+Suppose you were going for some important work, say, for example, to appear in
+your annual examination. When you were on the way, a cat happens to cross the
+way. If you could not do well in the examination due to one or other reasons, you
+started to attribute your failure to the cat crossing your way. While in reality
+there was no functional relationship between the cat crossing your way and the
+performance in the examination.
+
+===== PAGE 12 =====
+51
+Learning Thoery of
+Personality (Pavlov and
+Skinner)
+3.3.7 Abnormal Behaviour
+The constructs like repressed wishes, an identity crisis, conflicts between ego
+and superego, etc. did not appeal to  Skinner for  explanation of the abnormal
+behaviours. He advocated that the framework on which his theory is based is
+sufficient to understand and explain the abnormal behaviour. Abnormal behaviour
+is assumed to be the same in its principles of development as normal behaviour.
+In putting forward a programme for the treatment of abnormal behaviour, skinner
+repeatedly asserted that the goal is simply to replace abnormal behaviour with
+normal behaviour. The undesirable behaviour can be modified by the manipulation
+of the environment in a manner determined  by the techniques of operant and
+respondent conditioning.
+Through these techniques, we can extinguish an undesirable behaviour (by
+removing the reinforcer) and replace it with a desirable behaviour by
+reinforcement.  It has been used on all sorts of psychological problems such as
+addictions, neuroses, shyness, autism, even schizophrenia.  It has been observed
+that this technique works particularly well with children.
+The other technique used for behaviour modification is token economy.  This
+technique is used primarily in institutions such as psychiatric hospitals, juvenile
+halls, and prisons.  Certain rules are made explicit in the institution, and behaving
+appropriately is rewarded with tokens, including  poker chips, tickets, funny
+money, recorded notes, etc.   The tokens can be traded in for desirable things
+such as candy, cigarettes, games, movies, time out of the institution, etc.
+3.3.8 Evaluation
+Skinner’s theory of personality’ like other theories of personality, also has certain
+strengths and also some weaknesses. Some of the strengths of the Skinner’s
+learning perspectives on personality are as follows:
+Skinner based his theory upon impressive experimental evidence. It is supported
+by a number of scientific and testable constructs supported by research findings.
+Skinner, in his theory personality, places great emphasis on the importance of
+the environment to explain the situational variations in behaviour
+The theory has useful therapeutic applications. Psychotherapists have used the
+principles of operant conditioning for treating a variety of behaviour problems
+successfully.
+However, in spite of the above merits Skinner’s theory has also been criticized
+on the following grounds:
+Skinner’s theory tends to explain specific behaviour and behaviour changes but
+not a comprehensive theory of personality. The word personality itself seems
+missing from the theory.
+The role of biological factors has been ignored. Skinner overlooked the individual
+differences present from birth.
+In-depth case studies are lacking, partly because comprehensive personality
+assessment tests have not been developed from the learning perspective.
+
+===== PAGE 13 =====
+52
+Theories of Personality-I Skinner’s theory tends to explain specific behaviour and behaviour changes but
+not a comprehensive theory of personality. The word personality itself seems
+missing from the theory.
+The role of biological factors has been ignored. Skinner overlooked the individual
+differences present from birth.
+Skinner’s theory is unable to cover the whole story of personality. For example
+language is certainly acquired to some degree via learning processes: i.e. operant
+conditioning, reinforcement and shaping all play a part. However, according to
+Noam Chomsky (1959) these concepts  do not explain fully how a child learns
+to speak. How for example do children come up with sentences they have never
+heard before? Why the incredible similarity in language development across
+cultures?
+Boulding (1984) questions Skinner’s application of principles of animal behaviour
+to the much more complex human behaviour. In using animals as substitutes for
+humans in the exploration of human behaviour, Skinner is making the big
+assumption that general laws relating to the behaviour of animals can be applied
+to describe the complex relations in the human world.
+If this assumption proves false, then the entire foundation upon which Skinner’s
+theory rests will come crashing down. More experiments with human participants
+must be done to prove the validity of this.
+Self Assessment Questions
+1) What are the main characteristics of learning theory of personality?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) Discuss the salient features of Skinner’s theory of personality.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) Explain the procedures of operant conditioning.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+===== PAGE 14 =====
+53
+Learning Thoery of
+Personality (Pavlov and
+Skinner)
+4) What do you mean by ‘operant behaviour?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+5) What do you mean by schedule of reinforcement?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+6) How does a superstitious behaviour acquired? Explain it in the light of
+Sinner’s theory.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+7) How can the principles of operant conditioning be applied in the
+modification of undesirable behaviours?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3.4 LET US SUM UP
+Learning theory of personality presents a model of personality that emphasises
+observable behaviour, the relationship between stimuli and responses, and the
+impact of learning. The behaviourist position is that personality is no more (or
+less) than a collection of learned behaviour patterns. Personality, like other learned
+behaviour, is acquired through classical and operant conditioning, observational
+learning, reinforcement, extinction, generalisation, and discrimination. In the
+present unit we have discuss two important learning theories of personality. First,
+we focused on Pavlov’ theory of learning and then we explained Skinner theory
+of personality.
+Classical conditioning, called Pavlovian conditioning, explains how a previously
+neutral stimulus can come to have a learned effect on someone.  This takes place
+by pairing (associating) an unconditioned stimulus (which already produces an
+unconditioned response) with a neutral stimulus (conditioned stimulus).  In this
+way, the organism learns to respond to the conditioned stimulus with a conditioned
+response which is like the unconditioned response. The strength of a conditioned
+response depends on the number of pairings between the conditioned stimulus
+and the unconditioned stimulus and also on the interval, which elapses between
+
+===== PAGE 15 =====
+54
+Theories of Personality-I the presentation of conditioned stimulus and unconditioned stimulus. The
+acquisition of irrational fears or phobias, sexual hang-up (fetishm), prejudice
+and hostile feelings has successfully been explained through the process of
+classical conditioning. Once the organism is conditioned to one stimulus, it is
+often found that it will respond to other stimuli, similar in some dimension to it.
+This phenomenon is known as stimulus generalisation. Stimulus generalisation
+plays very important adaptive role. Opposite to this phenomenon is stimulus
+discrimination. Within the framework of classical conditioning the ability to
+discriminate between the two stimuli is developed when one of the two similar
+stimuli is consistently followed by an unconditioned stimulus while the other is
+not. This phenomenon is accounted for developing the experimental neurosis.
+The principles of classical conditioning are found very us effective for the
+modification of behaviour. It has been applied in the treatment of neurosis, phobia,
+alcoholism and nicotine addiction Rather than focusing on the root of the problem
+like a traditional psychopathologist, a behaviourist could focus on eliminating
+the symptom by bringing classical conditioning into play. By reinforcing the
+extinction of the symptom, the psychopathological illness of the patient could
+be eliminated.
+According to Skinner’s theory, individual differences in behaviour are largely
+the result of different kinds of learning experiences encountered by different
+people. Some behaviour patterns may be learned through direct experience
+Skinner stated that the personality of an individual can be understood through
+the study of his behaviour. He further stated that behaviour can be distinguished
+in two types – respondent and operant. Operant behaviours are those behaviours
+which are not caused by any specific stimuli of the environment. Classical
+conditioning is labeled by Skinner as respondent conditioning, whereas his own
+conditioning procedure is termed by him as operant conditioning.
+Skinner’s entire system is based on operant conditioning. In operant conditioning
+the desired behaviour of the organism is strengthened by presenting the
+reinforcement. A reinforcer is defined as anything that strengthens a tendency to
+behave in a particular way. In other words a reinforcer is a stimulus event which
+if it occurs in the proper temporal relation with a response, tends to maintain or
+to increase the strength of a response. Reinforcer may either be positive or
+negative.  The likelihood of the behaviour will be increased by the positive
+reinforcement (adding something pleasant) and also by the negative reinforcement
+(turning of/removing something unpleasant).
+Skinner identified different schedules of reinforcement.  In continuous
+reinforcement schedule, the organism gets reinforcement every time he does the
+behaviour. In the fixed ratio schedule the reinforcement is given to the organism
+if he made the response at certain number of times.  For example if the rat presses
+the lever three times, say, he gets reinforcement,  Or five times,  Or twenty times,
+Or “x” times.  In fixed interval schedule a timing device of some sort is used.  If
+the rat presses the lever at least once during a particular stretch of time (say 20
+seconds), then he gets reinforcement. If he fails to do so, he does not get it.
+V ariable ratio means you change the “x” each time — first it takes 3 presses to
+get the food, then 10, then 1, then 7 and so on.  V ariable interval means you keep
+changing the time period — first 20 seconds, then 5, then 35, then 10 and so on.
+With the variable interval schedule, they no longer “pace” themselves, because
+they can no longer establish a “rhythm” between behaviour and reward.  Most
+importantly, these schedules are very resistant to extinction. 
+
+===== PAGE 16 =====
+55
+Learning Thoery of
+Personality (Pavlov and
+Skinner)
+An aversive stimulus is the opposite of a reinforcing stimulus, something we
+might find unpleasant or painful. A behaviour followed by an aversive stimulus
+results in a decreased probability of the behaviour occurring in the future.  But
+Skinner doesn’t “approve” of the use of aversive stimuli - not because of ethics,
+but because they don’t work well. Instead of extinguishing the behaviour it only
+suppresses it. Skinner, on the other hand believed that conditioned or secondary
+reinforcers are of great importance in the control of human behaviour.
+It is obvious that our every action is not maintained by the presentation of
+unconditioned or primary reinforcers. The most common example of secondary
+reinforcer is money. It has no intrinsic value of its own, but being paired with a
+number of different unconditioned of primary reinforcers, it has itself acquired
+the reinforcing quality. The notion of secondary reinforcement is important in
+Skinner’s theory of personality, and he used it effectively to account for the
+maintenance of many responses that takes place as part of our social behaviour.
+According to Skinner method of successive approximation or shaping helps us
+in learning of complex behaviours. It involves first reinforcing a behaviour only
+vaguely similar to the one desired.  Once that is established, you look out for
+variations that come a little closer to what you want, and so on, until you have
+the animal performing a behaviour that would never show up in ordinary life. 
+Process of operant conditioning is found useful for the development and treatment
+of superstitious and abnormal behaviour. According to Skinner when the
+reinforcement happens to occur purely due to the chance factor at the time the
+individual made a particular response, the individual started to believe that the
+particular response made by him was the cause for getting the reinforcement,
+while there was no functional or causal relationship between the response he
+made and the reinforcement he got.
+According to Skinner many of our superstitious beliefs are the result of this
+conditioning. The constructs like repressed wishes, an identity crisis, conflicts
+between ego and superego, etc. did not appeal Skinner for the explanation of the
+abnormal behaviour. He advocated that the framework on which his theory is
+based is sufficient to understand and explain the abnormal behaviour. Abnormal
+behaviour is assumed to be the same in its principles of development as normal
+behaviour. In putting forward a programme for the treatment of abnormal
+behaviour, skinner repeatedly asserted that the goal is simply to replace abnormal
+behaviour with normal behaviour.
+3.5 UNIT END QUESTIONS
+1) How does the learning theory of personality differ from the psychoanalytic
+theory of personality?
+2) What are the main features of Behaviouristic theory of personality?
+3) Discuss the principles of classical conditioning..
+4) Discuss the process of classical conditioning.
+5) Describe the principles of classical conditioning, and discuss how it can be
+applied in explaining the development of personality.
+6) What are the salient features of Skinner’s theory of personality? Discuss it.
+7) What is ‘operant behaviour’?  How does it differ from the’ respondent
+behaviour’?
+
+===== PAGE 17 =====
+56
+Theories of Personality-I 8) What do you mean by schedule of reinforcement? Discuss its importance in
+the acquisition of behaviour.
+9) How does a superstitious behaviour acquired? Explain it in the light of
+Sinner’s theory.
+10) How can the principles of operant conditioning be applied in the modification
+of undesirable behaviours?
+3.6 GLOSSARY
+Classical conditioning : A form of leaning in which stimuli initially
+incapable of eliciting certain responses acquire
+the ability to do so through repeated pairing with
+other stimuli that are able to elicit such
+responses.
+Conditioned response : A response evoked by a conditioned stimulus.
+Conditioned stimulus : A stimulus which acquires the capacity to evoke
+particular responses through repeated pairing
+with another stimulus capable of eliciting such
+reactions.
+Continuous reinforcement : Condition under which a particular form of
+behaviour is followed by reinforcement on every
+occasion it is emitted.
+Experimental neurosis : Disturbances in behaviour produced in the
+laboratory by requiring organisms to make
+discriminations of which they are incapable.
+Extinction : The process through which conditioned response
+is weakened and eventually eliminated.
+Fixed interval schedule of : A schedule in which the first response following
+reinforcement the passage of a fixed interval of time yields
+reinforcement.
+Fixed ratio schedule of : A schedule in which the first response following
+reinforcement the emission of a specific number of responses
+yields reinforcement.
+Generalisation : The process by which a learned response will
+occur in more situations than those in which was
+first learned; it will be also applied to similar
+situations.
+Higher-order conditioning : A process in which previously established stimuli
+serve as the basis for further conditioning.
+Operant : Responses freely emitted by organisms. The
+frequency with which such responses appear
+may be strongly affected by the application of
+various schedules of reinforcement.
+Operant conditioning : A form of learning in which responses that yield
+positive consequences or lead to escape from
+negative outcomes are strengthened.
+
+===== PAGE 18 =====
+57
+Learning Thoery of
+Personality (Pavlov and
+Skinner)
+Schedules of reinforcement : Rules governing the delivery of reinforcement.
+When a given schedule is in effect, reinforcement
+can be obtained only by meeting its requirements.
+Secondary reinforcer : A stimulus which acquires reinforcing properties
+through association with a primary reinforcer
+such as food or water.
+Second–order conditioning: Classical conditioning established on the basis
+of earlier conditioning. That is, previously
+conditioned stimuli are employed as the basis
+for the further conditioning.
+Successive approximation : Small changes in the behaviour in the direction
+desired bt a trainer. Such changes are reinforced
+during the process of shaping.
+Superstitious coditioning : The type of conditioning, in which there is no
+causal relationship between the response and the
+reinforcer, is referred by Skinner as superstitious
+conditioning.
+Unconditioned response : A response evoked by an unconditioned
+stimulus.
+ Unconditioned stimulus : A stimulus possessing the capacity to elicit
+reactions from the organisms in the absence of
+prior conditioning.
+3.7 SUGGESTED READINGS AND REFERENCES
+Hall, C.S., Lindzey, G . and Campbell, J.B.  (2004).Theories of Personality (Fourth
+Edition). New York: Wiley
+Burger, J. M. (1993). Personality (3rd ed.) Pacific Grove, CA: Brooks/Cole.
+Carver, C. S., & Scheier, M. F. (2000). Perspectives on Personality  (4th ed.)
+Needham Heights, MA: Simon & Schuster.
+Funder, D. C. (2001). The Personality Puzzle (2nd ed.). New York: W. W. Norton.
+References
+Boulding, K. E. (1984). B. F. Skinner: A dissident view. Behavioural and Brain
+Sciences, 7, 483-484.
+Gracia, J., McGrown, B. K., & Green, K. F. (1972) Biological constraints on
+conditioning. In A. H. Black and W. F. Prokasy (Eds)  Classical Conditioning II:
+Current Research and Theory. New York: Appleton-Century-Crofts.
+Rescorla, R. A. (1973). Pavlovlian conditioning: It’s not what you think it is.
+American Psychologist, 43, 151-160.
+Schwartz, B., & Lacey, H. (1982). Behaviourism, science, and human nature.
+New York: Norton.
+Seligman, M. E. P. (1972). On the generality of the laws of learning. Psychological
+Review, 77, 406-418.

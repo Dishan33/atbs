@@ -1,0 +1,851 @@
+
+
+===== PAGE 1 =====
+58
+Theories of Personality-I
+UNIT 4 HUMANISTIC AND SELF THEORY
+(MASLOW AND ROGERS)
+Structure
+4.0 Introduction
+4.1 Objectives
+4.2 Humanistic and Self Theories of Personality
+4.3 Abraham Maslow: Humanistic Approach of Personality
+4.3.1 Hierarchy of Needs
+4.3.2 Deficiency Needs
+4.3.3 Growth Needs
+4.3.4 Characteristics of Self-actualisers
+4.3.5 Evaluation
+4.4 Carl Rogers’s Theory of Personality
+4.4.1 Enduring Aspects of Personality
+4.4.1.1 The Organism
+4.4.1.2 The Self (Real and Ideal)
+4.4.1.3 Congruity and Incongruity
+4.4.2 Self-actualisation
+4.4.3 The Development of Self
+4.4.4 Evaluation
+4.5 Let Us Sum Up
+4.6 Unit End Questions
+4.7 Glossary
+4.8 Suggested Readings and References
+4.0 INTRODUCTION
+The theories which focus on the entire person and emphasise the view that persons
+are inherently good with unique attributes for greatness has been labeled as
+humanistic, or organismic, or person-centered theories of personality . In this
+unit we will first discuss the characteristic features of humanistic theories, and
+then we will come across to explain the distinctive features of Abraham Maslow’s
+Humanistic Theory of Personality. After that we will turn to discuss the Carl
+Rogers’s Person-Centered Theory of Personality.
+4.1 OBJECTIVES
+After reading this unit, you will be able to:
+• Define the humanistic approach of Maslow and Rogers;
+• Explain the theories of Maslow and Rogers;
+• Describe the characteristic features of Maslow’s theory of personality;
+• Explain the hierarchy of needs as given by Maslow;
+• Differentiate between deficit needs and growth needs;
+• Explain the characteristics of self-actualised person; and
+• Analyse various methods used in social psychology.
+
+===== PAGE 2 =====
+59
+Humanistic and Self Theory
+(Malsow and Rogers)4.2 HUMANISTIC AND SELF THEORIES OF
+PERSONALITY
+The Humanistic Approach began in response to concerns by therapists against
+perceived limitations of Psychodynamic theories, especially psychoanalysis.
+Psychologists and psychoanalysts such as Carl Rogers and Abraham Maslow
+felt that the existing (psychodynamic) theories failed to adequately address issues
+such as  the meaning of behaviour, and the nature of healthy growth. However,
+the result was not simply new variations on psychodynamic theory, but rather a
+fundamentally new approach.
+There are several factors which distinguish the Humanistic Approach from other
+approaches, that is, the difference can be seen in the emphasis on subjective
+meaning, a rejection of determinism, and a concern for positive growth rather
+than pathology.
+While one might argue that some psychodynamic theories provide a vision of
+healthy growth (including Jung’s concept of individuation ), the other
+characteristics distinguish the Humanistic Approach from every other approach
+within psychology (and sometimes lead theorists from other approaches to say
+the Humanistic Approach is not a science at all).
+Most psychologists believe that behaviour can only be understood objectively
+(by an impartial observer), but the humanists argue that this results in concluding
+that an individual is incapable of understanding their own behaviour—a view
+which they see as both paradoxical and dangerous to well-being.
+Instead, humanists like Rogers argue that the meaning of behaviour is essentially
+personal and subjective; they further argue that accepting this idea is not
+unscientific, because ultimately all individuals are subjective: what makes science
+reliable is not that scientists are purely objective, but that the nature of observed
+events can be agreed upon by different observers (a process Rogers calls
+intersubjective verification).
+The main aim of humanistic approach is to provide concepts and methods for
+stimulating learning, growth and development both in individual persons as well
+as in society, thus enhancing well-being and the overall quality of life. Maslow
+coined the term “the Third Force” to describe the Humanistic Approach, to
+emphasise how it differed from the Psychodynamic and Behaviourist Approaches,
+which dominated psychology in the 1950’s.
+This “third force”, in contrast with clinical psychology, influenced by Freudian
+psycho-analysis, which studies mental illness, i.e. the negative side of human
+behaviour, and traditional academic, experimental psychology, influenced by
+behaviourism, which tends to reduce human behaviour to statistical correlations
+between different kinds of stimuli, responses and personality traits. Instead of
+merely modeling normal behaviour or of curing clear dysfunctions, a humanistic
+psychologist tries to help people to develop in a better way, thus making them
+more competent, more aware, happier, in the hope of reaching some state of
+“optimal” mental health.
+
+===== PAGE 3 =====
+60
+Theories of Personality-I The central theme in humanistic theories is the drive towards self-actualisation,
+to realise one’s full potential. Other themes include personal growth, openness
+to experience, living in the present, personal responsibility, and inherent goodness
+of people. For the humanists, the unit of analysis is the perceived reality.
+Probably the best known proponent of this approach is Abraham Maslow. What
+distinguishes his work from that of other “humanists”, such as Carl Rogers or
+Erich Fromm is that he proposes a model of how a happy, healthy, well-functioning
+person behaves, which is based on concrete observations of real people, rather
+than on formulating ideal requirements.
+Also Maslow proposes a simple and intuitively appealing theory of motivation,
+which explains where such a “self-actualising” personality comes from. In parallel
+with systems theory, Maslow reacts against too much reductionism in
+psychological modeling, and proposes an alternative holistic approach of
+personality research.
+In recent years, a number of initiatives have appeared which, while influenced
+significantly by humanistic ideas and theories, have  new directions. Perhaps the
+most significant is positive psychology, a term coined by Dr. Martin Seligman
+when he was President of the American Psychological Association in 2000.
+Positive psychology, like the humanistic approach, focuses on enhancing human
+potential, but embraces research methods (e.g., surveys, group data) which
+humanists have traditionally avoided.
+Another area influenced by the humanistic approach has been coaching
+psychology. While the term originated in “personal coaching” in sports, it more
+generally refers to a focus on enhancing individual potential, and the field has
+gradually become a specific area within many psychology associations.
+4.3 ABRAHAM MASLOW: HUMANISTIC
+APPROACH TO PERSONALITY
+Abraham Maslow, widely regarded as one of the founders of the Humanistic
+Approach, was born on April 1, 1908 in Brooklyn, New York. He received his
+BA in 1930, his MA in 1931, and his PhD in 1934, all in psychology, all from the
+University of Wisconsin.  A year after graduation, he returned to New York to
+work with E. L. Thorndike at Columbia, where Maslow became interested in
+research on human sexuality. He began teaching full time at Brooklyn College. 
+During this period of his life, he came into contact with the many European
+intellectuals who were migrating to the US, and Brooklyn in particular, at that
+time.  Persons  like Adler, Fromm, Horney, as well as several Gestalt and Freudian
+psychologists also migrated to Brooklyn initially. Maslow served as the chair of
+the psychology department at Brandeis from 1951 to 1969.  While working here
+he met Kurt Goldstein, who had put forward the idea of self-actualisation in his
+famous book, The Organism (1934). 
+It was also here that he began his crusade for a humanistic psychology,  something
+ultimately much more important to him than his own theorising. He spent his
+final years in semi retirement in California, until, on June 8 1970, he died of a
+heart attack after years of ill health.
+
+===== PAGE 4 =====
+61
+Humanistic and Self Theory
+(Malsow and Rogers)
+Maslow developed a theory of personality that has influenced a number of
+different fields. This wide influence is due in part to the high level of practicality
+of Maslow’s theory. His theory accurately describes many realities of personal
+experiences. Humanists do not believe that human beings are pushed and pulled
+by mechanical forces, either of stimuli and reinforcements (behaviourism) or of
+unconscious instinctual impulses (psychoanalysis).
+Humanists focus upon potentials. They believe that humans strive for an upper
+level of capabilities. Humans seek the frontiers of creativity, the highest reaches
+of consciousness and wisdom. This has been labeled “fully functioning person”,
+“healthy personality”, or as Maslow calls this level, “self-actualising person.”
+Maslow’s theory of personality can be explained under the following headings:
+1) Hierarchy of needs,  2)   Deficit needs, 3)  Growth needs, 4)  Self-actualisers
+4.3.1 Hierarchy of Needs
+Maslow proposed a theory of human motivation based on hierarchy of needs.
+The lower a need in the hierarchy the more prepotent or dominating that need is.
+In other words, when several needs are active, the lowest need will be most
+compelling. The higher order needs emerge only when the lower level needs are
+satisfied.
+The first four levels are considered deficiency or deprivation needs (“D-needs”)
+in that their lack of satisfaction causes a deficiency that motivates people to
+meet these needs.
+For instance the Physiological needs which are at the  lowest level on the
+hierarchy, include necessities such as air, food, and water. These tend to be satisfied
+for most people, but they become predominant when unmet. During emergencies,
+safety needs such as health and security rise to the forefront. Once these two
+levels are met, belongingness needs, such as obtaining love and intimate
+relationships or close friendships, become important. The next level, esteem needs,
+include the need for recognition from others, confidence, achievement, and self-
+esteem. The highest level is self-actualisation, or the self-fulfillment.
+Behaviour in this case is not driven or motivated by deficiencies but rather one’s
+desire for personal growth and the need to become all the things that a person is
+capable of becoming (Maslow, 1970). Now we will discuss each level of needs
+one by one:
+The lowest level in the Maslow’s hierarchy is the physiological needs.
+These include the most basic needs that are vital to survival, such as the need for
+water, air, food and sleep. Maslow believed that these needs are the most basic
+and instinctive needs in the hierarchy because all needs become secondary until
+these physiological needs are met. These needs are such that if they are not satisfied
+the organism dies. If the threat of dying because of perturbation of the
+physiological equilibrium has vanished, the organism can direct its attention to
+more indirect threats, such as the danger of being caught by a predator, and try to
+avoid them
+
+===== PAGE 5 =====
+62
+Theories of Personality-I The next needs in the hierarchy are safety needs.
+These include needs for safety and security. Security needs are important for
+survival, but they are not as demanding as the physiological needs. Examples of
+security needs include a desire for steady employment, health insurance, safe
+neighbourhoods and shelter from the environment.
+At the third level of the hierarchy are belongingness needs.
+These include needs for belonging, love and affection. Maslow considered these
+needs to be less basic than physiological and security needs. Relationships such
+as friendships, romantic attachments and families help fulfill this need for
+companionship and acceptance, as does involvement in social, community or
+religious groups.
+At the fourth level of hierarchy are self-esteem needs
+After the first three needs have been satisfied, esteem needs becomes increasingly
+important. Maslow noted two versions of esteem needs, a lower one and a higher
+one.
+The lower one is the need for the respect of others, the need for status, recognition,
+fame, prestige, and attention.
+The higher one is the need for self-respect, the need for strength, competence,
+mastery, self-confidence, independence and freedom. These needs rank higher
+because it rests more on inner competence won through experience. Deprivation
+of these needs can lead to an inferiority complex, weakness and helplessness.
+Satisfaction of the self-esteem need leads to feelings of self-confidence, worth,
+strength, capability and adequacy of being useful and necessary in the world.
+These feelings in turn give rise to either basic discouragement or else
+compensatory or neurotic trends. An appreciation of the necessity of basic self-
+confidence and an understanding of how helpless people are without it, can be
+easily gained from a study of severe traumatic neurosis
+The highest level need is self-actualisation.
+“What a man can be, he must be”. This forms the basis of the perceived need for
+self-actualisation. This level of need pertains to what a person’s full potential is
+and realising that potential. Maslow describes this desire as the desire to become
+more and more what one is, to become everything that one is capable of becoming.
+This is a broad definition of the need for self-actualisation, but when applied to
+individuals the need is specific.
+For example one individual may have the strong desire to become an ideal parent,
+while for another it may be expressed athletically, and in the third it may be
+expressed in painting, pictures, or inventions. As mentioned earlier, in order to
+reach a clear understanding of this level of need one must first not only achieve
+the previous needs, physiological, safety, love, and esteem, but master these needs.
+Below are Maslow’s descriptions of the consequences that what will happen if
+these needs are not satisfied.
+4.3.2 Deficiency Needs
+It has been stated in the earlier discussion that the first four levels of needs are
+called deficit needs, or D-needs.  If you don’t have enough of something, then it
+is said that you have a deficit that is you feel the need. 
+
+===== PAGE 6 =====
+63
+Humanistic and Self Theory
+(Malsow and Rogers)
+But if you get all you need, you feel nothing at all!  In other words, they cease to
+be motivating. He also talks about these levels in terms of homeostasis . 
+Homeostasis is the principle by which the bodily system (thermostat) operates.
+In other words, when it gets too cold, the thermostat  switches the heat on and
+ when it gets too hot, it switches the heat off.  In the same way, human body,
+when it lacks a certain substance, develops a hunger for it; when it gets enough
+of it, then the hunger stops. 
+Maslow simply extends this homeostatic principle to needs, such as safety,
+belongingness, and esteem about which we do not ordinarily think of in these
+terms. In terms of overall development, we move through these levels a bit like
+stages. 
+As newborns, our focus (if not our entire set of needs) is on the satisfaction of
+the  physiological needs.  Soon, we begin to recognise that we need to be safe. 
+Soon after that, we crave attention and affection.  A bit later, we look for self-
+esteem.  Mind you, this is in the first couple of years! Under stressful conditions,
+or when survival is threatened, we can “regress” to a lower need level. 
+When you find that your great career falls flat, you might seek out a little attention. 
+When your family decides to leave you, it seems that love is again all you ever
+wanted.  If you have significant problems along your development, that is a period
+of extreme insecurity such as  hunger as a child, or the loss of a family member
+through death or divorce, or significant neglect or abuse,  it is possible that  one
+may “fixate” on that set of needs for the rest of one’s life.
+4.3.3 Growth Needs
+Maslow has used a variety of terms to refer to the last level of needs.  He has
+called it growth motivation (in contrast to deficit motivation).  They are called
+the  being needs (or B-needs, in contrast to D-needs), and self-actualisation.
+These are needs that do not involve balance or homeostasis.  They involve the
+continuous desire to fulfill potentials, to “be all that you can be”. If you want to
+be truly self-actualising, you need to have your lower needs taken care of, at
+least to a considerable extent.  This makes sense, which is if you are hungry, you
+are scrambling to get food; if you are unsafe, you have to be continuously on
+guard; if you are isolated and unloved, you have to satisfy that need; if you have
+a low sense of self-esteem, you have to be defensive or compensate.  When
+lower needs are unmet, you can not fully devote yourself to fulfilling your
+potentials.
+The question becomes, of course, what exactly Maslow means by self-
+actualisation.  To answer that, we need to look at the kind of people he called
+self-actualised persons. Fortunately, he did this for us, using a qualitative method
+called biographical analysis. He began by picking out a group of people, some
+historical figures, some people he knew, whom he felt clearly met the standard
+of self-actualisation.  Included in this august group were Abraham Lincoln,
+Thomas Jefferson, Albert Einstein, Eleanor Roosevelt, Jane Adams, William
+James, Albert Schweitzer , Benedict Spinoza, and Alduous Huxley, plus 12
+unnamed people who were alive at the time Maslow did his research.  He then
+looked at their biographies, writings, the acts and words of those he knew
+personally, and so on.  From these sources, he developed a list of qualities that
+seemed characteristic of these people, as opposed to the great mass of us.
+
+===== PAGE 7 =====
+64
+Theories of Personality-I 4.3.4 Characteristics of Self-actualisers
+According to Maslow, people who are self actualised, were
+1) Reality-centered, which means they could differentiate what is fake and
+dishonest from what is real and genuine. 
+2) Problem-centered, meaning they treated life’s difficulties as problems
+demanding solutions, not as personal troubles to be railed at or surrendered
+to. 
+3) Had a different perception of means and ends.  They felt that the ends do
+not  necessarily justify the means, that the means could be ends themselves,
+and that the means, that is the journey was often more important than the
+ends.
+4) Had different ways of relating to others.  First, they enjoyed solitude, and
+were comfortable being alone. And they enjoyed deeper personal relations
+with a few close friends and family members, rather than more shallow
+relationships with many people.
+5) Enjoyed autonomy, a relative independence from physical and social needs. 
+6) Resisted enculturation, that is, they were not susceptible to social pressure
+to be “well adjusted” or to “fit in” .  They  were, in fact, nonconformists in
+the best sense.
+7) Had an unhostile sense of humor .   They preferred to joke at their own
+expense, or at the human condition, and never directing their humor at
+others. 
+8) Had a quality of  acceptance of self and others , by which he meant that
+these people would be more likely to take you as you are than try to change
+you into what they thought you should be. 
+This same acceptance applied to their attitudes towards themselves:  If some
+quality of theirs wasn’t harmful, they let it be, even enjoying it as a personal
+quirk. 
+9) They were often strongly motivated to change negative qualities in
+themselves that could be changed. 
+10) They possessed qualities such as spontaneity and simplicity.
+11) They preferred being themselves rather than being pretentious or artificial. 
+12) They had a sense of humility and respect towards others — something
+Maslow also called democratic value. 
+13) They had a quality Maslow called human kinship,  that is  social interest,
+compassion, and humanity. 
+14) Were strong in their ethical behaviours.
+15) They were spiritual but never conventionally religious in nature.
+16) They had a certain freshness of appreciation, an ability to see things, even
+ordinary things, with wonder. 
+17) They had the ability to be creative, inventive, and original. 
+18) They tended to have more peak experiences than the average person.  A
+peak experience is one that takes you out of yourself, that makes you feel
+
+===== PAGE 8 =====
+65
+Humanistic and Self Theory
+(Malsow and Rogers)
+very tiny, or very large, to some extent one with life or nature or God.  It
+gives you a feeling of being a part of the infinite and the eternal.  These
+experiences tend to leave their mark on a person, change them for the better,
+and many people actively seek them out.  They are also called mystical
+experiences, and are an important part of many religious and philosophical
+traditions.
+Maslow did not however think that self actualised persons were perfect.  There
+were several flaws or imperfections he discovered along the way as well.  These
+were as given below:
+1) They often suffered considerable anxiety and guilt.  These anxiety and guilt
+were realistic ones rather than misplaced or neurotic versions. 
+2) Some of them were absent minded and overly kind. 
+3) Also  some of them had unexpected moments of ruthlessness, surgical
+coldness, and loss of humor.
+4) Maslow also stated that when a self actualised person does not  get their
+needs fulfilled, they respond with metapathologies. That is they respond
+with a list of problems. 
+5) When forced to live without these values, the self-actualiser develops
+depression, despair, disgust, alienation, and a degree of cynicism.
+4.3.5 Evaluation
+Maslow has been a very inspirational figure in personality theories.  In the 1960’s
+in particular, people were tired of the reductionistic, mechanistic messages of
+the behaviourists and physiological psychologists.  They were looking for
+meaning and purpose in their lives, even a higher, more mystical meaning. 
+Maslow was one of the pioneers in that movement to bring the human being
+back into psychology and the person back into personality.
+Moreover, Maslow’s unique contribution lies in his preoccupation with healthy
+people rather than sick ones and his feeling that studies of two groups generate
+different types of theory. Maslow chose the more direct course of studying healthy
+people whose wholeness and unity of personality are readily apparent. But in
+spite of this unique contribution Maslow’s theory has been criticized on many
+grounds.
+The most common criticism concerns his methodology:  Picking a small number
+of people that he himself declared self-actualising, then reading about them or
+talking with them, and coming to conclusions about what self-actualisation is in
+the first place does not sound like good science to many people.
+Another criticism is that Maslow placed certain constraints on self-actualisation. 
+First, Kurt Goldstein and Carl Rogers used the phrase to refer to what every a
+living creature does, that is  to try to grow, and  to fulfill its biological destiny. 
+Maslow limits self actualisation to be achieved only by about two percent of the
+human species, while most do not achieve this. While Rogers felt that babies
+were the best examples of human self-actualisation, Maslow saw it as something
+achieved only rarely by the young.
+Another criticism is that we take much take care of our lower needs before self-
+actualisation comes to the forefront.  And yet we can find many examples of
+
+===== PAGE 9 =====
+66
+Theories of Personality-I people who exhibit least aspects of self-actualisation and were far from having
+their lower needs taken care of.  Many of our best artists and authors, for example,
+suffered from poverty, bad upbringing, neuroses, and depression. 
+Self Assessment Questions
+1) Discuss the importance of humanistic approach in the study of
+personality.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) Describe the salient features of Maslow’s theory of personality.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) Critically evaluate Maslow’s need hierarchy theory.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4) Distinguish between deficiency needs and growth needs.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+5) Explain the characteristics of self-actualising person.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+===== PAGE 10 =====
+67
+Humanistic and Self Theory
+(Malsow and Rogers)4.4 CARL ROGER’S THEORY OF PERSONALITY
+Carl Rogers was born on January 8, 1902, in Oak Park, Illinois. Raised on a farm
+from the age of twelve, Rogers entered the Agricultural College of the University
+of Wisconsin in 1919, where he graduated with a degree in history. While in
+college he felt a religious calling and eventually began training to become a
+Protestant minister, and after graduating in 1924 he enrolled at the Union
+Theological Seminary in New York City. From there he transferred to Teachers
+College at Columbia University in order to pursue counseling rather than the
+strictly religious aspect of his ministerial profession.
+He subsequently focused on clinical and educational psychology, writing his
+doctoral dissertation on personality adjustment in children. Throughout the 1930s,
+Rogers worked in the field of child psychology, and in 1940 he accepted a position
+as a professor of psychology at Ohio State University. It was at this time that he
+began to develop the theories and methodology for which he would later become
+renowned. The incipient concepts of Rogers’s therapeutic approach appeared in
+his 1942 book Counseling and Psychotherapy, and within the next few years he
+developed his concept of the self as the organising element in human personality
+and the principles of the “nondirective,” or client-centered, style of therapy.
+In 1945 he took a position as professor of psychology and head of the counseling
+center at the University of Chicago, where, over the next twelve years, he further
+refined and articulated his ideas, publishing Client-Centered Therapy (1951)
+during this time. A charismatic figure, Rogers’s influence over students,
+colleagues, and various collaborators, as well as his publication of best-selling
+books such as On Becoming a Person (1961) and Person to Person (1967) made
+him the central figure in American humanistic psychology throughout his lifetime.
+Carl Rogers was not only one of the founders of the Humanistic Approach, but
+also arguably the most influential therapist in the 20th century. Rogers’s theory
+is basically phenomenological, in that it placed a strong emphasis on the
+experience of the person, their feelings, their values, and all that is summed up
+by the expression “inner life”. His theory is also known as self-theory. The other
+name of his theory is person-centered theory. His theory grew out of his own
+experience in working with individual in the therapeutic relationship
+In terms of his theory, there are two fundamental ideas which are particularly
+worth noting. First, Rogers talked about healthy development in terms of how
+individuals perceived their own being. Healthy individuals will tend to see
+congruence between their sense of who they are (self) and who they feel they
+should be (ideal self).  While no one tends to experience perfect congruence at
+all times, the relative degree of congruence is an indicator of health.
+The second fundamental idea is Rogers’s concept of the conditions for healthy
+growth, and the role of a therapist in fostering healthy growth. Through a process
+Rogers called person-centered therapy; the therapist seeks to provide empathy,
+openness, and unconditional positive regard. Rogers called his technique non-
+directive therapy, based on the concept that the therapist is simply a “mirror”
+who reflects the individual’s thoughts and feelings.
+
+===== PAGE 11 =====
+68
+Theories of Personality-I Rogers’s theory can be explained under the following three headings:
+1) Enduring aspects of personality
+2) Self-actualisation
+3) Development of self
+4.4.1 Enduring Aspects of Personality
+Rogers’ theory of personality evolved out of his work as a clinical psychologist
+and developed as an offshoot of his theory of client-centered (later called person-
+centered) therapy. Since the main aim of his theory is to explain the growth and
+development within the individual, so his theory does not appear to lay much
+emphasis on  personality development, rather prefer to devote his attention to
+such constructs that are of fundamental importance to his theory. These are:
+(i) the organism and (ii) the self.
+4.4.1.1  The Organism
+Rogers approach to the study of persons is phenomenological and idiographic.
+His view of human behaviour is that it is “exquisitely rational”. Furthermore, in
+his opinion: “the core of man’s nature is essentially positive” and he is a
+“trustworthy organism”.
+According to Rogers the organism is the locus of all experience, including
+everything potentially available to awareness, at any given moment. The totality
+of experience constitutes the phenomenal field. The phenomenal field is the
+individual’s frame of reference that can only be known to the person. It can
+never be known to another, except through empathetic experience and at that
+level too, can never be known perfectly.
+Rogers emphasised that the individual’s way of behaving depends upon the
+phenomenal field (subjective reality) and not upon the stimulating conditions
+(external reality). The phenomenal field at any given moment is made up of
+conscious and unconscious experiences. The person tends to check his or her
+experiences against the reality. This testing of reality provides with dependable
+knowledge of the world so that one is able to behave realistically. In most of the
+cases the person accepts his or her experiences as true representation of reality,
+while in reality they may not be the true representation. As a result the person
+may develop misconceptions about himself/herself and about the external world.
+4.4.1.2 The Self (Real and Ideal)
+Rogers developed one of the most systematic models of self, in relation to the
+personality-functioning. The self or self-concept, is one of the central concepts
+in his theory, and the theory is often referred to as the self-theory of personality.
+Rogers defined self as the organised, consistent, conceptual gestalt composed of
+perceptions of the characteristics of the “I” or “me”, and the perception of the
+relationship “I” or “me” to various aspects of life, together the values attached to
+those perceptions.
+In short, it is one’s picture of him or hers. Rogers further distinguishes two aspects
+or subsystems of self: The real self and the ideal self. The real self is the “you”
+that, if all goes well, you will become, while the ideal self is what the person
+would like to be.
+
+===== PAGE 12 =====
+69
+Humanistic and Self Theory
+(Malsow and Rogers)
+By ideal, Rogers is suggesting something not real, something that is always out
+of our reach, the standard we can not meet.  Thus, Rogers’s personality theory
+distinguishes between two personalities. The real self, which is created and
+developed through the actualising tendency, it is the self that one can become.
+The demands of society, however, do not always support the actualising tendency
+and we are forced to live under conditions that are out of step with our tendencies.
+The ideal self is the ideal created through the demands of society. Rogers does
+not see it as something to strive for (that is the real self) but an ideal imposed on
+us we can never fully reach. Rogers’ view of ‘hidden’ personality relates to the
+person one could be given the right circumstances within society and for an
+individual to be truly happy (and for self-actualisation to be realised) their public
+and private selves must be as similar as possible. For an individual to be truly
+happy and for self-actualisation to be realised, the public and hidden selves must
+be as similar as possible. Rogers believed that when all aspects of a person’s life,
+surroundings and thoughts are in harmony then the ideal state of congruence is
+reached (Pervin & Oliver 1997).
+4.4.1.3  Congruity and Incongruity
+The importance of the concept of organism and self, in Rogers theory becomes
+clear when we examine the idea of congruence and incongruence between this
+self as perceived, and the self as  actually experienced by the organism. When
+the symbolised experiences that constitute the self, faithfully mirror the
+experiences of the organism, the self and organism are said to be congruent, that
+is  the individual is believed to be adjusted, mature and fully functioning.
+Otherwise, there would be incongruence. According to Rogers, most of the ways
+of behaving that are adopted by the organism are those that are consistent with
+the concept of self. In some instances, behaviour may be brought about by organic
+experiences and needs which have not been symbolised. Such behaviour may be
+inconsistent with the structure of the self but in such instances the behaviour is
+not “owned” by the individual.
+Rogers suggests that the incongruent individual who is always on the defensive
+and cannot be open to all experiences is not functioning ideally and may even be
+malfunctioning. They work hard at maintaining/protecting their self concept.
+Because their lives are not authentic this is a difficult task and they are under
+constant threat. They deploy defense mechanisms to achieve this. He describes
+two mechanisms: distortion and denial.
+Distortion occurs when the individual perceives a threat to their self concept.
+They distort the perception until it fits their self concept. This defensive behaviour
+reduces the consciousness of the threat but not the threat itself. And so, as the
+threats mount, the work of protecting the self concept becomes more difficult
+and the individual becomes more defensive and rigid in their self structure.
+If the incongruence is immoderate this process may lead the individual to a state
+that would typically be described as neurotic. Their functioning becomes
+precarious and psychologically vulnerable. If the situation worsens it is possible
+that the defenses cease to function altogether and the individual becomes aware
+of the incongruence of their situation. Their personality becomes disorganised
+and bizarre; irrational behaviour, associated with earlier denied aspects of self,
+may erupt uncontrollably.
+
+===== PAGE 13 =====
+70
+Theories of Personality-I Thus, it may be concluded that psychological adjustment exists when the concept
+of the self is such that all the sensory and visceral experiences of the organism
+are, or may be, assimilated on a symbolic level into a consistent relationship
+with the concept of self. Psychological maladjustment exists when the organism
+denies awareness of significant sensory and visceral experiences, which
+consequently are not symbolised and organised into the gestalt of the self structure.
+When this situation exists, there is a basic or potential psychological tension.
+Any experience which is inconsistent with the organisation of the structure of
+the self may be perceived as a threat, and the more of these perceptions there are,
+the more rigidly the self structure is organised to maintain itself.
+4.4.2 Self-Actualisation
+According to Rogers, only the single motive is there that impels human beings
+to action, and that motive can be described as the actualising tendency. Rogers
+(1959) maintains that the human “organism” has an underlying “actualising
+tendency”, which aims to develop all capacities in ways that maintain or enhance
+the organism and move it toward autonomy. This tendency is directional,
+constructive and present in all living things.
+The actualising tendency can be suppressed but can never be destroyed without
+the destruction of the organism (Rogers, 1977). The concept of the actualising
+tendency is the only motive force in the theory. It encompasses all motivations;
+tension, need, or drive reductions; and creative as well as pleasure-seeking
+tendencies (Rogers, 1959).
+Only the organism as a whole has this tendency, parts of it (such as the self) do
+not. Maddi (1996) describes it as a “biological pressure to fulfill the genetic
+blueprint’. Each person thus has a fundamental mandate to fulfill one’s potential.
+This tendency is selective, and pays attention only to those aspects of the
+environment which promises to move the person constructively, in the direction
+of fulfillment and wholeness. Therefore, as already stated, the single motivating
+force is ‘the self-actualisation drive’ and single goal of life is ‘to become self-
+actualised’
+4.4.3 The Development of Self
+Rogers, unlike Freud, Sullivan, and Erikson, did not try to propose a stage theory
+of personality development. In other words, Rogers did not explain the personality
+development in steps or stages; rather he emphasised the importance of
+congruence between the self of the person and his experiences in the development
+of personality.
+Adjustment and psychological health have also been explained in terms of realistic
+self-concept that is congruent with self.  Rogers maintained that unless we are
+taught inappropriately by those whose love we need, our self-concept in based
+on our own perceptions, and fits well with our experiences.
+If we are taught to have a self-concept that does not match what we actually
+experience, we are going to have difficulty. For example, you might learn that
+nice people never get angry and then find yourself in a situation in which you are
+insulted; your self-concept does not allow you to perceive your feeling of anger
+accurately.
+
+===== PAGE 14 =====
+71
+Humanistic and Self Theory
+(Malsow and Rogers)
+The greater the discrepancy between our self and our experiences, the greater the
+maladjustment and anxiety, and the harder we must reconcile what we believe
+ourselves and what we encounter in the world around us.
+Rogers also suggests that if there is a large self-experience discrepancy, and if
+there is no way to avoid all of the relevant experiences, the defensive system
+may be unable to handle anxiety; it may breakdown and result in a disorganisation
+of personality.
+Early in our lives, we each have direct experience with pleasure and pain; for
+example, we obviously learn that it is good to eat and bad to be hungry, good to
+be in mother’s arm and bad to touch a hot stove and so on. Beyond these simple
+physical reactions, there is a need for positive regard. That is, we want to be
+loved and respected as individuals. Our parents tend to be the primary source of
+love and affection, and it is desperately important to maintain their good will.
+We want them to praise us, say that we are good, and express positive feelings
+toward us. When we do something they dislike and they let us know it, the
+experience is painful one. We strive to alter our behaviour to get back in their
+good graces.
+The crucial problem occurs when the beliefs, values, and perceptions of parents
+do not fit the child’s experiences and feelings. Let us look at an example of the
+process. A three year old boy is upset when his mother gives birth to a second
+baby. He must share love and attention with the new addition, be quiet when the
+baby is sleeping and so on. From the brother’s perspective, the situation involves
+rejection and loss of status: most likely he feels not only depressed but hostile.
+The obvious target of his hostility is the new sister.  One day his mother finds
+him deliberately pinching the sister’s arm to make her cry. What does the mother
+do? Her decision at this point is described by Rogers as a critical one in the
+development of the boy’s self-concept. The usual response of the mother will be
+to punish the child and reject him because of his hostility and force him to love
+his sister. The conflict for the boy is clear. Since the need for mother’s love is
+vitally important, so he may alter his self-concept to conform to what the mother
+wanted. In this case, the mother’s reaction might serve to help give this child a
+self-concept, inconsistent with his experiences.
+Rogers recognised the three crucial points for the parents to keep in mind.
+1) First, the child’s feeling must be recognised and accepted.
+2) Second, the mother should avoid threatening the child with the most
+threatening punishment of all – loss of love.
+3) Third, the hostile behaviour must be clearly and unmistakenly rejected and
+prevented.
+4.4.4 Evaluation
+The person-centered approach, being the unique approach to understanding
+personality and human relationships, found wide application in various domains
+such as psychotherapy and counseling, organisations, and other group settings.
+Rogers’s greatest contribution may lie in his encouraging a humane and ethical
+treatment of persons, approaching psychology as a human science rather than a
+natural science.
+
+===== PAGE 15 =====
+72
+Theories of Personality-I Rogers’s person-centered approach has been criticised on many grounds. The
+most important being the charge that many psychologists tend to impose their
+views based upon naïve phenomenology. For instance, Rogers accepted client’s
+statement to be always true and reliable, when self-reports normally lack
+credibility.
+Rogers has also been criticised for ignoring unconscious determinants of
+behaviour, attested by psycho-analytic investigators over a long period.
+It is also criticised on the ground that the theory deals only with surface issues
+and does not explore deeper areas.
+Self Assessment Questions
+1) Discuss the salient features of Rogers’s theory of personality.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) Explain the importance of self-concept in Rogers’s theory of personality.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) What do you mean by congruence and incongruence of self. What role
+dose it play in the development of personality?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4) Discuss the development of personality from Rogers’s phenomenological
+point of view.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+===== PAGE 16 =====
+73
+Humanistic and Self Theory
+(Malsow and Rogers)4.5 LET US SUM UP
+The central theme in humanistic and self theories is the drive towards self-
+actualisation, to realise one’s full potential. Other themes include personal growth,
+openness to experience, living in the present, personal responsibility, and inherent
+goodness of people.
+For the humanists, the unit of analysis is “perceived reality”.
+Probably the best known proponent of this approach is Abraham Maslow. Maslow
+proposes a model of how a happy, healthy, well-functioning person behaves,
+which is based on concrete observations of real people, rather than on formulating
+ideal requirements. Moreover Maslow proposes a simple and intuitively appealing
+theory of motivation, which explains where such a “self-actualising” personality
+comes from. Maslow’s theory can be explained in terms of Hierarchy of needs,
+deficiency needs, growth needs and characteristics of self-actualising persons.
+Maslow proposed a theory of human motivation based on hierarchy of needs.
+The lower a need in the hierarchy the more prepotent or dominating that need is.
+In other words, when several needs are active, the lowest need will be most
+compelling. The higher order need emerge only when the lower level needs are
+satisfied.
+The first four levels are considered deficiency or deprivation needs (“D-needs”)
+in that their lack of satisfaction causes a deficiency that motivates people to
+meet these needs.
+Physiological needs, the lowest level on the hierarchy, include necessities such
+as air, food, and water. These tend to be satisfied for most people, but they become
+predominant when unmet.
+During emergencies, safety needs such as health and security rise to the forefront.
+Once these two levels are met, belongingness needs, such as obtaining love and
+intimate relationships or close friendships, become important.
+The next level, esteem needs, include the need for recognition from others,
+confidence, achievement, and self-esteem.
+The highest level is self-actualisation, or the self-fulfillment. Behaviour in this
+case is not driven or motivated by deficiencies but rather one’s desire for personal
+growth and the need to become all the things that a person is capable of becoming.
+In order to study the characteristics self-actualisers of Maslow studied a group of
+people, whom he felt clearly met the standard of self-actualisation.  Using
+a qualitative method called biographical analysis; he developed a list of
+qualities that seemed characteristic of the self-actualisers, as opposed to the great
+mass of us.
+Rogers’s theory, also known as self-theory, is basically phenomenological, in
+that it placed a strong emphasis on the experience of the person, their feelings,
+their values, and all that is summed up by the expression “inner life”. His theory
+grew out of his own experience in working with individual in the therapeutic
+relationship
+
+===== PAGE 17 =====
+74
+Theories of Personality-I In terms of his theory, there are two fundamental ideas which are particularly
+worth noting. First, Rogers talked about healthy development in terms of how
+the individual perceived their own being. A healthy individual will tend to see
+congruence between their sense of who they are (self) and who they feel they
+should be (ideal self). While no one tends to experience perfect congruence at all
+times, the relative degree of congruence is an indicator of health.
+The second fundamental idea is Rogers’s concept of the conditions for healthy
+growth, and the role of a therapist in fostering healthy growth. Rogers’s theory is
+explained under the three headings: enduring aspects of personality, self-
+actualisation and development of self.
+Organism and the self are of the fundamental importance in Rogers’s theory.
+According to Rogers the organism is the locus of all experience, including
+everything potentially available to awareness, at any given moment. The totality
+of experience constitutes the phenomenal field.
+The phenomenal field is the individual’s frame of reference that can only be
+known to the person. Rogers emphasised that the individual’s way of behaving
+depends upon the phenomenal field (subjective reality) and not upon the
+stimulating conditions (external reality). Rogers developed one of the most
+systematic models of self, in relation to the personality-functioning. The self or
+self-concept is one of the central concepts in his theory. Self is one’s picture of
+him or hers. Rogers further distinguishes two aspects or subsystems of self: The
+real self and the ideal self. The real self is the “you” that, if all goes well, you will
+become, while the ideal self is what the person would like to be.
+Thus, Rogers’s personality theory distinguishes between two personalities. The
+real self, which is created and developed through the actualising tendency and
+the ideal-self, which is created through the demands of society. Rogers, unlike
+Freud, Sullivan, and Erikson, did not try to propound a stage theory of personality
+development. He emphasised the importance of congruence between the self of
+the person and his experiences in the development of personality. Adjustment
+and psychological health have also been explained in terms of realistic self-
+concept that is congruent with self.
+4.6 UNIT END QUESTIONS
+1) Discus the characteristic features of Humanistic approach to personality.
+3) What are the main features of Maslow’s theory that makes it applicable in
+organisation?
+3) Critically evaluate the main tenets of Maslow’s theory of personality.
+4) What do you mean by need hierarchy?
+5) Discuss the importance of deficiency needs and growth needs in the
+development of personality
+6) What are the main characteristics of self-actualising person? Discuss it in
+detail.
+7) On what ground does Maslow’s theory differ from Rogers’s theory of
+personality?
+
+===== PAGE 18 =====
+75
+Humanistic and Self Theory
+(Malsow and Rogers)
+8) Critically evaluate Rogers’s theory of personality.
+9) Discuss the  importance of self in Rogers’s theory of personality.
+10) In the light of Roger’s theory explain the development of personality
+11) What do you mean by phenomenal field? Discuss its importance in the light
+of Rogers’s theory.
+4.7 GLOSSARY
+Client-centered therapy : The therapeutic approach developed by Carl
+Rogers in which therapist helps clients to clarify
+their true feelings and come to value who they
+are.
+Deficiency needs : In Maslow’s Need hierarchy model, the first
+four levels of need- physiological, safety,
+belongingness, and esteem- are referred as
+deficit needs.
+Growth needs : In Maslow’s Need hierarchy model, the fifth
+level need, i.e. self-actualisation is called
+growth needs.
+Humanistic psychology : An approach to understand personality that
+emphasises self-fulfillment and growth as the
+prime motivators of behaviour.
+Ideal self : In Rogerian theory, the self-concept an
+individual would like to have.
+Self-actualisation : According to Maslow’s view, the highest
+motive of human behaviour, the motive to
+realise oneself fully as a person.
+Self-concept : In Rogerian theory, the attitudes and beliefs and
+individual has about himself.
+4.8 SUGGESTED READINGS AND REFERENCES
+Hall, C.S., Lindzey, G . and Campbell, J.B.  (2004).Theories of Personality (Fourth
+Edition). New York: Wiley
+Farber, Barry A.(1998). The psychotherapy of Carl Rogers: Cases and
+Commentary. Guilford Press.
+Thorne, Brian. (1992). Carl Rogers - Key Figures in Counselling and
+Psychotherapy Series. Sage publications.
+References
+Goldstein, K. (1939). The organism. New York: American Book.
+Maddi, S. R. (1996). Personality theories: A comparative analysis (6th ed.). Pacific
+Grove, Calif: Brooks/Cole.
+
+===== PAGE 19 =====
+76
+Theories of Personality-I Maslow, A.H.  (1970). Motivation and personality (2nd Ed.). New York: Harper
+& Row.
+Rogers, C. R. (1942). Counseling and psychotherapy: Newer concepts in practice.
+Boston: Houghton Mifflin.
+Rogers, C. R. (1951). Client-centered therapy: Its current practice, implications
+and theory. London: Constable.
+Rogers, C. R. (1961). On Becoming a Person: A Therapist’ s View of
+Psychotherapy. London: Constable.

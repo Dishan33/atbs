@@ -1,0 +1,703 @@
+
+
+===== PAGE 1 =====
+54
+Assessment of Personality
+UNIT 4 OTHER MEASURES OF
+PERSONALITY
+Structure
+4.0 Introduction
+4.1 Objectives
+4.2 Self-Report Questionnaires and Inventories
+4.2.1 Minnesota Multi Phasic Personality Inventory (MMPI)
+4.2.2 Millon Clinical Multiaxial Inventory (MCMI)
+4.2.3 NEO- Personality Inventory (NEO-PI)
+4.3 Ink Blot Tests
+4.3.1 Rorschach Psycho-diagnostic Test
+4.3.2 Holtz Ink Blot Test
+4.4 Apperception Test (TA T)
+4.4.1 Thematic Apperception Test (TA T)
+4.4.2 Senior Apperception Test (SA T)
+4.4.3 Children Apperception Test (CA T)
+4.5 Let Us Sum Up
+4.6 Unit End Questions
+4.7 Glossary
+4.8 Suggested Readings and References
+4.0 INTRODUCTION
+In this unit we will be discussing other measures of personality assessment. Self
+report questions and inventories are of great importance in personality assessment.
+These are being taken up in terms of definition and description of such tests and
+inventories and also we will be presenting the three important and major tests in
+this field namely MMPI, MCMI and NEO-PI. Following you will learn in this
+unit some of the major projective tests. In fact projective tests are extremely
+important to understand the psychodynamics involved in the person’s behaviour.
+Many times we cannot get the needed information through interviews because
+of the inhibitions on the part of the person or client. In such cases projective tests
+are used which help the person to project his or her feelings on to the stimulus
+material, picture or ambiguous stimuli. Inn this category of Projective tests we
+will be presenting the Rorschach test and the Holtzman Inkblot tests. In this
+category of tests you will also learn the test named Thematic Apperception Tests
+both for adults and children.
+4.1 OBJECTIVES
+After going through the following unit, you will be able to:
+• Define and describe self report inventories;
+• Describe the MMPI,MCMI and NEOPI;
+• Define projective tests;
+
+===== PAGE 2 =====
+55
+Other Measures of
+Personality
+• Explain the Rorschach test;
+• Differentiate the two ink blot tests;
+• Explain apperception; and
+• Describe tests related to apperception such as the TAT and CAT.
+4.2 SELF-REPORT QUESTIONNAIRES AND
+INVENTORIES
+One way of measuring personality involves asking individuals to respond to a
+self-report inventory or questionnaire. Such measures (also known as objective
+tests of personality) contain questions or statements to which individuals respond
+in various ways.
+Now we will examine the most extensively used and researched multidimensional
+test, used by psychologists to evaluate the diagnostics status of clients as well as
+to make personnel decisions about people.
+4.2.1 Minnesota Multi Phasic Personality Inventory (MMPI)
+The most widely used multi-trait self- report test is the MMPI. It was originally
+devised by Hathaway and McKinley (1943) to aid clinical psychologist in the
+diagnosis of psychological disorders. The developers believed that this test would
+be useful in evaluating the effectiveness of psychotherapy. They used an empirical
+strategy to construct MMPI. They administered hundreds of true-false items to
+several groups of people in mental institutions who had been diagnosed as having
+certain psychological disorders. These diagnoses have been determined through
+psychiatric interviews with the patients. By systematically carrying out empirical
+procedure on patient group with different psychiatric diagnosis, the test developers
+established 10 separate “clinical scales”. The test also had 4 “validity scales”
+that assess whether the person was careless, deceptive, or misunderstood the
+instructions in taking the test. The “lie scale”, for instance indicates the extent to
+which a person response in a socially desirable but untruthful way to statement
+in order to be viewed in a favouarble manner (“I cant remember ever having a
+bad night’s sleep”).
+An updated and restandardised version of MMPI was established in 1989. It is
+known as MMPI 2. This test has 567 items, as they were in the original inventory
+but is different in a number of ways. Items with sexist wordings and out moded
+content have been modified, items with objectionable content have been
+eliminated, and national norms that are more representative of the present
+population have been calculated. These significant modifications have enhanced
+the value of MMPI 2 and make it preferable over the original version of the test.
+Two general approaches are used when interpreting MMPI data and these are:
+i) clinical and
+ii) actuarial.
+In clinical interpretation an expert inspects each of the scale scores, notes the
+features of the profiles (clustering of certain high scale scores), and adds a mix
+of personal experience about individuals of each profile type to make inferences
+regarding the pathological problems and traits of the person.
+
+===== PAGE 3 =====
+56
+Assessment of Personality When an actuarial interpretation is made, the psychologist(or computer) merely
+checks MMPI atlas that provide empirically established characteristics which
+describes each profile, class or code type.
+The process of comparing the profile of a person with a large number of previous
+profile yleads to an interpretation based on statistical base rates and norms (without
+an subjective evaluation by the psychologist).
+Matching the person’s profile with previous MMPI test takers also enables the
+clinician to determine the appropriate diagnostic category and course of therapy
+to be undertaken.
+MMPI is by no means limited in usage to the clinical setting (Kunce and Anderson,
+1984). It is also used to determine whether individuals have personality attributes
+that are either compatible or incompatible with a demand of a job for which
+recruitment is being made.
+The MMPI has also been used extensively in studies concerning family dynamics,
+eating disorders, substance abuse, suicide, and readiness to intervention for
+rehabilitation (Butcher and Keller, 1984). It has also been one of the main sources
+of item for a number of other personality tests like Taylor Manifest Anxiety
+Scale (Taylor, 1953), the Jackson Personality Inventory (Jackson, 1974), and the
+California Psychological Inventory, etc.
+Finally, MMPI has been translated into 125 foreign languages is a testimony to
+its popularity and value as a clinical assessment technique (Butcher, 1984).
+4.2.2 Millon Clinical Multiaxial Inventory (MCMI)
+Another objective measure of personality is the Millon Clinical Multiaxial
+Inventory (MCMI) (Millon, 1987, 1997). Items of this test correspond more
+closely to the categories of psychological disorders currently used by psychologists
+than those on the MMPI. This makes the test especially useful to clinical
+psychologists, who must first identify individual’s problems before recommending
+specific forms of therapy for them.
+The recent third edition development of the MCMI-III adds the Grossman Facet
+Scales, a series of therapy guiding facet subscales, to the basic personality scales
+of the instrument. These fact scales identify the most salient clinical domains
+(e.g., interpersonal, cognitive) that characterise the patient taking the inventory.
+This information helps “personalise” and further “individualise” the MCMI test
+results by specifying those features that call for the therapist’ attention in what is
+called “personalised therapy”. But first, a few words about the basic MCMI-III
+and what distinguishes it as a clinical instrument.
+The MCMI™ (Millon™ Clinical Multiaxial Inventory) is distinguished from
+other inventories primarily by its brevity, its theoretical anchoring, multiaxial
+format, tripartite construction and validation schema, use of base rate scores,
+and interpretive depth.
+Each generation of the MCMI inventory has attempted to keep the total number
+of items small enough to encourage its use in all types of diagnostic and treatment
+settings, yet large enough to permit the assessment of a wide range of clinically
+relevant multiaxial behaviours.
+
+===== PAGE 4 =====
+57
+Other Measures of
+Personality
+At 175 items, the MCMI inventory is much shorter than comparable instruments.
+Terminology is geared to an eighth-grade reading level. The inventory is almost
+self-administering. The great majority of patients can complete the MCMI-III™
+in 20 to 30 minutes, facilitating relatively simple and rapid administrations while
+minimizing patient resistance and fatigue.
+Description: Based on Millon’s theory of personality and psychopathology, the
+brief Millon Clinical Multiaxial Inventory-II (MCMI-II) instrument provides a
+measure of 22 personality disorders and clinical syndromes for adults undergoing
+psychological or psychiatric assessment or treatment. Specifically designed to
+help assess both Axis I and Axis 11 disorders, the MCMI-II instrument can assist
+clinicians in psychiatric diagnosis, developing a treatment approach that takes
+into account the patient’s personality style and coping behaviour, and guiding
+treatment decisions based on the patient’s personality pattern.
+Scoring: The MCMI-II consists of 10 clinical personality pattern scales, 3 severe
+personality pathology scales, 6 clinical syndrome scales, 3 modifier indices, 1
+validity index.
+Reliability: The reliability of the MCMI II generally has been sound, with the
+Axis II scales showing the highest stability as predicted by Millon. Normal
+subjects also had noticeably higher stability coefficients than clinical subjects.
+Millon also tested the stability of high point and double-high-point configurations.
+He reports that high point codes are fairly stable over a month, with nearly two
+thirds of 168 subjects achieving the same scale high point. For double-high-
+point configurations, 25% achieve the same high scores with another 19%
+achieving the same two scales but in reverse order. Based on part of his normative
+sample, Millon reports quite high internal consistencies. The average of 22 clinical
+scales is .89, and the range is from .81 to .95.
+Validity: Because of extensive item overlap, we cannot be sure of the factor
+structure of this instrument. But there are also overlaps based on the overlap of
+the constructs; that is, the personality disorders are by no means distinct entities.
+Norms: Norms for the MCMI-II instrument are based on a national sample of
+1,292 male and female clinical subjects representing a variety of DSM-III and
+DSM-III-R diagnoses. The subjects included inpatients and outpatients in clinics,
+hospitals, and private practices. The MCMI-II manual describes the distribution
+of gender, age, marital status, religion, and other factors within the sample.
+The MCMI-II is used primarily in clinical settings with individuals who require
+mental health services for emotional, social, or interpersonal difficulties.  
+4.2.3 NEO- Personality Inventory (NEO-PI)
+A third objective test, the NEO-Personality Inventory(Costa & McRae,1989), is
+used to measure aspects of personality that are not linked to psychological
+disorders. Specifically, it tends to measure the “big five” dimensions of personality,
+as these dimensions appear to represent basic aspects of personality.
+The NEO-PI is a highly-regarded assessment of personality. Based on the Five-
+Factor model, the NEO PI-R measures the interpersonal, motivational, emotional,
+and attitudinal styles of adults and adolescents. It consists of 240 personality
+
+===== PAGE 5 =====
+58
+Assessment of Personality items and 3 validity items, and is available in two forms. Form-S is designed for
+self-reports and Form-R is written in the third person for observer reports.
+The NEO PI-R was designed to provide a general description of normal
+personality relevant to clinical, counseling and educational situations. NEO PI-
+R items and materials were designed to be easily read and understood. The five
+domains (factors) measured by the NEO PI-R provide a general description of
+personality, while the facet scales allow more detailed analysis. These five factors
+and their facet scales include:
+Neuroticism (Anxiety, Hostility, Depression, Self-Consciousness, Impulsiveness,
+Vulnerability)
+Extraversion (Warmth, Gregariousness, Assertiveness, Activity, Excitement-
+Seeking, Positive Emotions)
+Openness to Experience (Fantasy, Aesthetics, Feelings, Actions, Ideas, Values)
+Agreeableness (Trust, Modesty, Compliance, Altruism, Straightforwardness,
+Tender-Mindedness)
+Conscientiousness  (Competence, Self-Discipline, Achievement-Striving,
+Dutifulness, Order, Deliberation)
+Reliability and Validity
+Internal consistency coefficients range from .86 to .95 for domain scales, and
+from .56 to .90 for facet scales. Stability coefficients ranging from .51 to .83
+have been found in three-year, six-year, and seven-year longitudinal studies of
+the original NEO-PI factors. The NEO PI-R has been validated against other
+personality inventories and projective techniques.
+Use of NEO PIR
+This test can be effectively used in counseling and clinical settings with adults as
+well as senior high school and college students.  It is also very effectively used in
+business and industrial settings. This test is used in Psychological research,
+including studies in sport psychology and recreation.
+Self Assessment Questions
+1) Name some important personality inventories.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+===== PAGE 6 =====
+59
+Other Measures of
+Personality2) How is MMPI-2 different from original MMPI?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) Briefly describe NEO-PI.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4.3 INK BLOT TESTS
+These are psychological tests in which a subject’s interpretation of inkblots is
+analysed. This test is used in clinical psychology and psychiatry. The inkblots
+are used to determine what a person perceives in the highly ambiguous shapes.
+4.3.1 Rorschach Psychodiagnostic Test
+Swiss psychiatrist Hermann Rorschach first published the inkblot test in 1921.
+Rorschach displayed interest in inkblots from a young age and eventually
+developed a way to use them for psychological assessment.
+Hermann Rorschach was born in Zurich, Switzerland, on Nov. 8, 1884. As a
+child, Rorschach earned the nickname “Kleck” due to his love “klecksography,”
+a popular game among Swiss children that involved dropping ink on a piece of
+paper, and then folding the paper in 1/2 to create interesting designs.
+Rorschach was an excellent student and ultimately became interested in psychiatry.
+He graduated in Medicine and worked under notable Swiss psychiatrists, Eugen
+Bleuler and Carl Jung. After graduation, Rorschach worked at various psychiatric
+institutions in Switzerland and Russia. He continued to develop his interests in
+psychoanalysis and Art therapy.
+By 1911, Rorschach noticed that children playing klecksography varied widely
+in their inkblot interpretations. He then began informally studying how the
+mentally ill interpreted inkblots. Although others before him, such as Leonardo
+da Vinci, Justinus Kerner and Alfred Binet, had also experimented with inkblots,
+Rorschach was the first to develop a system to make the interpretation of inkblots
+a useful tool for psychological analysis.
+During the inkblot test, the examinee is shown a series of 10 inkblots and asked
+to describe what he sees. It is assumed that the examinee will project his own
+personality and emotions onto the ambiguous picture, providing the examiner
+with insight into his unconscious mind.
+
+===== PAGE 7 =====
+60
+Assessment of Personality Rorschach’s set of 10 inkblots was first published in 1921 in a book entitled
+“Psychodiagnostik.” His peers were skeptical about the ability of inkblot
+interpretation to assess personality accurately. Responding to this criticism,
+Rorschach continued his efforts to standardise testing procedures to make his
+inkblot test a useful psychological tool. However he could not see the use of this
+test as he died in 1922.
+Reliability and validity
+After Rorschach’s death, at least 4 others attempted to standardise inkblot test
+administration. However, this only resulted in further confusion and inconsistency.
+In the late 1950s, American psychologist John Exner developed what became
+known as Exner’s Comprehensive System, which consolidated these different
+approaches into one universal procedure.
+Current Use
+The Rorschach inkblot test continues to be the most popular projective test used
+today. However, critics of the inkblot test argue that the interpretation of an
+examinee’s responses is highly dependent on the examiner’s own personal
+judgment, and therefore not likely to be reliable among examiners. Alternatively,
+others contend that with proper use and training, the Rorschach can be reliably
+interpreted and therefore remains a useful psychological instrument.
+The Rorschach Plates
+The stimulus materials for the Rorschach Psychodiagnostic Technique which
+was published originally in 1921, are ten 5 ½ by 9 ½ inch cards. Each card
+contains one bilaterally symmetrical, black-and-white (five cards), red-and-grey
+(two cards), or multicolored (three cards) ambiguous figures in ink blot against
+a white background. The cards are presented individually and viewed at no greater
+than arms length, but turning the card is permitted.
+Examinees are told to report what they see in the report or what it might present.
+After all the cards have been presented the examiner may start over with card
+one and ask the examinee what features (shape, color, shading and so on) of the
+card determined the responses of the subject. Following this enquiry period,
+there may be a further period of testing the limits to discover whether the examinee
+can see certain things in the card.
+A number of scoring methods for the Rorschach have been proposed, the most
+recent being Exner’s (1991, 1993) comprehensive system. Every response given
+to a blot may be scored on several categories as given below.
+Location : where it was seen-the whole blot(W), a common detail(B), an
+uncommon detail(Dd), or, if the white space on the card was used, WS, DS,or
+DdS.
+Determinant : what aspect of the blot determine the response-form (F), color(C),
+shading-texture(T), shading-dimension(V), shading-diffuse(Y), chromatic
+color(C), achromatic color(C’), movement (M), or combinations of these.
+Content: anatomy (An), blood (Bl), Clouds (Cl), Fire (Fi), Geography (Ge), Nature
+(Na), and so forth.
+
+===== PAGE 8 =====
+61
+Other Measures of
+Personality
+Popularity: whether the response is a popular (P) or an original (One).
+The number of responses in each category and certain ratios computed from
+them guide the interpretation of the test protocol of the whole.
+For example, several good “whole” (W) responses are considered indicative of
+integrated or organised thinking, where as color responses suggest emotionality
+and impulsivity; many detailed responses indicate compulsivity; white-space
+responses point to oppositional tendencies; and movement responses reveal
+imagination.
+The ratio of the number of human movement responses to the number of color
+responses (experience balance) is said to be related to the degree to which a
+person is thought-minded rather than action oriented.
+The ratio of the number of form responses to the number of color responses is an
+index of the extent to which the respondent is controlled by cognition rather than
+emotion.
+Also important in evaluating Rorschach protocol is the accuracy of responses,
+that is, how well the responses fit the respective parts of the blots (good, poor, an
+indeterminate).
+Delays in responding (Reaction Time) may be interpreted as anxiety, small number
+of color and movement responses as depression, and several shading responses
+as self-control. Many original responses having poor form and other indicators
+of confused thinking suggest a psychotic process.
+One of the most reliable scores on the Rorschach, and a rough index of mental
+ability, is a simple count of the total number of responses to the ten ink blots.
+Responses may also be interpreted in terms of content, but the process is very
+subjective. For example unreal characters such as ghosts and clowns are
+interpreted as indicative of an inability to identify with real people, and mask are
+interpreted as role playing to avoid exposure. Food is interpreted as dependency
+needs or emotional hunger, death as loneliness and depression, and eyes as
+sensitivity to criticism.
+Considering the length of time required to administer and score the test, it is
+unsatisfactory when judged by conventional psychometric criteria. But still it
+remains popular among clinical psychologists and psychiatrists.
+4.3.2 Holtz Ink Blot Technique
+Holtzman Ink Blot Test  (HIT)
+The Holtzman Inkblot Technique (HIT) is a projective personality assessment
+test for persons ages five and above. The main purpose of this test is to assess
+personality structure of a subject.  It is also used as a diagnostic test particularly
+assessing schizophrenia, depression , addiction and personality disorders.
+This test requires a clinically trained examiner. The HIT should be administered
+and interpreted by a trained psychologist, psychiatrist, or appropriately trained
+mental health professional.
+
+===== PAGE 9 =====
+62
+Assessment of Personality The HIT, developed by psychologist Wayne Holtzman and colleagues, was
+introduced in 1961. The test was designed to overcome some of the deficiencies
+of the Rorschach Inkblot Test.
+The Holtzman is a standardised measurement with clearly defined objective
+scoring criteria. The HIT consists of 45 inkblots. The test administrator, or
+examiner, has a stack of 47 cards with inkblots (45 test cards and 2 practice
+cards) face down in front of him or her. The examiner hands each card to the
+subject and asks the test subject what he or she sees in the inkblot. Only one
+response per inkblot is requested. Occasionally, the examiner may ask the test
+subject to clarify or elaborate on a response.
+The Administration of the HIT typically takes 50-80 minutes. The HIT is then
+scored against 22 personality-related characteristics.
+The HIT can also be administered in a group setting. In group testing, 30-45
+inkblots are projected onto a screen and test subjects provide written responses
+to each inkblot.
+Holtz Ink Blot Technique (HIT) consists of two parallel forms of HIT (A and B)
+and has 45 blots each, and the examinee is limited to one response per blot. Each
+of the blots was selected on the basis of high split half reliability and an ability to
+differentiate between normal and pathological responses.
+The HIT blots are more varied than those on the Rorschach: some are
+asymmetrical, and some have colors and different visual textures. The HIT can
+be scored on the 22 response categories developed by computer analysis of
+hundreds of test protocols. The percentile norms for these 22 scores are based on
+eight groups of people, normal and pathological, ranging in age from 5 years to
+adulthood.
+The procedures for constructing and standardising the HIT were more like those
+for a personality inventory than other projective techniques, and hence its
+reliability is higher than that of Rorschach.
+Self  Assessment Questions
+1) What is meant by ink blot tests?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) Describe the Rorschach Test.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+===== PAGE 10 =====
+63
+Other Measures of
+Personality3) What is the criticism against the Rorschach Test?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4) How is the scoring done on Rorschach cards?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+5) Describe Holtzman inkblot test. In what these are different from the
+Rorschach test?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+6) Describe the Holtzman Inkblot test and how is the scoring done for this
+test?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4.4 APPERCEPTION TEST
+Let us first understand what is apperception. It refers to the conscious perception
+with full awareness. It is the process of understanding by which newly observed
+qualities of n object are related to past experience. This term apperception was
+introduced by Leibniz, for the mind’s reflective thinking and apprehension of its
+own states. Kant has put forward two types of apperception viz., (i) empirical
+apperception and (ii) transcendental apperception.  While the former refers to
+the ordinary consciousness, changing self etc., the latter refers to consciousness
+that unifies experience as that of one subject and is thereby the foundation of
+both experience and thought.
+
+===== PAGE 11 =====
+64
+Assessment of Personality Less structured than word associations and incomplete sentences but more
+structured than ink blots are pictures or other materials about which the respondent
+is asked to tell a story. The majority of these Apperception Test employ pictures
+of people, or animals as stimuli, but one (the hand test) is composed of pictures
+of hands and another (the Auditory Apperception Test) consists of auditory stimuli.
+Nearly all apperception test call for open ended response, but at least one (the
+Iowa Picture Interpretation) has a multiple choice format. Directions for the
+various picture-story tests are similar: the examinees are asked to tell the story
+about the picture, including what is going on at the moment, what led up to it,
+and what the outcome might be.
+4.4.1 Thematic Apperception Test (TAT)
+The test is based on Murray’s Need theory, and is developed by Morgan &
+Murray(1935). TAT consists of 30 black and white picture cards (four overlapping
+sets of nineteen cards, each for boys, girls, men, and women) depicting people in
+ambiguous situations, plus one blank card. The usual procedure for administering
+the TA T begins by asking the examinee to tell a complete story about each of the
+10 or so picture cards selected as appropriate for his or her age or sex. The
+examinees asked to devote approximately 5 minutes to each story, telling what
+is going on now, what thoughts and feelings the people in the story have, what
+events have led up to the situation, and how it will turn out. For example, one of
+the pictures shows a young woman in the foreground and a weird old woman
+with a shawl over her head grimacing in the background. The following story
+was told by a young college woman in response to this picture:
+This is the woman who has been quiet troubled by memories of a mother she
+was resentful towards. She has feelings of sorrow for the way she treated her
+mother; her memories of her mother plague her. These feelings seemed to be
+increasing as she grows older and sees her own children treating her the same
+way as she treated her mother. She tries to convey the feeling to her children, but
+does not succeed in changing their attitudes. She is living her past in her present,
+because the feeling of sorrow and guilt is reinforced by the way her children are
+treating her.
+From stories such as this, a skilled examiner obtains information about the
+dominant needs, emotions, sentiments, complexes, and conflicts of the story
+teller and the pressures to which he/she is subjected. As revealed by this story,
+responses to TAT pictures can be especially useful in understanding the
+relationships and difficulties between a person and his or her parents.
+When interpreting TA T stories, it is assumed that respondents project their own
+needs, desires and conflicts into the stories and characters. Interpretation of the
+stories is a fairly subjective, impressionistic process centering on an analysis of
+the needs and personality of the main character (hero/heroin), who presumably
+represents the examinee, and the environmental forces (press) impinging on the
+main character.
+The frequency, intensity and the duration of the story are all taken into the account
+in the interpretation. The following TAT responses are considered indicative of
+mental disorders of various kinds:
+• slowness or delays in responding may indicate depression;
+
+===== PAGE 12 =====
+65
+Other Measures of
+Personality
+• stories by men that involved negative comments about women or affection
+for other man may point to homosexuality;
+• over cautiousness and preoccupation with details are suggestive of obsessive
+compulsive disorder.
+Although the usual methods of scoring and interpreting TAT stories are highly
+impressionistic, scores determine by one of the more systematic procedures are
+fairly reliable and can be interpreted in terms of norms based on standardisation
+studies (Bellack, 1993). Asking a person to tell stories about pictures would also
+seemed to have potentially greater validity than asking for responses for ink
+blots. The content of TAT stories is influenced by the particular environmental
+context in which the test is taken, and the test does not always differentiate between
+normal and mentally disordered person (Eron, 1950),
+The TA T has been used with a range of ethnic and chronological age groups, and
+various modifications have been constructed for Blacks, children, and older adults.
+4.4.2 Senior Apperception Technique (SAT)
+The 16 stimulus pictures on this test, which was designed specifically for older
+adults, reflect themes of loneliness, uselessness, illness, helplessness, and lowered
+self-esteem, in addition to positive and happier situations. As in the case of the
+Gerontological Apperception Test (Wolk and Wolk, 1971), a similar instrument,
+responses to the pictures on the Senior Apperception Technique reflect serious
+concerns over health, getting along with other people and being placed in a nursing
+or retirement home. Both tests have been criticized for inadequate norms and
+possible stereotyping of the elderly.
+4.4.3 Children Apperception Test (CAT)
+The Children’s Apperception Test (CAT) is a projective personality test used to
+assess individual variations in children’s responses to standardised stimuli
+presented in the form of pictures of animals in common social situations.
+The main purpose of CA T is to assess personality, level of maturity, and, often,
+psychological health of the children. The theory is that a child’s responses to a
+series of drawings of animals in familiar situations are likely to reveal significant
+aspects of a child’s personality. Some of these dimensions of personality include
+level of reality testing and judgment, control and regulation of drives, defenses,
+conflicts, and level of autonomy.
+The CAT, developed by Bellak and Bellak (1949), is based on the adult Thematic
+Apperception Test. The TA T, created by psychologist Henry A. Murray uses a
+standard series of 31 picture cards in assessing perception of interpersonal
+relationships. The cards, which portray humans in a variety of common situations,
+are used to make children tell stories about relationships or social situations. The
+obtained responses are analysed and the personality of the child is delineated
+which may consist of dominant drives, emotions, sentiments, conflicts and
+complexes. The examiner summarizes and interprets the stories in light of certain
+common psychological themes.
+In creating the original CAT, animal figures were used instead of the human
+figures depicted in the TA T because it was assumed that children from three to
+ten years of age would identify more easily with drawings of animals.
+
+===== PAGE 13 =====
+66
+Assessment of Personality The original CA T consisted of ten cards depicting animal (CA T-A) figures in
+human social settings. The Bellaks later developed the CA T-H, which included
+human figures, for use in children who, for a variety of reasons, identified more
+closely with human rather than animal figures. A supplement to the CAT (the
+CAT-S), which included pictures of children in common family situations, was
+created to elicit specific rather than universal responses.
+Like the TA T and the Rorschach inkblot test, the CA T is a type of personality
+assessment instrument known as a projective test. The term projective refers to a
+concept originated by Sigmund Freud. In Freud’s theory, unconscious motives
+control much of human behaviour. Projection is a psychological mechanism by
+which a person unconsciously projects inner feelings onto the external world,
+then imagines those feelings are being expressed by the external world toward
+him or herself.
+As opposed to cognitive tests, which use intellectual and logical problems to
+measure what an individual knows about the world, projective assessments such
+as the CA T are designed to be open-ended and to encourage free expression of
+thoughts and feelings, thereby revealing how an individual thinks and feels.
+The CAT, which takes 20–45 minutes to administer, is conducted by a trained
+professional, a psychologist, in a clinical, research, or educational setting. The
+test may be used directly in therapy or as a play technique in other settings.
+Self Assessment Questions
+1) What do you mean by apperception?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) Describe the Thematic Apperception Test.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) What theory is TAT based on?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+===== PAGE 14 =====
+67
+Other Measures of
+Personality4) What are the other apperception tests available?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+5) Discuss the Children Apperception Test.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+6) Discuss Senior Apperception Test.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+7) On what criteria are the stories interpreted on TA T cards?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4.5 LET US SUM UP
+Self-report assessment techniques are of two general types: single trait tests and
+multidimensional tests. The former measure a particular aspect of personality,
+while as the latter, measures several aspects of personality at once and thus
+provides a more comprehensive assessment of the respondent’s make-up. The
+MMPI, the most commonly used multi trait scale for diagnostic purpose. Self-
+report are objective in that people have minimal freedom in responding to test
+items and scoring procedures are not influenced by personal or theoretical bias.
+Potential problems inherent in self-report tests include deliberate deception(faking
+good or bad), social desirability bias, and response sets. Projective techniques,
+like inkblot tests and apperception tests, attempt to probe unconscious aspects of
+personality by having people project their feelings, needs, and values into their
+
+===== PAGE 15 =====
+68
+Assessment of Personality interpretation of ambiguous stimuli. Such tests have less likelihood of respondent
+deception and are sensitive to unconscious features of personality dynamics.
+Apperception tests have been modified for elderly group as well as for children.
+4.6 UNIT END QUESTIONS
+1) Discuss the relevance of MMPI-2 as a diagnostic tool.
+2) What are the modifications done on TA T?
+3) Give a comparative account of Rorschach with TA T.
+4) Discuss the Apperception concept and the related tests.
+5) What are the uses of Apperception Tests.
+6) What are the unique features of Children’s Apperception Test?
+4.7 GLOSSARY
+Millon Clinical Multiaxial Inventory : An objective test of personality
+specifically designed to assist
+psychologists in diagnosing various
+disorders.
+MMPI : A widely used objective test based on
+empirical keying.
+NEO Personality Inventory(NEO-PI) : An objective measure of personality
+designed to assess individual’s
+relative standing on each of the “big
+five” dimensions of personality.
+Rorschach Test : A widely used projective of
+personality in which individuals are
+asked to describe what they see in a
+series of inkblots.
+Thematic Apperception Test (TAT) : A psychological test used to assess
+individual differences in several
+different motives (e.g., achievement
+motivation, power motivation).
+4.8 SUGGESTED READINGS AND REFERENCES
+Butcher, J.N. (1984). Current developments in MMPI use: An international
+perspective .In J.N. Butcher & C. D. Speilberger (Eds.) Advances in personality
+assessment (vol.4).Hillsdale, NJ: Earlbaum.
+Butcher, J.N. & Keller, L.S.(1984).Objective personality assessment. In
+G .Goldstein & M.Hersen (eds.),Handbook of psychological assessment. New
+York: Pergamon Press.
+References
+Anastasi, A. (1968).Psychological testing. London: Macmillan Company.
+Baron, R.A. (2005).Psychology. Pearson Education, Delhi, India.
+
+===== PAGE 16 =====
+69
+Other Measures of
+Personality
+Ciccarelli, S.K.,& Meyer, G.E.(2009). Psychology. South Asian Edition. Pearson,
+New Delhi.
+Dahlstorm,W.G.,Welsh,G.S.& Dahlstorm,L.E.(1975).An MMPI handbook(vol.2).
+Research applications. Minneapolis:University of of Minnesota Press.
+Exner, J. E. (1993). The Rorschach: A comprehensive system: V ol. 1. Basic
+foundations (3
+rd. ed.). New York : Wiley.
+Gough, H.G . (1987). The California Psychological Inventory administrator’s
+guide. Palo Alto,CA: Consulting Psychological Press.
+Hathaway, S.R.& McKinley, J.C.(1943).Manual for the Minnesota Multiphase
+Personality Inventory. New York: The Psychological Corporation.
+Jackson, D. N. (1974).Jackson Personality Inventory Manual.Port Huron, MI:
+Research Psychologists Press.
+Kunce, J. T . & Anderson, W. P .(1984).Perspectives on uses of the MMPI in
+non-psychiatric settings . In P . McReynolds & G .J.Chelune (eds.), Advances in
+psychological assessment (vol. 6,pp. 41-76).San Francisco: Jossey-Bass.
+Morgan, C.D.,& Murray, H. A. (1935).A method for investigating fantasies: The
+thematic Apperception Test. Archives of Neurology and Psychiatry,34,289-306.
+Taylor, J. A. (1953).A personality scale of manifest anxiety. Journal of Abnormal
+and Social Psychology, 48, 285-290.
+Freeman, F.S.(1962). Theory and practice of psychological testing.New York:
+Holt, Rinehart and Winston (Indian Edition).
+Hjelle, L.A., Zieglar, D.J.(1992). Personality theories. Basic assumptions,
+research, and applications.3
+rd ed.McGraw Hill.
+Singh, A.K.(1997). Tests, measurements and research methods in behavioural
+sciences. Bharti Bhawan, Patna.

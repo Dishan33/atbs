@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Life Span Development — Revision Flashcards</title>
+<style>
+  :root {
+    --bg: #0f172a; --card-bg: #1e293b; --card-front: #1e293b; --card-back: #0f172b;
+    --accent: #3b82f6; --accent-light: #60a5fa; --text: #e2e8f0; --text-muted: #94a3b8;
+    --text-bright: #f8fafc; --border: #334155; --success: #22c55e; --tag-bg: #1e3a5f; --tag-text: #93c5fd;
+    --high: #ef4444; --high-bg: rgba(239,68,68,0.15); --med: #f59e0b; --med-bg: rgba(245,158,11,0.15);
+    --low: #22c55e; --low-bg: rgba(34,197,94,0.15);
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); min-height:100vh; }
+  .topbar { background: var(--card-bg); border-bottom: 1px solid var(--border); padding: 16px 24px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+  .topbar h1 { font-size: 1.25rem; color: var(--text-bright); font-weight: 700; }
+  .topbar h1 span { color: var(--accent-light); }
+  .topbar-right { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+  .theme-select { background: var(--bg); color: var(--text); border: 1px solid var(--border); padding: 8px 12px; border-radius: 8px; font-size: 0.875rem; cursor: pointer; }
+  .theme-select:focus { outline: none; border-color: var(--accent); }
+  .btn { background: var(--accent); color: #fff; border: none; padding: 8px 16px; border-radius: 8px; font-size: 0.875rem; cursor: pointer; font-weight: 600; transition: background 0.2s; }
+  .btn:hover { background: var(--accent-light); }
+  .btn-outline { background: transparent; border: 1px solid var(--border); color: var(--text); }
+  .btn-outline:hover { border-color: var(--accent); color: var(--accent-light); }
+  .btn-sm { padding: 6px 12px; font-size: 0.8rem; }
+  .progress-bar { height: 3px; background: var(--border); }
+  .progress-fill { height: 100%; background: linear-gradient(90deg, var(--accent), #a855f7); transition: width 0.3s ease; }
+  .main { max-width: 860px; margin: 0 auto; padding: 24px 16px; }
+  .counter { text-align: center; margin-bottom: 16px; font-size: 0.9rem; color: var(--text-muted); }
+  .counter strong { color: var(--accent-light); font-variant-numeric: tabular-nums; }
+  .card-container { perspective: 1200px; margin-bottom: 24px; }
+  .card { width: 100%; min-height: 440px; position: relative; cursor: pointer; transform-style: preserve-3d; transition: transform 0.6s cubic-bezier(0.4,0,0.2,1); }
+  .card.flipped { transform: rotateY(180deg); }
+  .card-face { position: absolute; inset: 0; backface-visibility: hidden; border-radius: 16px; padding: 32px; overflow-y: auto; border: 1px solid var(--border); }
+  .card-front { background: var(--card-front); }
+  .card-back { background: var(--card-back); transform: rotateY(180deg); border-color: var(--accent); }
+  .card-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-muted); margin-bottom: 8px; font-weight: 700; }
+  .card-label.back-label { color: var(--accent-light); }
+  .card-title { font-size: 1.15rem; font-weight: 700; color: var(--text-bright); margin-bottom: 12px; line-height: 1.4; }
+  .marks-badge { display: inline-block; padding: 3px 10px; border-radius: 6px; font-size: 0.78rem; font-weight: 700; margin-bottom: 12px; }
+  .marks-high { background: var(--high-bg); color: var(--high); }
+  .marks-med { background: var(--med-bg); color: var(--med); }
+  .marks-low { background: var(--low-bg); color: var(--low); }
+  .card-body { font-size: 0.925rem; line-height: 1.7; color: var(--text); }
+  .card-body p { margin-bottom: 10px; }
+  .card-body strong { color: var(--text-bright); }
+  .card-body em { color: var(--accent-light); font-style: normal; }
+  .card-body ul, .card-body ol { margin: 8px 0 10px 20px; }
+  .card-body li { margin-bottom: 4px; }
+  .card-body .key-terms { margin-top: 16px; padding-top: 12px; border-top: 1px solid var(--border); }
+  .card-body .key-terms-title { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--success); font-weight: 700; margin-bottom: 6px; }
+  .tag { display: inline-block; background: var(--tag-bg); color: var(--tag-text); padding: 2px 8px; border-radius: 4px; font-size: 0.78rem; margin: 2px; font-weight: 500; }
+  .hint { text-align: center; font-size: 0.75rem; color: var(--text-muted); margin-top: 8px; }
+  .nav-row { display: flex; justify-content: center; gap: 12px; margin-bottom: 20px; flex-wrap: wrap; }
+  .nav-row .btn { min-width: 100px; }
+  .shuffle-on { color: var(--success); font-size: 0.8rem; display: none; align-items: center; gap: 4px; }
+  .shuffle-on.active { display: inline-flex; }
+  .kbd-hints { text-align: center; color: var(--text-muted); font-size: 0.75rem; margin-top: 16px; }
+  kbd { display: inline-block; background: var(--bg); border: 1px solid var(--border); border-radius: 4px; padding: 1px 6px; font-size: 0.7rem; font-family: inherit; margin: 0 2px; }
+  @media (max-width: 600px) { .card-face { padding: 20px; } .card { min-height: 360px; } .topbar { padding: 12px 16px; } }
+</style>
+</head>
+<body>
+<div class="topbar">
+  <h1>📚 Life Span Development <span>Flashcards</span></h1>
+  <div class="topbar-right">
+    <select class="theme-select" id="themeFilter">
+      <option value="all">All Topics (29)</option>
+      <option value="foundations">Foundations of Lifespan Development</option>
+      <option value="prenatal">Prenatal & Physical Development</option>
+      <option value="cognitive">Cognitive Development</option>
+      <option value="social">Social-Emotional Development</option>
+      <option value="moral">Moral Development</option>
+      <option value="identity">Identity & Adolescence</option>
+      <option value="adulthood">Adulthood & Ageing</option>
+      <option value="special">Special Topics</option>
+    </select>
+    <button class="btn btn-outline btn-sm" id="shuffleBtn" onclick="toggleShuffle()">🔀 Shuffle</button>
+    <button class="btn btn-outline btn-sm" onclick="resetCard()">↻ Reset</button>
+  </div>
+</div>
+<div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+<div class="main">
+  <div class="counter">Card <strong id="currentNum">1</strong> of <strong id="totalNum">29</strong> <span class="shuffle-on" id="shuffleIndicator">🔀 shuffled</span></div>
+  <div class="card-container">
+    <div class="card" id="flashcard" onclick="flipCard()">
+      <div class="card-face card-front" id="cardFront"></div>
+      <div class="card-face card-back" id="cardBack"></div>
+    </div>
+  </div>
+  <div class="hint">Click card to flip</div>
+  <div class="nav-row">
+    <button class="btn btn-outline" onclick="prevCard()">← Prev</button>
+    <button class="btn" onclick="nextCard()">Next →</button>
+  </div>
+  <div class="kbd-hints"><kbd>←</kbd> Prev &nbsp; <kbd>→</kbd> Next &nbsp; <kbd>Space</kbd> Flip &nbsp; <kbd>S</kbd> Shuffle</div>
+</div>
+
+<script>
+const cards = [
+// === FOUNDATIONS ===
+{theme:"foundations",marks:10,title:"Issues, Areas & Approaches to Lifespan Development",
+front:"What are the major issues in lifespan development? What are Paul Baltes' characteristics? What are the four areas and four interactive forces of development?",
+back:`<p><strong>Three major issues:</strong></p><ol><li><strong>Continuity vs. Discontinuity</strong> — smooth accumulation vs. age-specific stages.</li><li><strong>Stability vs. Change</strong> — does a trait stay stable or change over time?</li><li><strong>Nature vs. Nurture</strong> — hereditary vs. environmental. Today: interaction of both.</li></ol>
+<p><strong>Paul Baltes' 11 characteristics:</strong> Lifelong · Multidimensional · Multidirectional · <strong>Plasticity</strong> · Contextual · Multidisciplinary · Growth/Maintenance/Regulation · Embedded in History · Normative age-graded · Normative history-graded · Non-normative events.</p>
+<p><strong>Four areas:</strong> Physical · Psychological/Cognitive · Social/Emotional · Sexuality/Gender identity.</p>
+<p><strong>Four forces:</strong> Biological · Psychological · Socio-cultural · Life cycle.</p>
+<p><strong>Stages (Tennant & Pogson, 1995):</strong> Childhood/adolescence (0–20) · Early adulthood (17–45) · Middle adulthood (40–65) · Late adulthood (60+).</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">continuity vs. discontinuity</span><span class="tag">stability vs. change</span><span class="tag">nature vs. nurture</span><span class="tag">Paul Baltes</span><span class="tag">plasticity</span><span class="tag">normative age/history-graded</span><span class="tag">non-normative events</span><span class="tag">Cephalocaudal Law</span><span class="tag">Proximodistal Law</span></div>`},
+
+{theme:"foundations",marks:3,title:"Research Methods in Lifespan Development",
+front:"What are the four research methods used in lifespan development? What are the obstacles in studying lifespan development?",
+back:`<p><strong>Four methods:</strong></p><ol><li><strong>Longitudinal:</strong> Same individual tested at different ages over time. E.g., classroom behaviour case study.</li><li><strong>Cross-sectional:</strong> Different ages tested at same time. Faster/cheaper; no dropout. E.g., eating behaviour of 5-year-olds.</li><li><strong>Sequential:</strong> Combines longitudinal + cross-sectional. "Best method." More realistic assessment.</li><li><strong>Time-lag:</strong> Different age groups studied in different years to determine historical effects. Rarely used.</li></ol>
+<p><strong>Five obstacles:</strong> (1) Representative sample — hard to get newborns/infants. (2) Establishing rapport — subjects may give false info. (3) Appropriate methodology — wide age range requires assorted methods. (4) Accuracy of data. (5) Ethical aspects — consent of parents/guardians for children.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">longitudinal</span><span class="tag">cross-sectional</span><span class="tag">sequential (best method)</span><span class="tag">time-lag</span><span class="tag">cohort effects</span><span class="tag">ethical aspects</span></div>`},
+
+// === PRENATAL & PHYSICAL ===
+{theme:"prenatal",marks:10,title:"Prenatal Development — Characteristics, Periods & Environmental Influences",
+front:"Describe the three periods of prenatal development. What are the key environmental influences on the developing embryo/fetus?",
+back:`<p><strong>Definition:</strong> "Process in which an embryo or fetus gestates during pregnancy, from fertilisation until birth." ~270–280 days. Weight increases 11 million times.</p>
+<p><strong>Three periods:</strong></p><ol><li><strong>Period of Zygote</strong> (fertilisation → end of 2nd week): Sperm + egg = zygote (46 chromosomes). Divides into two cells < 2 days.</li><li><strong>Period of Embryo</strong> (end 2nd week → end 2nd lunar month): Tissue differentiation. <strong>Critical period</strong> — most susceptible to teratogens. Week 3: heart begins. Week 8: resembles human.</li><li><strong>Period of Fetus</strong> (end 2nd month → birth): Weeks 9–12: eyelids close, genitalia clear. Weeks 13–16: lanugo, brain waves. Weeks 21–24: footprints/fingerprints, quickening. Weeks 25–28: may survive premature birth. Week 38: full term (7–8 lbs).</li></ol>
+<p><strong>Environmental influences:</strong> Mother's diseases (rubella) · Drugs/alcohol (Fetal Alcohol Syndrome) · Radiation · Age of mother (>35 risk) · Nutrition (1st trimester most critical) · Stress (hormones cross placenta) · Rh incompatibility (erythroblastosis).</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">zygote/embryo/fetus</span><span class="tag">tissue differentiation</span><span class="tag">teratogens</span><span class="tag">critical period</span><span class="tag">lanugo</span><span class="tag">vernix caseosa</span><span class="tag">quickening</span><span class="tag">erythroblastosis</span><span class="tag">Rh factor</span><span class="tag">Fetal Alcohol Syndrome</span></div>`},
+
+{theme:"prenatal",marks:6,title:"Motor Development — Gross & Fine Motor Skills",
+front:"Distinguish between gross and fine motor skills. What is the sensitive period? Why is childhood ideal for learning motor skills? What are the six basic motor behaviours?",
+back:`<p><strong>Gross motor:</strong> Large muscles (arms, legs, back). Running, balancing, skipping, climbing. Learnt <strong>before</strong> fine motor.</p>
+<p><strong>Fine motor:</strong> Small muscles (fingers, toes). Writing, drawing, dressing, sewing, playing instruments.</p>
+<p><strong>Sensitive period:</strong> Time when a specific activity can be learnt most effectively. Children should not be forced to write before 4.5–5.5 years (immature fine muscles can get damaged).</p>
+<p><strong>Why childhood is ideal (Hurlock):</strong> (1) Bodies more pliable. (2) Fewer conflicting learned skills. (3) More adventurous. (4) Enjoy repetition. (5) More time for mastery.</p>
+<p><strong>Six basic motor behaviours:</strong> Running · Jumping · Sequencing foot movements · Balancing · Throwing · Catching.</p>
+<p><strong>Laws:</strong> Cephalocaudal (head → foot) · Proximodistal (centre → extremities).</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">gross vs. fine motor</span><span class="tag">sensitive period</span><span class="tag">Cephalocaudal Law</span><span class="tag">Proximodistal Law</span><span class="tag">maturation</span><span class="tag">handedness</span><span class="tag">eye-hand coordination</span><span class="tag">secular trend</span></div>`},
+
+{theme:"prenatal",marks:3,title:"Factors Influencing Height and Weight in Early Childhood",
+front:"What seven factors cause variations in body size in children? What are the key growth data points?",
+back:`<p><strong>Seven factors (Hurlock, 1978):</strong></p><ol><li><strong>Family influences:</strong> Hereditary + environmental. Environment has greater influence on weight than height.</li><li><strong>Nutrition:</strong> Well-nourished = taller, reach puberty sooner.</li><li><strong>Emotional disturbances:</strong> Overproduction of adrenal steroids → inhibit growth hormone → delay growth spurt.</li><li><strong>Socio-economic status:</strong> Low SES = smaller children.</li><li><strong>Health:</strong> Good health = taller.</li><li><strong>Endocrine functioning:</strong> Deficiency → dwarfism; excess → giantism.</li><li><strong>Sex:</strong> Girls slightly heavier; puberty growth spurt earlier.</li></ol>
+<p><strong>Growth data:</strong> 2–2.5 inches + 3–6 lbs/year (ages 6–12). 6-year-old: ~3.5 ft, ~40 lbs. 12-year-old: ~5 ft, ~80 lbs. Body types: endomorphic, mesomorphic, ectomorphic.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">hereditary potential</span><span class="tag">adrenal steroids</span><span class="tag">growth hormone</span><span class="tag">dwarfism</span><span class="tag">giantism</span><span class="tag">endomorphic/mesomorphic/ectomorphic</span><span class="tag">secular trend</span></div>`},
+
+// === COGNITIVE ===
+{theme:"cognitive",marks:10,title:"Piaget's Theory of Cognitive Development",
+front:"Describe Piaget's four stages of cognitive development. What are assimilation, accommodation, schemas, and egocentrism? What are the educational implications?",
+back:`<p><strong>Piaget (1896–1980):</strong> "Most influential developmental psychologist of the twentieth century." Cognitive development at the centre of human organism; language contingent on it.</p>
+<p><strong>Four stages:</strong></p><ol><li><strong>Sensorimotor</strong> (Birth–2): Motor activity, no symbols. Object permanence at ~7 months. Six sub-stages.</li><li><strong>Pre-operational</strong> (2–7): Symbols, language, memory. Non-logical, non-reversible. Egocentrism. Symbolic reasoning (2–4), intuitive thought (4–7).</li><li><strong>Concrete operational</strong> (7–11): Logic about concrete events. Conservation (number 6–7, mass/length 7–8, weight 9–10, volume 14–15). Decentration. Horizontal décalage. Identity, reversibility, reciprocity.</li><li><strong>Formal operational</strong> (11–15): Abstract, hypothetical, multidimensional, relative thinking. Only 35% of high school graduates achieve it.</li></ol>
+<p><strong>Key concepts:</strong> <strong>Schemas</strong> (basic unit of knowledge) → become <strong>structures</strong> (complex behaviours). <strong>Assimilation</strong> (using environment to fit existing structures). <strong>Accommodation</strong> (changing structures to fit environment). <strong>Egocentrism</strong> (difficulty accepting others' views).</p>
+<p><strong>Educational implications:</strong> Discovery learning; challenge abilities; use manipulatives, group work, field trips.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">schemas/structures</span><span class="tag">assimilation/accommodation</span><span class="tag">egocentrism</span><span class="tag">conservation</span><span class="tag">decentration</span><span class="tag">horizontal décalage</span><span class="tag">reversibility</span><span class="tag">object permanence</span><span class="tag">formal operations</span><span class="tag">imaginary audience</span></div>`},
+
+{theme:"cognitive",marks:3,title:"Sensori-Motor Stage in Cognitive Development",
+front:"What are the six sub-stages of Piaget's sensorimotor stage? What is object permanence?",
+back:`<p><strong>Sensorimotor stage (Birth–2 years):</strong> "The infant uses senses and motor abilities to understand the world, beginning with reflexes and ending with complex combinations of sensory motor skills."</p>
+<p><strong>Six sub-stages:</strong></p><ol><li><strong>Reflexes</strong> (0–1 month): Inborn reflexes (sucking, looking).</li><li><strong>Primary Circular Reactions</strong> (1–4 months): Repeats own action as stimulus → same action.</li><li><strong>Secondary Circular Reactions</strong> (4–8 months): Intentionally repeats action to trigger environmental response.</li><li><strong>Coordination of Secondary Reactions</strong> (8–12 months): Goal-directed; focuses on desired object.</li><li><strong>Tertiary Circular Reactions</strong> (12–24 months): Trial-and-error experimentation.</li><li><strong>Early Representational Thought:</strong> Symbols to represent events/objects.</li></ol>
+<p><strong>Object permanence:</strong> Acquired at ~7 months. Understanding that objects continue to exist when not visible.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">six sub-stages</span><span class="tag">object permanence</span><span class="tag">primary/secondary/tertiary circular reactions</span><span class="tag">representational thought</span><span class="tag">reflexes</span><span class="tag">trial-and-error</span></div>`},
+
+{theme:"cognitive",marks:10,title:"Information Processing Approach in Cognitive Development",
+front:"Describe the information processing approach. What are the four main beliefs? What are encoding, strategy construction, automatisation, and generalisation?",
+back:`<p><strong>Information processing</strong> = analysis of how a human being learns something new. Associated with high-speed computers in the <strong>1950s</strong>. <strong>Herbert Simon</strong> demonstrated computers could simulate human intelligence. Ended dominance of <strong>behaviourism</strong>.</p>
+<p><strong>Model:</strong> Sensory register → Working memory (7 items) → Long-term memory. Retrieval moves info back from LTM to WM. Hardware = sensory perceptors; Software = mindset/rules/strategies.</p>
+<p><strong>Four main beliefs:</strong></p><ol><li><strong>Thinking defined:</strong> Perceiving, encoding, representing, storing, retrieving information.</li><li><strong>Four critical mechanisms:</strong> <strong>Encoding</strong> (identifying relevant info), <strong>Strategy construction</strong> (inventing new strategies), <strong>Automatisation</strong> (performing with little conscious effort), <strong>Generalisation</strong> (applying strategies to new situations).</li><li><strong>Self-modification:</strong> Children play active role; use earlier knowledge to modify responses to new problems.</li><li><strong>Task analysis:</strong> Nature of task itself constrains child's performance, not just developmental level.</li></ol>
+<p><strong>Components (from Block 2):</strong> Attention (interest = high getter) · Perception (Embedded Figures Test, Witkin 1971) · Memory (rehearsal, elaboration, <strong>metamemory</strong>) · Problem-solving.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">Herbert Simon</span><span class="tag">sensory register</span><span class="tag">working memory</span><span class="tag">long-term memory</span><span class="tag">encoding</span><span class="tag">strategy construction</span><span class="tag">automatisation</span><span class="tag">generalisation</span><span class="tag">self-modification</span><span class="tag">metamemory</span><span class="tag">Embedded Figures Test</span></div>`},
+
+{theme:"cognitive",marks:6,title:"Language Development",
+front:"What are the four components of language development? What are the key milestones? What is fast mapping and the vocabulary spurt?",
+back:`<p><strong>Four components:</strong></p><ol><li><strong>Phonology:</strong> Rules for speech sounds. Cooing (~2 mo), babbling (~4 mo), simplification strategies ('TV' → 'didi').</li><li><strong>Semantics:</strong> Vocabulary and concepts. Comprehension before production (5-month lag). <strong>Vocabulary spurt</strong> (18–24 mo). <strong>Fast mapping</strong> — learning new things quickly. Under/over-extensions. Coining words ('cooker' for 'chef').</li><li><strong>Grammar:</strong> Syntax (word arrangement) + Morphology (grammatic markers). <strong>Telegraphic speech</strong> (1–2 years).</li><li><strong>Pragmatics:</strong> Rules for appropriate/effective communication. Turn-taking, topic maintenance, audience awareness.</li></ol>
+<p><strong>Milestones:</strong> 4–8 mo: babbling 'baba/dada'. 12 mo: first words (mommy, dog). 18 mo: two-word combos. 3–5 yr: 300–1000 words. 5 yr: ~1500 words. 6 yr: master f/v/sh/zh/th. 7 yr: master s-z/r/ch/wh.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">phonology/semantics/grammar/pragmatics</span><span class="tag">babbling/cooing/telegraphic speech</span><span class="tag">fast mapping</span><span class="tag">vocabulary spurt</span><span class="tag">over-extension/under-extension</span><span class="tag">comprehension before production</span></div>`},
+
+{theme:"cognitive",marks:3,title:"Learning to Write as a Basic School Skill",
+front:"How does writing develop in school-age children? What are the key milestones and factors?",
+back:`<p>From 6–11 years, handwriting gradually improves (better and faster). Fine motor skills influence ability to write neatly.</p>
+<p><strong>Milestones:</strong> Children can perform progressively neater and smaller tasks. They can sew, knit, draw in minute detail. Girls continue to have greater hand and finger dexterity than boys.</p>
+<p><strong>Eye-hand coordination:</strong> Improves substantially. By age 8, better able to plan a movement. By age 10, increase in control of speed and direction of grasp (Bairstow, 1989).</p>
+<p><strong>Factors:</strong> Maturation of fine muscles (not before 4.5–5.5 years) · Sensitive period · Body pliability · Practice and repetition.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">fine motor skills</span><span class="tag">eye-hand coordination</span><span class="tag">sensitive period</span><span class="tag">handedness</span><span class="tag">dexterity</span></div>`},
+
+{theme:"cognitive",marks:3,title:"Grammar and Semantics",
+front:"How do grammar and semantics develop in school-age children? What is the relationship between language difficulties and behaviour?",
+back:`<p><strong>Ages 6–12:</strong> Continue expanding reading, improving understanding of words and word meanings. Children trained to see word relationships develop more extensive vocabularies.</p>
+<p><strong>Grammar:</strong> Children refine understanding of language structure and how words are organised into sentences. 6–7-year-olds confused by irrelevant information, complex constructions, and implied meaning.</p>
+<p><strong>Communication effectiveness:</strong> Develops with cognitive/overall development. Asking others to clear confusion, persuading, showing sensitivity to listener's needs. Enhanced vocabulary adds to effective communication.</p>
+<p><strong>Key finding:</strong> Children who have language difficulties are more likely to exhibit aggressive behaviour (Burke et al., 1989). Need to express themselves; if not verbally, then physically.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">grammar/syntax/morphology</span><span class="tag">semantics/vocabulary</span><span class="tag">communication effectiveness</span><span class="tag">language difficulties and aggression</span></div>`},
+
+// === MORAL ===
+{theme:"moral",marks:10,title:"Kohlberg's Theory of Moral Development",
+front:"Describe Kohlberg's three levels and six stages of moral development. What is the Heinz dilemma? How does Piaget's moral development differ from Kohlberg's?",
+back:`<p><strong>Kohlberg</strong> refined Piaget and Baldwin (1894). Studied moral development using <strong>moral dilemmas</strong>. Analysed <strong>reasons</strong> for answers, not the answers themselves.</p>
+<p><strong>Heinz dilemma:</strong> Should Heinz steal medicine to save his dying wife?</p>
+<p><strong>Three levels, six stages:</strong></p><ol><li><strong>Preconventional:</strong> Stage 1: Punishment-obedience orientation. Stage 2: Instrumental-exchange orientation.</li><li><strong>Conventional:</strong> Stage 3: Good-boy-nice-girl orientation. Stage 4: System-maintaining orientation (law and order).</li><li><strong>Postconventional:</strong> Stage 5: Social-contract orientation. Stage 6: Universal ethical principles.</li></ol>
+<p><strong>Piaget's moral development:</strong></p><ul><li><strong>Heteronomous morality / moral realism</strong> (6–7): Rules absolute, imposed by authority. <strong>Imminent justice</strong>, <strong>objective consequences</strong>, <strong>absolutism</strong>.</li><li><strong>Autonomous morality / cooperation</strong> (~10): Rules arbitrary; motives and situations considered.</li></ul>
+<p><strong>Moral behaviour:</strong> Hartshorne & May (1928–30): 10,000 children — rigid moral standards don't guarantee ethical behaviour.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">Heinz dilemma</span><span class="tag">preconventional/conventional/postconventional</span><span class="tag">punishment-obedience</span><span class="tag">instrumental-exchange</span><span class="tag">good-boy-nice-girl</span><span class="tag">system-maintaining</span><span class="tag">social-contract</span><span class="tag">universal ethical principles</span><span class="tag">heteronomous/autonomous morality</span><span class="tag">imminent justice</span></div>`},
+
+// === SOCIAL-EMOTIONAL ===
+{theme:"social",marks:3,title:"Attachment Patterns",
+front:"What is attachment? Describe the three attachment patterns in adulthood (secure, avoidant, resistant). What is the internal working model?",
+back:`<p><strong>Attachment</strong> (Ainsworth et al., 1978): emotionally toned relationship leading infant to seek mother's presence and comfort. Indiscriminate attachment in early weeks.</p>
+<p><strong>Internal working model:</strong> Early attachment patterns predict quality of later romantic relationships. Set up expectations about love figures.</p>
+<p><strong>Three patterns (adult romantic attachment):</strong></p><ol><li><strong>Secure:</strong> View themselves as likable, open, comfortable with intimacy. Few fears of abandonment. Trusting, happy relationships.</li><li><strong>Avoidant:</strong> History of demanding/critical parents. Heavy on independence, mistrusting. Jealousy, emotional distance, little enjoyment of physical contact. May become workaholics.</li><li><strong>Resistant (anxious-ambivalent):</strong> Unpredictable parents. Fears of abandonment and smothering. Extreme highs and lows. Poor boundaries.</li></ol>
+<p><strong>Healing:</strong> Healthy relationships can help overcome deficits from troubled backgrounds.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">Ainsworth (1978)</span><span class="tag">internal working model</span><span class="tag">secure attachment</span><span class="tag">avoidant attachment</span><span class="tag">resistant/anxious-ambivalent</span><span class="tag">separation anxiety</span></div>`},
+
+{theme:"social",marks:3,title:"Common Emotional Patterns in Childhood",
+front:"What are the common emotional patterns in childhood? How do fear, anxiety, anger, and joy develop? What is emotional tolerance?",
+back:`<p><strong>Patterns affected by:</strong> health, intellectual level, environment, social reactions.</p>
+<p><strong>Fear:</strong> Shift from typical to general fears (dark, death, supernatural, failing, ridicule). Expressed through motor discharge, withdrawal, imaginary ills. <strong>Shyness:</strong> blushing, stuttering, nervous mannerisms.</p>
+<p><strong>Anxiety:</strong> Develops later than fear (requires imagination). Increases 4th–6th grade. Expressed as depression, irritability, mood swings.</p>
+<p><strong>Anger:</strong> More frequent than fear. Aroused by thwarting desires, teasing, faultfinding. <strong>Impulsive responses</strong> (aggressive, tantrums) vs. <strong>Inhibited responses</strong> (withdrawal, sulking).</p>
+<p><strong>Curiosity:</strong> Instinctive foundation of intellectual life. "Questioning age" replaced by reading.</p>
+<p><strong>Joy:</strong> Success (academic, sports) is most pleasant. Predominance of pleasant emotions essential for normal development.</p>
+<p><strong>Emotional tolerance:</strong> Ability to accept and adjust to unpleasant experiences. Essential for emotional balance.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">fear/anxiety/anger/curiosity/joy</span><span class="tag">impulsive vs. inhibited responses</span><span class="tag">emotional tolerance</span><span class="tag">questioning age</span><span class="tag">shyness</span></div>`},
+
+{theme:"social",marks:10,title:"Social Development — Role of Parents, Siblings & Peers",
+front:"What role do parents, siblings, and peers play in children's social development? What is the peer group? How does gender segregation develop?",
+back:`<p><strong>Parents:</strong> Role changes to consultants. Mothers preferred companions; fathers encourage independence. Children with household responsibilities behave more maturely (Baumrind, 1971). Controls make children feel secure. Values more resistant to change when children know reasons.</p>
+<p><strong>Siblings:</strong> Teach and help each other. Practice social skills. Younger emulate older. Particularly significant during middle childhood.</p>
+<blockquote><strong>Peer group</strong> = group of equals. Same-age, same-sex children assemble into informal groups.</blockquote>
+<p><strong>Peer group development:</strong></p><ul><li><strong>6–9 years:</strong> Small, loosely organised groups. <strong>Gender segregation</strong> — children play almost exclusively with same-sex peers. Boys' groups larger, more competitive; girls' groups smaller, more intimate.</li><li><strong>9–12 years:</strong> Larger, more structured groups. <strong>Crowds</strong> (large groups based on reputation) and <strong>cliques</strong> (small friendship groups).</li></ul>
+<p><strong>Conformity:</strong> Peak conformity to peers around <strong>grades 8–9</strong>. Susceptibility to peer pressure varies by age, context, domain.</p>
+<p><strong>Popularity:</strong> Sociable, cooperative, assertive but not aggressive. <strong>Rejected children</strong> — aggressive or withdrawn. <strong>Neglected children</strong> — neither liked nor disliked.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">peer group</span><span class="tag">gender segregation</span><span class="tag">crowds/cliques</span><span class="tag">conformity</span><span class="tag">popularity</span><span class="tag">rejected/neglected children</span><span class="tag">Baumrind (1971)</span></div>`},
+
+// === IDENTITY & ADOLESCENCE ===
+{theme:"identity",marks:10,title:"Identity Crisis & Marcia's Identity Statuses",
+front:"What is Erikson's concept of identity crisis? What are Marcia's four identity statuses? How do crisis and commitment define each status?",
+back:`<p><strong>Erikson — Identity vs. Role Confusion:</strong> Adolescents struggle between feelings of identity vs. role confusion. Must try on a variety of roles, test extremes before settling.</p>
+<p><strong>Identity crisis</strong> (coined by Erikson): "A time of intensive analysis and exploration of different ways of looking at oneself." Loss of personal sameness and historical continuity.</p>
+<p><strong>James Marcia (1966, 1976, 1980)</strong> expanded Erikson's theory. Identity = structure of beliefs, abilities, and past experiences regarding the self. Adopted by: (1) sexual orientation, (2) values/ideals, (3) vocational direction.</p>
+<p><strong>Four identity statuses</strong> (defined by crisis/exploration × commitment):</p>
+<table style="width:100%;border-collapse:collapse;font-size:0.85rem;margin:8px 0"><tr style="background:#1e3a5f;color:#fff"><th style="padding:4px 8px;border:1px solid #334155">Status</th><th style="padding:4px 8px;border:1px solid #334155">Crisis?</th><th style="padding:4px 8px;border:1px solid #334155">Commitment?</th><th style="padding:4px 8px;border:1px solid #334155">Description</th></tr><tr><td style="padding:4px 8px;border:1px solid #334155"><strong>Foreclosure</strong></td><td style="padding:4px 8px;border:1px solid #334155">No</td><td style="padding:4px 8px;border:1px solid #334155">Yes</td><td style="padding:4px 8px;border:1px solid #334155">Conformed to others' expectations; no exploration.</td></tr><tr><td style="padding:4px 8px;border:1px solid #334155"><strong>Diffusion</strong></td><td style="padding:4px 8px;border:1px solid #334155">±</td><td style="padding:4px 8px;border:1px solid #334155">No</td><td style="padding:4px 8px;border:1px solid #334155">Given up on making commitments.</td></tr><tr><td style="padding:4px 8px;border:1px solid #334155"><strong>Moratorium</strong></td><td style="padding:4px 8px;border:1px solid #334155">Yes</td><td style="padding:4px 8px;border:1px solid #334155">Not yet</td><td style="padding:4px 8px;border:1px solid #334155">Actively exploring; moving toward identity.</td></tr><tr><td style="padding:4px 8px;border:1px solid #334155"><strong>Achievement</strong></td><td style="padding:4px 8px;border:1px solid #334155">Yes</td><td style="padding:4px 8px;border:1px solid #334155">Yes</td><td style="padding:4px 8px;border:1px solid #334155">Experienced crisis and made commitments.</td></tr></table>
+<p><strong>Important:</strong> These are NOT stages — not sequential or linear. <strong>Lifespan construct:</strong> Identity achievement serves as basis for adult expectations/goals.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">Erikson</span><span class="tag">identity vs. role confusion</span><span class="tag">identity crisis</span><span class="tag">James Marcia (1966)</span><span class="tag">foreclosure</span><span class="tag">diffusion</span><span class="tag">moratorium</span><span class="tag">achievement</span><span class="tag">crisis × commitment</span><span class="tag">lifespan construct</span></div>`},
+
+{theme:"identity",marks:10,title:"Adolescence — Challenges, Identity & Cognitive Development",
+front:"What are the three stages of adolescence? What are the key challenges? What cognitive changes occur during adolescence?",
+back:`<p><strong>Adolescence (12–19 years):</strong> Transition from child to adult. Biological, psychological, and social changes.</p>
+<p><strong>Three stages:</strong></p><ol><li><strong>Early (12–14):</strong> Contradictory phase. Drastic physical changes. Search for identity. Cognitively: begin formal logical operations; question authority.</li><li><strong>Middle (14–17):</strong> On the road to transformation. Concerned about appearance. Friends pivotal. Developing identity ("Who am I?"). Cognitively: analyse extensively; form own code of ethics.</li><li><strong>Late (17–19):</strong> Firm identity, stable interests. Greater emotional stability. Cognitively: think about global concepts (justice, history, politics); develop idealistic views; debate and show intolerance to opposing views.</li></ol>
+<p><strong>Challenges:</strong> Yearn for independent identity separate from parents. Challenge parents' rules and values. Turn to peer groups for belonging.</p>
+<p><strong>Cognitive development:</strong> Formal operations — abstract thinking, reasoning from known principles, considering multiple points of view, thinking about thinking. <strong>Adolescent egocentrism</strong> (Elkind, 1967): imaginary audience, self-consciousness.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">early/middle/late adolescence</span><span class="tag">formal operations</span><span class="tag">abstract thinking</span><span class="tag">metacognition</span><span class="tag">adolescent egocentrism</span><span class="tag">imaginary audience</span><span class="tag">identity vs. role confusion</span><span class="tag">Elkind (1967)</span></div>`},
+
+{theme:"identity",marks:6,title:"Sexuality During Adolescence",
+front:"What is puberty? What are the hormonal mechanisms? What are the key sexual developments in males and females?",
+back:`<p><strong>Puberty:</strong> "Stage of life during which you become biologically and sexually mature." 1–3 year process. Girls enter ~1 year earlier than boys.</p>
+<p><strong>Hormonal mechanism:</strong> Pituitary gland → hormones → reproductive organs. Key hormones: <strong>Testosterone</strong> (males), <strong>Estrogen</strong> (females), <strong>FSH</strong> (follicle-stimulating hormone).</p>
+<p><strong>Males:</strong> Testicle enlargement (first change) → penis enlargement → pubic hair (~13.5 yr) → <strong>nocturnal emissions/wet dreams</strong> (~14 yr) → sperm production → ejaculation.</p>
+<p><strong>Females:</strong> Breast development (first change) → pubic hair → <strong>menstruation/menarche</strong> (10–16.5 yr). Ovaries contain egg cells; at puberty, alternate release monthly. Estrogen produced. Uterus (womb) where baby grows. Fallopian tubes. Vagina. Hymen.</p>
+<p><strong>Key concerns:</strong> Pregnancy, STDs, inappropriate behaviours. Need individualized sexuality assessment and sex education.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">puberty</span><span class="tag">testosterone/estrogen/FSH</span><span class="tag">pituitary gland</span><span class="tag">menarche</span><span class="tag">spermarche</span><span class="tag">nocturnal emissions</span><span class="tag">secondary sexual characteristics</span><span class="tag">ejaculation</span></div>`},
+
+{theme:"identity",marks:6,title:"Self-Esteem & Self-Concept During Adolescence",
+front:"What is self-concept? What is self-esteem? How do they differ? What causes low self-esteem in adolescence? What is the imaginary audience?",
+back:`<p><strong>Self-concept:</strong> Accumulation of knowledge about the self (personality traits, physical characteristics, abilities, values, goals, roles). In adolescence, becomes more abstract, complex, hierarchically organised into <strong>self-schemas</strong>.</p>
+<p><strong>Three categories:</strong> (1) Personal self-concept (own opinions). (2) Social self-concept (how others perceive you). (3) Self-ideals (what you want to be).</p>
+<p><strong>Self-esteem vs. self-concept:</strong> Self-concept = perceptions of competence across domains. Self-esteem = overall evaluation, feelings of happiness/satisfaction.</p>
+<p><strong>Self-concept is a consequence, not cause, of high achievement.</strong></p>
+<p><strong>Signs of negative self-concept:</strong> Poor school performance, few friends, putting down self/others, rejecting compliments, excessive anger/jealousy, hesitating to try new things.</p>
+<p><strong>Causes of low self-esteem:</strong> Hereditary (introverted parents) · Living conditions · Lack of education · Physiological (puberty changes) · Societal restrictions · Fear about future · Physical ailments.</p>
+<p><strong>Imaginary audience</strong> (Elkind, 1967): Adolescents consider that people around them, especially peers, observe and comment on their activities. Extremely self-conscious.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">self-concept</span><span class="tag">self-esteem</span><span class="tag">self-schemas</span><span class="tag">personal/social/ideal self-concept</span><span class="tag">imaginary audience</span><span class="tag">Elkind (1967)</span></div>`},
+
+// === ADULTHOOD & AGEING ===
+{theme:"adulthood",marks:10,title:"Middle Adulthood — Psychosocial Issues, Developmental Tasks & Cognitive Changes",
+front:"What is Erikson's generativity vs. stagnation? What are Levinson's four developmental tasks? What are crystallized and fluid intelligence?",
+back:`<p><strong>Age 40–60.</strong> <strong>Midlife crisis:</strong> Reevaluation of beliefs/values. Not everyone experiences it.</p>
+<p><strong>Erikson — Generativity vs. Stagnation:</strong> Generativity = desire to expand influence and commitment to family, society, future generations. Includes mentoring, volunteering, parenting. Stagnation = self-absorption.</p>
+<p><strong>Levinson's Seasons of Life:</strong> Transition (40–45) → Life structure (45–50) → Re-evaluated (50–55) → Culminating (55–60).</p>
+<p><strong>Four developmental tasks (Levinson):</strong></p><ol><li><strong>Young-Old:</strong> Giving up youthful qualities, finding positive meaning in ageing.</li><li><strong>Destruction-Creation:</strong> Re-evaluating past hurtful acts; making amends.</li><li><strong>Masculinity-Femininity:</strong> Integrating masculine/feminine aspects (men more empathic; women more assertive).</li><li><strong>Engagement-Separateness:</strong> Balancing outer engagement with interior needs.</li></ol>
+<p><strong>Intelligence:</strong> <strong>Crystallized</strong> (Horn & Hofer, 1992) — verbal reasoning, vocabulary, accumulated knowledge — improves through middle age. <strong>Fluid</strong> — flexible reasoning, abstract thinking, speed — peaks early adulthood, then declines.</p>
+<p><strong>Marital satisfaction:</strong> U-curve (happiest early, dips midlife, rises again). <strong>Feminisation of poverty.</strong></p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">generativity vs. stagnation</span><span class="tag">midlife crisis</span><span class="tag">Levinson</span><span class="tag">four developmental tasks</span><span class="tag">crystallized vs. fluid intelligence</span><span class="tag">U-curve marital satisfaction</span><span class="tag">possible selves</span><span class="tag">androgyny</span></div>`},
+
+{theme:"adulthood",marks:10,title:"Cognitive Changes During Adulthood (Early & Middle)",
+front:"What are Schaie's stages? What is Perry's reflective/relativistic thinking? What is post-formal thought? How does intelligence change across adulthood?",
+back:`<p><strong>Early adulthood:</strong></p><ul><li><strong>Schaie's stages:</strong> <strong>Achieving stage</strong> — applying intelligence to long-term goals (careers). <strong>Responsibility stage</strong> — family, career, community responsibilities.</li><li><strong>Perry's reflective/relativistic thinking:</strong> Dualistic (adolescent) → Multiple thinking (diversity of opinion) → Relative subordinate thinking (logical evaluation) → Full relativism (truth is relative, constructed).</li><li><strong>Post-formal thought:</strong> Correct answer may vary by situation; search for truth ongoing; emotion and subjective factors influence thinking.</li><li><strong>Labouvie-Vief:</strong> Idealised logic replaced with commitment.</li></ul>
+<p><strong>Middle adulthood intelligence:</strong> <strong>Multidirectional</strong> — gains in some areas, losses in others. Cross-sectional shows decreases (cohort effects). Longitudinal shows increases until 50s.</p>
+<p><strong>Sternberg's triarchic:</strong> Analytic (efficient learning) · Creative (flexibility, expertise) · Practical (adapting to context).</p>
+<p><strong>Memory:</strong> Speed of processing, reaction time, memory decline. Effective strategies can decrease decline.</p>
+<p><strong>Religion/meaning:</strong> Significant increase in religiosity. Victor Frankl: examining finiteness leads to meaning.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">Schaie's achieving/responsibility stages</span><span class="tag">Perry's relativistic thinking</span><span class="tag">post-formal thought</span><span class="tag">multidirectional development</span><span class="tag">crystallized vs. fluid intelligence</span><span class="tag">Sternberg's triarchic</span><span class="tag">cohort effects</span></div>`},
+
+{theme:"adulthood",marks:6,title:"Psychosocial Changes — Early Adulthood, Infancy & Old Age",
+front:"Describe Erikson's intimacy vs. isolation. What are Levinson's life structure and social clock? What is Sternberg's Triangular Theory of Love? What are Peck's three tasks of ego integrity?",
+back:`<p><strong>Early adulthood — Erikson: Intimacy vs. Isolation.</strong> Intimacy requires redefining identity to include another. Successful → generativity.</p>
+<p><strong>Levinson's life structure:</strong> Underlying design of a person's life. Begins with transition (~5 years), followed by stable period (5–7 years). <strong>Dream:</strong> Image of self in adult world. <strong>Social clock:</strong> Age-graded expectations (first job, marriage, children).</p>
+<p><strong>Sternberg's Triangular Theory of Love:</strong> Three components: <strong>Intimacy</strong> (warmth) · <strong>Passion</strong> (arousal) · <strong>Commitment</strong>. Passionate love (beginnings) → Companionate love (intimacy + commitment).</p>
+<p><strong>Old age — Erikson: Ego Integrity vs. Despair.</strong> Integrity = feeling whole, satisfied with life. Despair = bitterness, anxiety about death.</p>
+<p><strong>Peck's three tasks:</strong> (1) Ego differentiation vs. work-role preoccupation (self-worth beyond career). (2) Body transcendence vs. body preoccupation (finding value beyond physical). (3) Ego transcendence vs. ego preoccupation (facing reality of death constructively).</p>
+<p><strong>Labouvie-Vief:</strong> Elders more in touch with feelings; better emotional self-regulation.</p>
+<p><strong>Reminiscence vs. life review.</strong> <strong>Social convoy.</strong></p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">intimacy vs. isolation</span><span class="tag">life structure</span><span class="tag">social clock</span><span class="tag">Sternberg's Triangular Theory</span><span class="tag">companionate vs. passionate love</span><span class="tag">ego integrity vs. despair</span><span class="tag">Peck's three tasks</span><span class="tag">social convoy</span></div>`},
+
+{theme:"adulthood",marks:6,title:"Family Life Approach During Adulthood",
+front:"What are the key family life issues during adulthood? What is the 'launching children' concept? What is the U-curve of marital satisfaction? What is the feminisation of poverty?",
+back:`<p><strong>Launching children / empty nest:</strong> No longer seen negatively. Households well off economically. Adults 45–54 have highest annual income.</p>
+<p><strong>Marital satisfaction (U-curve):</strong> Happiest early in marriage, dips during midlife (child-rearing pressures), rises again later.</p>
+<p><strong>Feminisation of poverty:</strong> Women who support themselves or families have become majority of adult poverty population.</p>
+<p><strong>Grandparenthood meanings:</strong> Valued elder · Immortality through descendants · Reinvolvement with personal past · Indulgence.</p>
+<p><strong>Siblings:</strong> Declining contact in midlife, but increases during life events. Sister relationships closer than brother relationships.</p>
+<p><strong>Friends:</strong> More selective; quality over quantity. Women have more close friends and more emotional support than men.</p>
+<p><strong>Gender identity shifts:</strong> Women adopt more masculine traits (assertiveness); men become more sensitive, caring. People become more <strong>androgynous</strong>.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">launching children/empty nest</span><span class="tag">U-curve marital satisfaction</span><span class="tag">feminisation of poverty</span><span class="tag">grandparenthood</span><span class="tag">androgyny</span><span class="tag">possible selves</span></div>`},
+
+{theme:"adulthood",marks:6,title:"Late Adulthood — Ageing Issues, Retirement & Leisure",
+front:"What are the key physical, sensory, and cognitive changes in late adulthood? What is selective optimisation with compensation? What is wisdom?",
+back:`<p><strong>Age 65+.</strong> <strong>Primary ageing:</strong> Biological ageing in good health. <strong>Secondary ageing:</strong> Declines due to hereditary defects/negative environment.</p>
+<p><strong>Physical changes:</strong> Hair gray/thin · Skin wrinkled/dry · <strong>Presbyopia</strong> (near vision decline) · Hearing loss (~30% over 60) · Decreased taste/smell/touch · <strong>Young-old</strong> vs. <strong>Old-old</strong>.</p>
+<p><strong>Cognitive changes:</strong> Response speeds decline. Working memory decreases. <strong>Selective optimisation with compensation</strong> — narrowing goals, maximising returns, compensating for losses. <strong>Terminal decline</strong> — steady cognitive decrease before death.</p>
+<p><strong>Memory in old age:</strong> Slower processing · Less use of strategies · Recognition better than free recall · <strong>Implicit memory</strong> more intact than deliberate · <strong>Autobiographical memory</strong> — best recall of adolescent/early adulthood experiences · <strong>Prospective memory</strong> — more forgetfulness.</p>
+<p><strong>Wisdom:</strong> Practical knowledge, emotional maturity, listening skills, creativity that helps others. Increases with age. Components: knowledge about life, effective strategies, concern for common good, awareness of uncertainties.</p>
+<p><strong>Remedial training:</strong> Schaie & Willis — decline reversed in 40–60% of elderly with training.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">primary vs. secondary ageing</span><span class="tag">selective optimisation with compensation</span><span class="tag">terminal decline</span><span class="tag">implicit vs. explicit memory</span><span class="tag">autobiographical memory</span><span class="tag">prospective memory</span><span class="tag">wisdom</span><span class="tag">presbyopia</span></div>`},
+
+// === SPECIAL TOPICS ===
+{theme:"special",marks:6,title:"Learning Disability — Characteristics, Identification & Remedial Measures",
+front:"What is a learning disability? What are its characteristics? How are learning disabilities identified? What remedial measures are recommended?",
+back:`<p><strong>Definition:</strong> A disorder in one or more of the basic psychological processes involved in understanding or using language (spoken or written), which may manifest as an imperfect ability to listen, think, speak, read, write, spell, or do mathematical calculations.</p>
+<p><strong>Characteristics:</strong> Average to superior intelligence · Difficulty in specific academic areas · Discrepancy between ability and achievement · Not due to mental retardation, emotional disturbance, or environmental disadvantage.</p>
+<p><strong>Types:</strong> Dyslexia (reading) · Dysgraphia (writing) · Dyscalculia (mathematics) · Auditory processing disorder · Visual processing disorder.</p>
+<p><strong>Identification:</strong> Standardised achievement tests · IQ-achievement discrepancy · Clinical observation · Teacher/parent reports · Processing assessments.</p>
+<p><strong>Remedial measures:</strong> Individualised Education Programme (IEP) · Multisensory instruction · Structured literacy approaches · Extended time · Assistive technology · Small group instruction · Peer tutoring · Modification of curriculum and assessment.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">learning disability</span><span class="tag">dyslexia/dysgraphia/dyscalculia</span><span class="tag">IQ-achievement discrepancy</span><span class="tag">IEP</span><span class="tag">multisensory instruction</span><span class="tag">assistive technology</span></div>`},
+
+{theme:"special",marks:6,title:"Intellectual Disability (Mental Retardation) — Identification & Remedial Measures",
+front:"What is intellectual disability? What are its levels and causes? How is it identified? What remedial measures are used?",
+back:`<p><strong>Definition:</strong> Significantly subaverage general intellectual functioning existing concurrently with deficits in adaptive behaviour and manifested during the developmental period (before age 18).</p>
+<p><strong>Levels (IQ-based):</strong> Mild (50–70) · Moderate (35–50) · Severe (20–35) · Profound (below 20).</p>
+<p><strong>Causes:</strong> Genetic (Down syndrome, Fragile X) · Prenatal (rubella, alcohol, malnutrition) · Perinatal (birth complications, oxygen deprivation) · Postnatal (head injuries, infections, lead poisoning).</p>
+<p><strong>Identification:</strong> Standardised IQ tests (below 70) · Adaptive behaviour scales · Developmental screening · Medical evaluation · Family history.</p>
+<p><strong>Remedial measures:</strong> Early intervention programmes · Special education · Life skills training · Vocational training · Behaviour modification · Speech/language therapy · Occupational therapy · Inclusive education where appropriate · Family support and counselling.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">intellectual disability</span><span class="tag">adaptive behaviour</span><span class="tag">Down syndrome</span><span class="tag">mild/moderate/severe/profound</span><span class="tag">early intervention</span><span class="tag">life skills training</span><span class="tag">inclusive education</span></div>`},
+
+{theme:"special",marks:3,title:"Exceptional Children",
+front:"Who are exceptional children? What are the categories of exceptionality? What are the key approaches to supporting them?",
+back:`<p><strong>Definition:</strong> Children who deviate from the normal population in physical, mental, or social characteristics to such an extent that they require specialised educational services or modifications.</p>
+<p><strong>Categories:</strong></p><ul><li><strong>Gifted and talented:</strong> High intellectual ability, creativity, or specific talent.</li><li><strong>Learning disabilities:</strong> Specific academic processing difficulties.</li><li><strong>Intellectual disability:</strong> Below-average intellectual functioning.</li><li><strong>Physical disabilities:</strong> Visual/hearing impairments, motor disabilities.</li><li><strong>Emotional/behavioural disorders:</strong> Persistent behavioural/emotional problems affecting learning.</li><li><strong>Communication disorders:</strong> Speech and language impairments.</li><li><strong>Autism spectrum disorders.</li></ul>
+<p><strong>Approaches:</strong> Inclusive education · Individualised Education Programme (IEP) · Special schools · Resource rooms · Remedial teaching · Assistive technology · Parent involvement.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">exceptional children</span><span class="tag">gifted and talented</span><span class="tag">inclusive education</span><span class="tag">IEP</span><span class="tag">special education</span><span class="tag">resource room</span></div>`},
+
+{theme:"special",marks:6,title:"Value Education & Educational Excursions for School Children",
+front:"What is value education? What are its objectives and methods? What are the benefits of educational excursions?",
+back:`<p><strong>Value education:</strong> Process of helping individuals develop a clear, consistent set of values that guide behaviour and decision-making. Aims at training memory (learning poems/text by heart) and developing sensitivity to beauty of language.</p>
+<p><strong>Objectives:</strong> Develop moral reasoning · Foster empathy and respect · Build character · Promote social responsibility · Encourage critical thinking about ethical issues.</p>
+<p><strong>Methods:</strong> Storytelling · Role-playing · Group discussions · Community service · Value clarification exercises · Modelling by teachers/parents · Integration across curriculum.</p>
+<p><strong>Educational excursions:</strong> Learning outside the classroom. Benefits: experiential learning · Real-world connections · Social development · Enhanced motivation · Exposure to new environments · Development of observation skills · Team building.</p>
+<p><strong>Language and excursions:</strong> Teaching of languages should start at very young age. Language teaching free from mental fatigue; through games, puzzles, plays/acting. Languages learnt at this time are learnt perfectly and with less waste of educational time.</p>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">value education</span><span class="tag">moral reasoning</span><span class="tag">value clarification</span><span class="tag">educational excursions</span><span class="tag">experiential learning</span></div>`},
+
+{theme:"cognitive",marks:6,title:"Early Childhood — Characteristics & Hazards",
+front:"What are the characteristics of early childhood (2–6 years)? What are the physical and psychological hazards during this period?",
+back:`<p><strong>Definition:</strong> "Childhood begins when infancy period is over, approximately two years." Early childhood = 2–6 years. Also called <strong>toy age</strong>, <strong>play age</strong>, <strong>school going age</strong>. UNESCO: birth to 8 years.</p>
+<p><strong>Characteristics:</strong> Behavioural problems (obstinacy, stubbornness, disobedience, negativistic, antagonistic). More self-sufficient, independent. Develop self-esteem. Foundations of social behaviour. Physically and mentally independent.</p>
+<p><strong>Physical hazards:</strong></p><ol><li><strong>Illness:</strong> More prone to respiratory illness and infectious diseases.</li><li><strong>Accidents:</strong> Highest chance of death from accidents. Boys more accidents than girls. Knife cuts, burns, broken bones.</li><li><strong>Obesity:</strong> Endomorphic body builds; junk food.</li></ol>
+<p><strong>Psychological hazards:</strong></p><ol><li><strong>Speech hazards:</strong> Language not understandable → feelings of inadequacy.</li><li><strong>Social hazards:</strong> Communication problems → unpopular with peers. Discrimination/prejudice → biased behaviours.</li><li><strong>Play hazards:</strong> Isolation, lack of playmates, rejected by children.</li><li><strong>Moral hazards:</strong> Inconsistent discipline → confusion about social expectations.</li></ol>
+<div class="key-terms"><div class="key-terms-title">Key terms for marks</div>
+<span class="tag">toy age/play age</span><span class="tag">obstinacy/negativistic</span><span class="tag">physical hazards</span><span class="tag">psychological hazards</span><span class="tag">speech hazards</span><span class="tag">moral hazards</span><span class="tag">self-esteem</span></div>`}
+];
+
+// --- App state ---
+let currentIndex = 0, filteredCards = [...cards], isShuffled = false, cardFlipped = false;
+
+function renderCard() {
+  const c = filteredCards[currentIndex];
+  if (!c) return;
+  const marksClass = c.marks >= 10 ? 'marks-high' : c.marks >= 6 ? 'marks-med' : 'marks-low';
+  document.getElementById('cardFront').innerHTML = `
+    <div class="card-label">${getThemeLabel(c.theme)}</div>
+    <div class="card-title">${c.title}</div>
+    <div class="marks-badge ${marksClass}">🎯 Likely ${c.marks} Marks</div>
+    <div class="card-body"><p>${c.front}</p></div>`;
+  document.getElementById('cardBack').innerHTML = `
+    <div class="card-label back-label">Answer</div>
+    <div class="card-title">${c.title}</div>
+    <div class="marks-badge ${marksClass}">🎯 Likely ${c.marks} Marks</div>
+    <div class="card-body">${c.back}</div>`;
+  document.getElementById('currentNum').textContent = currentIndex + 1;
+  document.getElementById('totalNum').textContent = filteredCards.length;
+  document.getElementById('progressFill').style.width = ((currentIndex + 1) / filteredCards.length * 100) + '%';
+  cardFlipped = false;
+  document.getElementById('flashcard').classList.remove('flipped');
+  document.getElementById('cardFront').scrollTop = 0;
+  document.getElementById('cardBack').scrollTop = 0;
+}
+
+function getThemeLabel(t) {
+  const m = {foundations:'Foundations',prenatal:'Prenatal & Physical',cognitive:'Cognitive Development',social:'Social-Emotional',moral:'Moral Development',identity:'Identity & Adolescence',adulthood:'Adulthood & Ageing',special:'Special Topics'};
+  return m[t]||t;
+}
+
+function flipCard() { cardFlipped = !cardFlipped; document.getElementById('flashcard').classList.toggle('flipped'); }
+function nextCard() { if (currentIndex < filteredCards.length - 1) { currentIndex++; renderCard(); } }
+function prevCard() { if (currentIndex > 0) { currentIndex--; renderCard(); } }
+function resetCard() { cardFlipped = false; document.getElementById('flashcard').classList.remove('flipped'); }
+
+function toggleShuffle() {
+  isShuffled = !isShuffled;
+  document.getElementById('shuffleIndicator').classList.toggle('active', isShuffled);
+  if (isShuffled) { filteredCards = [...filteredCards].sort(() => Math.random() - 0.5); }
+  else { applyFilter(); }
+  currentIndex = 0; renderCard();
+}
+
+function applyFilter() {
+  const theme = document.getElementById('themeFilter').value;
+  filteredCards = theme === 'all' ? [...cards] : cards.filter(c => c.theme === theme);
+  if (isShuffled) filteredCards = [...filteredCards].sort(() => Math.random() - 0.5);
+  currentIndex = 0; renderCard();
+}
+
+document.getElementById('themeFilter').addEventListener('change', () => {
+  isShuffled = false;
+  document.getElementById('shuffleIndicator').classList.remove('active');
+  applyFilter();
+});
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'ArrowRight') nextCard();
+  else if (e.key === 'ArrowLeft') prevCard();
+  else if (e.key === ' ') { e.preventDefault(); flipCard(); }
+  else if (e.key === 's' || e.key === 'S') toggleShuffle();
+});
+
+renderCard();
+</script>
+</body>
+</html>

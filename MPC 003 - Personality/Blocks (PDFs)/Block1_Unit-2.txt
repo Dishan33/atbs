@@ -1,0 +1,894 @@
+
+
+===== PAGE 1 =====
+21
+Definition and Concept of
+Personality and Personality
+Development
+UNIT 2 STATE/TRAIT APPROACHES TO
+PERSONALITY
+Structure
+2.0 Introduction
+2.1 Objectives
+2.2 Type Approaches to Personality
+2.3 Trait Approaches/Theories
+2.3.1 Allport’s Trait Approach
+2.3.1.1 Common and Individual Traits
+2.3.1.2 Cardinal Traits
+2.3.1.3 Central Traits
+2.3.1.4 Secondary Traits
+2.3.2 Cattell’s Trait Approach
+2.3.3 Eysenck’s Type/Trait Hierarchy
+2.3.3.1 Extraversion/Introversion
+2.3.3.2 Psychoticism/Impulse Control
+2.3.3.3 Inhibition Theory
+2.3.3.4 Arousal Theory
+2.3.4 Guilford’s Trait Theory
+2.3.4.1 Physiological and Morphological Traits
+2.3.4.2 Needs, Interests, Attitudes
+2.3.4.3 Aptitudes
+2.3.4.4 Temperament
+2.3.5 Five Factor Model
+2.3.5.1 Extraversion (E)
+2.3.5.2 Neuroticism (N)
+2.3.5.3 Consientiousness (C)
+2.3.5.4 Agreeableness (A)
+2.3.5.5 Openness (O)
+2.4 Let Us Sum Up
+2.5 Unit End Questions
+2.6 Suggested Readings
+2.7 Answers to Self Assessment Questions
+2.0 INTRODUCTION
+A large umber of approaches to studying the personality have been put forward
+by many theorists. One of these is the type and trait approaches and these have
+been especially attributed to a few major theorists. In this unit we will take up
+first of all the Type approaches to personality and herein we will discuss the triat
+approach by Allport to describe personality. This will be followed by the trait
+approach by Cattell who gave emphasis on source and surface traits. Following
+this we will be dealing with Eysenck’s trait and type approach to personality.
+Next will be the discussion of Guilford’s theory which again is a trait approach.
+This is followed by the relatively more recent Five Facotr Model of personality.
+
+===== PAGE 2 =====
+22
+Personality: Theories and
+Assessment 2.1 OBJECTIVES
+After completing this unit, you will be able to:
+• Define personality;
+• Describe Allport’s trait theory approach;
+• Elucidate the factors contributtuing to Allport’s theory of personality;
+• Describe Cattell’s trait theory to understanding personality;
+• Explain the factors contributing to Cattell’s personality theory;
+• Elucidate Eysenck’s theory of trait and type apprioach;
+• Explain the factors contributing to Extraversion, neuroticism and
+psychoticism;
+• Elucidate the Trait approach of Guilford to personality;
+• Analyse the factors contributing to Guilford’s idea of personality
+development;
+• Elucidate the Five Factor Model of personality; and
+• Describe and analyse OCEAN.
+2.2 TYPE APPROACHES TO PERSONALITY
+The earliest effort to explain human behaviour involved the use of personality
+typologies, which classified behaviour into discrete, all-or-nothing categories.
+For example, Hippocrates a Greek Physician (and later on Galen, too) classified
+individuals into four exclusive types according to four basic internal fluids or
+humors, each associated with a particular temperament. These four basic fluids
+were : blood, phelgm, black bile and yellow bile. The dominance of any one
+fluid led to a particular personality temperament. For example, dominance of
+blood produced Sanguine temperament (cheerful and active), dominance of
+phelgm produced Phlegmatic temperament (apathetic and sluggish), the
+dominance of black bile produced Melancholic temperament (sad and brooding)
+and dominance of yellow bile produced Choleric temperament (irritable and
+exitable). This is known as four-humor theory and remained popular for centuries
+although today it is regarded as a baseless theory because it has been established
+now that personality and moods are not driven by bodily fluids. Later on the
+basis of observation of patients, Hippocrates pointed out that people with short
+and thick bodies were prone to stroke and those with tall, thin bodies to
+tuberculosis.
+Another interesting typologies were that of William Sheldon, a U.S.A. Physician.
+He tried to relate physique to temperament. On the basis of somatotype (body
+build), he assigned each individual to one of the three categories , viz., (i)
+ectomorphic (thin, long and fragile), (ii) endomorphic (fat, soft and round) and
+(iii) mesomorphic (muscular, strong and rectangular). According to Sheldon,
+ectomorphs are artistic, brainy and introverted, endomorphs are relaxed, fond of
+eating, sleeping and sociable whereas mesomorphs are affective, dominant, filled
+with energy and courage.
+
+===== PAGE 3 =====
+23
+State/Trait Approaches to
+Personality
+Sheldon’s theory has not been substantiated and has proved of little value in
+predicting individual behaviour (Tylor, 1965). In addition, people belonged to
+many different shape and size and not all can be fitted to the Sheldon’s three
+types.
+MBTI (Myers-Briggs Type Indicator) typology is another typology which is
+modern one and based upon Carl Jung’s theory of personality types. Using the
+MBTI, individual’s selfreported preferences are used to assess four dimensions
+of personality: E or I (Extraversion- Introversion), S or N (Sensing or Intution),
+T or F (Thinking-Feeling) and J or P (Judgement-Perception). The MBTI identifies
+16 types of personality based on Jung’s distinctions between E-I, S-N and T-F, as
+well as upon Isobel Myer’s distinction between J-P . The J-P distinction indicates
+as to whether an individual’s orientation toward the external world comes from
+rational (judging) or the irrational (perceiving) function pair. If a person takes
+MBTI, he would be assigned to only one pole of each dimension and the
+combination of dimensions would determine which of the sixteen types best
+describes him. For example, a person who receives ESFP (Extraverted-Sensing-
+Feeling-Perception) classification would be characterised as outgoing, easygoing,
+accepting, friendly and would be considered best in situations that need sound
+common sense and practical ability with people as well as with things.
+The Myers-Briggs is a very good type system because its categories are distinct
+or discontinuous and people of any one type are supported to be very much like
+each other that help them to be distinguished from other types. Critics of MBTI
+state that while the four dimensions are informative, persons should be described
+according to their actual scores on each dimension rather then being mixed into
+types.
+Type approach to personality apparently fails in its mission to provide a
+satisfactory classification system because there are many people who cannot be
+fitted into prescribed type. Today, psychologists prefer to describe people not in
+terms of type rather in terms of traits. Types are not descriptive of the persons. In
+fact, they rob the uniqueness of persons by placing the persons into a perconceived
+category. Thus type exists in the eye of beholder whereas traits exist within the
+people.
+2.3 TRAIT APPROACHES/THEORIES
+These approaches explain personality in terms of traits, which are defined as
+relatively stable and consistent personal characteristics. Trait approach attempts
+to explain personality and differences between people in terms of their personal
+characteristics, to devise ways of measuring individual differences in personality
+traits and to use these measures for understanding and predicting a person’s
+behaviour. Type approach assume that there are separate, and discontinuous
+categories into which persons fit whereas trait approach assumes that there are
+continuous dimensions such as warmth, extraversion, etc. that vary in quality as
+well as degree.
+Under the trait approach, the viewpoints of Allport, Cattell, Eysenck Guilford,
+and the Five Factor Model would be discussed in detail.
+
+===== PAGE 4 =====
+24
+Personality: Theories and
+Assessment 2.3.1 Allport’s Trait Approach
+Allport is regarded as one of the most important and influential personality
+theorists. Several years ago, Allport went through the English Dictionary and
+painstakingly recorded a list of 17,953 words that described personal traits (Alport
+& Odbert, 1936). Obviously it would be impractical to describe persons in terms
+of where they fall on roughly 18,000 traits. However, on the basis of these words,
+attempt was made to propose traits like dominance, friendlines, self-esteem, etc.
+This is called lexical approach to define personality trait.
+Fort Allport, traits are the building blocks of personality as well as the source of
+individuality. He is known as idiographic trait theorist who has a strong belief
+that each person has some unique as well as some common characteristics that
+together form a unique combination of traits. For Allport, trait is something that
+exits but remains invisible. It is located somewhere in the nervous system
+(Ryckman, 1993).
+We infer the existence of a trait by observing consistencies in the behaviour of
+the person. Dissimilar stimuli tend to arouse a trait readiness within the person
+and then trait manifests itself through the varieties of different responses. All
+these responses are equivalent in the sense that they serve the function of
+expression of trait.
+To illustrate this, let us take an example of an employee working in the university
+office. His shyness is inferred from his inability to establish friendship with
+others, his avoidance of social gatherings of the employees, his enjoyment with
+solitary entertainment activities and his unwillingness to participate in discussion,
+etc.
+2.3.1.1 Common and Individual Traits
+Allport recognised two major categories of traits:
+i) Common traits and
+ii) Individual traits.
+Common traits are those traits which we share in common with many others in
+our culture. For example being quiet, showing due respect to seniors and making
+polite behaviour to others are the traits we share with others in Indian culture.
+This illustrates the common traits.
+Individual traits or also called personal dispositions are those traits which are
+unique to the person concerned and Allport regarded individual traits to be more
+important than common traits.
+According to him, there are three types of individual traits
+2.3.1.2 Cardinal Traits
+A cardinal trait is a trait which is so pervasive, dominant and outstanding in life
+that every behaviour seems traceable to its influence. Most people do not have
+cardinal traits but those who have them, are well-known by those traits. For
+instance, Mahatma Gandhi was having the cardinal traits of peace-loving and
+strong faith in non-violence for which he is well known.
+
+===== PAGE 5 =====
+25
+State/Trait Approaches to
+Personality
+2.3.1.3 Central Traits
+Central traits are those traits which are generally listed in a carefully written
+letter of recommendation. In fact, any trait name like friendliness, dominance,
+self-centeredness would be the example of central trait. Every person has several
+central traits and there are five to ten most outstanding traits in each person
+around which a person’s life focuses.
+2.3.1.4 Secondary Traits
+Secondary traits are traits which are less conspicuous, less consistent, less
+generalised and less relevant to the definition of personality. For example, food
+habits, hair style, and specific attitudes are examples of secondary traits.
+All these traits are dynamic in the sense that they possess motivational power.
+Those individual traits or dispositions which are intensely experienced are said
+to be more motivational. Those individual traits which are less intensively
+experienced though possessing more motivational power are said to be more
+stylistic.
+Whether motivational or stylistics, some individual traits are close to the core of
+the person’s personality whereas some are at the periphery.
+According to Allport, all these individual traits form structure of personality
+which, in turn, determines the behaviour of an individual. In his view only by
+focussing upon the uniqueness of the individual, a scientific and substantial
+understanding of personality is possible.
+Allport also held that personality is not a mere bundle of unrelated traits, rather
+it embodies a unity, consistency and integration of traits. This integration work
+is accomplished by self or ‘Proprium’ as Allport has named it. In his view the
+Proprium or self develops continuously from infancy to death and during this
+period it moves through a series of stages.
+Self Assessment Questions 1
+1) Allport was supporter of:
+a) Nomothetic approach to personality
+b) Trait approach to personality
+c) Idiograhic approach to personality
+d) Both b and c
+2) Your hair style will be the example of:
+a) Cardinal trait b) Secondary trait
+c) Central trait d) None of these
+3) Allport emphasised more upon:
+a) Common trait b) Individual traits
+c) Proprium e) None of these.
+
+===== PAGE 6 =====
+26
+Personality: Theories and
+Assessment 4) Following Allport, the trait which is a defining characteristic of one’s
+personality is :
+a) Individual trait b) Common trait
+c) Cardinal trait d) Secondary trait.
+5) You have just been told by counsellor that on the basis of Myers-Briggs
+personality test you are an ESTP . Your counsellor apparently favours
+which of the following approaches to personality :
+a) Trait approach b) Type appraoch
+c) Psychodynamic approach d) Type approach
+2.3.2 Cattell’s Trait Approach
+Raymond Cattell (1950) considered personality to be a pattern of traits providing
+the key to understanding it and predicting a person’s behaviour. According to
+him, traits are relatively permanent and broad reaction tendencies of personality.
+They serve as the building blocks of personality. He distinguished between (i)
+surface trait and source trait, (ii) constitutional and environmental-mold traits
+(iii) ability, temperament and dynamic traits.
+i) Surface traits and source traits
+The observable qualities of a personality like kindness, honesty, helpfulness,
+generosity, etc. are named as surface traits. Allport has called these qualities or
+traits as central traits. Using questionnaires and observations, Cattell studied
+several thousand people and he reported certain cluster of surface traits that
+appeared together from time to time. He further reported that these were the
+clear evidence of some deeper, more general underlying personality factors, and
+he referred to these as source traits.
+Source traits make up the most basic structure of personality and are the underlying
+factors that are responsible for the inter-correlation among surface traits. Although
+source traits are smaller in number than surface traits, yet they are better predictors
+of human behaviour. We all possess the same source traits but we do not possess
+them in the same amount. For example, intelligence is an example of source trait
+and everyone of us possesses this but we all do not possess intelligence in the
+same amount.
+Cattell found 23 source traits in normal persons and 16 of which he studied in
+detail. These 16 basic source traits were then used in the construction of the
+Sixteen Personality (16PF) Questionnaire popularly knows as “16 PF test”. The
+sixteen factors identified by Cattell include (i) Reserved vs outgoing, (ii) less
+intelligent vs more intelligent, (iii) emotional vs. stable (iv) humble vs. assertive,
+(v) sober vs. happy-go-lucky, (vi) expedient vs. conscientious, (vii) shy vs.
+ventursame, (viii) tough-minded vs. tender-minded, (ix) trusting vs. suspicious,
+(x) practical vs. imaginative, (xi) forthright vs. shrewd (xii) placid vs.
+apprehensive, (xiii) conservative vs. experimenting, (xiv) group-tied vs. self-
+sufficiency, (xv) casual vs. controlled, and (xvi) relaxed vs. tense.
+In addition to these 16 factors measured by personality test, Cattell, on the basis
+of his subsequent researches proposed seven new factors : excitability, zeppia
+vs. Coasthenia, boorishness vs. mature socialisation, sanguine casualness, group
+dedication with sensed inadequacy and social panache vs. explicit expression.
+
+===== PAGE 7 =====
+27
+State/Trait Approaches to
+Personality
+Although the sixteen source traits utilised in 16PF can be used to make distinction
+between normals and neurotics, they fail to assess all aspects of deviant behaviour
+as well as the characteristics of psychotics. Using factor analysis to the surface
+traits of the normal and abnormal personality spheres, Cattell derived 12 new
+factors that measure psychopathological traits, such as hypochondriasis,
+zestfulness, brooding discontent, anxious depression, energy euphoria, guilt and
+resentment, bored depression, paranoia, psychopathic deviation, schizophremia,
+psychesthenia and general psychosis. All these traits are in bipolar format. These
+12 factors have been combined with 16 PF in the construction of new test called
+Clinical Analysis Questionnaire (CAQ). With the construction of CAQ, Cattell
+was of the view that he has identified major source traits of both normal and
+abnormal personality.
+ii) Constitutional and environmental traits
+Cattell also distinguished between constitutional traits and environmental mold
+traits. Constitutional traits are those traits which are determined by nature or
+biology whereas environmental mold traits are those which are determined by
+nurture that is by experience gained in interaction with environment.
+Most surface traits, for Cattell, reflects a mixture of both heredity (nature) and
+environment (nurture).  However, he further points out that there are some source
+traits which derive solely from within the individual (biology of the individual)
+and there are some source traits which derive solely from source derived only
+from environmental factors. Through a complicated statistical technique called
+MA V A (Multiple Abstract V ariance Analysis), he was able to assess the degree
+to which various traits are determined either by environmental or genetically
+determined factors. MA V A is based upon the comparisons between people of the
+same family either reared together or reared apart or between members of different
+families reared either together or apart.
+iii) Ability, temperament and dynamic traits
+Cattell has further subdivided traits into ability traits, temperament traits and
+dynamic traits.
+Ability traits refer to the person’s skill in dealing with the environment and the
+goals set therein. Intelligence is an example of ability trait.
+Temperament traits refer to stylistic tendencies that largely show how a person
+moves towards a goal. Being moody, irritable, easygoing are examples of
+temperament trait.
+Dynamic traits are the person’s motivation and interest which set the person in
+action toward the goal. A person may be characterised as being power-seeking,
+ambitious or sports-oriented. This relfects the dynamic trait. The important
+dynamic traits in Cattell’s system are of three types, viz. (i) attitudes, (ii) ergs
+and (iii) sentiments.
+Attitudes are dynamic surface traits which display specific manifestations of
+underlying motives. Ergs are constitutional dynamic source trait. It is through
+ergs that cattell has given due recognition to innately determined but modifiable
+impellents of behaviour. Ten ergs like hunger, sex, gregariousness, parental
+protectiveness, curiosity, escape, pugnacity, acquisitiveness, self-assertion and
+
+===== PAGE 8 =====
+28
+Personality: Theories and
+Assessment
+narcissistic sex have been recognised by Cattell. Sentiment focusses on social
+object and it is an environmental mold dynamic source trait. Thus it is more or
+less parallel to ergs except that it results from experimental or socio-cultural
+factors.
+Self Assessment Questions 2
+1) The inter-correlation among surface traits leads to development of an
+inference about:
+a) Temperament trait b) Erg
+c) Source trait d) None of there
+2) Erg belongs to the category of:
+a) Temperament trait b) Dynamic trait
+c) Ability trait d) None.
+3) Which of the following is not assessed by clinical Analysis
+questionnaire?
+a) Energy Euphoria b) Bored dpression
+c) Schizophrenia d) Shyness.
+4) Friendliness is an example of:
+a) Source trait b) Surface trait
+c) Temperament trait d) None.
+5) According to Cattell which trait causes behaviour for predictable
+purposes:
+a) Surface trait b) Abiity trait
+c) Source trait d) Dynamic trait.
+2.3.3 Eysenck’s Type/ Trait Hierarchy
+British Psychologist Hans Eysenck (1990) had a strong belief that personality is
+largely determined by genes and that the environmental factors have very little
+role to play in it. He opined that personality is more or less stable and enduring
+organisation of a person’s character, temperament, intellect and physique. In this
+definition, he has emphasised upon traits (stable and enduring characteristics)
+which when clustered together, constitutes a type.
+Eysenek’s viewpoint is personality is hierarchically organised, consisting of types,
+traits and habits. At the lowest level of Eysenck’s hierarchy are the single responses
+like action or thoughts. Regularly occurring responses form habits and related
+habits form traits and several traits clustered together constitute a type or also
+known as super factors.
+Thus types are most abstract, followed by traits and then by habits and then
+finally by responses at the beginning level. In fact, each of the ‘type’ concepts is
+based on a set of observed inter correlations among various traits. Each ‘trait’ is
+inferred from inter correlations among habitual responses. Habitual responses
+are, in turn, based upon specific observable responses.
+
+===== PAGE 9 =====
+29
+State/Trait Approaches to
+Personality
+Thus the entire process can be explained through an example.  It is known that
+‘extraversion’ is based upon observed inter correlations among the traits like
+liveliness, sociability, activity, and excitability. Each of these traits is inferred
+from inter correlations among habitual responses such as for instance going to
+club, liking to talk with people, taking part in any social activity on the spur of
+the moment and so forth. These habits are themselves inferred from some
+observable specific responses like real occasion where the person actually went
+to club, talked with people, participated in group discussion, etc.
+Based upon numerous factor analyses on personality data gathered from different
+populations, Eysenck derived two major factors or dimensions of personality,
+viz.,
+i) Extraversion/Introversion
+ii) Neuroticism/stability.
+Later, on the basis of other statistical analysis, he postulated a third dimension,
+viz.,
+iii) Psychoticism/Impulse control.
+These three dimensions, according to Eysenck, are the major individual difference
+types considered most useful in describing personality functioning. To measure
+these three dimensions of personality, Eysenck developed a paper and pencil
+test. The latest version of the test has been named as Eysenck Personality
+Questionnaire (EPQ).
+2.3.3.1 Extraversion/Introversion
+Extraverts are individuals who are sociable and impulsive and who like excitement
+and oriented toward external reality. Introverts are introspective persons who are
+more oriented toward inner reality and tend to exhibit preference towards a well-
+ordered life. Neurotics are emotionally unstable persons. The hallmark of most
+neurotics is that they exhibit an anxiety level disproportionate to the realities of
+the situation. Some neurotics may exhibit obsessional or impulsive symptoms
+and some may show unreasonable fear of objects, persons, places, etc. However,
+there are neurotics who are free from the burden of anxiety and fear and in this
+group, psychopaths are placed who fail to assess the consequences of their actions
+and who behave in antisocial manner regardless of the punishment they get
+(Eysenck, 1965).
+2.3.3.2 Psychoticism/Impulse Control
+Psychotics are characterised by traits such as being insensitive to others, hostile,
+at times cruel and inhuman. Despite all the psychopathological traits, Eysenck
+believed that psychotics tend to be creative (Eysenck & Eysenck, 1985). He
+based his conclusion on his work with schizophrenics who gave many original
+responses on the Rorschach test.
+2.3.3.3 Inhibition Theory
+Eysenck developed a theory called inhibition theory to explain why people who
+differed along the various dimensions should behave differently from one another.
+According to Eysenck, individual differences along the extraversion/introversion
+dimension are strongly determined by heredity and have their basic origins in
+the cerebral Cortex of the central nervous system.
+
+===== PAGE 10 =====
+30
+Personality: Theories and
+Assessment
+Drawing upon the work of Tephlov (1964) and Pavlov (1927), Eysenck pointed
+out that extraverts have relatively stronger inhibitory processes and very weak
+excitatory processes. Besides, their nervous systems are strong which forces them
+to tolerate a large capacity of stimulation. Introverts, on the other hand, have
+very strong excitatory processes and weak inhibitory processes. Apart from this,
+their nervous system is weak which means that they have a small capacity to
+tolerate stimulation. Thus the brains of extraverts react more slowly and weakly
+towards stimuli thereby creating a strong desire for strong sensory stimulation
+which causes them to seek excitement by going to parties, making new friends,
+and attending to various types of meeting, etc. On the other hand, introverts are
+more cortically aroused and their brains react quickly and strongly to stimuli. As
+such, they tolerate relatively small amount of stimulation. Consequently, strong
+stimulation from the environment proves to be aversive for them and they tend
+to spend more time in aloof activities like reading, writing, playing chess, etc.
+2.3.3.4 Arousal Theory
+Recently, inhibition theory has been replaced by arousal theory by Eysenck
+because inhibition and excitation although were very useful concepts, were found
+to be extremely difficult to assess. Arousal theory has the advantage of identifying
+the physiological systems underlying individual differences in extraversion /
+introversion and neuroticism / stability. According to arousal theory, differences
+in the behaviour of introverts and extraverts are due to the various parts of
+Ascending Rreticular Activating System (ARAS) which is a network of fibers
+going upward from the lower brain stem to the thalamus and cortex. Some other
+fibers descend from the lower brain stem which influences the activities of bodily
+muscles and autonomic nervous system. At the same time, such descending fibers
+can also modulate the activity of the brain stem.
+Thus the relation between ARAS and cortex become reciprocal, that is , ARAS
+activate the cortex, which, in turn, influences ARAS either by increasing or
+inhibiting the excitability. Eysenck was of view that introverts have innately
+higher levels of arousal than extraverts. As a result, they are more likely to be
+sensitive to stimulation. In arousal theory, Eysenck tends to make it explicit that
+the seat of neuroticism lies in visceral brain or limbic system.
+All structures of visceral brain such as hipocampus, amygdala, cingulum, septum
+and hypothalamus are involved in generating emotionality. Since visceral brain
+and ARSA are only partially independent from each other, cortical and autonomic
+arousal can also be produced by activities of the visceral brain. In particular,
+such activities produce arousal in sympathetic nervous system, causing increase
+in heart rate, breathing rates and loss of digestion, etc. People showing higher
+degree of neuroticism generally have lower thresholds for activity in visceral
+brain and greater responsivity of sympathetic nervous system. That is the reason
+why neurotics are innately more reactive rather overreacting to even mild forms
+of stimulation.
+Self Assessment Questions 3
+1) What is the correct sequence of organisation in Eysenck type-trait
+hierarchy?
+a) Trait-Type-Habit-Response
+b) Response-Habit-Trait-Type
+
+===== PAGE 11 =====
+31
+State/Trait Approaches to
+Personalityc) Type-Trait-Response-Habit
+d) Habit-Response-Trait-Type.
+2) Which of the followings is Not assessed by EPQ?
+a) Extroversion b) Psychoticism
+c) Neuroticism d) Pscyhopathic tendencies.
+3) According to Eysenck, which are is Not the characteristic of Psychotics?
+a) Psychotics are creative people
+b) Psychotics are hostile and cruel
+c) Psychotics are inhumane
+d) Psychotics are oriented toward inner reality.
+4) Who claimed that personality can best be understood by assessing people
+on two dimensions: Extroversion and Neuroticism ?
+a) Allport b) Cattell
+c) Eyesenck d) Jung.
+5) According to arousal theory of Eysenck, which one is regarded as the
+seat of neuroticism ?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2.3.4 Guilford’s Trait Theory
+J.P . Guilford is another important psychologist who have tried to analyse and
+predict about personality on the basis of traits. The importance of trait for
+Guildford’s view about personality can be understood from his definition of
+personality which states that an individual personality is nothing but the
+individual’s unique pattern of traits. Trait, for him, is any distinguishable, relatively
+enduring way in which one person differs from another.
+Using factor analysis, Guilford came to the conclusion that there are seven
+modalities of traits, that is (i) morphological, (ii) physiological, (iii) needs, (iv)
+interest, (v) attitudes (vi) aptitudes and (vii) temperament. The first two are the
+somatic traits whereas the last five are behavioural aspects of personality.
+Guilford has emphasised that these modalities should not be regarded as seven
+separate constituent parts of personality but personality must be seen as integrated
+whole and these seven modalities can be seven different directions from which
+the whole can be viewed. In other words, personality is not the sum total of
+seven traits but rather a whole or single entity which can be looked at from at
+least seven different angles. These seven traits are briefly discussed below.
+
+===== PAGE 12 =====
+32
+Personality: Theories and
+Assessment 2.3.4.1 Physiological and Morphological Traits
+Physiological traits and morphological traits together are called somatic traits.
+Physiological traits refer to physical functions such as heart rate, breathing rate,
+hormone level, blood sugar and so forth. Morphological traits, on the other hand,
+refer to physical attributes such as physique, head size, length of hand and leg,
+size of ear, curvature of spine, etc. Guilford (1959) reported very little substantial
+relationship between these two types of traits, that is, morphological traits and
+physiological traits although Sheldon (1942) earlier had reported a high correlation
+between physique and temperament.
+2.3.4.2 Needs, Interests and Attitudes
+Needs, interests and attitudes are regarded as hormetic (adaptive responses)
+dimensions of personality by Guilford. These hormetic traits, therefore, instigate
+action because they are more or less directly related to motivation.
+Needs are said to be relatively permanent dispositions that motivate the person
+towards certain condition. For example, prestige is one need and it instigates
+action towards getting social prestige. Likewise to get food is a need, which
+motivates a hungry person toward securing a full stomach.
+Interests are person’s generalised behaviour tendency to be attracted by some
+stimuli. Thus, for Guilford, interest are general rather than specific traits and
+valued positively rather than negatively. Besides, interest also refers to liking to
+perform some activities. All such interests contribute to causation of behaviour.
+Attitudes also instigate behaviour and they are defined as a disposition to favour
+or not to favour a social object or social action. Since attitudes involve belief,
+feelings and action, therefore, they are cognitive, affective and conative, too.
+One’s view about premarital sex, divorce and equal right to women can be the
+example of attitudes. Having a particular attitude forces the person to think, feel
+and act accordingly.
+2.3.4.3 Aptitudes
+Aptitudes refer to how well an individual can perform a given activity and they
+represent a dimension of ability though they are more specific than abilities. It
+means that all aptitudes are abilities but not all abilities are aptitude. For example,
+a tall person may have the ability to reach at the highest shelf but this could not
+be considered his aptitude. On the basis of factor analysis, Guildford (1959)
+identified three primary aptitudes, viz., (i) Perceptual aptitudes, (ii) Psychomotor
+aptitudes and (iii) intelligence.
+Perceptual aptitudes relate to the various sense modalities and include factors
+like visual, auditory and kinesthetic sensitivity.
+Psychomotor aptitudes are abilities shown by physical educators, dance instructors
+and athletic coaches. Human engineers also need psychomotor aptitudes because
+they have to design machine in such a way that they must be operated conveniently.
+Intelligence is a general aptitude. Guilford developed his famous Structure-of-
+intellect model based upon three primary parameters of operations, products and
+contents. Originally, there were five categories of operation and six categories of
+
+===== PAGE 13 =====
+33
+State/Trait Approaches to
+Personality
+product and four categories of content in this model. The result was 5 × 6 × 4
+=120 factors or components of intelligence. Shortly before his death, Guilford
+(1988), however, expanded the total number from 120 to 180 abilities or factors
+when he raised the categories of operation from five to six by dividing one of the
+component of operation, that is, memory into two : Memory recording and
+Memory relation. The total number of categories of contents was also changed
+from four to five. Thus now the total factors constituting intelligence became
+6 × 6 × 5 = 180.
+2.3.4.4 Temperament
+According to Guilford (1959) temperament refers to the manner in which the
+individual performs a behaviour. Whether a person is impulsive, tolerant,
+deliberate or critical in his or her behaviour, is all indicative of the person’s
+temperament. Temperament has been assessed by varieties of inventories in which
+Guilford-Zimmerman Temperament Survey (GZTS) became very popular.
+GZTS assesses 10 bipolar traits of temperament : General activity vs. Inactivity
+(G), Restraint vs. Impulsiveness (R), Ascendance vs. submissiveness (A),
+Sociability vs. Shyness (S), Emotional stability vs. Depression (E) Objectivity
+vs. Subjectivity (O), Friendliness vs. Hostility (F), Thoughtfulness vs.
+Unreflectiveness (T), Personal relations vs. Criticalness (P) and Masculinity vs.
+Feminity (M).
+Guilford has pointed out that there are three levels of trait generality : hexic
+level, primary trait level and type level. Hextic trait is displayed by the person
+only in specific situations. For example, Mohan who is generally shy and reserved
+person, may show dominance and aggression before his friends for wining the
+competition. Here dominance and aggression are examples of hexic level trait
+and determine his specific actions.
+Primary traits are manifested in broader range of behaviour than are hexic traits.
+For example, when Shyam shows dominance and aggression most of the time in
+his behaviour, it means these two are his primary traits. Guilford further has
+opined that primary traits are determined to some extent by types. When a person’s
+behaviours generally revolve around any single disposition, he is said to be
+manifesting a type upon which Guilford did not give as much emphasis as it had
+been done by Eysenck. Thus types are composed of primary traits which have
+positive intercorrelations. An extravert type, for example, may be recognised
+through observation of high correlations among the primary traits of sociability,
+orientation towards external reality, impulsiveness, love for contacting other
+people, tolerance for pain, etc.
+Self Assessment Questions 4
+1) Which of the followings is Not a hormetic trait ?
+a) Interest b) Need
+c) Attitude d) Aptitude
+2) Physicque is an example of:
+a) Hormetic trait b) Physiological trait
+c) Morphological d) None.
+
+===== PAGE 14 =====
+34
+Personality: Theories and
+Assessment 3) How many abilities have been identified by Structrue-of-intellect model?
+a) 120 b) 160
+c) 180 d) 140
+4) Physical functions like heart rate, breathing rate, brain wave patterns
+are all covered by :
+a) Morphological traits b) Physicologial traits
+c) Hormetic traits d) Behavioural traits.
+5) Which of the followings is not assessed by GZTS?
+a) Masculinity – feminity b) Friendliness – hostility
+c) Practical – imaginative d) Sociability – shyness.
+2.3.5 Five Factor Model
+Today, the most talked about trait approach to personality is the Five Factor
+Model (FFM) also known as the Big Five. As its name implies, according to this
+model there are five broad personality factors, each of which is composed of
+constellation of traits. Based on his own researches as well as researches of others
+in 1981, Goldberg pointed out that it is possible to prepare a model for structuring
+individual differences among traits of personality. Big Five was meant to refer to
+the finding that each factor subsumes a large number of specific traits. In fact,
+the Big Five are almost as broad and abstract as Eysenck’s superfactors. Those
+Big Five dimensions of personality using the names assigned by MC Crae and
+Costa (1987) are as under :
+2.3.5.1 Extraversion (E)
+This factor assesses the quality and intensity of interpersonal interaction. High
+scorer in this factor is characterised by being sociable, active, talkative, person-
+oriented, optimistic, fun-loving and affectionate, whereas low scorer is
+characterised by being reserved, sober, aloof, task oriented, retiring and quiet.
+Thus this factor contrasts extraverted traits with introverted traits.
+2.3.5.2 Neuroticism (N)
+This factor assesses adjustment vs. emotional instability. Persons high on
+neuroticism are prone to emotional instability. Such persons tend to experience
+negative emotion and are characterised by being moody, irritable, nervous,
+insecure, and hypochondriacal. Low scorers on this dimension are characterised
+by being calm, relaxed, unemotional, hardy, self-satisfied etc. Thus this factor
+differentiates people who are emotionally stable from those who are emotionally
+unstable.
+2.3.5.3 Consientiousness (C)
+This factor mainly assesses the person’s degree of organisation, persistence and
+motivation in goal directed behaviour. In other words, this factor describes task
+and goal directed behaviours and the socially required impulse control behaviour.
+This factor easily differentiates individuals who are dependable, organised, hard
+working, responsible, reliable and thorough (high scorers) from those who are
+undependable, disorganised, unreliable, impulsive, irresponsible, lazy and
+negligent (low scorers).
+
+===== PAGE 15 =====
+35
+State/Trait Approaches to
+Personality
+2.3.5.4 Agreeableness (A)
+This factor assesses the person’s quality of interpersonal orientation ranging from
+compassion to antogonism in thinking, feeling and action. High scorer on this
+factor would be characterised by soft-hearted, good-natured, trusting, helpful,
+straightforward and forgiving whereas the low scorer would be characterised by
+cynical, suspicious, uncooperative, vengeful, irritable and manipulative.
+2.3.5.5 Openness (O)
+This factor assesses proactive seeking and appreciation of experience for its own
+sake as well as tolerance for and exploration for the something new and unfamiliar.
+High scorers would be characterised by being good-natured, warm, sympathetic
+and cooperative whereas low scorers would be characterised by being unfriendly,
+aggressive, unpleasant, argumentative, cold and even hostile.
+First letters of the Big Five dimensions can be reordered to spell out the word
+OCEAN—an easy way to keep them in memory.
+For assessing these Big Five dimensions, Goldberg (1992) has developed a
+questionnaire named Transparent Bipolar Inventory. Still another much more
+popular questionnaire to assess Big Five has been developed by Costa and McCrae
+(1992). This questionnaire has been named as the NEO-Personality Inventory
+(NEO-PI-R). Originally, this inventory assessed only N, E and O but later on the
+other two factors such as A and C were also included. In this new inventory each
+dimension or factor is defined by six facets and each facet is measured by 8
+items. Therefore, the latest version of NEO-PI-R consists of a total of 240 items
+(5 factos × 6 facets × 8 items). On the basis of several studies, McCrae and Costa
+(1990) are convinced that these five factors as measured by NEO-PI-R are
+sufficient for describing the basic dimensions of personality. In fact, they go
+beyond this to say that, “no other system is as complete and yet so parsimonious”.
+In making a fair evaluation to trait approach, it can be said that longitudinal
+studies support trait approach. McCrae and Costa (1990) have studied personality
+traits of persons over time and have found them to be stable for a periods of 3 to
+30 years. They have opined that stable individual differences in basic dimensions
+are universal feature of adult personality. Despite this, critics are of view that
+trait approach, like type approach, don’t explain the causes or development of
+personality. It simply identify and describe characteristics, which are correlated
+with behaviour. Moreover, critics of trait perspective further say that the
+consistency of our behaviour across situations is very low and therefore, not
+predictable on the basis of personality traits. Initially, one of the severest critics
+of trait approach was Walter Mischel (1968) who claimed that the situation, and
+not our traits, determines the behaviour.
+Thus his stand initiated person situation debate, that is, question of relative
+importance of person and situation in determining the behaviour of the persons.
+Now Mischel has modified his original position and has proclaimed that behaviour
+is shaped by both the person (traits) and the situation. Other psychologists have
+also provided support for the view that there are some internal traits which strongly
+influence behaviour across different situations (Carson, 1989; McAdams, 1992).
+
+===== PAGE 16 =====
+36
+Personality: Theories and
+Assessment Self Assessment Questions 5
+1) Which of the followings is not assessed by Five factor model ?
+a) Neuroticism b) Psychoticism
+c) Agreeableness d) Conscientiousness.
+2) The latest version of NEO-PI-R measures the dimensions of personality
+through :
+a) Six facets b) Five facets
+c) Seven facets d) Four facets.
+3) Who developed Transparent Bipolar Inventory ?
+a) McCrae and Costa b) Goldbeng
+c) Eysenck d) None of these.
+4) Who has been considered as the most severest critics of trait appraoch?
+a) Campbell b) Hawley
+c) Mischel d) None of these.
+5) High scorers on Agreableness dimension of Big Five model would be
+characterised by being :
+a) good-natured, trusting and soft-hearted
+b) organised, reliable and hard-working
+c) curious, creative and untraditional
+d) active, talkative and fun-loving
+2.4 LET US SUM UP
+In this unit we learnt that the earliest effort to explain human behaviour involved
+the use of personality typologies, which classified behaviour into discrete, all-
+or-nothing categories. The first was the four-humor theory and remained popular
+for centuries although today it is regarded as a baseless theory because it has
+been established now that personality and moods are not driven by bodily fluids.
+This was followed by Sheldon’s somatotype (body build) based theory of
+personality. Sheldon assigned each individual to one of the three categories ,
+viz., (i) ectomorphic (thin, long and fragile), (ii) endomorphic (fat, soft and round)
+and (iii) mesomorphic (muscular, strong and rectangular). According to Sheldon,
+ectomorphs are artistic, brainy and introverted, endomorphs are relaxed, fond of
+eating, sleeping and sociable whereas mesomorphs are affective, dominant, filled
+with energy and courage.
+MBTI (Myers-Briggs Type Indicator) typology is another typology which is
+modern one and based upon Carl Jung’s theory of personality types. The four
+dimensions of personality that are assessed here are : E or I (Extraversion-
+Introversion), S or N (Sensing or Intution), T or F (Thinking-Feeling) and J or P
+(Judgment-Perception). The MBTI identifies 16 types of personality based on
+Jung’s distinctions between E-I, S-N and T-F, as well as upon Isobel Myer’s
+distinction between J-P .
+
+===== PAGE 17 =====
+37
+State/Trait Approaches to
+Personality
+Since the type theories robbed the uniqueness of persons by placing the persons
+into a perconceived category, the trait theories came about. Trait approaches
+explain personality in terms of traits, which are defined as relatively stable and
+consistent personal characteristics. Trait approach attempts to explain personality
+and differences between people in terms of their personal characteristics, to devise
+ways of measuring individual differences in personality traits and to use these
+measures for understanding and predicting a person’s behaviour.  Under the trait
+approach, we considered the viewpoints of Allport, Cattell, Eysenck, Guilford,
+and the Five Factor Model would be discussed in detail.
+For Allport, traits are the building blocks of personality as well as the source of
+individuality. For Allport, trait is something that exits but remains invisible. It is
+located somewhere in the nervous system (Ryckman, 1993).  Allport recognised
+two major categories of traits  Common traits and Individual traits.  He classified
+individual traits further into three types, viz. cardinal tratis,  central trait and
+secondary trait.
+All these traits are dynamic in the sense that they possess motivational power.
+Those individual traits or dispositions which are intensely experienced are said
+to be more motivational. Those individual traits which are less intensively
+experienced though possessing more motivational power are said to be more
+stylistic.
+According to Allport, all these individual traits form structure of personality
+which, in turn, determines the behaviour of an individual. In his view only by
+focussing upon the uniqueness of the individual, a scientific and substantial
+understanding of personality is possible.
+We then learnt about Cattel’s Trait theory. Raymond Cattell (1950) considered
+personality to be a pattern of traits providing the key to understanding it and
+predicting a person’s behaviour. According to him, traits are relatively permanent
+and broad reaction tendencies of personality. They serve as the building blocks
+of personality. He distinguished between (i) surface trait and source trait, (ii)
+constitutional and environmental-mold traits (iii) ability, temperament and
+dynamic traits.
+Cattell found 23 source traits in normal persons and 16 of which he studied in
+detail. These 16 basic source traits were then used in the construction of the
+Sixteen Personality (16PF) Questionnaire popularly knows as “16 PF test”. In
+addition to these 16 factors measured by personality test, Cattell, on the basis of
+his subsequent researches proposed seven new factors. Using factor analysis to
+the surface traits of the normal and abnormal personality spheres, Cattell derived
+12 new factors that measure psychopathological traits. Cattell also distinguished
+between constitutional traits and environmental mold traits. Cattell has further
+subdivided traits into ability traits, temperament traits and dynamic traits.
+Dynamic traits are the person’s motivation and interest which set the person in
+action toward the goal. The important dynamic traits in Cattell’s system are of
+three types, viz. (i) attitudes, (ii) ergs and (iii) sentiments.
+We then learnt about Eysenck’s Type Trait Hierarchy theory. British Psychologist
+Hans Eysenck (1990) had a strong belief that personality is largely determined
+by genes and that the environmental factors have very little role to play in it. He
+
+===== PAGE 18 =====
+38
+Personality: Theories and
+Assessment
+opined that personality is more or less stable and enduring organisation of a
+person’s character, temperament, intellect and physique. In this definition, he
+has emphasised upon traits (stable and enduring characteristics) which when
+clustered together, constitutes a type.
+Eysenek’s viewpoint is personality is hierarchically organised, consisting of types,
+traits and habits. At the lowest level of Eysenck’s hierarchy are the single responses
+like action or thoughts. Regularly occurring responses form habits and related
+habits form traits and several traits clustered together constitute a type or also
+known as super factors.  Later, on the basis of other statistical analysis, he
+postulated a third dimension, viz., Psychoticism/Impulse control. These three
+dimensions, according to Eysenck, are the major individual difference types
+considered most useful in describing personality functioning. To measure these
+three dimensions of personality, Eysenck developed a paper and pencil test. The
+latest version of the test has been named as Eysenck Personality Questionnaire
+(EPQ).
+Recently, inhibition theory has been replaced by arousal theory by Eysenck
+because inhibition and excitation although were very useful concepts, were found
+to be extremely difficult to assess. According to arousal theory, differences in
+the behaviour of introverts and extraverts are due to the various parts of Ascending
+Rreticular Activating System (ARAS) in the nervous system.
+Eysenck’s theory was followed by learning about Guilford’s trait theory. Guilford
+defined personality as the individual’s unique pattern of traits. Trait, for him, is
+any distinguishable, relatively enduring way in which one person differs from
+another. Using factor analysis, Guilford came to the conclusion that there are
+seven modalities of traits, that is (i) morphological, (ii) physiological, (iii) needs,
+(iv) interest, (v) attitudes (vi) aptitudes and (vii) temperament. The first two are
+the somatic traits whereas the last five are behavioural aspects of personality.
+Guilford emphasised that these modalities should not be regarded as seven
+separate constituent parts of personality but personality must be seen as integrated
+whole and these seven modalities can be seven different directions from which
+the whole can be viewed. Guilford also pointed out three levels of trait generality:
+hexic level, primary trait level and type level.
+Today, the most talked about trait approach to personality is the Five Factor
+Model (FFM) also known as the Big Five. As its name implies, according to this
+model there are five broad personality factors, each of which is composed of
+constellation of traits. Based on his own researches as well as researches of others
+Goldberg pointed out that it is possible to prepare a model for structuring
+individual differences among traits of personality. Big Five was meant to refer to
+the finding that each factor subsumes a large number of specific traits. In fact,
+the Big Five are almost as broad and abstract as Eysenck’s superfactors. Those
+Big Five dimensions of personality using the names assigned by MC Crae and
+Costa (1987) are Extraversion (E), Neuroticism (N), Consientiousness  (C),
+Agreeableness (A), Openness (O)
+First letters of the Big Five dimensions can be reordered to spell out the word
+OCEAN—an easy way to keep them in memory.
+For assessing these Big Five dimensions, Goldberg (1992) has developed a
+questionnaire named Transparent Bipolar Inventory. Still another much more
+
+===== PAGE 19 =====
+39
+State/Trait Approaches to
+Personality
+popular questionnaire to assess Big Five has been developed by Costa and McCrae
+(1992) named as the NEO-Personality Inventory (NEO-PI-R). Originally, this
+inventory assessed only N, E and O but later on the other two factors such as A
+and C were also included.
+2.5 UNIT END QUESTIONS
+1) Make distinction between individual traits and common traits. Following
+Allport, discuss the different types of individual traits and their importance
+in predicting human behaviour.
+2) Explain viewpoints of Cattell regarding traits as being one of the determiners
+of human behaviour.
+3) Do you find Eysenck’s type-trait hierarchy a satisfactory explanation for
+making prediction about human behaviour ?
+4) Discuss the different trait modalities as outlined by J.P. Guilford for
+understanding and predicting human behaviour.
+5) Discuss the role of five-factor model in understanding human behaviour.
+6) Do you find trait perspective a satisfcatory explanation for explaining
+personality. Give reasons.
+2.6 SUGGESTED READINGS
+Zimbardo, P .G . & Weber, A.L. (1994). Psychology: Harper Collins
+Baron, R.A. (2005). Pscyhology: Pearson Education
+Santrock, J.W. (2006). Psychology: Essentials: Tata McGraw-Hill
+Wade, G . & Tavris, C. Psychology: Pearson Education.
+2.7 ANSWERS TO SELF ASSESSMENT
+QUESTIONS
+1) 1. (d) 2. (b) 3. (b) 4. (c) 5. (b)
+2) 1. (c) 2. (b) 3. (d) 4. (a) 5. (c)
+3) 1. (b) 2. (d) 3. (d) 4. (c) 5. (c)
+4) 1. (a) 2. (c) 3. (c) 4. (b) 5. (c)
+5) 1. (b) 2. (a) 3. (b) 4. (c) 5. (a)

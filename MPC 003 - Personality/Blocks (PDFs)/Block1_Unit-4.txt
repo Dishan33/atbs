@@ -1,0 +1,793 @@
+
+
+===== PAGE 1 =====
+55
+Assessment of Personality
+UNIT 4 KEY ISSUES IN PERSONALITY
+Structure
+4.0 Introduction
+4.1 Objectives
+4.2 Genes and Personality
+4.2.1 Nature vs. Nurture Debate
+4.2.2 The Nature Theory – Heredity
+4.2.3 The Nurture Theory – Environment
+4.2.4 Twin Studies
+4.2.5 Infant Shyness
+4.2.6 Anti-social Personality Disorder
+4.2.7 Family Studies
+4.3 The Person-Situation Controversy
+4.3.1 The Behavioural Consistency Controversy
+4.4 Interactionist Approach to Situation versus Person Debate
+4.5 Nomothetic Approach versus Idiographic Approach to Personality
+4.5.1 Nomothetic Approach
+4.5.2 Idiographic Approach
+4.6 Cross Cultural Issue
+4.7 Personality Traits and Five Factor Model
+4.7.1 The Five Factor Model Across Cultures
+4.8 Issues Relating to Theoretical Models
+4.9 Let Us Sum Up
+4.10 Unit End Questions
+4.11 Glossary
+4.12 Suggested Readings and References
+4.0 INTRODUCTION
+Besides the grand theories in personality, there is much more to be incorporated
+in the study of personality. There are several issues in the study of personality
+that have either remained unresolved or are still in the process of resolution.In
+this unit you will learn about the impact of heredity on personality and the various
+research studies that have been conducted to ascertain the relationship between
+these two factors. The unit also gives a glimpse of the heredity versus environment
+debate and points out the many research work in regard to this area and the
+conclusions that have been arrived at based on the research. An attempt has also
+been made in this unit to present the person versus situation controversy wherein
+it has been pointed out as to how the consistency in behaviour across situations
+is questioned. The interactionist approach in regard to this issue has been
+elaborated. This unit also presents the idiographic versus nomothetic approach
+to personality in which context the cross cultural issues have also been dealt
+with. The research in the five factor model’s explanation of personality have
+been listed and it has been pointed out as how this theory has been more popular
+and the reasons for the same.
+
+===== PAGE 2 =====
+56
+Personality: Theories and
+Assessment 4.1 OBJECTIVES
+After reading this unit, you will be able to:
+• Describe the various issues in personality;
+• Explain the controversies in the study of personality;
+• Analyse the various sub-issues still unanswered in the field of personality;
+and
+• List out the ways to fill up the lacunae existing in personality research.
+Some of the major issues in personality research are being discussed in the
+following sections:
+4.2 GENES AND PERSONALITY
+Nature versus nurture is probably the oldest issue in psychology. This is an age
+old dispute among behavioural psychologists, philosophers, theologians, and
+theorists of consciousness. “Nature versus nurture” is a term coined by the English
+Victorian Polymath Francis Galton regarding the influence of heredity and
+environment on the development of personality. .
+4.2.1 Nature versus Nurture Debate
+The nature versus nurture debate basically relates to the relative importance of
+an individual’s inherent traits versus the personal experiences that lead to
+individual differences in physical and behavioural traits.
+Some scientists are of the view that genetic predispositions or even animal
+instincts are the push factors behind people’s behaviour. Others believe that the
+way one behaves is directly dependent upon the manner in which the person has
+been taught to behave. The former is known as the “nature” theory of human
+behaviour whereas the latter is termed as the “nurture” theory of human behaviour.
+Sir Francis Galton was fascinated by the idea of genetic pre-programming and
+tried to uncover the predestined ways of human beings. However, many of his
+experiments proved ill-conceived but yet his contribution has been vital to the
+study of personality issues. The technique of finger printing and the Word
+Association Test are the end products of Galton’s contribution.
+It has been stated that at the time of birth the child has no specific traits except
+that it functions through its reflexes. As the child grows day by day, and in the
+process of socialisation it learns many things in regard to the environemtn. It is
+said that the child thus at birth is in a blank state of mind or ‘tabula rasa’, and
+whatever one wants to put into it, the same would be absorbed and the child’s
+behaviour accordingly will change. This view which holds that “nurture” yields
+all or almost all the behavioural traits in the individual child.  Thus the
+environment (nurture) plays a significant role in the development of the child’s
+personality.
+However, the fast growing understanding of the human genome has come up
+with the information that both the sides are right in their own part. Whereas
+nature provides us with inherent abilities and traits, nurture reshapes these genetic
+tendencies and molds them with progressive learning and maturity. This view
+
+===== PAGE 3 =====
+57
+Key Issues in Personalitypoint which agrees that both nature and nurture play crucial roles in human
+personality development has come to be known as interactionism.
+4.2.2 The Nature Theory – Heredity
+It has been demonstrated by scientists that traits such as eye color and hair color
+are decided by specific genes that are embedded and encoded in each human
+cell. The things have been taken a step further by the nature theory that formulates
+in more recent times it has also been shown that the more abstract traits such as
+intelligence, personality, aggression and sexual orientation are also encoded in
+an individual’s DNA. This has led to the concept of behavioural genes which
+can justify criminal acts or criminal behaviours.
+Another debated issue in context of nature theory is the occurrence of “gay gene”
+that points to a genetic component to sexual orientation.
+If there is no role of genetics, then fraternal twins brought up under the same
+environmental conditions, would be alike, even though differences exist in their
+genetic make up. But, according to the studies, they closely resemble each other
+as compared to non-twin brothers and sisters.
+4.2.3 The Nurture Theory – Environment
+The proponents of the nurture theory are of the view that genetic tendencies
+ultimately do not matter. They believe that our behavioural aspects originate
+only from the environmental forces in our upbringing.
+American psychologist John Watson, a strong proponent of environmental
+learning, demonstrated that disorders like phobia could also be explained by
+classical conditioning.
+Today, known as the Father of Behavioral Science, B.F. Skinner proved that
+human behaviour could be conditioned  in much the same way as animals.
+Even if reared apart, identical twins should have been exactly the same in all
+respects if environment had no role to play.
+4.2.4 Twin Studies
+Twin studies are an important tool in resolving the nature versus nurture argument.
+Identical twins or Monozygotic twins, are siblings who have exact duplicates of
+their genotypes. They best indicate that whether biological dispositions affect
+traits and psychopathology in human beings.
+Fraternal twins, disygotic twins share exactly half the number of genes with
+each other. They are a very good basis for comparison of identical twins. Twin
+studies usually rely on samples of identical and fraternal twins. Some of the
+important studies on twins and related findings are presented below.
+A study was conducted to determine the heritability of attitudes among twins, as
+well as the genetic variables, such as intelligence, that can play a role in affecting
+the attitudes among pairs of twins. The results of the study showed partial
+correlation between the attitudes of the participants with their genetic factors.
+Also, correlation existed between the attitudes related to self-reported perspectives
+or to activities. For example, the subjects were asked to rate themselves on the
+
+===== PAGE 4 =====
+58
+Personality: Theories and
+Assessment
+trait of sociability through a survey. The trait was correlated with 5 out of 6
+attitudes factors that the subjects had towards sociability.
+It was also found that non-shared environment experiences between pairs are
+the strongest cause of attitude variances that overshadowed genetic predispositions
+as well as shared environment experiences (Olson et al., 2001). Non-shared
+environment refers to a condition in which something in the environment directly
+affects one twin but no impact occurs on the other at all (V an denOord, 2000).
+A Swedish study was conducted to measure personality traits of extraversion
+and neuroticism among the twin pairs, impulsivity trait and family environment
+and socio-economic status. The findings showed that the genotypes and the
+environment interaction is an important concept in twin studies as it can also be
+applied to the way people with the same genotypes might respond to similar
+environment.
+Our particular genotype environment, labeled Type I, indicates that the
+environment plays a more significant role with a genotype for low scores on a
+specific personality trait. It means that individuals with low genotypes for
+extraversion would also score low on extraversion. Type-II genotype that is, the
+environment interaction, on the other hand, is exactly the opposite of Type-I.
+4.2.5 Infant Shyness
+An adoption study was conducted to uncover the reasons behind why some infants
+are open and responsive to attention, some take a bit longer to open up while
+some others are withdrawn. It is difficult to tell whether babies are shy because
+of the environment in which they are brought up as their mothers are shy or
+because they inherit the shyness traits from their mothers.
+Adoptive parents were given questionnaires that asked them to rate their infants
+on the measure of shyness. The results revealed that in non-adoptive families,
+the parents with high shyness rates also had shy infants. One significant conclusion
+revealed that those biological mothers who rated high on shyness, had their
+adopted babies as also shy. This shows some evidence of the effect of a genetic
+link on family environment (Daniels & Plomin, 1985).
+4.2.6 Anti-social Personality Disorder
+Attempts have been made to see whether children who are at risk for antisocial
+personality disorder develop symptoms in an adoptive family or gets protection
+against the disorder in such environment. Results have revealed that anti-social
+personality disorder is more prevalent in adopted children having biological risk
+factors. Results further revealed that if both the biological parents and adoptive
+parents come from criminal background, there is high incidence of an element
+of criminal tendencies in the offspring.
+For various reasons the interpretation of the results of adoption studies is very
+difficult and valid conclusions cannot be made. Genetic factors are “simulated”
+when the adoptive family environment is similar to the biological environment.
+4.2.7 Family Studies
+However, not as valid as twin and adoption studies, but still family studies play
+an important role in resolving the heredity versus environment debate. These are
+
+===== PAGE 5 =====
+59
+Key Issues in Personalitymainly used to identify the degree of risk of developing mental disorders by
+relatives and other family members. Such studies are mainly used to determine
+the risk of inheritance of mental disorders to offspring within families. These
+types of studies are performed using molecular genetic studies where the DNA
+from the participant’s blood samples is taken and the observed behaviour is
+projected.
+Self Assessment Questions
+1) What role does heredity play in the shaping of one’s personality?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) What role does environment play in the constitution of one’s personality?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) Discuss the nature-nurture debate in the study of personality.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4) How do genes affect the psychopathology of behaviour?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+5) What does the genotype – environment interaction convey regarding
+personality?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+===== PAGE 6 =====
+60
+Personality: Theories and
+Assessment 4.3 THE PERSON-SITUATION CONTROVERSY
+The person situation debate was sparked off by a prominent book by Mischel in
+1968, in which the trait approach to personality was targeted. According to
+Mischel, the traits when rated, do not predict the actual behaviour. Opposed to
+Mischel’s view, Epstein, in 1983, argued that although traits do not predict single
+behaviour, they are good at predicting aggregates of such behaviours.
+Broady and Ehrlichman (1998) devised the following hypothetical study to test
+whether traits are good at predicting behaviour across not only in the same
+situation, but also across different situations. For this, the following steps were
+taken:
+Step 1: Obtained measures of behaviour for a group of individuals in each of
+twenty situations that were assumed to be relevant to the trait of conscientiousness.
+Step 2: Assumed further that each individual has been observed several times in
+a situation and that the measure of behaviour in a situation for each individual is
+based on an aggregate index of behaviour.
+Step 3: The set of situations was divided into two arbitrary groups of ten each.
+Step 4: Obtained two aggregated indices of conscientiousness for each individual
+by averaging the person’s score for each of the two groups of ten situations.
+Step 5: Obtained a correlation between the two indices.
+Step 6: Obtained an overall index of conscientiousness for each individual by
+averaging the aggregated behavioural measures for each of the twenty situations
+studied.
+The findings showed that the person situation debate was an extended
+disagreement, originally between social psychologists and personality
+psychologists, on whether the “situation” or the personality traits are more
+predictive of people’s behaviour.
+Mischel argued that (1) literature review shows that personality traits only have
+a correlation of about .30 with how people behave in a given situation, and (2)
+the cross-situational consistency of behaviour is also just .20-.30. So, he concluded
+that situations, rather than personality traits are better predictors of behaviour.
+These arguments further generated a lot of response from personality
+psychologists using trait questionnaires for several decades. Those on the side of
+personality argued that the low personality-behaviour correlations do not prove
+that situational variables are more valuable.
+The actual relationship between personality and behaviour was found to be higher
+than .40.
+Personality is a stronger predictor of behaviour across all situations but not a
+strong predictor of an individual’s behaviour at a specific time in a specific
+situation.
+Personality traits are the most useful psychological tools that predict behaviour
+most strongly.
+
+===== PAGE 7 =====
+61
+Key Issues in Personality4.3.1 The Behavioural Consistency Controversy
+Departing from the trait approaches view that internal relatively stable forces of
+personality exert a consistent effect on behaviour, another view proposes that no
+consistent traits are reflected by an individual’s responses to any situation, rather
+traits vary according to the situation.
+Hartshorne and May (1928) conducted a classic study on honesty in children.
+Children were exposed to situations where they could get a chance to behave
+dishonestly and that too without getting detected. The results showed that the
+children were not consistent on either of the ends (honestly or dishonesty), but
+they behaved specific to the situation. It was proposed by Walter Mischel (1968,
+1978) that people can learn to make quite different responses to similar stimuli
+as per past reinforcements provided to them. So, before deciding a person’s
+response to any specific stimuli, the perceptual and cognitive process should be
+taken into account.
+According to Mischel, the significance of situational variables or personality
+variables should be determined while conducting research in personality. It is
+basically determined by the strength and weakness of the situation. If everyone
+makes the same interpretation and draws uniform expectancies to a situation
+presented to them, then situational variables stand more important. On the other
+hand, ambiguity in situations represents greater influence of personality variables
+in behaviour.
+Later on Mischel (1985) also proposed that people exhibit consistent modes of
+responding, implying that consistency appears in situations where people behave
+inadequately. Researchers like Magnusson and Endler (1977) also believe that
+prediction of behaviour is done not only in terms of traits or situations alone,
+rather some combination (interaction) of the two must be attended and referred
+to. Various theories are now being developed that follow the interactionist
+approach.
+4.4 INTERACTIONIST APPROACH TO
+SITUATION VS. PERSON DEBATE
+If one formulates that traits and situations interact to influence behaviour, then
+the formula for this could be as given below:
+Behavior = personality × appraisal of the situation.
+It is an important fact that individual differences exist in personality-situation
+relationship. High self monitors try to adapt more to the situation and thus, display
+less consistency across situations in their behaviour.
+Thus one may state that some individuals show more consistent behaviour and
+that traits do not influence behaviour consistently and emerge only in some
+situations.  Another aspect is that whatever people do, it exhibits their traits. e.g.
+choice of careers, choice of lifestyle etc.
+Almost all researches have demonstrated that personality traits exist and are
+predictive of behaviour. Some research has shown the correlation between
+situations and behavioural outcomes to be ranging from 0.36 to 0.42 which is
+
+===== PAGE 8 =====
+62
+Personality: Theories and
+Assessment
+almost identical to predictive power of personality traits. How far situations
+determine behaviour even against one’s value system is an important issue here.
+In this context, one of the studies was on the obedience factor carried out by
+Stanley Milgram in which he used fake electric shock to study how people react
+when they cause harm to others.  Given in the box below is the experiment:
+The psychologist Stanley Milgram created an electric ‘shock generator’ with
+30 switches. The switch was marked clearly in 15 volt increments, ranging
+from 15 to 450 volts.
+He also placed labels indicating the shock level, such as ‘Moderate’ (75-
+120 V olts) and ‘Strong’ (135-180 V olts). The switches 375-420 V olts were
+marked ‘Danger: Severe Shock’ and the two highest levels 435-450, was
+marked ‘XXX’.
+The ‘shock generator’ was in fact phony and would only produce sound
+when the switches were pressed.
+40 subjects participated all males. They thought they were going to participate
+in an experiment about ‘memory and learning’. Next, the subject met an
+‘experimenter’, the person leading the experiment, and another person told
+to be another subject. The other subject was in fact a
+confederate(experimenter’s man) acting as a subject. He was a 47 year old
+male accountant.
+The two subjects (the real subject and the confederate subject) drew slips of
+paper to indicate who was going to be a ‘teacher’ and who was going to be
+a ‘learner’. The lottery was in fact a set-up, and the real subject would always
+get the role of ‘the teacher’.
+The teacher saw that the learner was strapped to a chair and electrodes were
+attached. The subject was then seated in another room in front of the shock
+generator, unable to see the learner.
+The Stanley Milgram Experiment aimed at getting an answer to the question:
+“For how long will someone continue to give shocks to another person if
+they are told to do so, even if they thought they could be seriously hurt?”
+(the dependent variable)
+Remember that they had met the other person, a likable stranger, and that
+they thought that it could very well be them who were in the learner-position
+receiving shocks.
+The subject was instructed to teach word-pairs to the learner. When the
+learner made a mistake, the subject was instructed to punish the learner by
+giving him a shock, 15 volts higher for each mistake.
+The learner never received the shocks, but pre-taped audio was triggered
+when a shock-switch was pressed.
+If the experimenter, seated in the same room, was contacted, the experimenter
+would answer with predefined ‘prods’ (“Please continue”, “Please go on”,
+“The experiment requires that you go on”, “It is absolutely essential that
+you continue”, “You have no other choice, you must go on”), starting with
+the mild prods, and making it more authoritarian for each time the subject
+contacted the experimenter.
+
+===== PAGE 9 =====
+63
+Key Issues in Personality
+If the subject asked who was responsible if anything would happen to the
+learner, the experimenter answered “I am responsible”. This gave the subject
+a relief and many continued.
+During the Stanley Milgram Experiment, many subjects showed signs of
+tension. 3 subjects had “full-blown, uncontrollable seizures”.
+Although most subjects were uncomfortable doing it, all 40 subjects obeyed
+up to 300 volts.
+25 of the 40 subjects continued to complete to give shocks until the maximum
+level of 375 volts was reached.
+Before the Stanley Milgram Experiment, experts thought that about 1-3 %
+of the subjects would not stop giving shocks. They thought that you’d have
+to be pathological or a psychopath to do so.
+Still, 65 % never stopped giving shocks. None stopped when the learner
+said he had heart-trouble. How could that be?
+We now believe that it has to do with our almost innate behaviour that
+we should do as told, especially from authority persons.
+Source: http://www.experiment-resources.com/stanley-milgram-experiment.
+html#ixzz13wADcJx9
+However, the end of the debate was not completely one sided. It has also been
+argued that trait psychologists could still not explain why behaviour has low
+consistency over short periods, remaining at 0.30 ranges. On the other hand,
+situations could also no longer take a stand that traits are not as important as
+situations. This state of affairs made out a resolution that changed the conceptions
+of psychologists of both traits and situations.
+Regarding traits, psychologists learned that they do not have cross cultural
+consistency for individual behaviours, but over time, they create consistency for
+wide behaviour distributions. For situations, psychologists learned that situations
+are not the only thing that matters.
+On the basis of these formulations, a new definition of personality can be framed
+which states that personality is one’s pattern of behavioural stability and change
+due to the unique combination of having certain traits and being in certain
+situations. Therefore, the current requirement in the area of personality is to
+understand which of the person and situation forces account for patterns of stability
+and change in behaviour.
+The person-situation debate was a challenging task yet ultimately constructive
+argument for personality psychology (Fleeson, 2004). By forcing psychologists
+to think carefully about the links between behaviour, personality and situations,
+the person-situation debate acted as a catalyst for a deeper appreciation of the
+importance of personality and for a more sophisticated understanding of why
+people do what they do.
+4.5 NOMOTHETIC APPROACH VERSUS
+IDIOGRAPHIC APPROACH TO PERSONALITY
+Personality related psychological research and studies are grouped in three main
+groups, viz., (i)  nomothetic, (ii) idiographic and (iii) complementary approaches
+to personality.
+
+===== PAGE 10 =====
+64
+Personality: Theories and
+Assessment 4.5.1 Nomothetic Approach
+Nomethetic approaches are based on the tendency to see one’s personality as
+constant, hereditary and resistant to change, whereas the influence of the
+environment is minimal. This way, nomothetic approaches state that the way in
+which a person will act under certain circumstances can be calculated and
+anticipated, foreseen. Gordon Allport (1934) identified this approach to
+personality testing. The nomothetic approach relies on quantitative research
+methods such as self report and questionnaires to establish universal behaviours.
+He understood that scientific progress for trait psychology was rooted in a
+nomothetic approach.
+Thus, nomothetically derived traits were employed by Allport to describe people.
+Allport (1937, 1961) employed traits as the primary basis which can be used to
+describe people. Accordingly, he descriebd a trait as a “neuropsychic structure
+that possesses the capacity to render many stimuli functionally equivalent. Allport
+also assumed that traits are real. He formulated that traits are distinct and particular
+to each person and their assessment shall be done uniquely.
+4.5.2 Idiographic Approach
+Allport also promoted another approach named as idiographic approach to the
+study of personality. Here every individual is regarded as a combined system
+that can be independently analysed scientifically. It means that each individual is
+examined deeply and no general laws are considered important that are beyond
+the individual to be studied.
+Under the idiographic process, he believed that a person’s traits can be put into
+various compartments according to their pervasiveness in an individual’s
+personality. The most pervasive traits were referred to as “cardinal” dispositions
+by Allport. If present, cardinal traits dominate the behaviour of an individual
+aggressiveness, calmness etc. may be taken as examples. Another set of traits,
+known as “central dispositions” comprise those that are pervasive for a given
+individual. For example, the traits talked about while writing a letter of
+recommendation. More situational specific traits are termed as “Secondary
+dispositions”. Allport argued that each person possesses a unique pattern of
+cardinal, central and secondary traits and to understand a person, the unique-
+pattern examination is required.
+Thus, the above discussion explains that the differences between a nomothetic
+and an idiographic approach is not just a question of discovering on the part of
+the psychologist, but also the methods employed are considered useful.
+The nomothetic point of view has experiments, correlation, psychometric testing
+and other quantitative methods as its examples. On the other hand, the idiographic
+methods include case studies, informal interviews, unstructured observation and
+other qualitative methods.
+Self Assessment Questions
+1) What is the person-situation controversy?
+...............................................................................................................
+...............................................................................................................
+
+===== PAGE 11 =====
+65
+Key Issues in Personality
+2) What- the person or the environment exert more influence in structuring
+a person’s personality?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) How does the interactionist approach handle the person-situation debate?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4) Discuss the nomothetic view to personality.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+5) Discuss the idiographic view to personality.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4.6 CROSS CULTURAL ISSUES
+Personality and culture are interwoven and still their relationship cannot be
+comprehended well. But it is also true that the culture of an individual is not the
+sole determiner of an individual’s personality. The framework of individualism
+versus collectivism can be utilised to observe this as it predisposes individualism
+or collectivism. It is one of basic differences that have been described in varying
+national cultures. Factors such as personal achievement, egalitarian relationships,
+role flexibility team and familial connections etc. are used to describe personality
+traits and differences between individuals of various cultures (Hofstede, 2001).
+However, it is not possible to attribute all the factors under individualism-
+collectivism web only to the cultural influence. The framework of individualism
+
+===== PAGE 12 =====
+66
+Personality: Theories and
+Assessment
+collectivism is mainly used to describe personality characteristics traits and habits
+generating from within cultures where certain individualist or collectivist traits
+occur.
+An element of doubt gets raised up while applying the principles of this framework
+in personality perception of an individual as it may lead to stereotyping and
+misinterpreting of an individual’s personality and his characteristic of behaviour.
+The individualism famework can be of more use in describing cultural tendencies
+as a whole rather than describing individual characteristics and traits. However,
+this does not imply that the individualism collectivism paradigm is naïve and
+can be excluded in studying the domain of personality. It can be easily inferred
+from the above discussion that the interplay between personality and culture is
+quite complex. It is also clear that even in adulthood, personality can be affected
+by cultural expectations. Simultaneously, this is also to be acknowledged that
+this individualism -collectivism orientation is not the only determining factor of
+personality.
+4.7 PERSONALITY TRAITS AND FIVE FACTOR
+MODEL
+As defined by McCrae & Costa in 1990, “Personality traits are the dimensions
+of individual differences in tendencies to show consistent patterns of thoughts
+feelings and actions.” Psychologists working in the area of personality like
+Raymond Cattell, Eysenck have noted that organisation of traits can be done in
+much smaller clusters of similar trait rather than studying each of the 4,000 traits
+as identified by Allport and Odbert. Thus, a parsimonious structure of traits can
+help a great deal in personality research.
+Ending the decades long dispute about the mot suitable personality structure, the
+Five Factor Model developed by McCrae & John, 1992 came up with five factors
+or dimensions viz. Neuroticism (N),Extroversion (E), Openness to Experience
+(O), Agreeableness (A) and conscientiousness (C). Individuals high in neuroticism
+are likely to be anxious, irritable and low at emotional end and those low in
+neuroticism are calm and emotionally stable. Extroverts are sociable, cheerful
+and outgoing; introverts are shy and sober. Open men and women are curious
+whereas closed people are run by conventions. Agreeable people are
+compassionate, modest whereas conscientious are mainly driven by punctuality
+and purposefulness.
+Originally, the five factor model was discovered by analysing the English language
+trait names and individuals standing on each of the five factors could be measured
+by asking them to rate themselves on a series of adjectives (Goldeberg, 1992).
+The most widely used measure of the Five Factor Model is the Revised NEO
+Personality Inventory (NEO-PI-R, Costa & McCrae, 1992). It assesses 30 specific
+traits, six for each of the five factors.
+4.7.1 The Five Factor Model Across Cultures
+Personality factors in trait adjectives from different languages have been examined
+with lexical studies and mixed results have surfaced from these studies which
+show that E, A and C factors almost always appear but N and O disappear from
+the picture sometimes. It is not clear whether these factors are not there in the
+culture itself or are missing from the set of adjectives studied.
+
+===== PAGE 13 =====
+67
+Key Issues in PersonalityThus, great caution should be used while comparing the personality scores across
+cultures. Personality traits are expressed differently in different cultures and a
+single set of questionnaire items does not suffice in every culture.
+Self Assessment Questions
+1) Discuss the cross- cultural issue in personality.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) What does the Five- Factor Model propose regarding personality?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) Discuss the characteristic issue underlying Five- Factor Model across
+cultures.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4.8 ISSUES RELATING TO THEORETICAL
+MODELS
+For the understanding and explanation of personality, various theoretical models
+have been proposed. The different models have explained personality with respect
+to their theoretical propositions e.g. the Psychoanalytic theory explains personality
+taking intra-psychic and conscious-unconscious mind into account whereas the
+Behaviorist model totally rejects this approach and emphasises the role of learning
+and environment in the shaping and development of personality. The Humanistic
+Model takes a different approach. It is true that every model seems to be correct
+from its own perspective but when we consider the other models, many of their
+features become redundant, irrelevant and may be invalid. Therefore, one, who
+is interested in understanding the phenomenon of personality by going through
+various theoretical accounts, may not be able to have a clear view of the personality
+as construct. Therefore, there is a need of an eclectic model which incorporates
+the features of various models into it and aids in shaping of personality.
+
+===== PAGE 14 =====
+68
+Personality: Theories and
+Assessment
+Some other issues in personality that need to be attended to at length are:
+1) Free will vs determinism. Means that whether our behaviour is directed by
+freedom intrinsic to our nature or by the ultimately determined forces.
+2) Uniqueness vs Universality.  Implies that whether each person is unique in
+his own existence or is driven by some universal behaviour patterns.
+3) Physiological vs purposive motivation.  Some researchers assume that we
+are pushed by basic physiological needs like food, water etc. while others
+are of the view that we are pulled by our purpose, goals, values, principles
+etc.
+4) Conscious vs Unconscious motivation.  Some researchers believe that our
+behaviour and experience are determined by conscious forces whereas others
+say that we are not aware of the forces driving our behaviour, i.e. the
+unconscious element.
+5) Stage vs Non-stage theories of development. It is an extension of the nature
+nurture issue that whether or not we all pass through predetermined stages
+of development like fetal, childhood, puberty, adulthood, senescence-
+controlled basically by genetics.
+6) Cultural determinism vs Cultural transcendence. To what extent our
+personality is molded by our cultures is the issue here. If not determined by
+culture, our transcendence is some other kind of determinism.
+7) Early Vs Late Personality Formation. This issue deals with if our personality
+characteristics are established in early childhood or it is quite flexible in
+adulthood. This question relates to the issues of genetics, external
+determination etc. Here, the major limitation resolution is the confusion in
+defining personality characteristics.
+8) Optimism Vs Pessimism. Whether humans are basically good or bad is the
+central issue here. The attitude determines what we see when we look at
+humanity.
+4.9 LET US SUM UP
+To sum up, it can be said that the issues in personality consider classic and more
+recent issues that are fundamental to the field of personality psychology. However,
+various theorists have contributed to our understanding of personality but their
+varying view points have led to various controversies that are still posing a
+challenge to the area of personality. These issues need a timely resolution so that
+the research in personality could be more refined and stable and the core areas
+could be dealt with more precision and flawlessly.
+4.10  UNIT END QUESTIONS
+1) Discuss the Nature- Nurture debate in the study of personality.
+2) Discuss with examples what role does the environment play in molding an
+individual’s personality.
+3) What does the person-situation controversy depict about personality structure
+of a person?
+
+===== PAGE 15 =====
+69
+Key Issues in Personality4) “The interactionist approach gives a mid-way to person- situation
+controversy” . Discuss.
+5) “The cross-cultural issue in personality is difficult to be resolved” . Why?
+6) What are the theoretical and methodological flaws in personality research?
+7) What does the nomothetic versus idiographic debate in personality present?
+8) What role can the Five- Factor Model play in resolving the Theoretical
+controversy in personality research?
+4.11 GLOSSARY
+Idiographic approach : The psychological study of the single case/
+individual.
+Genes : The essential elements in the transmission
+of hereditary characteristics.
+Nature : The genetic factors contributing to behaviour
+and perception.
+Nature vs Nurture : The argument concerning the relative roles
+controversy of the contributions of nature and nurture in
+the development of organisms.
+Nomothetic approach : Attempts to discover personality principles
+that apply to people in general.
+Nurture : Environmental factors contributing to
+behaviour and perception.
+Personality : The various enduring and distinctive patterns
+of behaviour and thought that are
+characteristic of a particular person.
+4.12 SUGGESTED READINGS AND REFERENCES
+Ewen, R. B. (2003). An Introduction to Theories of Personality . New York:
+Lawrence Erlbaum Associates.
+Kim, U., & Hakkoe, H. (1994). Individualism and Collectivism: Theory, Method
+and Applications. Berkeley, CA: SAGE Publications.
+McCrae, R., & Allik, K. (2002). The Five Factor Model of Perosnality Across
+Cultures. New York, Springer.
+McCrae, R. R. (2002). NEO-PI-R data from 36 cultures: Further intercultural
+comparisons. In R. R. McCrae & J. Allik (Eds.), The Five-Factor Model of
+Personality Across Cultures (pp. 105-126). New York: Kluwer Academic/Plenum
+Publishers.
+References
+Allik, J., & McCrae, R. R. (2004). Toward a geography of personality traits:
+Patterns of profiles across 36 cultures. Journal of Cross-Cultural Psychology,
+35, 13-28.
+
+===== PAGE 16 =====
+70
+Personality: Theories and
+Assessment
+Allport, G . W., & Odbert, H. S. (1936). Trait names: A psycho-lexical study.
+Psychological Monographs, 47, (1 Whole No. 211).
+Black, J. (2000). Personality testing and police selection: Utility of the ‘Big
+Five’. New Zealand Journal of Psychology, 29, 2-9.
+Blickle, G . (1996). Personality traits, learning strategies, and performance.
+European Journal of Personality, 10, 337-352.
+Cheung, F. M., & Leung, K. (1998). Indigenous personality measures: Chinese
+examples. Journal of Cross-Cultural Psychology, 29, 233-248.
+Church, A. T. (2009). Prospects for an integrated trait and cultural psychology.
+European Journal of Personality, 23, 153-182.
+Costa, P . T., Jr., & McCrae, R. R. (1992). Revised NEO Personality Inventory
+(NEO-PI-R) and NEO Five-Factor Inventory (NEO-FFI) professional manual.
+Odessa, FL: Psychological Assessment Resources.
+Costa, P . T., Jr., Terracciano, A., & McCrae, R. R. (2001). Gender differences in
+personality traits across cultures: Robust and surprising findings. Journal of
+Personality and Social Psychology, 81, 322-331.
+De Raad, B., & Perugini, M. (Eds.). (in press). Big Five assessment. Gottingen,
+Germany: Hogrefe & Huber Publishers.
+Draguns, J. R., Krylova, A. V ., Oryol, V . E., Rukavishnikov, A. A., & Martin, T.
+A. (2000). Personality characteristics of the Nentsy in the Russian Arctic.
+American Behavioral Scientist, 44, 126-140.
+Epstein, Seymour. 1979. The Stability of Behavior: I. On Predicting Most of the
+People Much of the Time. Journal of Personality and Social Psychology  37:
+1097–1126.
+Fleeson, William. 2001. Towards a Structure- and Process-Integrated View of
+Personality: Traits as Density Distributions of States. Journal of Personality and
+Social Psychology 80: 1011–1027.
+Fleeson, William. 2004. Moving Personality Beyond the Person-Situation Debate:
+The Challenge and Opportunity of Within-Person Variability. Current Directions
+in Psychological Science 13: 83–87.
+Funder, David C. 2005. Toward a Resolution of the Personality Triad: Persons,
+Situations, and Behaviors. Journal of Research in Personality 40: 21–34.
+Goldberg, L. R. (1992). The development of markers for the Big-Five factor
+structure Psychological Assessment, 4, 26-42.
+Guimond, S., Brunot, S., Chatard, A., Garcia, D. M., Martinot, D., Branscombe,
+N. R., et al. (2007). Culture, gender, and the self: V ariations and impact of social
+comparison processes. Journal of Personality and Social Psychology, 92, 1118-
+1134.
+Guthrie, G. M., & Bennett, A. B. (1971). Cultural differences in implicit
+personality theory. International Journal of Psychology, 6, 305-312.
+
+===== PAGE 17 =====
+71
+Key Issues in PersonalityHalim, M. S. (2001). Coping and quality of life in Indonesian breast cancer
+patients. Unpublished doctoral dissertation, Catholic University of Nijmegen.
+Heine, S. J., Buchtel, E. E., & Norenzayan, A. (2008). What do cross-national
+comparisons of personality traits tell us?: The case of conscientiousness.
+Psychological Science, 19, 309-313.
+Hofstede, G . (2001). Culture’s consequences: Comparing values, behaviours,
+institutions, and organisations across nations (2nd ed.). Thousand Oaks, CA:
+Sage.
+Hofstede, G., & McCrae, R. R. (2004). Personality and culture revisited: Linking
+traits and dimensions of culture. Cross-Cultural Research, 38, 52-88.
+Jang, K. L., McCrae, R. R., Angleitner, A., Riemann, R., & Livesley, W. J. (1998).
+Heritability of facet-level traits in a cross-cultural twin sample: Support for a
+hierarchical model of personality. Journal of Personality and Social Psychology,
+74, 1556-1565.
+Jung, C. J. (1976). The portable Jung. (J. Campbell, Ed.) New York, NY: Penguin
+Books.
+McCrae, R. R. (2001). Trait psychology and culture: Exploring intercultural
+comparisons. Journal of Personality, 69, 819-846.
+McCrae, R. R., & Costa, P . T., Jr. (2003). Personality in adulthood: A Five-
+Factor Theory perspective (2nd ed.). New York: Guilford.
+McCrae, R. R., & John, O. P . (1992). An introduction to the Five-Factor Model
+and its applications. Journal of Personality, 60, 175-215.
+McCrae, R. R., Terracciano, A., & 78 Members of the Personality Profiles of
+Cultures Project. (2005a). Universal features of personality traits from the
+observer’s perspective: Data from 50 cultures. Journal of Persoanlity and Social
+Psychology, 88, 547-561.
+Mischel, Walter. 1968. Personality and Assessment. New York: Wiley.
+Mischel, Walter, and Yuichi Shoda. 1995. A Cognitive-Affective System Theory
+of Personality: Reconceptualising Situations, Dispositions, Dynamics, and
+Invariance in Personality Structure. Psychological Review 102: 246–268.
+Perugini, M., & Richetin, J. (2007). In the land of the blind, the one-eyed man is
+king. European Journal of Personality, 21, 977-981.
+Piedmont, R. L., Bain, E., McCrae, R. R., & Costa, P. T., Jr. (2002). The
+applicability of the Five-Factor Model in a Sub-Saharan culture: The NEO-PI-R
+in Shona. In R. R. McCrae & J. Allik (Eds.), The Five-Factor Model of personality
+across cultures (pp. 155-173). New York: Kluwer Academic/Plenum Publishers.
+Poortinga, Y . H., V an de Vijver, F., & V an Hemert, D. A. (2002). Cross-cultural
+equivalence of the Big Five: A tentative interpretation of the evidence. In R. R.
+McCrae & J. Allik (Eds.), The Five-Factor Model across cultures (pp. 273-294).
+New York: Kluwer Academic/Plenum Publishers.
+
+===== PAGE 18 =====
+72
+Personality: Theories and
+Assessment
+Somer, O., & Goldberg, L. R. (1999). The structure of Turkish trait-descriptive
+adjectives. Journal of Personality and Social Psychology, 76, 431-450.
+Terracciano, A., Abdel-Khalak, A. M., Adam, N., Adamovova, L., Ahn, C.-k.,
+Ahn, H.-n., et al. (2005). National character does not reflect mean personality
+trait levels in 49 cultures. Science, 310, 96-100.
+Tupes, E. C., & Christal, R. E. (1992). Recurrent personality factors based on
+trait ratings. Journal of Personality, 60, 225-251. (Original work published 1961)
+Yang, J., Dai, X., Yao, S., Cai, T., Gao, B., McCrae, R. R., & Costa, P. T., Jr.
+(2002). Personality disorders and the Five-Factor Model of personality in Chinese
+psychiatric patients. In P. T. Costa, Jr. & T. A. Widiger (Eds.), Personality disorders
+and the Five-Factor Model of personality (2nd ed., pp. 215-221). Washington,
+DC: American Psychological Association.
+Yang, K. S., & Lee, P . H. (1971). Likeability, meaningfulness and familiarity of
+557 Chinese adjectives for personality trait description. Acta Psychologica
+Taiwanica, 13, 36-37. (in Chinese)

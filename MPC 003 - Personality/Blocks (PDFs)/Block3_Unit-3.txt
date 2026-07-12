@@ -1,0 +1,752 @@
+
+
+===== PAGE 1 =====
+32
+Theories of Personality-II
+UNIT 3 HANS EYSENCK: A TRAIT-TYPE
+THEORY OF PERSONALITY
+Structure
+3.0 Introduction
+3.1 Objectives
+3.2 Type Theory of Personality
+3.3 Sheldon’s Somatotype Personality
+3.4 Ayurvedic Body Types (Doshas)
+3.5 Jungian Personality Types
+3.6 Type A and Type B Personalities
+3.7 Block’s Personality Types
+3.7.1 Strengths and Limitations of Personality Types
+3.8 Eysenck’s Trait Type Theory
+3.8.1 Hierarchical Taxonomy
+3.8.2 Three Dimensions of Personality
+3.8.3 Causal  Aspects
+3.9 Neurophysiological basis of Traits and Types
+3.9.1 Extraversion and Cortical Arousal
+3.9.2 Neuroticism and Visceral Activation
+3.9.3 Psychoticism and Gonadal Hormones
+3.10 Basic Personality Types
+3.11 Measurement of Personality
+3.11.1 Differences between Introverts and Extraverts
+3.12 Let Us Sum Up
+3.13 Unit End Questions
+3.14 Glossary
+3.15 Suggested Readings and References
+3.0 INTRODUCTION
+The type theories are slightly different from the trait theories. While type theories
+are discontinuous the trait theories are in a continuum. According to Eysenck the
+goal of psychology is to predict behaviour. In this Eysenck concurs with the
+view of Cattell who also believed that the goal of psychology is to predict
+behaviour. Eysenck’s approach is more theoretically anchored than is Cattell’s.
+He suggests that not more than three supertraits (which he calls types) are needed
+to account for most of human behaviour (Cattell accounts to at least 16 traits or
+factors of personality). Eysenck places far more importance on genetic factors in
+personality development than does Cattell, but he also does not completely ignore
+the environmental or situational influences on personality. The present unit delves
+deep into the Eysenck’s theory of personality. It provides definition, description
+and the dynamics of the theory.
+
+===== PAGE 2 =====
+33
+Hans Eysenck: A Trait-
+Type Theory of Personality3.1 OBJECTIVES
+After reading this unit, you will be able to:
+• Define personality types;
+• Differentiate between type and trait theories;
+• Explain Eysenck’s theory of personality; and
+• List out the applications of this theory.
+3.2 TYPE THEORY OF PERSONALITY
+Personality type theory aims to classify people into distinct categories , that is
+this type or that.  Personality types are synonymous with “personality styles”.
+Types refer to categories that are distinct and discontinuous. For example, a
+person may be humorous or drab type. That is the person is either this type or
+that type. This is important to understand, because here it is either or of a type.
+There is a discontinuity between the types. The person is humourous or not. On
+the other hand in the trait theory the traits are ciontinuous in that the trait concerned
+can be placed in a continuum and can coexist with other traits also. This distinction
+between type and trait theory is to be kept in mind.
+One example of the difference between types and traits, could be considered in
+terms of the introversion factor. Introversion can be viewed in the personality
+trait approach as:
+• That one can be anywhere on a continuum ranging from introversion to
+extraversion, with most people clustering in the middle, and fewer people
+towards the extremes.
+• In the case of introversion as a type, the person can be either an introvert or
+an extravert.
+Some of the well known and popular theories of personality type include the
+following:
+1) The four humours based personality types
+2) Sheldon’s personality types
+3) Ayurvedic body types
+4) Jungian types based on temperament
+5) Type A and Type B personalities
+6) J.Block’s three personality types.
+The above types are being considered below in greater detail.
+The Four Humors based personality types
+The ancient Greeks between 2000 BC to 0 AD, classified four types of humors
+in people based on the excess of one of the bodily fluids. Some of the names
+associated with this view are that of Hippocrates, Galen etc. Each of the humors
+corresponded to the individual’s character. These are presented in the table below:
+
+===== PAGE 3 =====
+34
+Theories of Personality-II Table: Types of Character as related to humor and fluids of the body
+Character Humour Fluid Corresponding trait in the Big 5
+Irritable Choleric Y ellow bile Agreeableness
+Depressed Melancholic Black bile Neuroticism
+Optimistic Sanguine Blood Openness to experience
+Calm Phlegmatic Phlegm Neuroticism
+From the above it is seen that persons with choleric humor and dominance of
+yellow bile witll have an irritable personality. The person with black bile will be
+melancholic in humor and the personality associated with this is one depressed
+personality. Thus humors and bodily fluids made up the type of personality an
+individual has.
+3.3 SHELDON’S SOMATOTYPE PERSONALITY
+William Sheldon identified three main types of personality called as somatotype
+in which he called three types of personality viz., endomorph, ectomorph and
+mesomorph. Endomorph is also referred to as viscerotonic and refers to a relaxed
+character, sociable, tolerant, comfort loving, and peaceful. Such person’s body
+build is plump and buxom. The mesomorph type of personality is generally an
+active type, assertive, vigorous and combative and their body is muscular. The
+ectomorph is a quiet type, fragile, restrained , non assertive , sensitive with a
+body that of lean, delicate and poor muscles. No one person is purely of a particular
+type. There is always a combination of the personality types. Hence Sheldon
+further classified a person’s somatotype and giving a rating of 1 to 7 on each of
+the three body types. In this scale 1 indicated very low and 7 indicated very high
+and in between there were more or less of the types of personality identified.
+To give examples, one could state that a stereotypical basket ball player will be
+ectomorph (7), endomorph (1) and mesomorph (1). On the other hand a wrestler
+like Mohammed Ali will be endomorph (1), mesomorph (7) and ectomorph (1).
+More specifically a common man walking on the street would be for instance a
+lanky individual will have ectomorph (5), endomorph (2) and mesomorph (3).
+An example of a person of average height who is moderately muscular will be
+endomorphic (4), mesomorphic (5) and ectomorphic (3) . An example of a person
+with a heavy build, will be ectomorphic (3), mesomorphic (3) and endomorphic (5).
+Sheldon measured the proportions of hundreds of juvenile delinquent boys and
+concluded that they were generally mesomorphs.
+Body types have been criticised for very weak empirical methodology and are
+not generally used in psychology.  The use of somatotyping is more often seen in
+alternative therapies and Eastern psychology and spirituality.
+Self Asssessment Questions
+1) Discuss the Type theory of personality.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+===== PAGE 4 =====
+35
+Hans Eysenck: A Trait-
+Type Theory of Personality2) What are the characteristic features of type theory of personality? How
+is it different from trait theory?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) Elucidate Sheldon’s somatotype personality.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4) Give examples of endomorphic, ectomorphic and mesomorphic type
+personality.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3.4 AYURVEDIC BODY TYPES (DOSHAS)
+In Ayurvedic medicine there are three main metabolic body types called as ‘doshas’
+and these three doshas are ‘V ata’, ‘Pita’ and ‘Kapha’. These are given in the
+table below:
+Table: Ayurvedic doshas, character and shape.
+Ayurvedic
+Doshas
+(Sheldon
+Somatotype)
+V ata
+(Ectomorph)
+Character
+Changeability, unpredictability,
+variability in size, shape, mood,
+and action. Moody, enthusiastic,
+imaginative, and impulsive.
+Quick to grasp ideas and  good at
+initiating things but poor at
+finishing them. Energy fluctuates,
+with jagged peaks and valleys,
+Able, tolerant, comfort-loving,
+peaceful
+Shape
+Slender with prominent
+features, joints, and veins, with
+cool, dry skin. Eat and sleep
+erratically. Prone to anxiety,
+insomnia, premenstrual
+syndrome (in women) , and
+constipation.
+
+===== PAGE 5 =====
+36
+Theories of Personality-II
+Table constructed from information at http://www.newyorkbodyscan.com/
+ayurvedic-medicine.html
+3.5 JUNGIAN PERSONALITY TYPES (MYERS-
+BRIGGS AND THE FOUR TEMPERAMENTS)
+Jungian psychological types are probably the most widely used and amongst the
+best-known in everyday life.  Jung viewed the ultimate psychological task as the
+process of individuation, based on the strengths and limitations of the
+psychological type.
+Myers-Briggs developed the Myers-Briggs Type Indicator, a commercially
+available questionnaire, which is widely used in business, training, etc. This
+provides information and exercises for better understanding of one’s own
+personality type and that of others with whom the individual interacts and works.
+Underlying all these typologies are four personality functions:
+Extroversion (E) — Introversion (I)
+Do you recharge your energy via external contact and activity (Extroversion) or
+spending time in your inner space (Introversion)?
+Intuition (N) — Sensing (S)
+Do you rely on your inner voice (Intuition) or observation (Sensing)?
+Thinking (T) — Feeling (F)
+When making decisions, what do you rely most on?  Your thoughts or your
+feelings?
+Judgement (J) — Perception (P)
+Do you tend to set schedules and organise your life (Judgement), or do you tend
+to leave the options open and see what happens (Perception)?
+Ayurvedic
+Doshas
+(Sheldon
+Somatotype)
+Pita
+(Mesomorph)
+Kapha
+(Endomorph)
+Character
+Relatively predictable.
+quick, articulate, biting intelligence,
+and can be critical or passionate
+with short, explosive tempers.
+Efficient and moderate in daily
+habits, eats and sleeps regularly.
+Relaxed. Slow to anger, slow to
+eat, slow to act. They sleep long
+and heavily. Tends to
+procrastinate and be obstinate.
+Shape
+Medium build, strength, and
+endurance. Well proportion and
+easily maintains a stable weight.
+Often fair haired, red or blond,
+ruddy complexion.Tends to
+sweat heavily and are warm and
+often thirsty. Prone to acne,
+ulcers, hemorrhoids, and
+stomach ailments.
+Solid, heavy, and strong, with
+a tendency to be overweight,
+slow digestion and somewhat
+oily hair, and cool, damp, pale
+skin. Prone to high cholesterol,
+obesity, allergies, and sinus
+problems.
+
+===== PAGE 6 =====
+37
+Hans Eysenck: A Trait-
+Type Theory of Personality
+Using the letters above, it is possible to have a unique 4 letter code to indicate
+each of the 16 Jungian personality types, e.g., I am an INTJ. (Introvertive, Intuitive,
+Thinking and Judging type of personality.)
+Keirsey has renamed and reconceptualised the Jungian types, but they relate
+very closely to the Jungian types.  Keirsey refers to “temperaments” rather than
+personality.
+3.6 TYPE A AND TYPE B PERSONALITIES
+Meyer Friedman, gave this term. He was a cardiologist and his patients were
+made to wait in a sitting room where he had put some sofas. He found that
+interestingly the patients who were very tense and impatient sat at the edge of
+the sofas and these areas had become worn out. He hypothesised that his patients
+were driven, impatient people, who sat on the edge of their seats when waiting. 
+He labelled these people “Type A” personalities.  Type A personalities are
+workaholics, always busy, driven, somewhat impatient, and so on. Type B
+personalities, on the other hand are laid back and easy going.  This tetrm is used
+quite often in both scientific research and in common parlance.
+Self Assessment Questions
+1) What are the different Ayurvedic type personality?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) How will you compare this with Sheldon’s somatotype?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) What are Jungian personality types?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4) Explain Myer Briggs 16 personality types.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+===== PAGE 7 =====
+38
+Theories of Personality-II
+3.7 BLOCK’S PERSONALITY TYPES
+J. Block (1971) identified 3 personality types based on his work with adolescent
+boys. The three types were, for instance
+i) Well-adjusted or Resilient person: adaptable, flexible, resourceful,
+interpersonally successful.
+ii) Overcontrolling: this is a maladjusted type, uptight, and difficult to deal
+with person.
+iii) Undercontrolled: another maladjusted type, impulsive, risky, delinquent or
+even criminal behaviour; unsafe sex etc.
+While type theories of personality remained popular for a period of time, these
+theories were criticized as being too simple and that which did not take into
+consideration the multidimensional aspects and the continuous nature of the
+personality traits. Despite criticisms against type theories of personality, there
+are yet certain strengths in these types of personality theories even though
+considerable weaknesses have been identified.
+3.7.1 Strengths and Limitations of Personality Types
+Type theory in general has been criticised as over simplistic because it overlooks
+the multi dimensional and continuous nature of personality traits.
+Individual differences may be qualitative but not quantitative. In other words,
+there may be a difference in the qualities of personality traits that people possess
+rather than how much of a trait that one possesses. So measurement of these
+aspects in quantitative terms is rather difficult.
+A key strength of the personality type approach, is its simple applicability and
+person centered relevance.  For example one may be able to complete personality
+type profiles for helping improve how people get along in relationships and at
+work.
+Self Assessment Questions
+1) What are Type A and Type B personality types?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) What were the three personality types put forward by J.Block?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+===== PAGE 8 =====
+39
+Hans Eysenck: A Trait-
+Type Theory of Personality3.8 EYSENCK’S TRAIT-TYPE THEORY
+Eysenck, Hans Jurgen 1916-97, was a British psychologist. He was known for
+his theory of human personality. He suggested that personality is biologically
+determined and is arranged in a hierarchy consisting of types, traits, habitual
+responses, and specific responses. Eysenck did not believe in Freudian
+psychoanalysis as he considered it rather unscientific.
+1.8.1 Hierarchical Taxonomy
+According to Eysenck Personality can be studied from either temperamental or
+cognitive aspects, or both He focussed on the temperament aspect of personality
+in his PEN model. For better understanding of the PEN model, therefore, the
+study should begin with its description or taxonomy of personality or
+temperament.
+As Eysenck (1991) states, “In any science, taxonomy precedes causal analysis”
+(p. 774). In the course of taxonomy (classification) , any organisms can be
+organised into groups based on characters and their relationships. Eysenck
+describes in plain terms how taxonomy in the study of personality can be achieved
+using the correlational technique called factor analysis:
+In the case of personality study the organisms concerned are human beings, the
+characters are traits, measured by experiment, by rating, by self-rating, or in
+some other way. Traits can be correlated over subjects, or subjects over traits,
+giving us groups of people showing similarity over traits, or groups of traits,
+cohering as factors over people. We can then look at the traits (or people) having
+the highest factor loadings in order to better identify the trait clusters. (Eysenck,
+1991, p. 775)
+Individual differences in personality or temperament are analysed in terms of
+traits, which can be defined as theoretical constructs based on “covariation of a
+number of behavioural acts” (Eysenck & Eysenck, 1985, p. 12). However,
+Eysenck (1991) further supposes that traits themselves intercorrelate and make
+up higher-order factors or superfactors, which Eysenck calls “types.”
+As a result, the PEN (Psychoticism Extraversion and Neuroticism) model
+proposes a hierarchical classification of personality containing four levels.
+At the very bottom level of the hierarchy are behaviours such as talking with a
+friend on a single occasion.
+At the second level are habits such as talking with friends on multiple occasions,
+which are comprised of recurring behaviours.
+The third level of the hierarchy is that of traits or factors such as sociability,
+which are comprised of intercorrelated sets of habits.
+At the top of the hierarchy are superfactors or dimensions of personality such as
+extraversion, which are intercorrelated sets of traits or factors.
+Eysenck suggests three such superfactors: extraversion (E), neuroticism (N), and
+psychoticism (P). These three superfactors or dimensions of personality are
+orthogonal to each other, which means that they do not correlate with each other
+(Eysenck & Eysenck, 1985).
+
+===== PAGE 9 =====
+40
+Theories of Personality-II The PEN model is based on the principle of “aggregation,” in which measures
+will have higher reliability if they are comprised of many items (Eysenck, 1990).
+That is, each superfactor in the PEN model is comprised of many different factors,
+habits, and behaviours, and thus reliability of measurement is increased.
+The superfactors of extraversion, neuroticism, and psychoticism at the top level
+of the hierarchy are stable, whereas behaviours such as talking with a friend on a
+single occasion at the bottom of the hierarchy are changeable across time and
+situation. In this respect, the distinction between levels is very important for the
+analysis of personality in the PEN model.
+3.8.2 Three Dimensions of Personality
+Eysenck strongly advocates that there are only three major dimensions or
+superfactors in the description of personality: extraversion-introversion; emotional
+stability versus instability, or neuroticism; and psychoticism versus impulse
+control (Eysenck & Eysenck, 1985).
+In the PEN model, these dimensions or superfactors are based on “constitutional,
+genetic, or inborn factors, which are to be discovered in the physiological,
+neurological, and biochemical structure of the individual” (Eysenck & Eysenck,
+1985, pp. 42-43).
+Each person does not necessarily have either 100 percent or zero percent of
+extraversion, neuroticism, or psychoticism. An individual may show some degree
+of these superfactors on the continuum. A person may have high extraversion,
+moderate neuroticism, and low psychoticism. Eysenck suggests after studying
+psychosis:
+1) Psychotic symptoms and illnesses do not form completely separate diagnostic
+entities.
+2) Psychosis is not a separate diagnostic entity which is categorically separated
+from normality
+3) This continuum is co-linear with the concept of psychoticism, embodied in
+the P scale of the EPQ.
+On this continuum, a person with high extraversion is sociable, popular,
+optimistic, and rather unreliable, whereas a person with low extraversion is quiet,
+introspective, reserved, and reliable. A person with high neuroticism is anxious,
+worried, moody, and unstable, whereas a person with low neuroticism is calm,
+even-tempered, carefree, and emotionally stable. A person with high psychoticism
+is troublesome, uncooperative, hostile, and socially withdrawn, whereas a person
+with low psychoticism is altruistic, socialised, empathic, and conventional
+(Eysenck & Eysenck, 1985).
+3.8.3 Causal Aspects
+Based on a three-dimensional description of personality, the PEN model further
+attempts to provide causal explanation of personality. The PEN model looks for
+psychophysiological, hormonal, and other biological mechanisms responsible
+for the personality dimensions, so that the theory can be tested by scientific
+experiments. Eysenck and Eysenck (1985) clearly contend that “no theory would
+be considered valid that did not make testable and verified predictions” (p. 187).
+Consequently, Eysenck (1990) proposes the arousal theory, by modifying his
+inhibition theory to explain the causal roots of the three dimensions of personality.
+
+===== PAGE 10 =====
+41
+Hans Eysenck: A Trait-
+Type Theory of PersonalitySelf Assessment Questions
+1) Elucidate the Trait Type theory of personality by Eysenck.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) What is meant by Hierarchical Taxonomy? How is personality types
+conceived of by Eysenck in terms of the taxonomy?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) What are the three dimensions of personality?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+4) Define and describe the causal aspects of personality according to
+Eysenck.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3.9 NEUROPHYSIOLOGICAL BASIS OF TRAITS
+AND TYPES
+According to Aleksandrov and Shchukina (1992), the neurophysiological indices
+of neurotic patients with different types of individual character and their dynamics
+are important factors of personality. They took 107 patients with different patterns
+of neuroses, who underwent group psychotherapy (a personality-oriented
+(reconstructive) variety).
+Analysis of the dynamics of the neurophysiological characteristics, made during
+group psychotherapy, supported the clinical data on varying curability of neurotic
+
+===== PAGE 11 =====
+42
+Theories of Personality-II patients with different types of character accentuations. For instance, Patients
+with the hysteroid type character accentuation appeared more resistant to
+psychotherapy.
+Eysenck also made an attempt to specify a neurophysiological basis for each of
+his three personality super traits or types. According to him, the super trait
+Introversion-extraversion is closely related to levels of cortical arousal  as
+indicated by electroencephalographic recordings.
+Eysenck(1982) used the term arousal to denote a continuum of excitation, ranging
+from a lower extreme (e.g.,sleep) to an upper extreme (e.g., state of panic). He
+was of the view that introverts are over aroused and thus are highly sensitive to
+incoming stimulation. For this reason, they avoided situations that are apt to
+overwhelm them.
+Extraverts are under aroused and thus are highly insensitive to incoming
+stimulation and thus they constantly seek out situations that are apt to excite
+them.
+Eysenck hypothesized that individual differences in stability vs neuroticism
+reflected the degree to which the autonomic nervous system reacts to stimuli. He
+linked this dimension with the limbic system, the brain’s visceral or feeling system,
+which influences motivation and emotional behaviour.
+He pointed out that persons high on neuroticism tend to react more quickly to
+painful, novel, disturbing, or other stimuli than do more stable persons. Such
+persons also exhibit a more persistent reaction (even after the stimulus has
+disappeared) than do highly stable persons.
+Eysenck’s neurophysiological interpretation of the dimensions of personality is
+closely related to his theory of psychopathology. He was of the view that the
+symptoms or disorders that befall a person are related to the combined impact of
+personality traits and nervous system functioning. For instance, the person who
+is high on the dimensions of introversion and neuroticism is more prone to develop
+anxiety disorders such as phobias, obsessions, and, compulsions. On the other
+hand, the person who is high on the extraversion and neuroticism dimensions is
+at a risk for psychopathic (antisocial) disorders.
+Eysenck stated that psychological disorders do not automatically occur as a result
+of genetic predisposition. These genetic predispositions when interact with the
+environment or a certain situation produce psychological disorders.
+3.9.1 Extraversion and Cortical Arousal
+According to the arousal theory, Eysenck (1990) provides a biological explanation
+of extraversion in terms of cortical arousal via the ascending reticular activating
+system (ARAS).
+Activity in the ARAS stimulates the cerebral cortex, which, in turn, leads to
+higher cortical arousal.
+Cortical arousal can be measured by skin conductance, brain waves, or sweating
+(Eysenck, 1990).
+
+===== PAGE 12 =====
+43
+Hans Eysenck: A Trait-
+Type Theory of Personality
+Because of the different levels of ARAS activity, “introverts are characterised by
+higher levels of activity than extraverts and so are chronically more cortically
+aroused than extraverts” (Eysenck & Eysenck, 1985, p. 197, emphasis added).
+Based on the Yerkes-Dodson law, which suggests that arousal and performance
+have an inverted-U relationship, the arousal theory of the PEN model assumes
+that “some intermediate level of arousal is optimal for performance” (Eysenck
+& Eysenck, 1985, p. 199).
+3.9.2 Neuroticism and Visceral Brain Activation
+Eysenck (1990) also explains neuroticism in terms of activation thresholds in
+the sympathetic nervous system or visceral brain. The visceral brain is also referred
+to as the limbic system, which consists of the hippocampus, amygdala, septum,
+and hypothalamus, and regulates such emotional states as sex, fear, and aggression.
+It is responsible for the fight-or-flight response in the face of danger. Heart rate,
+blood pressure, skin conductance, sweating, breathing rate, and muscular tension
+in the forehead can measure activation levels of the visceral brain.
+Neurotic individuals have greater activation levels and lower thresholds within
+the visceral brain. They are easily upset in the face of very minor stresses.
+However, emotionally stable people are calm under such stresses because they
+have lesser activation levels and higher thresholds (Eysenck, 1990).
+3.9.3 Psychoticism and Gonadal Hormones
+Eysenck (1990) also provides a biological explanation of psychoticism in terms
+of gonadal hormones such as testosterone and enzymes such as monoamine
+oxidase (MAO).
+Eysenck (1992a) reports that “low platelet monoamine oxydase (MAO) has been
+found in psychotic patients, and also in their relatives and inpatients who have
+recovered, suggesting that low MAO activity may be a marker for ‘vulnerability’”
+(p. 774).
+All things considered, the PEN model has contributed to the study of personality
+in three distinctive ways.
+1) It combines both descriptive and causal aspects of personality in one theory
+(Eysenck, 1997; Stelmack, 1997). This characteristic clearly distinguishes
+the PEN model from most other trait theories such as the five-factor model
+(Costa & McCrae, 1992a, 1992b; Eysenck, 1991, 1992b, 1992c).
+2) It provides causal explanations in addition to the description of personality.
+3) The PEN model is supported by more credible evidence than purely
+descriptive models.
+4) The PEN model is comprehensive in description by proposing a hierarchy
+of four levels and by making a clear distinction among those levels.
+5) Finally, the PEN model becomes most compelling because of its experimental
+approach to the study of personality, which makes the model more testable.
+Consequently, the PEN model is likely to generate more specific predictions
+about personality.
+
+===== PAGE 13 =====
+44
+Theories of Personality-II Thus the essence of Eysenck’s Trait-Type theory is that
+1) Elements of personality can be arranged hierarchically.
+2) Certain supertraits or types, such as extraversion, exert a powerful influence
+over behaviour.
+3) These supertraits comprised of several component traits, and these component
+traits either are more superficial reflections of the underlying type dimension,
+or are specific qualities that contribute to that dimension.
+According to Eysenck, traits are composed of numerous habitual responses,
+which, in turn, are derived from a multitude of specific responses.
+The trait of sociability correlates with such response dispositions as activity,
+liveliness, assertiveness etc. Taken together, these traits define a super trait or
+type Eysenck calls extraversion.
+In considering Eysenck’s hiearchichal model of personality structure, it should
+be noted that the word “type” refers to dimensions of personality that he regards
+as normally distributed along a continuum. This is almost equivalent to traits.
+Thus, for example, the type concept of extraversion is a dimension with a low
+end and a high end along which people may fall at various points between the
+two extremes. It is not a dimension on which people can be classified as either
+low or high. Eysenck does not imply discontinuity when he uses the word “type”.
+Self Assessment Questions
+1) Describe the neurophysiological basis of trait and types.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) How does Eysenck explain extraversion in terms of neurophysiological
+explanation
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3) How is Neuroticism explained in terms neurophysiological mechanism?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+===== PAGE 14 =====
+45
+Hans Eysenck: A Trait-
+Type Theory of Personality4) How does Eysenck connect psychoticism to Gomadal hormones.
+Explain?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+3.10 BASIC PERSONALITY TYPES
+Eysenck used a variety of methods for gathering information about people in
+order to delineate their personality. These methods included self-reports, observer
+ratings, biographical information, assessments of physique and physiology, and
+objective physiological tests. These data are factor analysed to determine the
+structure of personality. Initially Eysenck found two basic type dimensions that
+he labeled as introversion-extraversion  and neurotocism-stability (a factor
+sometimes called instability-stability).
+Eysenck (1976) added a third type dimension of personality, which he called
+psychoticism-superego strength. People high on this super trait dimension tend
+to be egocentric, impulsive, sensitive to others, and opposed to social customs.
+They are often seen as:
+i) troublesome,
+ii) not fitting in well with others, and
+iii) intentionally upsetting other people.
+Eysenck suggested that psychoticism is a genetic predisposition toward becoming
+either psychotic or psychopathic. He regarded psychoticism as a personality
+continuum along which all people can be located. He also added that this trait is
+found more commonly in men than in women.
+3.11 MEASUREMENT OF PERSONALITY
+Eysenck constructed a number of self-report questionnaires to assess individual
+differences associated with his three super trait dimensions of personality. One
+of the more popular scale is the EPQ that is Eysenck Personality Questionnaire
+(EPQ) (Eysenck &Eysenck, 1975). EPQ includes a lie scale aimed at detecting a
+person’s tendency to fake responses to look good. A junior EPQ has been
+constructed for use with children between the ages of 7 and 15 (Eysenck &
+Eysenck,1973).
+3.11.1 Differences Between Introverts and Extraverts
+Eysenck argues that individual differences in behavioural functioning can be
+discovered through factor analysis and measured through the use of questionnaires
+and laboratory procedures.
+A review of studies (Wilson,1978) conclude that
+1) Extraverts have a greater tolerance for pain than do introverts.
+
+===== PAGE 15 =====
+46
+Theories of Personality-II 2) They engage in more talk and coffee breaks at work than do introverts.
+3) Excitement enhances their perforemance whereas it interferes with the
+performance of introverts.
+4) Introverts prefer theoretical and scientific vocations(e.g., engineering and
+chemistry, whereas extraverts tend to prefer people-oriented jobs(e.g., sales
+and social work).
+5) Introverts report more frequent masturbation than do extraverts, but extraverts
+engage in sexual intercourse earlier in life, more often, and with more partners
+than do introverts.
+6) Introverts attain higher grades in college than do extraverts.
+7) Also students who withdraw from college for psychiatric reasons tend to be
+introverts, whereas those who withdraw for academic reasons tend to be
+extraverts.
+8) Introverts show higher arousal levels in the mornings, whereas extraverts
+show higher arousal levels in the evening.
+9) Introverts work better in the morning, and the extroverts work better in the
+afternoon.
+One of the most striking differences between introverts and extraverts is in their
+sensitivity to stimulation. This difference can be easily demonstrated by the
+“lemon drop test”(Corcoran,1964).When four drops of lemon juice are placed
+on a person’s tongue, it turns out that introverts secrete almost twice the amount
+of saliva as do extraverts.
+The basis of this finding is related to different patterns of physiological functioning
+in introverts and extraverts. Eysenck proposes that ascending reticular activating
+system in the brain stem is responsible for controlling the differences in response
+to stimulation between introverted and extraverted subjects.
+3.12  LET US SUM UP
+The trait-type theory of Eysenck is based on factor analysis. His hierarchichal
+model of personality structure includes the dimensions of types, traits, habitual
+responses, and specific responses. Types represent supertrait dimensions along
+which people may be located at various points between two extremes. Eysenck
+suggests that personality types are dimensional and that most people do not fall
+into separate categories. Eysenck sees only two major types or traits as underlying
+personality structure: introversion-extraversion and stability-neuroticism. At a
+later stage he also added one more dimension that is psychoticism and super ego
+strength. The differences in these two supertraiots, as well as a third factor called
+psychoticism-superego strength, are closely related to differences in
+neurophysiological functioning. Eysenck places far more emphasis on the genetic
+foundations of traits than does Cattell. However accordfing to Eysenck the genetic
+predisposition when interacts with the environmental factors produce the requisite
+behaviours which may be normal or abnornmal.
+Eysenck has developed several questionnaires to assess the three major supertraits
+underlying his hierarchichal model of personality.EPQ is the most important
+tool to assess the differences between introverts and extraverts.
+
+===== PAGE 16 =====
+47
+Hans Eysenck: A Trait-
+Type Theory of Personality3.13  UNIT END QUESTIONS
+1) Discuss the Type theory of personality highlighting the characteristic features
+2) How does type theory differ from trait theory of personality?
+3) Discuss and compare the Sheldon somatotype personality with that of
+Ayurvidc body type.
+4) Discuss Jungian Personality types and indicate how the EPQ was devised.
+5) Elucidate Eysenck’s trait type theory of personality.
+6) Give neurophysiological explanations for neuroticism, exteraversion and
+psychoticism.
+7) How do you measure personality according to Eysenck?
+8) What are the basic personality types?
+9) Differentiate between extraversion and introversion personality types.
+3.14  GLOSSARY
+Extraversion : One end of the introversion-extraversion type
+dimension of personality characterised by a
+tendency to be sociable , impulsive, and excitable.
+Introversion : One end of the introversion-extraversion type
+dimension of personality characterised by a tendency
+to be reserved , controlled ,and introspective.
+Neuroticism : One end of the neuroticism-stability type
+dimension of personality characterised by a
+tendency to be anxious, moody, and depressed.
+Psychoticism : One end of the neuroticism-stability type
+dimension of personality characterised by a
+tendency to be solitary and insensitive to others.
+Stability : One end of the neuroticism-stability type
+dimension of personality characterised by a
+tendency to be calm, controlled and unemotional.
+Superego strength : One end of the psychoticism-superego strength
+type dimension characterised by a tendency to be
+empathetic, sensitive, and cooperative.
+Supertrait : General and continuous trait dimensions,such as
+introversion-extraversion, that exert a powerful
+influence on behaviour.
+3.15  SUGGESTED READINGS AND REFERENCES
+Eysenck,H.J.(1976).Sex and Personality. Austin: University of Texas Press.
+Eysenck,H.J.(1982). Personality, Genetics, and Behaviour. New York: Praeger.
+
+===== PAGE 17 =====
+48
+Theories of Personality-II Hjelle,L.A. & Zieglar, D.J.(1992). Personality Theories: Basic Assumptions,
+Research and Applications. McGraw-Hill,Inc
+References
+Corcoran,D.W.(1964). The relation between introversion and salivation.American
+Journal of Psychology,77,298-300.
+Eysenck,S.B.,& Eysenck,H.J.(1973).Test –retest reliabilities of a new personality
+questionnaire for children.British Journal of Psychology,43,26-130.
+Eysenck,S.B.,& Eysenck,H.J.(1975).Manual of the Eysenck Personality
+Questionnaire. San Diego,CA:EdITS.
+Maddi,S.R.(1989).Personality Theories:A comparative analysis(5
+th edition) .
+Homewood,IL:Dorsey Press.
+Mischel,W.(1968).Personality and assessment. New York :Wiley.
+Pervin,L.A.(1989).Personality:Theory and research(5
+th edition).New York:Wiley.
+Wilson,G .(1978).Introversion/extroversion.In H.London & J.E. Exner (Eds.).
+Dimensions of personality(pp. 217-261).New York:Wiley.

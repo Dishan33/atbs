@@ -1,0 +1,558 @@
+
+
+===== PAGE 1 =====
+49
+Hans Eysenck: A Trait-
+Type Theory of PersonalityUNIT 4 THE BIG FIVE FACTORS: THE
+BASIC DIMENSIONS OF
+PERSONALITY
+Structure
+4.0 Introduction
+4.1 Objectives
+4.2 Definition of the Big Five Factors
+4.2.1 Discovery of the Big Five in Cattell’s Variable List
+4.3 The Big Five Theory
+4.3.1 Five Factor Model
+4.3.2 Theoretical Perspectives on the Big Five: Description and Explanation
+4.3.3 Advantages of the Big Five Structure
+4.4 Measurement of the Big Five Inventory (BFI)
+4.4.1 Big Five Personality Traits in Psychology
+4.4.2 Important Characteristics of the Five Factors
+4.4.3 Major Proponents of the Big Five and the Lexical Basis
+4.4.4 Best Ways to Describe Personality
+4.5 Let Us Sum Up
+4.6 Unit End Questions
+4.7 Glossary
+4.8 Suggested Readings and References
+4.0 INTRODUCTION
+Research conducted during the last few decades has converged on the conclusion
+that infact, there may be only five key or central dimensions of personality instead
+of many personality dimensions. The trait and type theorists put forward many
+dimensions of personality and delineated the characteristic features of the traits.
+Using factor analysis from amongst a large number of dimensions, the researchers
+identified clusters of dimensions and these formed the personality factors. Thus
+the Big 5 personality dimensions are identified clusters of personality traits and
+these can be delineated by a measurement tool (questionnaire). These are being
+discussed in detail in this unit.
+4.1 OBJECTIVES
+After completing this unit, you will be able to:
+• Define the Big 5 factor dimensions of personality;
+• Explain the Big 5 factors;
+• Analyse the methods by which the five factors were extracted; and
+• Describe the methods by which these factors could be measured.
+
+===== PAGE 2 =====
+50
+Theories of Personality-II
+4.2 DEFINITION OF THE BIG FIVE FACTORS
+Personality has been conceptualised from many theoretical perspectives. Each
+has contributed to understanding of individual differences in behaviour and
+experience. However so many personality scales to measure personality came
+about as a result of continuing research and one had not overall rationale to use
+a particular scale.
+Thus personality psychology needed a descriptive model, a taxonomy of its subject
+matter. One of the goals of taxonomie is to bring a number of specific instances
+within a domain so as to understand it in a simple way. Thus in personality the
+taxonomy will help to study specified domains of personality characteristics,
+instead of examining separately thousands of particular attributes that make
+individuals unique.
+The Big Five personality dimension is the result of finding a general taxonomy
+and these dimensions do not represent a particular theoretical perspective but
+derived from people’s description of themselves and others in their natural
+language. The Big Five instead of replacing the earlier systems, serves as an
+integrative mechanism and represents the various and diverse systems of
+personality description in a common framework.
+Allport and Odbert’s classifications provided some initial structure for the
+personality lexicon. Since taxonomy has to provide a systematic framework for
+distinguishing, ordering and naming individual differences in people’s behaviour
+and experience, they took a list of a large number of personality traits used in
+common parlance. The size of that list was so huge that Cattell (1943) began
+with a subset of 4500 trait items. Using semantic and empirical clustering
+procedures Cattell reduced the 4500 items to a mere 35 variables. He used these
+small set of variables to identify 12 personality factors which eventually became
+a part of his 16 PF questionnaire.
+4.2.1 Discovery of the Big Five in Cattell’s Variable List
+Cattell’s work gave impetus to many research investigations and many were
+involved in the discovery and clarification of the Big Five dimensions. First,
+Fiske (1949) constructed simplified description from 22 variables of Cattell.
+The factor structure were obtained from self ratings etc. They worked out a
+correlational matrix from different samples and found clusters which they called
+the Big five.
+This five factor structure has been replicated by many in lists derived from Cattell’s
+35 variables. These factors were initially labeled as (i) Extraversion or Surgency
+(ii) Agreeableness (iii) Conscientiousness (iv) Emotional stability versus
+neuroticism and (v) Culture. These factors came to be known as the Big Five .
+These five dimension s represent personality at the broadest level of abstraction,
+and each dimension summarises a large number of distinct, more specific
+personality characteristics.
+Following Fiske’s research, there were attempts by other researchers including
+Norman (1967), Smith (1967), Goldberg (1981), and McCrae & Costa (1987).
+
+===== PAGE 3 =====
+51
+The Big Five Factors: The
+Basic Dimensions of
+Personality
+The “big five” are broad categories of personality traits. While there is a significant
+body of literature supporting this five-factor model of personality, researchers
+do not always agree on the exact labels for each dimension. However, these five
+categories are usually described as follows:
+Extraversion:  This is also called as Surgency. The broad dimension of
+Extraversion encompasses specific traits as talkative, energetic, and assertive.
+More specifically these include characteristics such as excitability, sociability,
+talkativeness, assertiveness, and high amounts of emotional expressiveness.
+Agreeableness: This factor includes traits like sympathetic, kind, and affectionate.
+It also includes attributes such as trust, altruism, kindness, affection, and other
+prosocial behaviours.
+Conscientiousness: This includes traits like organised, thorough, and planful
+tendencies. Common features of this dimension include high levels of
+thoughtfulness, with good impulse control and goal-directed behaviours. Those
+high in conscientiousness tend to be organised and mindful of details.
+Neuroticism: This is sometimes reversed and called Emotional Stability. This
+dimension includes traits like tense, moody, and anxious. Individuals high in
+this trait tend to experience emotional instability, anxiety, moodiness, irritability,
+and sadness.
+Openness to Experience: This is also called as Intellect or Intellect/Imagination.
+This dimension includes traits like having wide interests, and being imaginative
+and insightful. Those high in this trait also tend to have a broad range of interests.
+These dimensions represent broad areas of personality. Research has demonstrated
+that these groupings of characteristics tend to occur together in many people.
+For example, individuals who are sociable tend to be talkative. However, these
+traits do not always occur together. Personality is complex and varied and each
+person may display behaviours across several of these dimensions.
+Each of the Big Five factors is quite broad and consists of a range of more specific
+traits. The Big Five structure was derived from statistical analyses of which traits
+tend to co-occur in people’s descriptions of themselves or other people. The
+underlying correlations are probabilistic, and exceptions are possible. For
+example, talkativeness and assertiveness are both traits associated with
+Extraversion, but they do not go together by logical necessity. One could imagine
+somebody who is assertive but not talkative (the “strong, silent type”). However,
+many studies indicate that people who are talkative are usually also assertive
+(and vice versa), which is why they go together under the broader Extraversion
+factor.
+For this reason, one should be clear about the research goals when choosing the
+measures. If it expected that one has to to make finer distinctions (such as between
+talkativeness and assertiveness), a broad-level Big Five instrument will not be
+enough. One may have to use one of the longer inventories that make facet-level
+distinctions (like the NEO PI-R or the IPIP scales. or one could supplement a
+shorter inventory (like the Big Five Inventory) with additional scales that measure
+the specific dimensions that you are interested in.
+
+===== PAGE 4 =====
+52
+Theories of Personality-II It is also worth noting that there are many aspects of personality that are not
+subsumed within the Big Five. The term personality trait has a special meaning
+in personality psychology that is narrower than the everyday usage of the term.
+Motivations, emotions, attitudes, abilities, self-concepts, social roles,
+autobiographical memories, and life stories are just a few of the other “units”
+that personality psychologists study.
+Some of these other units may have theoretical or empirical relationships with
+the Big Five traits, but they are conceptually distinct. For this reason, even a very
+comprehensive profile of somebody’s personality traits can only be considered
+a partial description of their personality.
+4.3 THE BIG FIVE THEORY
+Let us see the difference between the terms Big Five, Five-Factor Model, and
+Five-Factor Theory.
+The Big Five are, collectively, a taxonomy of personality trait. It is a coordinate
+system that maps which traits go together in people’s descriptions or ratings of
+one another.
+The Big Five are an empirically based phenomenon, not a theory of personality.
+The Big Five factors were discovered through a statistical procedure called factor
+analysis, which was used to analyse how ratings of various personality traits are
+correlated in humans.
+The original derivations relied heavily on American and Western European
+samples, and researchers are still examining the extent to which the Big Five
+structure generalises across cultures.
+4.3.1 Five Factor Model
+The Five-Factor Model is a term used often instead of the “Big Five.” In scientific
+usage, the word “model” can refer either to a descriptive framework of what has
+been observed, or to a theoretical explanation of causes and consequences.
+The Five-Factor Model (i.e., Big Five) is a model in the descriptive sense only.
+The term “Big Five” was coined by Lew Goldberg and was originally associated
+with studies of personality traits used in natural language.
+The term “Five-Factor Model” has been more commonly associated with studies
+of traits using personality questionnaires. The two research traditions yielded
+largely consonant models and in current practice the terms are often used
+interchangeably. A subtle but sometimes important area of disagreement between
+the lexical and questionnaire approaches is over the definition and interpretation
+of the fifth factor, called Intellect/Imagination by many lexical researchers and
+Openness to Experience by many questionnaire researchers.
+4.3.2 Theoretical Perspectives on the Big Five: Description and
+Explanation
+Over the years many perspectives on the concept of the Big Five dimensions
+have been presented. As is known the Big Five were first discovered in lexical
+research to provide taxonomy of trait items and thus the factors were initially
+
+===== PAGE 5 =====
+53
+The Big Five Factors: The
+Basic Dimensions of
+Personality
+interpreted as dimensions of trait or attribution. Further research showed that the
+dimensions have external /predictive validity and all five of them show equal
+heritability. Since the Big Five dimensions refer to real individual differences,
+one must find out as to how these differences are conceptualised.
+Several theories conceptualise the Big Five as relational constructs. In
+Interpersonal theory the theoretical emphasis is on the individual in relationships.
+According to Sullivan (1953) the Big Five describe the enduring patterns of
+recurrent interpersonal situations that characterise human life. However, Wiggins
+and Trapnell (1996) are of the view that interpersonal motives are important and
+thus they interpret all the Big Five dimensions in terms of their interpersonal
+implications.
+Socioanalytic theory by Hogan (1996) focuses on the social functions of self and
+other perceptions and he points out that traits are socially constructed to serve
+interpersonal functions. As trait terms are about reputation that is the individual
+considers how others view them , the possibility of the person distorting the self
+reports and questionnaires is high. Thus self deceptive bias enters and one does
+not get the true picture of the individual’s personality.
+The evolutionary theory on the Big Five states that humans have evolved
+“difference detecting mechanisms” to perceive individual differences that are
+important for survival and reproduction(D.M. Buss & Shackelford, 1997). Buss
+views personality as one where the Big Five traits represent the most salient and
+important dimensions of the individual’s survival needs. This theory emphasises
+both person perception and individual differences and point out that the Big
+Five summarises the centrally important individual differences.
+McCrae and Costa (1996) view Big Five as causal personality dispositions. Their
+five factor theory (FFT) explains the Big Five taxonomy. According to FFT, the
+Big GFive imensions have a substantial genetic base and hence derive from
+biological structures and processes. According to this theory, personality traits
+are basic tendencies that refer to the underlying potentials of the individual. On
+the other hand attitudes, roles, relationships and goals are characteristic
+adaptations that reflect the interaction between the basic tendencies and
+environmental demands. While basic tendencies remain stable across life, the
+adaptations undergo considerable changes.
+Another theory is the comparative approach to personality that studies individual
+differences in both human and non humans. Thus there are a diverse theories
+regarding the Big Five dimensions from purely descriptive to biologically based
+causal concepts. These perspectives however are not mutually exclusive. Research
+in areas like behaviour genetics, molecular genetics, personality stability and
+change, and accuracy and bias in interpersonal perception will help in building
+and refining a comprehensive theory of Big Five.
+4.3.3 Advantages of the Big Five Structure
+The Big Five structure has the advantage of everyone being able to understand
+definitions and meanings used in describing this concept. Several of the
+dimensions of the Big Five especially Extraversion and Neuroticism have been
+explained both from physiological and mechanistic perspectives. In one sense,
+the Big Five differentiate domains of individual differences that have similar
+
+===== PAGE 6 =====
+54
+Theories of Personality-II surface manifestations. The Big Five structure is a major step ahead in that it
+captures the commonalities amongs most of the existing systems of personality
+description, and provides an integrative descriptive model.
+Five-Factor Theory includes a number of propositions about the nature, origins,
+and developmental course of personality traits, and about the relation of traits to
+many of the other personality variables mentioned earlier. Five-Factor Theory
+presents a biological account of personality traits, in which learning and
+experience play little if any part in influencing the Big Five.
+Five-Factor Theory is not the only theoretical account of the Big Five. Other
+personality psychologists have proposed that environmental influences, such as
+social roles, combine and interact with biological influences in shaping personality
+traits. For example, Brent Roberts has recently advanced an interactionist approach
+under the name Social Investment Theory.
+Finally, it is important to note that the Big Five are used in many areas of
+psychological research in ways that do not depend on the specific propositions
+of any one theory. For example, in interpersonal perception research the Big
+Five are a useful model for organising people’s perceptions of one another’s
+personalities. I have argued that the Big Five are best understood as a model of
+reality-based person perception. In other words, it is a model of what people
+want to know about one another (Srivastava, 2010).
+Regardless of whether you endorse any particular theory of personality traits, it
+is still quite possible that you will benefit from measuring and thinking about
+the Big Five in your research.
+4.4 MEASUREMENT OF THE BIG FIVE
+INVENTORY (BFI)
+Big Five Invantory (BFI) is a self-report inventory designed to measure the Big
+Five dimensions. It is quite brief for a multidimensional personality inventory
+(44 items total), and consists of short phrases with relatively accessible vocabulary.
+A copy of the BFI, with scoring instructions, is reprinted in the chapter as an
+appendix (the last 2 pages). It is also available through Oliver John’s lab website.
+No permission is needed to use the BFI for noncommercial research purposes
+(see below).
+What are other ways of measuring the Big Five?
+The BFI is not your only option for measuring the Big Five...
+The International Personality Item Pool, developed and maintained by Lew
+Goldberg, has scales constructed to work as analogs to the commercial NEO PI-
+R and NEO-FFI scales (see below). IPIP scales are 100% public domain - no
+permission required, ever.
+Colin DeYoung and colleagues have published a 100-item measure, called the
+Big Five Aspect Scales (BFAS), which scores not only the Big Five factors, but
+also two “aspects” of each. The BFAS is in the public domain as well.
+If you want items that are single adjectives, rather than full sentences (like the
+NEO) or short phrases (like the BFI and IPIP), you have several options. For
+
+===== PAGE 7 =====
+55
+The Big Five Factors: The
+Basic Dimensions of
+Personality
+starters, there is Lew Goldberg’s set of 100 trait-descriptive adjectives (published
+in Psychological Assessment, 1992). Gerard Saucier reduced this set to 40 Big
+Five mini-markers that have excellent reliability and validity ( Journal of
+Personality Assessment, 1994). More recently, Saucier has developed new trait
+marker sets that maximize the orthogonality of the factors (Journal of Research
+in Personality, 2002). Saucier’s mini-markers are in the public domain.
+The NEO PI-R is a 240-item inventory developed by Paul Costa and Jeff McCrae.
+It measures not only the Big Five, but also six “facets” (subordinate dimensions)
+of each of the Big Five. The NEO PI-R is a commercial product, controlled by a
+for-profit corporation that expects people to get permission and, in many cases,
+pay to use it. Costa and McCrae have also created the NEO-FFI, a 60-item
+truncated version of the NEO PI-R that only measures the five factors. The NEO-
+FFI is also commercially controlled.
+If you need a super-duper-short measure of the Big Five, you can use the Ten
+Item Personality Inventory, recently developed by Sam Gosling, Jason Rentfrow,
+and Bill Swann. But read their journal article first (it is on Sam Gosling’s web
+page). There are substantial measurement tradeoffs associated with using such a
+short instrument, which the article discusses.
+As mentioned earlier, the IPIP scales, Saucier’s mini-markers, and the Big
+Five Aspect Scales are all in the public domain and may be used for any purpose
+with no restrictions.
+Additionally, the BFI (which is copyrighted by Oliver P. John) is freely available
+to researchers who wish to use it for research (not commercial) purposes. More
+details are available on Oliver John’s lab website. If you cannot find your questions
+answered there, you can contact Laura Naumann (naumann@berkeley.edu) for
+further information.
+4.4.1 Big Five Personality Traits in Psychology
+The “Big Five” Personality Dimensions
+Extroversion : activity and energy level traits, sociability and emotional
+expressiveness.
+Agreeableness: altruism, trust, modesty, prosocial attitudes.
+Conscientiousness : Impulse control, goal directed behaviour.
+Neuroticism : emotional stability, anxiety, sadness, and irritability
+Openness: Breadth, Complexity, and depth of an individuals life.
+These five dimensions have been used to account for variance in: i) Academic
+Achievement (ii) Work Performance (iii) Well Being Juvenile Delinquency (iv)
+The Big Five Personality Traits in Psychology (v) The person’s Personal
+Dimensions Affect All Aspects of Life
+One does not need a Myers Briggs Personality Test to know if your personality
+type is working for or against you! Here are the Big Five Personality Traits and
+how they work.
+The Big Five Personality Traits affect the person’s health, relationships, goals,
+achievements, professional success, and even the spiritual life. The person’s whole
+
+===== PAGE 8 =====
+56
+Theories of Personality-II life is affected both positively and negatively by the Big Five Personality Traits!
+The fundamental five personality characteristics - called the “Big Five Personality
+Traits” among psychologists - were once thought to remain the same since
+childhood. Now, experts believe the Big Five Personality Traits change over
+time.
+The five-factor model is comprised of five personality dimensions (OCEAN):
+Openness to Experience, Conscientiousness, Extraversion, Agreeableness, and
+Neuroticism. The five dimensions are held to be a complete description of
+personality.
+A competing model with three dimensions based on psychophysiology is the
+PEN Model. Extraversion and Agreeableness are only rotations of the dimensions
+in Interpersonal Theory.
+A trait is a temporally stable, cross-situational individual difference. Currently
+the most popular approach among psychologists for studying personality traits
+is the five-factor model or Big Five dimensions of personality. The five factors
+were derived from factor analyses of a large number of self- and peer reports on
+personality-relevant adjectives and questionnaire items.
+4.4.2 Important Characteristics of the Five Factors
+The following are some of the important characteristics of the five factors:
+1) First, the factors are dimensions, not types, so people vary continuously on
+them, with most people falling in between the extremes.
+2) Second, the factors are stable over a 45-year period beginning in young
+adulthood (Soldz & V aillant, 1999).
+3) Third, the factors and their specific facets are heritable (i.e., genetic), at
+least in part (Jang, McCrae, Angleitner, Riemann, & Livesley, 1998; Loehlin,
+McCrae, Costa, & John, 1998).
+4) Fourth, the factors probably had adaptive value in a prehistoric environment
+(Buss, 1996).
+5) Fifth, the factors are considered universal, having been recovered in languages
+as diverse as German and Chinese (McCrae & Costa, 1997).
+6) Sixth, knowing one’s placement on the factors is useful for insight and
+improvement through therapy (Costa & McCrae, 1992).
+The differences between two empirically related yet conceptually distinct models,
+the Big Five and the five-factor model, are summarised below.
+4.4.3 Major Proponents of the Big Five and the Lexical Basis
+Goldberg
+FFM: McCrae and Costa
+Lexical basis
+Lexical hypothesis—those individual differences that are most salient and socially
+relevant will come to be encoded as terms in the natural language.
+
+===== PAGE 9 =====
+57
+The Big Five Factors: The
+Basic Dimensions of
+Personality
+Five Factor Model (FFM): Theoretical contexts—traits are situated in a
+comprehensive model of genetic and environmental causes and contexts.
+Position on causation
+Big 5: Phenotypic and no stance on causation.
+Five Factor Model (FFM). Biosocial, genetic as well as environmental.
+Naming of factors
+Big 5: Surgency, Agreeableness, Conscientiousness, Emotional Stability, and
+Intellect.
+Five Factor Model (FFM). Extraversion, Agreeableness, Conscientiousness,
+Neuroticism, and Openness to Experience (OCEAN).
+Measurement Model
+Big 5:  Circular measurement, that is, many items have non-zero correlations
+(loadings) on two factors rather than just one.
+Five Factor Model . Hierarchical measurement , that is, lower-level facets combine
+to form higher-level domains.
+Questionnaires
+Big 5: Big Five Markers (recently, International Personality Item Pool, or IPIP).
+FFM. Revised Neuroticism, Extraversion, Openness Personality Inventory (NEO-
+PI-R).
+Type of Questionnaire Items
+Big 5. Adjectives (recently, sentence stems).
+FFM. Sentences.
+Saucier and Goldberg (1998) presented evidence that nearly all clusters of
+personality-relevant adjectives can be subsumed under the Big Five.
+One of the shortcomings of the Big 5 is that though very useful, it must be stated
+that there are several important personality traits that lie beyond the Big Five.
+In addition, theoretical reasons suggest the importance of other personality traits
+that are poorly captured by terms in the natural language, such as impulsive,
+sensation-seeking etc.
+Furthermore, traits may be only a limited means of studying a “psychology of
+the stranger”, that is, they may include only the personality relevant information
+that would be apparent about someone about whom one knew very little else.
+Thus it leaves other important constructs such as narrative life story etc.,
+uncovered.
+4.4.4 Best way to Describe Personality
+What are the best ways to describe an individual’s personality? One might list
+all of the things that individuals do all day every day of their lives, but that
+would take too long and be far too detailed to be of much use.
+Alternatively, one might use more abstract attributes as a way of summarizing
+the major ways that individuals differ from each other. Every language has
+
+===== PAGE 10 =====
+58
+Theories of Personality-II hundreds of words that refer to the ways that individuals differ. The English
+language includes at least 20,000 words of that sort (for example, talkative,
+agreeable, hard-working, nervous, intelligent).
+Perhaps those terms that make it into a language and then stay there for centuries
+are those that people have found to be most useful for describing themselves and
+others. This “lexical hypothesis” is the basis of much modern research on the
+structure of human personality traits.
+The terms that are descriptive of personality can be used by individuals to describe
+themselves and others.
+For example, one could ask a question, “How talkative is Ram? “ The answer
+could be in a continuum, viz., Not at all (1) A little bit (2) Somewhat (3)
+Moderately (4) and Extremely(5).
+In general, one can measure the extent of similarity between pairs of personality
+terms with a statistic called the “correlation coefficient.” Based on the
+intercorrelations among all pairs of personality terms, one can then group the
+terms into categories or clusters using a statistical procedure called “factor
+analysis.” The result of research using those statistical techniques is a tentative
+answer to the important scientific question: “How many different relatively
+independent kinds of terms are there in that specific language?”
+In many languages, it has turned out that the magical number is something like
+five or six. In English and other northern European languages like German and
+Dutch, there has seemed to be five major dimensions or “factors” to represent
+the majority of personality-descriptive terms in that language. This “Big-Five”
+factor structure has become a scientifically useful taxonomy to understand
+individual differences in personality traits.
+The Big Five factors
+1) The first is Extraversion versus Introversion, which includes traits such as
+Active, Assertive, Energetic, Gregarious, and Talkative versus their
+opposites.
+2) A second factor is called Agreeableness, which includes traits such as
+Amiable, Helpful, Kind, Sympathetic, and Trusting versus their opposites.
+3) A third factor has been labeled Conscientiousness, which includes such traits
+as Dependable, Hard-working, Responsible, Systematic, and Well-organised
+versus their opposites.
+4) A fourth factor contrasts traits related to Emotional Stability, such as Calm,
+Relaxed, and Stable, with opposite traits such as Afraid, Nervous, Moody,
+and Temperamental.
+5) And, finally, there is a constellation of traits related to Intellect and
+Imagination, such as Artistic, Creative, Gifted, Intellectual, and Scholarly
+versus their opposites.
+Most personality-related words in many modern languages can be classified by
+their locations in the five-dimensional space provided by the Big-Five factors.
+Terms are scattered throughout this five-dimensional space, with most terms
+being blends of two or three of the Big-Five factors. As a consequence, this five-
+
+===== PAGE 11 =====
+59
+The Big Five Factors: The
+Basic Dimensions of
+Personality
+factor model provides a rich framework for classifying personality traits, and
+measures of those five broad dimensions have proven to be extremely useful for
+describing individual persons. Indeed, measures of the Big-Five factors have
+proven to predict educational and occupational attainment, marital success, good
+health habits and medical outcomes, and even longevity versus mortality.
+Many researches believe that these dimensions are indeed the basic ones. This is
+indicated, by the fact that these dimensions are ones to which most people in
+many cultures refer in describing themselves(Funder & Colvin,1991 ).If the big
+five dimensions of personality are really so basic ,then it is reasonable to expect
+that they will be related to important forms of behaviour.
+Many studies indicate that this is the case. Where people stand on the big five
+dimensions is closely linked to important outcomes, such is their success in
+performing many jobs(e.g., Hogan, Hogan & Roberts,1996).Many psychologists
+now view the the big five basic dimensions as truly basic,there is not total
+consensus on this point. For example, Eysenck (1994), believes that there only
+three basic dimensions-extraversion, neuroticism and psychoticism.
+Other psychologists (e.g.,Block,1995) believe that the methods on which the big
+five dimensions are based (largely the technique of factor analysis) are inadequate.
+Lastly many psychologists view the big five as providing important insights into
+the key dimensions of personality.
+4.5 LET US SUM UP
+The controversy regarding the number of basic personality traits has taken an
+interesting turn in recent years .Costa & McCrae have examined all possible
+personality traits. The findings indicate a set of five factors.They are pften called
+Big-Five Factors.These factors include: extraversion, agreeableness,
+conscientiousness, emotional stability, and openness to experience.This model
+represents an important theoretical development in the field of personality.It has
+been found useful in understanding the personality profile of people across
+cultures.While it is consistent with the analysis of personality traits found in
+different languages, it is also supported by the studies of personality carried out
+through different methods.Thus, it is now considered to be the most promising
+empirical approach to the study of personality.
+4.6 UNIT END QUESTIONS
+1) What are the big –five dimensions of personality? Describe each dimension
+ind detail.
+2) Discuss Eysenck’s three major trait dimensions of personality as largely
+responsible for a significant portion of human behaviour.
+3) Discuss the various theoretical perspectives of the Big 5.
+4) Discuss how individual variations along each trait dimension reflect
+differences in neurophysiological functioning?
+5) How was Big 5 discovered?
+6) Who are the major proponents of Big 5 ? Discuss the lexical basis of Big 5.
+
+===== PAGE 12 =====
+60
+Theories of Personality-II
+4.7 GLOSSARY
+Extraversion : one of the big-five dimensions of
+personality;ranges from sociable, talkative and
+enthusiastic at one end to sober, reserved , and
+cautious at the other.
+Agreeableness : one of the big-five dimensions of personality;
+ranges from good natured, cooperative, trusting
+at one end to irritable, suspicious, uncooperative
+at the other.
+Conscientiousness : one of the big-five dimensions of personality;
+ranges from well-organised, careful and
+responsible at one end to disorganised, careless,
+and unscrupulous at the other.
+Emotional Stability : one of the big-five dimensions of personality;
+ranges from poised, calm ,and composed at one
+end to nervous, anxious, and excitable at the
+other; also called neuroticism.
+Openness to Experience : one of the big-five dimensions of personality;
+ranges from imaginative, witty. And intellectual
+at one end to down-to –earth, simple, and narrow
+in interests at the other.
+4.8 SUGGESTED READINGS AND REFERENCES
+Baron,R.A.(2005). Psychology. (Fifth Edition)Pearson India, Delhi.
+Eysenck,H.J.(1994).The Big-five or Giant three:Criteria for a paradigm. In
+C.F.Halverson,Jr.,G .A.Honhnstamm &R.P.Martin(Eds.).The developing structure
+of temperament & personality from infancy to childhood(pp 37-51). Hillsdale,
+NJ:Earlbaum.
+Zuckerman,m.(1994).Behavioural expressions and biosocial bases of sensation
+seeking.NY:Cambridge University Press.
+References
+Block,J.H.(1995).A contrarian view of the five- factor approach to personality
+description.Psychological Bulletin,117,187-215.
+Costa,P .T.,Jr.,& McCrae,R.R.(1994).The NEO PI/NEO-FFI Manual
+supplement.Odessa,FL:Psychological Assessment Research.
+Funder,D.C., & Colvin,C.R.(1991).Exploration in behavioural consistency:
+Properties of persons ,situation and behaviour. Journal of Personality &Social
+Psychology,60,773-794.
+Hogan,R.,Hogan,J.,& Roberts,B.W.(1996)Personality measurement employment
+decisions:Question and Answers.American Psychologist,51,469-477.

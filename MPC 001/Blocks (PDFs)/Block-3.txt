@@ -1,0 +1,2755 @@
+
+
+===== PAGE 1 =====
+5
+Language Acquisition
+UNIT 1 LANGUAGE ACQUISITION
+Structure
+1.0 Introduction
+1.1 Objectives
+1.2 Language and Cognition
+1.3 Linguistics
+1.3.1 The Structure of Language
+1.3.2 The Buildings Blocks of Language
+1.4 Language Acquisition
+1.4.1 Stages of Language Acquisition
+1.4.2 Language Acquisition and Cognitive Science
+1.4.3 Language and Thought
+1.5 Theories of Language Acquisition
+1.5.1 Behaviouristic Theory
+1.5.2 Limitations of Behaviourism Theory
+1.5.3 Innateness Theory
+1.5.4 Evidence to Support Innateness Theory
+1.5.5 Limitations of Chomsky’s Theory
+1.5.6 Cognitive Theory
+1.5.7 Limitations of Cognitive Theories
+1.5.8 Inputs or Integrationist Theories
+1.5.9 Limitations of Inputs Theories
+1.6 The Biology of Language Acquisition 
+1.6.1 Maturational Changes in Brain
+1.6.2 Dissociations Between Language and General Intelligence
+1.6.3 Neural Networks
+1.7 Let Us Sum Up
+1.8 Unit End Questions
+1.9 Suggested Readings and References.
+1.0 INTRODUCTION
+People talk or use language incessantly. Language, to cognitive psychologists, is
+a system of communication in which thoughts are transmitted by means of sounds
+(as in speech and music) or symbols (as in written words and gestures). As you
+read this text, you are engaging in one of the mind’s most enchanting processes
+– the way one mind influences another through language. In this process, some
+cell assemblies in your brain are permanently changed, new thoughts are made,
+and, in a very real sense, you are changed. 
+ Cognitive psychology concerns both language and thought and has been popular
+only since the 1950s. Before that, many psychologists believed that the scientific
+method could not be applied towards the study of a process as private as thinking.
+From ancient Greek times, only philosophers and metaphysicians studied the
+nature of language and thought. The metaphysician René Descartes, for example,
+famously argued, “I think, therefore I am.”
+
+
+===== PAGE 2 =====
+6
+Language  Today, thanks to increasingly sophisticated tools for studying brain activity,
+cognitive psychology is a thriving science. Cognitive psychologists explore such
+questions as how language affects thought, whether it is possible to create a
+“thinking” machine, and why humans are motivated to create art. 
+1.1 OBJECTIVES 
+After reading this unit, you will be able to:
+• Define  and elucidate the concept of language;
+• Describe  language and cognition;
+• Explain theories of language acquisition and their limitations; and
+• Explain biology of language acquisition.
+1.2 LANGUAGE AND COGNITION
+The study of human language is important to cognitive psychologists for the
+following reasons: 
+• Human language development represents a unique kind of abstraction, which
+is basic to cognition. Although other forms of life (bees, birds, dolphins,
+dogs and so on) have elaborate means of communicating and apes seem to
+use a form of language abstraction, the degree of abstraction is much greater
+among humans.
+• Language processing is an important component of information processing
+and storage.
+• Human thinking and problem solving can be conceptualised as processes
+involving language. Many, if not most, forms of thinking and problem solving
+are internal, that is, done in the absence of external stimuli. Abstraction of
+puzzles, for example, into verbal symbols provides a way to think about a
+solution.
+• Language is the main means of human communication, the way in which
+most information is exchanged.
+• Language influences perception, a fundamental aspect of cognition. Some
+argue that how we perceive the world is affected by the language we use to
+describe it. On the other hand, language development is at least largely
+based on our perception of language. So the perceptual-language process is
+one of interdependency; both significantly influence the other. Language
+from this point of view operates as a window.
+The processing of words, speech, and semantics seem to engage specific cerebral
+areas and thus provide a meaningful link between neuro anatomical structures
+and language. In addition, the study of pathology of the brain has frequently
+shown manifest change in language functions, as in the case of aphasia.
+1.3 LINGUISTICS
+The study of linguistics is the formal description of the structure of language,
+including a description of speech sounds, meanings, and grammar. Language as
+
+
+===== PAGE 3 =====
+7
+Language Acquisitionstudied by linguists tends to be competency based (dealing with some ideal
+potential of the speaker-listener), while psychologists generally view language
+in terms of performance, or how humans use language. The discipline that
+incorporates both approaches to the study of language is called psycholinguistics.
+1.3.1 The Structure of Language  
+Language is a system of symbols and rules that is used for meaningful
+communication. A system of communication has to meet certain criteria in order
+to be considered a language:
+A language uses symbols, which are sounds, gestures, or written characters that
+represent objects, actions, events, and ideas. Symbols enable people to refer to
+objects that are in another place or events that occurred at a different time.
+A language is meaningful and therefore can be understood by other users of that
+language.
+A language is generative, which means that the symbols of a language can be
+combined to produce an infinite number of messages.
+A language has rules that govern how symbols can be arranged. These rules
+allow people to understand messages in that language even if they have never
+encountered those messages before.
+1.3.2 The Building Blocks of Language
+Language is organised hierarchically, from phonemes to morphemes to phrases
+and sentences that communicate meaning
+Phonemes are the smallest distinguishable units in a language. In the English
+language, many consonants, such as t, p, and m, correspond to single phonemes,
+while other consonants, such as c and g, can correspond to more than one
+phoneme. V owels typically correspond to more bonhomie. For example, o
+corresponds to different phonemes depending on whether it is pronounced as in
+bone or woman. Some phonemes correspond to combinations of consonants,
+such as ch, sh, and th.
+Morphemes are the smallest meaningful units in a language. In the English
+language, only a few single letters, such as I and a, are morphemes. Morphemes
+are usually whole words or meaningful parts of words, such as prefixes, suffixes,
+and word stems.
+Example: The word “disliked” has three morphemes: “dis,” “lik,” and “ed.”
+Syntax is a system of rules that governs how words can be meaningfully
+arranged to  form phrases and sentences.
+Example: One rule of syntax is that an article such as “the” must come before a
+noun, not after: “Read the book,” not “Read book the.”  
+1.4 LANGUAGE ACQUISITION
+Language acquisition is one of the central topics in cognitive science. Every
+theory of cognition has tried to explain it; probably no other topic has aroused
+such controversy. Possessing a language is the quintessentially human trait: all
+
+
+===== PAGE 4 =====
+8
+Language normal humans speak, no nonhuman animal does. Language is the main vehicle
+by which we know about other people’s thoughts, and the two must be intimately
+related. Every time we speak we are revealing something about language, so the
+facts of language structure are easy to come by; these data hint at a system of
+extraordinary complexity. Nonetheless, learning a first language is something
+every child does successfully, in a matter of a few years and without the need for
+formal lessons. With language so close to the core of what it means to be human,
+it is not surprising that children’s acquisition of language has received so much
+attention. Anyone with strong views about the human mind would like to show
+that children’s first few steps are steps in the right direction.
+In the past, debates about the acquisition of language centered on the same theme
+as debates about the acquisition of any ability – the nature versus nurture theme.
+However, current thinking about the language acquisition has incorporated the
+understanding that acquiring language really involves a natural endowment
+modified by environment (Bates and Goodman, 1999; Dehaene-Lambertz, Hertz-
+Painter & Dubois, 2006; Lightfoot, 2003; Maratos, 2003). For example, the social
+environment, in which infants use their social capacities to interact with others,
+provides one source of information for language acquisition (Snow, 1999;
+Tomasello, 1999).  Thus the approach to studying language acquisition now
+revolves around discovering what abilities are innate and how the child’s
+environment tempers these abilities. This process is aptly termed innately guided
+learning (see Elman & associates, 1996; Jusczyk, 1997).
+Before examining the various theories of language acquisition, let’s take a look
+at a series of stages that seem to be universal in language acquisition. 
+1.4.1 Stages of Language Acquisition 
+Around the world, people seem to acquire their primary language in pretty much
+the same sequence and in just about the same way. Research on speech perception
+finds the same overall pattern of progression. They develop from more general
+to more specific abilities. That is, as infants we are initially able to distinguish
+among all possible phonetic contrasts. But over time we lose the ability to
+distinguish nonnative contrasts in favor of those used in our native language
+environment (see Jusczyk, 1997). Infants have remarkably acute language-
+learning abilities. They show these abilities even from an early age (Marcus et
+al., 1999; Pinker, 1997, 1999).  
+Within the first few years of life, we humans seem to progress through the
+following stages in producing language:
+Cooing, which comprises of vowel sounds mostly. Cooing is the infant’s oral
+expression that explores the production of vowel sounds. The cooing of infants
+around the world, including deaf infants, is indistinguishable across babies and
+languages. Infants are actually better than adults at being able to discriminate
+sounds that carry no meaning for them (Werker, 1989). They can make phonetic
+distinctions that adults have lost. During the cooing stage, hearing infants also
+can discriminate among all phones, not just phonemes characteristic of their
+own language.
+Babbling, which comprises consonant as well as vowel sounds; to most people’s
+ears, the babbling of infants growing up among speakers from different language
+
+
+===== PAGE 5 =====
+9
+Language Acquisitiongroups sounds very similar (Oller & Eilers, 1998). At the babbling stage, deaf
+infants no longer vocalise. The sounds produced by hearing infants change.
+Babbling is the infant’s preferential production largely of those distinct phonemes-
+both vowels and consonants— that are characteristic of the infant’s own language
+(Locke, 1994).
+One-word utterances; these utterances are limited in both the vowels and the
+consonants they utilise (Ingram, 1999). Eventually, the infant utters his or her
+first word. It is followed shortly by one or two more. Soon after, yet a few more
+follow. The infant uses these one word utterances — termed holophrases — to
+convey intentions, desires, and demands. Usually the words are nouns describing
+familiar objects that the child observes (example; car, book, ball, baby, toy, nose)
+or wants (e.g. mama, dada, milk, cookie). By 18 months of age, children typically
+have vocabulary of 3 to 100 words (Seigler, 1986). The young child’s vocabulary
+cannot yet encompass all that the child wishes to describe. As a result, the child
+commits overextension error. An overextension error is erroneously extending
+the meaning of words in the existing lexicon to cover things and ideas for which
+a new word is lacking. For example, the general term for any four legged animal
+may be ‘doggie’.
+Two-word utterances and telegraphic speech. Gradually, between 1.5 to 2.5 years
+of age, children start combining single words to produce two-word utterances.
+Thus begin an understanding of syntax. These early syntactical communications
+seem more like telegrams than conversation. The articles, prepositions, and other
+functional morphemes are usually left out. Hence, linguists refer to these early
+utterances with rudimentary syntax as telegraphic speech.  e.g. “want juice”,
+doggie bite”, “mommy sit”. These simple pairings of words convey a wealth of
+information about a child’s intentions and needs.
+Basic adult sentence structure (present by about age 4 years), with continuing
+vocabulary acquisition. V ocabulary expands rapidly. It more than triples from
+300 words at about 2 years of age to about 1000 words at 3 years of age. Almost
+incredible, by age of 4, children acquire the foundations of adult syntax and
+language structure. By age of 5 years, most children also can understand and
+produce quite complex and uncommon sentence constructions. By age of 10
+years, children’s language is fundamentally the same as that of adults.
+Normal children can differ by a year or more in their rate of language development,
+though the stages they pass through are generally the same regardless of how
+stretched out or compressed.  
+1.4.2 Language Acquisition and Cognitive Science 
+Language acquisition is not only inherently interesting; studying it is one way to
+look for concrete answers to questions that permeate cognitive science. The
+scientific study of language acquisition began around the same time as the birth
+of cognitive science, in the late 1950’s. The historical catalyst was Noam
+Chomsky’s review of Skinner’s Verbal Behaviour (Chomsky, 1959). At that time,
+Anglo-American natural science, social science, and philosophy had come to a
+virtual consensus about the answers to the questions listed above. The mind
+consisted of sensorimotor abilities plus a few simple laws of learning governing
+gradual changes in an organism’s behavioural repertoire. Therefore language
+
+
+===== PAGE 6 =====
+10
+Language must be learned, it cannot be a module, and thinking must be a form of verbal
+behaviour, since verbal behaviour is the prime manifestation of “thought” that
+can be observed externally.
+Chomsky argued that language acquisition falsified these beliefs in a single stroke:
+children learn languages that are governed by highly subtle and abstract principles,
+and they do so without explicit instruction or any other environmental clues to
+the nature of such principles. Hence language acquisition depends on an innate,
+species-specific module that is distinct from general intelligence. Much of the
+debate in language acquisition has attempted to test this once-revolutionary, and
+still controversial, collection of ideas. The implications extend to the rest of
+human cognition.  
+1.4.3 Language and Thought
+Is language simply grafted on top of cognition as a way of sticking communicable
+labels onto thoughts (Fodor, 1975; Piaget, 1926)? Or does learning a language
+somehow mean learning to think in that language? A famous hypothesis, outlined
+by Benjamin Whorf (1956), asserts that the categories and relations that we use
+to understand the world come from our particular language, so that speakers of
+different languages conceptualise the world in different ways.
+Language acquisition, then, would be learning to think, not just learning to talk.
+This is an intriguing hypothesis, but virtually all modern cognitive scientists
+believe it is false (see Pinker, 1994a). Babies can think before they can talk.
+Cognitive psychology has shown that people think not just in words but in images
+and abstract logical propositions. Language acquisition has a unique contribution
+to make to this issue. As we shall see, it is virtually impossible to show how
+children could learn a language unless you assume they have a considerable
+amount of nonlinguistic cognitive machinery in place before they start.  
+1.5 THEORIES OF LANGUAGE ACQUISITION
+How do we explain children’s course of language acquisition — most importantly,
+their inevitable and early mastery? Several kinds of mechanisms are at work. As
+we will see in the next section, the brain changes after birth, and these maturational
+changes may govern the onset, rate, and adult decline of language acquisition
+capacity. General changes in the child’s information processing abilities (attention,
+memory, short-term buffers for acoustic input and articulator output) could leave
+their mark as well. Language acquisition is so complex that one needs a precise
+framework for understanding what it involves.  
+Over the last fifty years, several theories have been put forward to explain the
+process by which children learn to understand and speak a language. They can
+be summarised as follows: (Refer to table below)
+
+
+===== PAGE 7 =====
+11
+Language AcquisitionTable 1.1: Theory and the central idea associated with author
+Theory Central Idea Individual
+most often
+associated
+with theory
+Behaviourist Children imitate adults. Their correct Skinner
+utterances are reinforced when they get
+what they want or are praised
+Innateness A child’ s brain contains special language Chomsky
+learning mechanisms at birth
+Cognitive Language is just one aspect of a child’s Piaget
+overall intellectual development.
+Interaction This theory emphasises the interaction Bruner
+between children and their care givers.
+We shall consider each of these in turn.  Before we do, it is important to recognise
+that they should not be seen simply as conflicting theories, replacing each other
+in a sequence.  Although Behaviourism is now seen as offering only a very limited
+explanation, each theory has added to our overall understanding, placing emphasis
+on different aspects of the process.   
+1.5.1 Behaviouristic  Theory
+The behaviourist psychologists developed their theories while carrying out a
+series of experiments on animals. They observed that rats or birds, for example,
+could be taught to perform various tasks by encouraging habit-forming. 
+Researchers rewarded desirable behaviour.  This was known as positive
+reinforcement. Undesirable behaviour was punished or simply not rewarded —
+negative reinforcement. The behaviourist B. F. Skinner then proposed this theory
+as an explanation for language acquisition in humans.  In Verbal Behaviour (1957),
+he stated: “The basic processes and relations which give verbal behaviour its
+special characteristics are now fairly well understood. Much of the experimental
+work responsible for this advance has been carried out on other species, but the
+results have proved to be surprisingly free of species restrictions. Recent work
+has shown that the methods can be extended to human behaviour without serious
+modifications.” (cited in Lowe and Graham, 1998, p.68)
+Skinner suggested that a child imitates the language of its parents or carers.
+Successful attempts are rewarded because an adult who recognises a word spoken
+by a child will praise the child and/or give it what it is asking for. The linguistic
+input was key — a model for imitation to be either negatively or positively
+reinforced. Successful utterances are therefore reinforced while unsuccessful ones
+are forgotten. No essential difference between the way a rat learns to negotiate a
+maze and a child learns to speak. 
+1.5.2 Limitations of Behaviourism Theory
+While there must be some truth in Skinner’s explanation, there are many
+objections to it.
+Language is based on a set of structures or rules, which could not be worked out
+simply by imitating individual utterances. The mistakes made by children reveal
+
+
+===== PAGE 8 =====
+12
+Language that they are not simply imitating but actively working out and applying rules.
+For example, a child who says “drinked” instead of “drank” is not copying an
+adult but rather over-applying a rule. 
+The vast majority of children go through the same stages of language acquisition.
+Apart from certain extreme cases, the sequence seems to be largely unaffected
+by the treatment the child receives or the type of society in which s/he grows up.
+Children are often unable to repeat what an adult says, especially if the adult
+utterance contains a structure the child has not yet started to use. 
+Few children receive much explicit grammatical correction. Parents are more
+interested in politeness and truthfulness. According to Brown, Cazden & Bellugi
+(1969):  “It seems to be truth value rather than well-formed syntax that chiefly
+governs explicit verbal reinforcement by parents — which renders mildly
+paradoxical the fact that the usual product of such a training schedule is an adult
+whose speech is highly grammatical but not notably truthful.”  (cited in Lowe
+and Graham, 1998)
+There is evidence for a critical period for language acquisition. Children who
+have not acquired language by the age of about seven will never entirely catch
+up. The most famous example is that of Genie, discovered in 1970 at the age of
+13. She had been severely neglected, brought up in isolation and deprived of
+normal human contact. Of course, she was disturbed and underdeveloped in
+many ways. During subsequent attempts at rehabilitation, her caretakers tried to
+teach her to speak. Despite some success, mainly in learning vocabulary, she
+never became a fluent speaker, failing to acquire the grammatical competence of
+the average five-year-old.
+1.5.3 Innateness Theory
+Noam Chomsky published a criticism of the behaviourist theory in 1957.  In
+addition to some of the arguments listed above, he focused particularly on the
+impoverished language input children receive. This theory is connected with the
+writings of Chomsky, although the theory has been around for hundreds of years. 
+Children are born with an innate capacity for learning human language. Humans
+are destined to speak. Children discover the grammar of their language based on
+their own inborn grammar. Certain aspects of language structure seem to be
+preordained by the cognitive structure of the human mind. This accounts for
+certain very basic universal features of language structure: every language has
+nouns/verbs, consonants and vowels. It is assumed that children are pre-
+programmed, hard-wired, to acquire such things. 
+Yet no one has been able to explain how quickly and perfectly all children acquire
+their native language. Every language is extremely complex, full of subtle
+distinctions that speakers are not even aware of. Nevertheless, children master
+their native language in 5 or 6 years regardless of their other talents and general
+intellectual ability. Acquisition must certainly be more than mere imitation; it
+also doesn’t seem to depend on levels of general intelligence, since even a severely
+retarded child will acquire a native language without special training.  Some
+innate feature of the mind must be responsible for the universally rapid and
+natural acquisition of language by any young child exposed to speech.
+
+
+===== PAGE 9 =====
+13
+Language AcquisitionChomsky concluded that children must have an inborn faculty for language
+acquisition. According to this theory, the process is biologically determined - the
+human species has evolved a brain whose neural circuits contain linguistic
+information at birth. The child’s natural predisposition to learn language is
+triggered by hearing speech and the child’s brain is able to interpret what s/he
+hears according to the underlying principles or structures it already contains. 
+This natural faculty has become known as the Language Acquisition Device
+(LAD).
+Chomsky did not suggest that an English child is born knowing anything specific
+about English, of course.  He stated that all human languages share common
+principles. (For example, they all have words for things and actions — nouns
+and verbs.) It is the child’s task to establish how the specific language s/he hears
+expresses these underlying principles. 
+For example, the LAD already contains the concept of verb tense.  By listening
+to such forms as “worked”, “played” and “patted”, the child will form the
+hypothesis that the past tense of verbs is formed by adding the sound /d/, /t/ or /
+id/ to the base form. This, in turn, will lead to the “virtuous errors” mentioned
+above. It hardly needs saying that the process is unconscious.  Chomsky does
+not envisage the small child lying in its cot working out grammatical rules
+consciously!
+Chomsky’s ground-breaking theory remains at the centre of the debate about
+language acquisition. However, it has been modified, both by Chomsky himself
+and by others. Chomsky’s original position was that the LAD contained specific
+knowledge about language. Dan Isaac Slobin has proposed that it may be more
+like a mechanism for working out the rules of language:
+“It seems to me that the child is born not with a set of linguistic categories but
+with some sort of process mechanism — a set of procedures and inference rules,
+if you will - that he uses to process linguistic data.  These mechanisms are such
+that, applying them to the input data, the child ends up with something which is
+a member of the class of human languages. The linguistic universals, then, are
+the result of an innate cognitive competence rather than the content of such a
+competence” (cited in Russell, 2001).     
+1.5.4 Evidence to Support Innateness Theory 
+Work in several areas of language study has provided support for the idea of an
+innate language faculty.  Three types of evidence are offered here:
+1) Slobin has pointed out that human anatomy is peculiarly adapted to the
+production of speech. Unlike our nearest relatives, the great apes, we have
+evolved a vocal tract which allows the precise articulation of a wide repertoire
+of vocal sounds.
+2) Neuro-science has also identified specific areas of the brain with distinctly
+linguistic functions, notably Broca’s area and Wernicke’s area. Stroke victims
+provide valuable data: depending on the site of brain damage, they may
+suffer a range of language dysfunction, from problems with finding words
+to an inability to interpret syntax.
+3) Experiments aimed at teaching chimpansees to communicate using plastic
+symbols or manual gestures have proved controversial. It seems likely that
+
+
+===== PAGE 10 =====
+14
+Language our ape cousins, while able to learn individual “words”, have little or no
+grammatical competence. Pinker (1994) offers a good account of this
+research.
+The formation of creole varieties of English appears to be the result of the LAD
+at work.  The linguist Derek Bickerton has studied the formation of Dutch-based
+creoles in Surinam. Escaped slaves, living together but originally from different
+language groups, were forced to communicate in their very limited Dutch.
+The result was the restricted form of language known as a pidgin. The adult
+speakers were past the critical age at which they could learn a new language
+fluently — they had learned Dutch as a foreign language and under unfavourable
+conditions. Remarkably, the children of these slaves turned the pidgin into a full
+language, known by linguists as a creole. They were presumably unaware of the
+process but the outcome was a language variety which follows its own consistent
+rules and has a full expressive range. Creoles based on English are also found, in
+the Caribbean and elsewhere.
+Studies of the sign languages used by the deaf have shown that, far from being
+crude gestures replacing spoken words, these are complex, fully grammatical
+languages in their own right. A sign language may exist in several dialects.
+Children learning to sign as a first language pass through similar stages to hearing
+children learning spoken language.  Deprived of speech, the urge to communicate
+is realised through a manual system which fulfils the same function.  There is
+even a signing creole, again developed by children, in Nicaragua (Pinker, 1994).
+1.5.5 Limitations of Chomsky’s Theory 
+Chomsky’s work on language was theoretical. He was interested in grammar
+and much of his work consists of complex explanations of grammatical rules. 
+He did not study real children.  The theory relies on children being exposed to
+language but takes no account of the interaction between children and their
+caretakers. Nor does it recognise the reasons why a child might want to speak,
+the functions of language. 
+In 1977, Bard and Sachs published a study of a child known as Jim, the hearing
+son of deaf parents. Jim’s parents wanted their son to learn speech rather than
+the sign language they used between themselves. He watched a lot of television
+and listened to the radio, therefore receiving frequent language input. However,
+his progress was limited until a speech therapist was enlisted to work with him.
+Simply being exposed to language was not enough. Without the associated
+interaction, it meant little to him.
+Subsequent theories have placed greater emphasis on the ways in which real
+children develop language to fulfil their needs and interact with their environment,
+including other people. 
+1.5.6 Cognitive Theory
+The Swiss psychologist Jean Piaget (1896-1980) placed acquisition of language
+within the context of a child’s cognitive development. He argued that a child has
+to understand a concept before s/he can acquire the particular language form
+which expresses that concept. Cognitive theory views language acquisition within
+the context of the child’s broader intellectual development. Since the cognitive
+
+
+===== PAGE 11 =====
+15
+Language Acquisitiontheory of language acquisition is based on Piaget’s theory of cognitive
+development, a brief description and understanding of this theory is must.
+Piaget suggested that children go through four separate stages in a fixed order
+that is universal in all children. Piaget declared that these stages differ not only
+in the quantity of information acquired at each, but also in the quality of knowledge
+and understanding at that stage. He suggested that movement from one stage to
+the next occurred when the child reached an appropriate level of maturation and
+was exposed to relevant types of experiences. Without experience, children were
+assumed incapable of reaching their highest cognitive ability. Piaget’s four stages
+are known as the sensorimotor, preoperational, concrete operational, and formal
+operational stages.
+The sensory motor stage in a child is from birth to approximately two years.
+During this stage, a child has relatively little competence in representing the
+environment using images, language, or symbols. An infant has no awareness of
+objects or people that are not immediately present at a given moment. Piaget
+called this a lack of object permanence. Object permanence is the awareness that
+objects and people continue to exist even if they are out of sight. In infants, when
+a person hides, the infant has no knowledge that they are just out of sight.
+According to Piaget, this person or object that has disappeared is gone forever to
+the infant.
+The preoperational stage is from the age of two to seven years. The most important
+development at this time is language. Children develop an internal representation
+of the world that allows them to describe people, events, and feelings. Children
+at this time use symbols, they can pretend when driving their toy car across the
+couch that the couch is actually a bridge. Although the thinking of the child is
+more advanced than when it was in the sensory motor stage, it is still qualitatively
+inferior to that of an adult. Children in the preoperational stage are characterised
+by what Piaget called egocentric thoughts. The world at this stage is viewed
+entirely from the child’s own perspective. Thus a child’s explanation to an adult
+can be uninformative.
+Three-year-olds will generally hide their face when they are in trouble—even
+though they are in plain view, three-year-olds believe that their inability to see
+others also results in others’ inability to see them. A child in the preoperational
+stage also lacks the principle of conservation. This is the knowledge that quantity
+is unrelated to the arrangement and physical appearance of objects. Children
+who have not passed this stage do not know that the amount, volume or length of
+an object does not change length when the shape of the configuration is changed.
+If you put two identical pieces of clay in front of a child, one rolled up in the
+shape of a ball, the other rolled into a snake, a child at this stage may say the
+snake piece is bigger because it is rolled out. Piaget declared that this is not
+mastered until the next stage of development.
+The concrete operational stage lasts from the age of seven to twelve years of
+age. The beginning of this stage is marked by the mastery of the principal of
+conservation. Children develop the ability to think in a more logical manner and
+they begin to overcome some of the egocentric characteristics of the preoperational
+period. One of the major ideas learned in this stage is the idea of reversibility.
+This is the idea that some changes can be undone by reversing an earlier action.
+
+
+===== PAGE 12 =====
+16
+Language An example is the ball of clay that is rolled out into a snake piece of clay. Children
+at this stage understand that you can regain the ball of clay formation by rolling
+the piece of clay the other way. Children can even conceptualise the stage in
+their heads without having to see the action performed. Children in the concrete
+operational stage have a better understanding of time and space. Children at this
+stage have limits to their abstract thinking, according to Piaget.
+The formal operational stage begins in most people at age twelve and continues
+into adulthood. This stage produces a new kind of thinking that is abstract, formal,
+and logical. Thinking is no longer tied to events that can be observed. A child at
+this stage can think hypothetically and use logic to solve problems. It is thought
+that not all individuals reach this level of thinking. Most studies show only forty
+to sixty percent of American college students and adults fully achieve it.
+Piaget’s suggestion, that cognitive performance cannot be attained unless
+cognitive readiness is brought about by maturation and environmental stimuli,
+has been instrumental in determining the structure of educational curricula.  
+Cognitive theory of language acquisition suggests that a child first becomes aware
+of a concept, such as relative size, and only afterward do they acquire the words
+and patterns to convey that concept. Simple ideas are expressed earlier than more
+complex ones even if they are grammatically more complicated— Conditional
+mood is one of the last. Conceptual development might affect language
+development: if a child has not yet mastered a difficult semantic distinction, he
+or she may be unable to master the syntax of the construction dedicated to
+expressing it.
+The complexity of a grammatical form has a demonstrable role in development:
+simpler rules and forms appear in speech before more complex ones, all other
+things being equal. For example, the plural marker -s in English (e.g. cats), which
+requires knowing only whether the number of referents is singular or plural, is
+used consistently before the present tense marker -s (he walks), which requires
+knowing whether the subject is singular or plural and whether it is a first, second,
+or third person and whether the event is in the present tense (Brown, 1973).
+There is a consistent order of mastery of the most common function morphemes
+in a language. Here’s an example from English:  first— -ing, then in and on, then
+the plural -s, last are the forms of the verb to be. Seems to be conditioned by
+logical complexity:  plural is simple, while forms of the verb to be  require
+sensitivity to both number and tense.   
+A good example of this is seriation. There will be a point in a child’s intellectual
+development when s/he can compare objects with respect to size.  This means
+that if you gave the child a number of sticks, s/he could arrange them in order of
+size. Piaget suggested that a child who had not yet reached this stage would not
+be able to learn and use comparative adjectives like “bigger” or “smaller”.
+Object permanence is another phenomenon often cited in relation to the cognitive
+theory. During the first year of life, children seem unaware of the existence of
+objects they cannot see.  An object which moves out of sight ceases to exist. By
+the time they reach the age of 18 months, children have realised that objects
+have an existence independently of their perception. The cognitive theory draws
+attention to the large increase in children’s vocabulary at around this age,
+suggesting a link between object permanence and the learning of labels for objects.
+
+
+===== PAGE 13 =====
+17
+Language AcquisitionClearly there is some link between cognitive development and language
+acquisition; Piaget’s theory helps explain the order in which certain aspects of
+language are acquired.   
+1.5.7 Limitations of Cognitive Theories 
+This theory does not explain why language emerges in the first place. Apes also
+develop cognitively in much the same way as young children in the first few
+years of life, but language acquisition doesn’t follow naturally from their
+development. Bees develop the cognitive ability to respond to many shades of
+colour, but bees never develop any communication signals based on shades of
+color.
+During the first year to 18 months, connections of the type explained above are
+possible to trace but, as a child continues to develop, so it becomes harder to find
+clear links between language and intellect. Some studies have focused on children
+who have learned to speak fluently despite abnormal mental development. Syntax
+in particular does not appear to rely on general intellectual growth.
+1.5.8 Input or Integrationist Theories
+In contrast to the work of Chomsky, more recent theorists have stressed the
+importance of the language input children receive from their care-givers. Language
+exists for the purpose of communication and can only be learned in the context
+of interaction with people who want to communicate with the person.
+Interactionists such as Jerome Bruner (1966,68) suggest that the language
+behaviour of adults when talking to children (known as child-directed speech or
+CDS) is specially adapted to support the acquisition process. This support is
+often described to as scaffolding for the child’s language learning. Bruner also
+coined the term Language Acquisition Support System or LASS in response to
+Chomsky’s LAD. It has been noted that the turn-taking structure of conversation
+is developed through games and non-verbal communication long before actual
+words are uttered.
+Children do not hear sentences in isolation, but in a context. Many models of
+language acquisition assume that the input to the child consists of a sentence and
+a representation of the meaning of that sentence, inferred from context and from
+the child’s knowledge of the meanings of the words
+1.5.9 Limitations of Input Theories 
+These theories serve as a useful corrective to Chomsky’s early position and it
+seems likely that a child will learn more quickly with frequent interaction.
+However, it has already been noted that children in all cultures pass through the
+same stages in acquiring language. We have also seen that there are cultures in
+which adults do not adopt special ways of talking to children, so child directed
+speech may be useful but may not be essential.
+As stated earlier, the various theories should not be seen simply as alternatives. 
+Rather, each of them offers a partial explanation of the process. 
+1.6 THE BIOLOGY OF LANGUAGE ACQUISITION 
+Human language is made possible by special adaptations of the human mind and
+body that occurred in the course of human evolution, and which are put to use by
+children in acquiring their mother tongue.
+
+
+===== PAGE 14 =====
+18
+Language Most obviously, the shape of the human vocal tract seems to have been modified
+in evolution for the demands of speech. Our larynxes are low in our throats, and
+our vocal tracts have a sharp right angle bend that creates two independently-
+modifiable resonant cavities (the mouth and the pharynx or throat) that defines a
+large two-dimensional range of vowel sounds (Lieberman, 1984).
+It is tempting to think that if language evolved by gradual Darwinian natural
+selection, we must be able to find some precursor of it in our closest relatives,
+the chimpanzees. In several famous and controversial demonstrations,
+chimpanzees have been taught some hand-signs based on American Sign
+Language, to manipulate colored switches or tokens, and to understand some
+spoken commands (Gardner & Gardner, 1969; Premack & Premack, 1983;
+Savage-Rumbaugh, 1991). Though artificial chimp signaling systems have some
+analogies to human language (e.g., use in communication, combinations of more
+basic signals), it seems unlikely that they are homologous. Chimpanzees require
+massive regimented teaching sequences contrived by humans to acquire quite
+rudimentary abilities, mostly limited to a small number of signs, strung together
+in repetitive, quasi-random sequences, used with the intent of requesting food or
+tickling (Terrace, Petitto, Sanders, & Bever, 1979; Seidenberg & Petitto, 1979,
+1987; Seidenberg, 1986; Wallman, 1992; Pinker, 1994a). These contrasts sharply
+with human children, who pick up thousands of words spontaneously, combine
+them in structured sequences where every word has a determinate role, respect
+the word order of the adult language, and use sentences for a variety of purposes
+such as commenting on interesting objects.
+This lack of homology does not, by the way, cast doubt on a gradualist Darwinian
+account of language evolution. Humans did not evolve directly from chimpanzees.
+Both derived from common ancestor, probably around 6-7 million years ago.
+This leaves about 300,000 generations in which language could have evolved
+gradually in the lineage leading to humans, after it split off from the lineage
+leading to chimpanzees. Presumably language evolved in the human lineage for
+two reasons: our ancestors developed technology and knowledge of the local
+environment in their lifetimes, and were involved in extensive reciprocal
+cooperation. This allowed them to benefit by sharing hard-won knowledge with
+their kin and exchanging it with their neighbors (Pinker & Bloom, 1990).  
+1.6.1 Maturational Changes in Brain
+The maturation of language circuits during a child’s early years may be a driving
+force underlying the course of language acquisition (Pinker, 1994; Bates, Thal,
+& Janowsky, 1992; Locke, 1992; Huttenlocher, 1990). Before birth, virtually all
+the neurons (nerve cells) are formed, and they migrate into their proper locations
+in the brain. But head size, brain weight, and thickness of the cerebral cortex
+(gray matter), where the synapses (junctions) subserving mental computation
+take place, continue to increase rapidly in the year after birth. Long-distance
+connections (white matter) are not complete until nine months, and they continue
+to grow their speed-inducing myelin insulation throughout childhood. Synapses
+continue to develop, peaking in number between nine months and two years
+(depending on the brain region), at which point the child has 50% more synapses
+than the adult. Metabolic activity in the brain reaches adult levels by nine to ten
+months, and soon exceeds it, peaking around the age of four. Synapses wither
+from the age of two through the rest of childhood and into adolescence, when
+
+
+===== PAGE 15 =====
+19
+Language Acquisitionthe brain’s metabolic rate falls back to adult levels. Perhaps linguistic milestones
+like babbling, first words, and grammar require minimum levels of brain size,
+long-distance connections, or extra synapses, particularly in the language centers
+of the brain.
+Similarly, one can conjecture that these changes are responsible for the decline
+in the ability to learn a language over the lifespan. The language learning circuitry
+of the brain is more plastic in childhood; children learn or recover language
+when the left hemisphere of the brain is damaged or even surgically removed
+(though not quite at normal levels), but comparable damage in an adult usually
+leads to permanent aphasia (Curtiss, 1989; Lenneberg, 1967).
+Newport and Gleitman (1995) shows how sheer age seems to play an important
+role. Successful acquisition of language typically happens by 4 and is guaranteed
+for children up to the age of six, is steadily compromised from then until shortly
+after puberty, and is rare thereafter. Maturational changes in the brain, such as
+the decline in metabolic rate and number of neurons during the early school age
+years, and the bottoming out of the number of synapses and metabolic rate around
+puberty, are plausible causes. Thus, there may be a neurologically-determined
+“critical period” for successful language acquisition, analogous to the critical
+periods documented in visual development in mammals and in the acquisition
+of songs by some birds.  
+1.6.2 Dissociations Between Language and General Intelligence
+Humans evolved brain circuitry, mostly in the left hemisphere surrounding the
+sylvian fissure, that appears to be designed for language, though how exactly
+their internal wiring gives rise to rules of language is unknown (Zurif, 2000).
+The brain mechanisms underlying language are not just those allowing us to be
+smart in general. Strokes often leave adults with catastrophic losses in language
+(Zurif,2000; Pinker, 1994a), though not necessarily impaired in other aspects of
+intelligence, such as those measured on the nonverbal parts of IQ tests.
+There are also syndromes showing the opposite dissociation, where intact
+language coexists with severe retardation. These cases show that language
+development does not depend on fully functioning general intelligence. One
+example comes from children with Williams Syndrome, an inherited condition
+involving physical abnormalities, significant retardation (the average IQ is about
+50), incompetence at simple everyday tasks (tying shoelaces, finding one’s way,
+adding two numbers, and retrieving items from a cupboard), social warmth and
+gregariousness, and fluent, articulate language abilities (Bellugi, et al., 1990).  
+1.6.3 Neural Networks
+Some cognitive neuroscientists have created neural networks, or computer
+models, that can acquire some aspects of language. These neural networks are
+not preprogrammed with any rules. Instead, they are exposed to many examples
+of a language. Using these examples, the neural networks have been able to
+learn the language’s statistical structure and accurately make the past tense forms
+of verbs. The developers of these networks speculate that children may acquire
+language in a similar way, through exposure to multiple examples. 
+
+
+===== PAGE 16 =====
+20
+Language
+1.7 LET US SUM UP
+The topic of language acquisition implicates the most profound questions about
+our understanding of the human mind, and its subject matter, the speech of
+children, is endlessly fascinating. But the attempt to understand it scientifically
+is guaranteed to bring on a certain degree of frustration. Languages are complex
+combinations of elegant principles and historical accidents. We cannot design
+new ones with independent properties; we are stuck with the confounded ones
+entrenched in communities. Children, too, were not designed for the benefit of
+psychologists: their cognitive, social, perceptual, and motor skills are all
+developing at the same time as their linguistic systems are maturing and their
+knowledge of a particular language is increasing, and none of their behaviour
+reflects one of these components acting in isolation.
+Learning anything about language acquisition at all, is only because a diverse set
+of conceptual and methodological tools has been used to trap the elusive answers
+to these questions: neurobiology, ethology, linguistic theory, naturalistic and
+experimental child psychology, cognitive psychology, philosophy of induction,
+theoretical and applied computer science. Language acquisition, then, is one of
+the best examples of the indispensability of the multidisciplinary approach called
+cognitive science.  
+1.8 UNIT END QUESTIONS
+1) Describe some of the processes involved in language?
+2) Why study of language is important for cognitive psychologists?
+3) There is a universal course of development every child follows in the learning
+of language. Describe.
+4) How do we acquire the ability to use language?
+5) Compare and contrast the behaviourism and innateness theories of language
+acquisition.
+6) Nature and nurture both influence the course of language development.
+Explain with empirical evidence.
+7) Illustrate cognitive theory of language acquisition in detail.
+8) Give a sample of an utterance one might reasonably expect to hear from an
+18 month old child.
+9) Give a detailed biological account of language acquisition.
+10) Make a worksheet showing the initial stages of language acquisition in a
+child with elaborate examples and reference studies.
+1.9 SUGGESTED READINGS AND REFERENCES
+Bloom, P .1994). Language Acquisition: Core Readings. Cambridge: The MIT
+Press
+Brown, R. (1973). A First Language: The Early Stages.  Cambridge: Harvard
+University Press.
+
+
+===== PAGE 17 =====
+21
+Language AcquisitionReferences
+Clark, E. V . (2003). First Language Acquisition.  Cambridge: Cambridge
+University Press
+Fletcher, P ., & MacWhinney, B. (Eds.) (1995). The Handbook of Child Language.
+Oxford: Blackwell.
+Gleitman, L. R., Liberman, M., & Osherson, D. N. (Eds.) (2000). An Invitation
+to Cognitive Science, 2nd Edition V olume 1: Language. Cambridge, MA: MIT
+Press.
+Ingram, D. (1989). First Language Acquisition:  Method, Description, and
+Explanation. Cambridge: Cambridge University Press.
+Pinker, S. (1994). The Language Instinct. London: Penguin Books.
+Tomasello, M. (2003). Constructing a Language. Cambridge: Harvard University
+Press.
+V anTatenhove, G . M. (2005).Normal Language Development, Generative
+Language and AAC.
+Yang, C. (2009)(Ed.). Language Acquisition. London: Routledge.
+
+
+===== PAGE 18 =====
+22
+Language
+UNIT 2 LANGUAGE PROCESSING
+(COMPREHENSION AND
+LANGUAGE EXPRESSION)
+“Language is a process of free creation; its laws and principles are fixed, but
+the manner in which the principles of generation are used is free and infinitely
+varied. Even the interpretation and use of words involves a process of free
+creation.”
+– Noam Chomsky
+Structure
+2.0 Introduction
+2.1 Objectives
+2.2 Functions of Language
+2.3 Structure of Language
+2.3.1 Basic Units of Language: Phonemes and Morphemes
+2.3.2 Higher Levels of Linguistic Analysis
+2.3.3 Phase Structure of Sentences
+2.3.4 Structure and Deep Structure in Sentences
+2.4 Processes in Language
+2.4.1 Production of Language
+2.4.2 Speech Perception and Comprehension
+2.5 Language Development
+2.6 Comprehensive Model of Language Processing
+2.6.1 Kintsch’s Model of Comprehension
+2.6.2 Propositional Representation of Text and Reading
+2.7 Let Us Sum Up
+2.8 Unit End Questions
+2.9 Suggested Readings and References
+2.0 INTRODUCTION
+One form of knowledge shared by all human societies is the knowledge of
+language. Language is the principal means by which we acquire and express
+knowledge; thus, the study of how language is used is a central concern of
+cognitive psychology. In the previous chapter, we studied the modes of language
+acquisition; here we will do an overview of the research on the processes of
+language involving the comprehension and expression of language.
+Language, like other cognitive functions, is a (dynamic) process. Such an
+enterprise requires that we examine the microstructure of the entire process as it
+occurs in real time. It is only through the careful examination of the temporal
+course of mental operations involved in the various levels of analysis underlying
+speech that we can hope to discover its nature.
+How do we understand language, given its multifaceted encoding? One approach
+to this question centers on the psychological processes involved in speech
+
+
+===== PAGE 19 =====
+23
+Language Processing
+(Comprehension and
+Language Expression)
+perception (Hickok & Poeppel, 2000). It also considers how listeners deal with
+the peculiarities resulting from the acoustic (related to sound) transmission of
+language. A, second, more linguistically oriented approach focuses on descriptions
+of the grammatical structure of language. Finally, a third approach examines the
+psycholinguistic processes involved in language comprehension at the discourse
+macro-level of analysis. All three approaches overlap to some degree and offer
+interesting insights into the nature of language, its use, and understanding.
+2.1 OBJECTIVES
+After reading this unit, you will be able to:
+• Examine the basic features involved in the language processing;
+• Explain the expression and comprehension of language;
+• Elucidate the functions of Language;
+• Analyse the structure of Language;
+• Explain the processes in Language; and
+• Describe Walter Kintsch’s model of comprehension.
+2.2 FUNCTIONS OF LANGUAGE
+Language serves many functions, which are all related to the fundamental process
+of communication. Perhaps most important is that language conveys meaning
+and is part of almost all kinds of social interaction. Language conveys intentions,
+motives, feelings, and beliefs. Language is used to issue requests and commands;
+and is also used to teach and to convey information. Language is useful because
+it can represent ideas and events that are not tied to present. You can also describe
+abstract ideas, such as beauty and justice, as well as concrete objects of everyday
+experience. Thus, language is symbolic, in that speech sounds and utterances
+stand for or represent various objects, ideas, and events.
+Regardless of whether we are considering spoken language, written language, or
+sign language, there are three elements of language expression and human
+communication that have been identified as operating in the speaker-listener
+situation: speech acts, propositional content, and thematic structure. A brief
+description from the analysis by Clark & Clark (1977) is as follows:
+i) Speech Acts: Speakers normally intend to have some influence on their
+listeners. To do so, speakers get the listeners to recognise the speakers’
+intentions. Indeed, failure to recognise these intentions can result in awkward
+situations. Speech-act theory holds that all utterances can be classified as to
+the type of speech act they represent. For example, speech acts may make
+assertions, make verbal commitments, convey thanks, give a warning, or
+issue a command. Typical examples of speech acts including the following:
+“I insist that you turn down the volume on the stereo” (a command); “What
+are your plans for weekend?” (a question); “I promise to pay you tomorrow”
+(a verbal commitment), symbolise ordering, questioning, committing etc,
+which are common direct speech acts.
+Searle (1969) pointed out that some speech acts are indirect. When your
+mother asks if you live in a barn, a guest in your house asks if you are chilly,
+
+
+===== PAGE 20 =====
+24
+Language they are conveying information about their desires, but in a rather indirect,
+nonliteral way. The meaning of any particular speech act, including whether
+it is direct or indirect, will depend on the context in which it is uttered
+(Gibbs, 1986), as well as its content.
+ii) Propositional Content: The second element of communication concerns
+the propositional content of a sentence. In communication, speakers want
+to convey certain ideas, and to do this, they must be sure that they are
+understood. Thus, the content around a speech act is very important. As a
+general rule, the propositional content of a sentence is used to describe certain
+states or events; it can be part of other propositions. For example, the sentence
+“The bright student received an A in Mathematics” expresses two separate
+propositions: “the student is bright” and “the student received an A in
+Mathematics.” Combined into a single sentence, the propositions convey
+what the speaker intends to convey. There is experimental evidence that we
+represent as propositions. For example, the more propositions contained in
+a sentence, the longer the time required to read the sentence (van Dijk &
+Kintsch, 1983)(discussed in detail in last section).
+iii) Thematic Structure: The third component in communication is thematic
+structure. To communicate effectively, good speakers pay careful attention
+to their listeners. Good speakers have to judge what listeners do and do
+know, keep track of where they are leading their listeners, and regularly
+examine any assumptions about the listeners’ knowledge of the topic being
+discussed. In short, the speaker must be able to make reasonably accurate
+judgments of the listener’s current level of understanding. All of these
+features are present in good teachers, entertaining and effective storytellers,
+and interesting conversationalists.
+2.3 STRUCTURE OF LANGUAGE
+A theoretical intervention about the process which leads to the understanding of
+an utterance in communication should involve two aspects. Firstly, the aspects
+of language linked to the recognition of the form of the utterance itself (phonology,
+morphology, and syntax); secondly, questions about how the meaning of what is
+understood can be defined, which are linked to semantics and pragmatics of the
+communication process. These two aspects cannot be separated, and in order to
+analyse the process of language, both are to be taken into consideration. Thus, to
+understand the language processes, it is fundamental to understand the basic
+structure of language first.
+As should be evident by now, language can be divided into three basic parts,
+each with its own structure and rules: phonology, syntax (grammar), and
+semantics. The first of these, phonology, concerns the rules for pronunciation of
+speech sounds. The second aspect of language, syntax, deals with the way words
+combine to form sentences. And semantics focuses on the meaning of words and
+sentences.
+2.3.1 Basic Units of Language: Phonemes and Morphemes
+All languages are made of basic sounds called phonemes. Adult human beings
+can produce approximately 100 phonemes, and the English language is made up
+
+
+===== PAGE 21 =====
+25
+Language Processing
+(Comprehension and
+Language Expression)
+of about 45 phonemes. Languages vary in the number of phonemes, ranging
+from as few as 15 to as many as 85. One reason why it is difficult for many
+Americans to learn foreign languages is that different phonemes are used. For
+instance, Germanic and Slavic languages contain phonemes never used in the
+English language. (Phonemes and morphemes have already been defined in the
+previous chapter).
+2.3.2 Higher Levels of Linguistic Analysis
+The study of speech sounds which make up a language is called phonology, and
+the study of how these sounds combine to produce morphemes is called
+morphology. However, psychologists are frequently interested in a more global
+analysis of language than is provided by phonology and morphology.
+Psychological investigations of language typically adopt words, phrases,
+sentences, or prose, rather than more elementary speech sounds, as the most
+fundamental unit of analysis.
+There are several levels at which these higher-order analyses can be made.
+1) First, one could analyse the lexical content of a sentence or of some other
+unit of language production. When a lexical analysis is performed, the
+question is simply, what words are used, and how many times they are used
+in this sample of language? Information gained from lexical analysis of
+language, such as that by Thorndike and Lorge, has proved to be very useful
+in predicting the ease with which different words can be learned in laboratory
+situations.
+2) At another level of linguistic analysis, the syntactic content of language text
+may be investigated. In the study of syntax, interest is focused on the
+arrangement or ordering of words to form phrases and sentences. The
+question asked in this type of analysis is, how is this phase (or sentence)
+structured? Psychologists and linguists interested in syntactic theory have
+attempted to specify rules that account for the productivity of language
+(Chomsky, 1985). The set of rules indicating how the elements of the
+language may be combined to make intelligible sentences is referred to as a
+grammar. Although a large number of different grammars have been
+proposed, there is little agreement about the necessary features of an adequate
+grammar.
+3) Another  level of analysis of language is the  one that considers the semantic
+content or meaning of passage. This perspective on language results in the
+asking of questions such as the following: What does the passage
+communicate? What is the meaning of this particular sentence?
+Word meaning is a function of the interaction between word features and
+the extent to which they match those belonging to certain prototypical and
+nonprototypical contexts (Lakoff, 1987). Here, both feature theory and
+prototype theory are seen as important.
+The critical role of semantics is not under question and has been clearly
+demonstrated in a number of psychological investigations. In general, current
+views of semantics and comprehension view the listener (or reader) as an
+active participant who formulates hypotheses about subsequent input based
+on context (both verbal and situational), on knowledge of constraints in the
+language, and on knowledge of the world. This is in contrast to the more
+
+
+===== PAGE 22 =====
+26
+Language passive view of the comprehended as someone who waits for the input before
+acting upon it.
+2.3.3 Phase Structure of Sentences
+In order to understand language in an adult, it is necessary to examine the structure
+of sentences. At one level of analysis, a sentence can be regarded simply as a
+string of phonemes. At another level, a sentence can be regarded as series of
+morphemes, which are grouping of phonemes. From this viewpoint, however,
+the sentence is viewed as a string of words. Linguists have found it more useful
+to describe a sentence in terms of phrases, which are grouping of words.
+Analysis of a sentence into its various phrases describes the phrase structure of
+a sentence. A sentence is viewed as composed of two basic phrases, a noun
+phrase and a verb phrase, which in turn are composed of subcomponents.
+Figure 2.1 shows the phrase structure of a simple sentence, “The boy ate an
+apple.” The noun phrase is composed of a determiner and a noun, and the verb
+phase is composed of a verb  and noun phrase; the latter noun phrase is also
+composed of a determiner and a noun. Pause in speech usually reflect underlying
+phrase structure. For example, we are most likely to say, “The boy…ate…an
+apple,” pausing ever so briefly after boy and ate. We are not likely to say,
+“The….boy ate…an apple,” or “The… boy ate an….apple,” grouping boy, ate,
+and an. While in normal speech a speaker may search and grope for a particular
+word and, thus, alter the pauses, the listener still tends to understand the message.
+Fig. 2.1: Phrase structure in a sentence represented by a tree diagram (adapted from Hunt
+& Ellis, 2006)
+2.3.4 Structure and Deep Structure in Sentences
+The surface structure is the organisation that describes the sequences of phrases
+in a sentence as it is actually spoken (or read) and reflects the phonological
+realisation of the complex, underlying linguistic structure.
+Deep structure, in contrast, refers to the underlying structure that includes the
+relevant string of linguistic units, the grammatical requirements for lexical (word)
+ 
+  
+    
+  
+Sentence
+Noun Phrase Verb Phrase
+Determiner Noun Verb Nour Phrase
+an apple
+NounDeterminer
+ateboyThe
+
+
+===== PAGE 23 =====
+27
+Language Processing
+(Comprehension and
+Language Expression)
+selection, and the grammatical relations between words in sentences. The deep
+structure of a sentence, thus, specifies the derivations of both its surface structure
+and meaning.
+Consider the sentences, “Rohit threw the ball” and “The ball was thrown by
+Rohit.” Both sentences convey the same meaning despite the fact that they sound
+different. Hence their deep structure is same. But consider the sentence “The
+lamb is ready to eat,” which can have two meanings. The lamb may serve as
+food to be eaten, or as an animal, the lamb is prepared to eat food. Thus, the deep
+structure can vary within the same sentence, depending on what meaning the
+speaker wishes to convey. Evaluate the meaning of the following ambiguous
+sentences” “Visiting relatives can be a nuisance,” “the corrupt police can’t stop
+drinking.”
+Sentences with essentially a single deep structure and two or more surface
+structures are synonymous. Sentences with different deep structures and the same
+surface structure are ambiguous. Thus, important problem remaining concerns
+the theoretical rules by which the deep structure of a sentence comes to be realised
+in a particular surface structure. Rules for the specification of this linkage process,
+called transformational rules , have been developed by Noam Chomsky
+(Chomsky, 1965, 1975) and other linguists.
+Transformational rules have clear implications about what features of sentences
+human beings do store in memory. If the sentence is simple, then features of the
+surface structure may be stored. As sentences become more complex, what is
+thought to be stored is some underlying base structure, or schema, plus one or
+more “footnotes” that serve as rules necessary to regenerate the sentence in its
+original surface form. Thus, what is stored is some coded representation of the
+complex sentence.
+Information contained in a linguistic message tends to be comprehended, and
+sometimes is remembered, in syntactically defined chunks, although semantically
+based chunking also may be used, depending on the demands placed upon the
+listener and the nature of the material (Marschark, 1979). Thus, the phrase
+structure of a sentence appears to play an important organisational role in language
+processing at a very basic level (Ferreira & Clifton, 1986).
+Self Assessment Questions
+1) Explain language in your words.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2) What are the three functions of language?
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+
+
+===== PAGE 24 =====
+28
+Language
+3) Explain surface structure and deep structure.
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+...............................................................................................................
+2.4 PROCESSES IN LANGUAGE
+In this section we will examine some basic processes in language. The focus is
+on three processes: (i) production of language, (ii) speech perception and
+comprehension, and (iii) language development.
+2.4.1 Production of Language
+The beginning of a dialogue is usually the production of speech by one of the
+participants, although a gesture or other sign may initiate such an interaction and
+have its origins in a similar verbal plan (McNeil, 1985). But, before uttering a
+sentence or manually expressing any information, the speaker must do some
+planning based on the intended effect the utterance is to have on the listener;
+based on the speaker’s knowledge of the listener’s scope of understanding
+(example, is the listener familiar with the topic?); and based on the syntactic,
+semantic, and pragmatic  (or social) form that the production and its desired
+effects requires. Thus, speaking is very much an instrumental act, which is to
+say that speakers talk in order to produce an effect of some kind.
+The process of speaking is basically concerned with planning and execution.
+But just how is speech planned and executed? Clark & Clark (1977) described a
+rough outline of this process, which involves five steps. The first step for speakers
+is to decide on the kind of discourse to be initiated, which is the issue of discourse
+plans. Do they want to engage in a conversation, to describe an event, to give
+instructions, or to regale a friend with a humorous story? Each type of discourse
+has a particular structure, and speakers must plan their utterances to fit that
+structure.
+For example, if you are telling a joke, you first describe the setting or context,
+then describe the sequence of events, and end with the punch line. If you fail to
+follow this structure, you obviously will not be an effective joke teller. If you
+give away the joke by accidently telling the punch line before the appropriate
+time, you will defeat your purpose. Similarly, instructions and conversations
+have an orderly structure.
+One set of guidelines that speakers and listeners seem to follow to foster good
+communication during a conversation has been described by Grice (1975) and
+others (e.g., Levelt, 1989). These “Gricean Maxims” are:
+Quantity: Avoid running off at the mouth.
+Quality: Don’t lie or stretch the truth.
+Relation: Avoid making statements irrelevant to the topic of conversation.
+Manner: Avoid vague or ambiguous statements.
+
+
+===== PAGE 25 =====
+29
+Language Processing
+(Comprehension and
+Language Expression)
+Failure to follow these maxims often results in a conversational implicature.
+For example, imagine that you are reviewing an applicant’s letter of
+recommendation for a highly technical job, and the letter reads as follows:
+I am writing a letter on behalf of Gopal Bhatnagar.  Gopal  dresses very well and
+has a charming wife.  He also drives a nice automobile and sings in his church’s
+choir. Thank you.
+Would you hire Gopal  based on this letter? Probably not. Clearly, the content of
+this letter violates the Relation Maxim. Because of this, the letter writer has
+conversationally implied that John is not the person for the job. Speakers (and
+letter writers) usually adhere to these Gricean Maxims; but, as this example
+demonstrates, it is quite informative when they don’t.
+Planning discourse is planning at global level. The second stage of speech
+production involves planning of sentences, the components of discourse. Once
+the nature of discourse is decided, specific sentences that will accomplish the
+objective must then be selected. The speech act, the propositional content, and
+the thematic structure need to be determined. The order in which sentences are
+produced and the type of information to be conveyed must be thought about. For
+example, suppose you are describing your new house. You might first describe
+the location; next, you might describe the overall type of house; then you might
+proceed to describe the floor plan and arrangement of rooms and, finally, give
+sfics of each room. Notice that there is a structure that involves going from
+global, or general information, to progressively more specific details.
+The third phase of speech production deals with constituent plans of the sentence.
+Once a sentence is decided on, its components must then be planned. The
+appropriate words, phrases, and so forth must be picked out and put in the right
+order. These first three phases describe three levels of planning. At the most
+general level, planning is directed towards the type of discourse. At the next
+level, planning concerns the type of sentence to be uttered. At the third level,
+planning deals with specific components of the sentence.
+An interesting feature of slips of the tongue is that they point out regularities in
+the planning stages of productions. For example, slips are seldom “illegal”
+combinations of sounds for the language; morphemes tend to slip as entire units
+(Clark & Clark, 1977). Some classics slips are known as “bloopers” in the world
+of radio and television. Some bloopers are fairly obvious. For example, an
+announcer for the ‘Friendly Homemaker Program’ said, “And now we present
+our homely friendmaker. Another example is a remark of the commentator
+covering visit of the king and queen of England: “When they arrive, you will
+hear a 21 son salute.”
+The fourth phase of speech production deals with what is called the articulatory
+program. This concerns the plans for the execution of speech, which is a
+coordinated sequence of muscular contractions in and about the mouth. And the
+final phase of speech production is articulation itself. This is the actual output of
+speech. Interested readers are referred to Clark & Clark (1977) and Levelt (1989)
+for a detailed discussion of planning and execution of speech.
+
+
+===== PAGE 26 =====
+30
+Language 2.4.2 Speech Perception and Comprehension
+To understand speech is crucial to human communication. Hence, speech
+perception is fundamental to language use in our day to day life. We are able to
+perceive speech with amazing rapidity. On the one hand, we can perceive as
+many as fifty phonemes per second in a language in which we are fluent (Foulke
+& Sticht, 1969). On the other hand, we can perceive only about two thirds of a
+single phonemes per second of nonspeech sounds (Warren et al., 1969). This is
+why foreign languages are difficult to understand when we hear them. Even if
+we can read them, the sounds of their letters and letter combinations may be
+different from the sounds corresponding to the same letters and letter combinations
+in our native language.
+The comprehension of speech begins with the perception of raw speech sounds.
+Comprehension starts where speech production ends. Speakers produce a stream
+of sounds that arrive at the listener’s ears; then, listeners are able to analyse the
+sound patterns and to comprehend them. Speech perception is not, however, the
+simple identification of sounds.
+It involves the complex processes of encoding and comprehension. In other words,
+interpretative processes, meaning, contextual influences, and the like play
+important roles in speech perception. Thus, the transformation from raw speech
+sounds to propositions in memory is a complex process. The physical signal that
+reaches the ear consists of rapid vibrations of air. While the sounds of speech
+correlate with particular component frequencies, there is no direct one-to-one
+correspondence between the sounds of speech and the perception of listeners.
+Recognition of words is very much dependent on context, explanations, and
+knowledge. For example, a hungry child can interpret the question “Have you
+washed your hands for dinner?” as a call to come directly to dinner (i.e., as
+indirect speech act rather than a direct question).
+The role of context also can be easily seen in complete sentences in which context
+allows words to be inferred quite easily. For example, the sentence “The young
+girl was awakened by her frightening d….” allows listeners to infer dream. There
+is no need to think about what the word might be; it just seems to pop out
+automatically.
+A similar context effect was studied in the laboratory of Warren (Warren &
+Obusek, 1971) using phonemes. Subjects were read sentences that had a single
+speech sound obscured. For example, the sentence “The state governors met
+with the respective legislatures convening in the capital city” had the first s in
+legislatures masked by a coughing sound. The experimenter then asked the
+subjects to identify where the cough had occurred. [The results indicated that
+subjects somehow “restored” the missing s sound and were unable to locate the
+interjected cough.]
+The phenomenon, appropriately called phonemic restoration, has been shown to
+be even more likely when more than a single word can result from the restoration
+(example: “_egion” can become either “legion” or “region”), indicating an active
+word-searching process in speech perception (Samuel, 1987).
+Many people have the impression that the words they hear are distinct, separate
+combinations of sounds, but this impression in not correct. Cole (1979, 1980)
+
+
+===== PAGE 27 =====
+31
+Language Processing
+(Comprehension and
+Language Expression)
+and other speech researchers have demonstrated that words usually run together
+as sound patterns. This is seen by use of a spectrograph, an electronic device for
+measuring the variations in energy expended when a person talks. Moreover, it
+is often the case that a single word cannot be recognised correctly when it is
+taken out of its sentence context. This was shown some years ago by Pollack and
+Pickett (1963), who played different segments of a normal conversation for
+subjects. When the subjects heard just one word from the conversation, it was
+often incomprehensible. Without the context of the meaningful sentence, the
+single word could not be understood.
+More generally, an important feature of speech perception is that speech is not
+comprehended simply on the basis of the sounds per se. Rather, speech is
+comprehended on the basis of many additional factors (e.g., intentions, context,
+and expectations) from which an interpretation of what the speaker says is
+constructed. (Tyler & Marslen-Wilson, 1986; see Paivio & Begg, 1981, for a
+review).
+One main approach equates processes of speech perception with processes of
+auditory perception of other sounds. These kinds of theories emphasises either
+template-matching or feature-detection processes. Such theories postulate that
+there are distant stages of neural processing. In one stage speech sounds are
+analysed into their components. In another stage these components are analysed
+for patterns and matched to a prototype or template (Kuhl, 1991; Massaro, 1987).
+One theory of this kind is the phonetic refinement theory (Pisoni et al.,1985),
+which says that we start with an analysis of auditory sensations and shift to
+higher level processing. A similar theoretical idea is embodied by the TRACE
+model (McClleland & Elman, 1986). According to this model, speech perception
+begins with three levels of feature detection: the level of acoustic features, the
+level of phonemes, and the level of words. According to this theory, speech
+perception is highly interactive. Lower levels affect higher levels and vice versa.
+One attribute of these theories have in common is that they all require decision-
+making process above and beyond feature detection or template matching. Thus,
+the speech we perceive may differ from the speech sounds that actually reach
+our ears. The reason is that cognitive and contextual factors influence our
+perception of sense signal. For example, the phonemic-restoration effect involves
+integrating what we know with what we hear when we perceive speech (Samuel,
+1981; Warren, 1970).
+2.5 LANGUAGE DEVELOPMENT
+Language acquisition and development follows a fairly orderly course. (This
+order has been discussed in detail in the earlier chapter on Language Acquisition).
+Here we will focus on development of semantics which ultimately help the child
+in comprehending the language.
+Making speech sounds is only the first step in acquiring language. The sounds
+must come to represent objects, symbols, and events in the child’s environment
+and they must acquire meaning for the child.
+Children are familiar with many aspects of their environment before they learn
+to speak. Their parents, toys, pets, siblings, and household objects are familiar
+
+
+===== PAGE 28 =====
+32
+Language stimuli. At this early stage of language development, their task is one of learning
+to associate particular environment stimuli with particular sound symbols and
+responses. For example, they must learn to associate the sight of mother with the
+sound of Mama.
+Only when such associations are acquired, the speech sound come to represent
+or symbolise a specific object or event for the child. These associations are only
+a part of language development. Thus, the development of meaning begins with
+the acquisition of associations between objects/events and speech sounds.
+One popular view of the acquisition of word meaning is that children learn
+semantic features and then attempt to apply an original word that includes the
+features to objects that share those features. For example, a child may learn the
+word ball and then overgeneralise it to other round objects such as moon and
+orange.
+Gradually, the child begins to construct more complex sentences that take on the
+characteristics of adult language. This is an enormously challenging task (Brown,
+1973). What the child learns are sets of grammatical, semantic, and pragmatic
+rules for constructing sentences. Usually, children are unable to verbalise the
+rules, but their linguistic performance indicates that they do possess linguistic
+competence, the knowledge necessary to produce all and only those situations of
+a given language.
+Indeed, many adults who speak grammatically acceptable English are unable to
+specify the rules they use. But these rules allow us to generate the almost infinite
+number of sentences. One of the best pieces of evidence for learning syntactic
+rules is the phenomenon of overgeneralisation. For example, children learn to
+say went correctly, apparently by rote, then learn the rule of forming the past
+tense by adding ed, and then incorrectly as goed. They later learn the exception
+to the rule and go back saying went. Similar overgeneralisations occur in deaf
+child’s acquisition of sign language.
+This brief description only begins to sketch some of the complexities of language
+development. What is clear is that young children have an enormously complex
+task in learning to speak, read, and use language in a meaningful fashion. The
+fact that human beings can acquire and use language emerges as a remarkable
+achievement.
+Finally, relating language development to the earlier discussion on speech acts,
+there have also been some interesting findings. For example, it appears that
+younger children view the meaning of “I Promise” differently than do older
+children and adults. According to philosopher Sourly (1969), certain conditions
+must be present for a sincere promise to be made.
+One condition is that the person making the commitment actually intends to
+carry out the promised action. A second condition is that it is apparent that the
+person to whom the promise is directed desires the action to be carried out. In a
+recent study, Bernicot & Laval (1996) report that 3-year-olds have difficulty
+understanding only the second condition. But, by age 10, children evaluate both
+conditions equivalently well in determining the outcome of a scenario (concerning
+the occurrence of the promised activity), where these conditions were
+manipulated.
+
+
+===== PAGE 29 =====
+33
+Language Processing
+(Comprehension and
+Language Expression)
+These findings indicate that the meaning of “I Promise” is quite different,
+depending on the age of the child to whom it is said. Specifically the understanding
+of the contextual circumstances underlying the making of a verbal commitment
+increments with age. Initially, children are primarily concerned with whether the
+promised activity simply occurred; as they grow older, they begin to grasp the
+intentions of the speaker in evaluating the likely outcome of that activity
+(Astington, 1988).
+2.6 COMPREHENSIVE MODEL OF LANGUAGE
+PROCESSING
+This chapter has progressed systematically from the simple linguistic entities
+(phonemes and morphemes), to syntax and grammar, to speech perception and
+comprehension. One might wonder, whether there are any comprehensive theories
+of language. In fact there are many. One by Kintsch is particularly significant
+because it incorporates many bits of wisdom from earlier studies and, at the
+same time contains a model of the mind. Let’s discuss now the principal
+components of the most influential, extensive and comprehensive model of
+language processing by Kintsch and van Dijk (Kintsch, 1974, 1979, 1988, 1990;
+Kintsch & van Dijk, 1978) briefly.
+2.6.1 Kintsch’s Model of Comprehension
+This model of comprehension is more than a system that deals with the way
+textual information is understood. It is a theory that cuts across many topics in
+cognitive psychology, including memory and comprehension of the written and
+spoken language. Comprehension is dependent on two disparate sources that are
+similar to top-down and bottom-up processing. [Borrowed from computer
+language, bottom-up  processing is cognitive processing initiated by the
+components of a stimulus pattern which, when summed, lead to recognition of
+the whole configuration; whereas top-down processing is hypothesis-driven
+recognition of the whole stimulus configuration, which leads to the recognition
+of component parts.] At the highest level is the goal schema, which decides what
+material is relevant. At the opposite extreme of the model is the text.
+The model is based on a proposition. A proposition is an abstraction, and, as
+such, it is difficult to define concretely. However, some characteristics of
+propositions can be identified: they are abstractions based on observations (such
+as reading text material or listening to a speaker); they are retained in memory
+and follow the laws governing memory processes; and, in Kintsch’s system,
+they consist of a predicate and one or more arguments. Predicates corresponds to
+verbs, adjectives, adverbs, or connectives in the words a person reads or hears.
+This is called the surface structure, a term already discussed in previous sections.
+Arguments correspond to nouns, noun phrases, or clauses. The model is illustrated
+with the following little story:
+The Swazi tribe was at war with a neighbouring tribe because of a dispute over
+some cattle. Among the warriors were two unmarried men, Kakra and his younger
+brother Gum. Kakra was killed in battle.
+The first sentence is divided into five groups: the swazi tribe…..was at war
+with….a neighbouring tribe…. because….a dispute over some cattle. According
+
+
+===== PAGE 30 =====
+34
+Language to coherence analysis of this sentence, only first three of the factors are in working
+memory. The predicate “was at war with” is considered the most important part
+of this sentence insofar as comprehension of the story is concerned. The other
+parts are clustered around it.
+A significant feature of the model is that the initial processing of the text is
+assumed to take place in Short Term Memory (STM), which we know has limited
+capacity. Because of this constraint, only a portion of the propositions is held in
+memory. With the reading of the second sentence, some of propositions from the
+first sentence are still vital in STM. The reader tries to connect the old and new
+propositions but finds no match between them.
+Failing to find a match between the propositions in STM, the reader searches
+Long Term Memory (LTM) for a possible match. This search in the LTM is
+called reinstatement search and is one reason that text material may be hard to
+read. In the example, the lack of a match between propositions in the first and
+second sentence requires the reader to construct a new network for the ideas and
+to attempt to relate the two sentences.
+One inference that the reader makes is that the two men were members of the
+Swazi tribe, a reasonable conclusion even though that the fact is not stated directly.
+With the reading of more sentences, the semantic network begins to get more
+complicated and interrelated. The reading of the sentence “Among the warriors
+were…., Kakra and…….” Retains in memory the names of the men, which can
+easily be related to the information in the last sentence “Kakra was killed in
+Battle.”
+2.6.2 Propositional Representation of Text and Reading
+As stated before the model of comprehension holds that the underlying unit of
+memory for text material is the proposition. Additionally, the model predicts
+that sentences of greater propositional complexity are more difficult to
+comprehend than sentences with simple propositional structure, even if the surface
+complexity of the two sentences is about the same. Kintsch and Keenan (1973)
+designed an experiment to test this prediction. A sample from many experiments
+is reported here.
+Subjects were asked to read ten sentences, all of which had about the same number
+of words but varied greatly in the number of propositions. Some sentences had
+as few as four propositions, and others had as many as nine. For example, read
+the following two sentences:
+Romulus, the legendary founder of Rome, took the women of Sabine by force.
+Cleopatra’s downfall lay in her foolish trust in the fickle political figures of the
+Roman world.
+Which sentence was more difficult to read? If you are like the subjects in Kintsch’s
+and Keenan’s experiment, you had more difficulty with the sentence about
+Cleopatra than the sentence about Romulus. Even though the surface complexity
+of the two sentences is about the same, they differ markedly in the number of
+propositions and the macrostructures that are required to interconnect the
+propositions.
+
+
+===== PAGE 31 =====
+35
+Language Processing
+(Comprehension and
+Language Expression)
+In the Kintsch’s and Keenan’s experiment, subjects were presented with sentences
+similar to those just discussed above by means of slides. The subjects were asked
+to read each sentence and then to write it. They could then advance the slides and
+see the next sentence. Time taken in reading each sentence was noted. The authors
+found an extraordinarily consistent relationship between the number of
+propositions and the time required to read the sentences.
+2.7 LET US SUM UP
+In all, the approaches that have been taken in exploring many of the issues involved
+in the perceptual analysis of language and lexical processing merely scratch the
+surface of the complexity of both theory and fact that must be developed to
+provide a sufficient characterisation of the cognitive system. Language processing
+requires a multidisciplinary examination. To conclude, we can say that, like many
+other cognitive process, language processing is a very dynamic and complex
+process. No single method, function or theory can explain the process of language
+completely in itself; only a comprehensive approach should be appropriate and
+applied for the comprehension of language.
+2.8 UNIT END QUESTIONS
+1) Note the various experimental tasks that have been used to study language
+comprehension.  Have you run into any of them before in this course?
+2) It is intuitively obvious that context facilitates word interpretation, but how
+can it interfere with interpretation?
+3) What is the role of context and expectations in the interpretation of speech?
+How has the influence of context been studied experimentally?
+4) What are several major features of language development?
+5) Compare and contrast the role of speech perception, syntax and semantics
+in the development and understanding of language.
+6) What are the different processes involved in language comprehension?
+7) The exposition of Kintsch’s model is necessarily abstract and therefore
+difficult to comprehend. Preserve in your reinstated searches! See if you
+can use it to deal with a new example of text selected from another course.
+8) What factors are included in Kintsch’s model? How does the reader enter
+into this model?
+9) Give an example of a humorous violation of one of Grice’s four maxims of
+successful conversation.
+2.9 SUGGESTED READINGS AND REFERENCES
+Clark, H. H. (1996). Using Language. Cambridge: Cambridge University Press
+Clark, H., & Clark, E. (1977).  Psychology and Language: An Introduction to
+Psycholinguistics. New York: Harcourt Brace Jovanovich.
+Garrod, S. & Pickering, M.J. (2001). Language Processing.  East Sussex:
+Psychology Press.
+
+
+===== PAGE 32 =====
+36
+Language References
+Gleitman, L. R., Liberman, M., & Osherson, D. N. (Eds.)(2000). An Invitation
+to Cognitive Science, 2nd Ed. V olume 1: Language. Cambridge, MA: MIT Press.
+Hunt, R. R., & Ellis, H.C. (2006). Fundamentals of Cognitive Psychology. New
+Delhi: Tata McGraw Hill.
+Jurafsky, D., & Martin, J.H. (2009). Speech and Language Processing: An
+Introduction to Natural Language Processing, Computational Linguistics, and
+Speech Recognition. NJ: Prentice Hall.
+Just, M.A., & Carpenter, P .A. (1987). The Psychology of Reading and Language
+Comprehension. Boston: Allyn and Bacon.
+Reed, S.K. (2010). Cognition: Theories and Applications. London: Cengage.
+Solso, R.L. (2006). Cognitive Psychology. New Delhi: Pearson Education.
+Sternberg, R.J. (2009). Applied Cognitive Psychology: Perceiving, Learning,
+and Remembering. London: Cengage.
+
+
+===== PAGE 33 =====
+37
+Language Processing
+(Comprehension and
+Language Expression)
+UNIT 3 MULTILINGUALISM AND
+COGNITION
+“To have another language is to possess a second soul.” —  Charlemagne (742/
+7 – 814), King of the Franks
+Structure
+3.0 Introduction
+3.1 Objectives
+3.2 Multilingualism — Basic Concepts
+3.2.1 The Structure of Multilingualism
+3.2.2 Multiligualism in India
+3.3 Multilingualism and Cognition
+3.3.1 Relations Between Languages and Their Users
+3.3.2 Rule-governed Language Choice
+3.3.3 Mixing is Rule-Governed Too
+3.4 Multilingualism and Thinking
+3.4.1 Other Benefits
+3.5 Acquisition of a Second Language
+3.5.1 Single-System V ersus Dual-System Hypotheses
+3.6 Neural Mechanism of Multilinguals
+3.7 Let Us Sum Up
+3.8 Unit End Questions
+3.9 Suggested Readings and References
+3.0 INTRODUCTION
+Multilingualism is the natural potential available to every normal human being
+rather than an unusual exception; it is only the environmental factors which may
+fail to provide the opportunity to learn another language that produce monolingual
+speakers: “Given the appropriate environment, two languages are as normal as
+two lungs” (Cook, 2002).
+Every child is born with a language acquisition device having innate properties
+that plays a role in acquiring knowledge of language. This innateness is a
+biological endowment that Chomsky refers to as “Principles and Parameters”.
+According to this theory, there is a universal grammar – where “Principles” are
+general features, while “parameters” are variables left open in the statement of
+principles that account for the diversity found in languages. Grammar is a
+collection of choices (example, a choice between SOV and SVO patterns of
+sentences). They define the limited numbers of grammatically permitted choices
+from the universal grammar menu of options. There are also lexical facts. Once
+the vocabulary is learnt and grammatical patterns are fixed, the whole system
+falls in its place and general principles programmed into general organ, just churns
+away to yield all the particulars of the language concerned (Chomsky as quoted
+in Jenkins, 2000).
+In other words, there are different grammatical systems based on the choice of
+different parameters, when the child is exposed to them, his/her innate capacity
+
+
+===== PAGE 34 =====
+38
+Language gets activated and he/she acquires knowledge of the rules of the language while
+using it for communication. When the child is exposed to more than one such
+linguistic system, he/she acquires more than one language and is known as
+multilingual.
+3.1 OBJECTIVES
+After reading this unit, you will be able to:
+• Define basic concepts and structure of multilingualism;
+• Explain multilingualism and cognition;
+• Define acquisition of language; and
+• Explain neural mechanism of multilinguals.
+3.2 MULTILINGUALISM – BASIC CONCEPTS
+Multilingualism is the knowledge of more than one language by a person or
+within a social group; it assumes the ability to switch from one language to
+another in speech, in writing, or in reading. Other terms describing this
+phenomenon include bilingualism, polylingualism, plurilingualism, diglossia,
+and languages-in-contact. Multilingualism may be personal, social, or
+intersubjective. A generic term for multilingual persons is polyglot. Poly (Greek
+word) means “many”, glot (Greek) means “language”; and for the monolinguals
+is monoglot. Personal multilingualism  refers to the knowledge and verbal
+behaviour of an individual, not necessarily shared by the whole community. Social
+multilingualism refers to the communicative practices of a nation, tribe, or other
+social group that sustains two or more languages. As in India, nearly 200 languages
+are spoken by its natives.
+3.2.1 The Structure of Multilingualism
+For many years, the popular belief was that a multilingual person should have
+learnt all of his or her languages simultaneously in early childhood and that he or
+she should have a native — like oral and written competence in all of them
+(Bloomfield 1933).
+Today, a broader definition is more common. Accordingly, a person may be called
+multilingual if s/he uses his or her languages on a regular base and is able to
+switch from one to another where ever it is necessary, independently from the
+symmetry of his/her command of the languages, of the modalities of acquisition
+and of the distance between the varieties (Haugen 1953, Oksaar 1980 & Grosjean
+1982). Thus, an Indian guest worker who learnt enough Swiss German dialect
+for his struggle for life in Switzerland may be considered bilingual with the
+same right (but not, of course, in the same way) as an interpreter working at the
+European Union and having systematically extended his or her ‘native’ French-
+English bilingualism.
+Generally speaking, multilingualism is of two kinds: Elite – Language learned
+in a formal setting through planned and regular instruction as in a school system.
+Neighborhood – Here the language is acquired in a natural setting, acquired
+through the interaction with people speaking different languages. Theoretically
+
+
+===== PAGE 35 =====
+39
+Multiligualism and
+Cognition
+bilingualism is referred to as — additive and subtractive bilingualism. In additive
+bilingualism, a second language is acquired in addition to a relatively well-
+developed first language. In subtractive bilingualism , elements of a second
+language replace elements of the first language.
+Researchers also distinguish between simultaneous bilingualism, which occurs
+when a child learns two languages from birth, and sequential bilingualism, which
+occurs when an individual first learns one language and then another (Bhatia &
+Ritchie, 1999). Either form of language learning can contribute to fluency. It
+depends on the particular circumstances in which the languages are learned
+(Pearson & associates, 1997).
+It is known, however, that infants begin babbling at roughly the same age. This
+happens regardless of whether they consistently are exposed to one or two
+languages (Oller & associates, 1997). In the United States, many people make a
+big deal of bilingualism, perhaps because relatively few Americans born in the
+United States of nonimmigrant parents learn a second language to a high degree
+of fluency.
+In other cultures, however, the learning of multiple languages is taken for granted.
+For example, in parts of India, people routinely may learn as many as four
+languages (Khubchandani, 1997). In Flemish-speaking Belgium, many people
+learn at least some French, English, and/or German. Often, they learn one or
+more of these other languages to a high degree of fluency.
+No society or state has just one language, nor can language be isolated from
+culture. Societies are multilingual because of minorities that live within the
+dominant language group, and also because the official language itself presides
+over numerous dialects. In the Austro-Hungarian Empire, many linguistic and
+cultural communities had their own territories in a common state, dominated by
+German.
+Language cannot be isolated from culture, because every language is a repository
+of values, images and memories: the semiotics of culture. The boundary between
+the semantics of language and the semiotics of culture is blurred, so that
+multilingualism shades into multiculturalism.
+At the end of the 20th century, one or another form of multilingualism affect 60
+per cent of the world’s population. In other words, monolingualism is a boundary
+case of multilingualism, originated by very specific cultural conditions — and
+bilingualism is a particular form of multilingualism.
+3.2.2 Multiligualism in India
+India is said to be a socio-linguistic giant and the nerve system of this giant is
+multilingualism. “Indian multilingualism is huge in size, having 1620 mother
+tongues reduced to 200 languages….With the population of many of minorities
+larger than European countries”(Annamalai E. 2001).
+This multilingual character of India is represented by its metropolitan cities  like
+Mumbai and New Delhi, where people from all over come and settle down. For
+example, in Mumbai every child is exposed to at least four languages right from
+its infancy (Pai, 2005). Government of India has introduced the Three Language
+
+
+===== PAGE 36 =====
+40
+Language Formula in its educational system, which means every child has to study two
+more languages other than their first language. The two languages are introduced
+simultaneously at upper primary level.
+3.3 MULTILINGUALISM AND COGNITION
+What all this means is that the monolingual approach is neither appropriate nor
+adequate for the investigation of language use in a society where multilingualism
+was endemic and where, for the education at least, mono lingualism was the
+exception and not the norm” (Trotter, 2000).
+3.3.1 Relations Between Languages and Their Users
+Multilingualism is a particularly timely issue concerning language competence.
+A state of multilingualism may be achieved naturally, when a person grows up
+with two parents speaking different languages, or is a member of a minority, or
+lives in a multilingual community. In many parts of the United States, children
+are exposed to two or more languages as they grow up. Some children learn one
+language at home and another in a school setting.
+Other children learn both languages at home, where, for example, the grandparents
+speak one language to the child, but the parents and siblings speak another. Still
+other children immigrate to this country speaking one language and then learn a
+second language in school once they are settled in their new environment. It may
+also be acquired later in life, through immigration or learning. Regardless of
+how one actually learns his or her languages, the result is an individual who has
+a greatly enhanced ability to think and communicate.
+In terms of language processing, multilingualism offers a rich source of
+information about the organisation and use of the structure and processes of
+language already discussed in earlier chapter – not only concerning bilinguals or
+multilinguals but monolinguals as well.
+Participant languages may be associated with different communicative media:
+conversation, writing, reading, and symbolic systems can use different, and not
+necessarily overlapping, languages. Three recent issues about multilingualism
+are briefly explored here:
+1) The first concerns “code-switching”, the ability of multilinguals to select
+words from either of their languages during the course of uttering a sentence.
+Code switching maximizes the bilingual’s ability to convey his/her intended
+message to another bilingual and to understand another bilingual’s code-
+switching message.
+What is fascinating is that code-switching often requires no additional time
+(and may, in fact, use less time) than when words from only one language
+are selected or perceived. One interesting study of this ability is by
+Peynircioglu & Tekcan (1993). In this study monolinguals and bilinguals
+searched a completed crossword puzzle for words in their language (Turkish
+and English). The bilinguals were equivalent to the monolinguals in the
+time they took to locate words in only one of their languages. But bilinguals
+were faster than monolinguals when they collectively located words in either
+of their languages. This finding indicates an advantage for bilinguals over
+
+
+===== PAGE 37 =====
+41
+Multiligualism and
+Cognition
+monolinguals in word recognition, which can be demonstrated when they
+are allowed to use a strategy of identifying all of the words they know (from
+both languages).
+2) The second important issue concerns the treatment of lexical (grammatical)
+and semantic knowledge by multilinguals. One theoretical view places lexical
+knowledge in language-specific memory stores but semantic knowledge in
+a common conceptual memory store (Kroll & Sholl, 1992), whereas the
+other theoretical view places both types of knowledge in language-specific
+memory stores (Paivio, 1986).
+The first theory predicts, for example, that semantic processing of a word in
+one language (e.g., translating a word presented in a categorized list into
+another language) should facilitate memory for that word (relative to
+translating that word when it is presented in a random list), whereas the
+second theory predicts that no such facilitation would take place (because
+contacting the meaning of a word in one language should not involve
+contacting the meaning of the word in other language).
+To date, the evidence supports the first theory, known as “Concept
+Mediation” account, especially in fluent multilinguals (Amrhein & Sanchez,
+1997; De Groot, Dannenburg, & V an Hell, 1994; Kroll & Sholl, 1992).
+3) The third issue concerns how language familiarity influences a person’s
+ability to correctly identify another person’s voice. In a study conducted by
+Goggin, Thompson, Strube, & Simental (1991), English monolinguals and
+Spanish-English multilinguals heard texts read by the same person in either
+English, Spanish, or Spanish-accented English. A short time later, these
+subjects then heard a voice “line-up” of individuals reading a different text,
+again in either English, Spanish, or Spanish-accented English. Goggin &
+colleagues (1991) found a distinctly different pattern in the responses for
+monolinguals and bilinguals. For monolinguals, actual correct identifications
+were highest for their respective language. However, for bilinguals, correct
+identifications were generally the same across the three voice types.
+Collectively, these findings indicate that bilinguals’ knowledge of two languages
+aids in their identification of the voice source of the messages they encounter
+and represents an interesting interaction between speech perception and higher
+level of language analysis. These findings also represent an advantage
+multilinguals have over their monolingual counterparts.
+3.3.2 Rule-governed Language Choice
+How does a multilingual person make an appropriate choice from among the
+varieties that constitute his/her repertoire? There is consensus among specialists
+that this choice is not arbitrary but governed by rules (Grosjean 1982, 145).
+Macrosociolinguistic research established the existence of domains appropriate
+for the use of one or the other language in diglossic societies (Fishman 1967).
+Multilinguals would thus choose the appropriate variety taking into account
+whether it is a private or public affair, whether the conversation concerns the
+professional world or leisure activities, religion or education, etc. Where domains
+entwine (e.g. when an adolescent speaks with a minister [religion] about football
+[leisure] in the school building [education]), individual factors are isolated and
+pondered over. Language choice would be determined by characteristic bundles
+
+
+===== PAGE 38 =====
+42
+Language of situational factors (Grosjean 1982). The same applies to heterogeneous
+diglossic societies. In all these cases, the value of each language is thoroughly
+appreciated. By choosing one or the other variety of his/her repertoire, the
+multilingual speaker makes the most rewarding use of his communicative
+resources.
+3.3.3 Mixing is Rule-governed Too
+Sometimes the choice of the appropriate language is not evident. Multilinguals
+can choose between a monolingual mode and a bilingual mode (Grosjean 1985),
+i.e. between monolingual and bilingual speech (Lüdi & Pym, 1984) respectively.
+In the first case, the language that is not used is ‘switched off’ as far as possible.
+In the second case, the speaker’s whole repertoire is activated. Possible criteria
+for the choice of the monolingual or bilingual mode are: the interlocutors’
+repertoire, the degree of formality of the situation, normative representations of
+the interlocutors, etc. In other words, the situation is not ‘automatically’ bilingual
+even if both interlocutors are similarly bilingual. Bilingual mode requires a —
+locally established — mutual agreement on its appropriateness. This holds true
+for balanced as well as for unbalanced bilingualism (e.g. in the case of learners).
+Systematic observations of examples like this have led to the hypothesis that
+there are rules and norms that overlap single languages and govern the harmonic,
+i.e. the ‘grammatical’, mixing of elements from different languages. It may be
+assumed that the matrix language chosen for various reasons (level of competence
+of the speaker, presumed level of competence of the audience, conformity with
+the situation) is activated and provides the cognitive scaffolding for the semiotic
+organisation of a representation (Talmy, 1985, 1995).
+Searching for the appropriate words for what he wants to say, the speaker then
+scans both of his lexica (or both subsets of his global bilingual lexicon). To fill
+the gap of words he does not know, that are momentarily not accessible or that
+may not even exist in the matrix language — or to achieve a special discourse
+effect —, he will switch to the embedded language. But this is only possible if
+the lemma of the embedded language word matches the slot provided by the
+matrix language.
+If this is not the case, the speaker will choose to switch to the embedded language
+for a larger stretch and produce an “embedded language island” (Myers Scotton,
+1993). Thus, a model of bilingual speech must provide control procedures for
+the local matching of both language systems (Myers Scotton, 1993; Jake 1995;
+Jake & Myers Scotton 1997).
+Recently, MacSwan (1997, 1999) presented a minimalist approach to
+intrasentential code-switching. He claims that “nothing constrains code switching
+apart from the requirements of the mixed grammars”, a claim that does not entail
+a theory about which principles of grammar are relevant to code switching, but
+“leaves open any and all independently motivated considerations in linguistic
+theory to the analysis of codeswitching data”.
+A theory of a multilingual competence should thus be identical with any linguistic
+theory in general. Consequently, it can be concluded that a linguistic theory must,
+
+
+===== PAGE 39 =====
+43
+Multiligualism and
+Cognition
+in order to be complete, give a full account of the ways multilingual repertoires
+can be used to produce mixed utterances. Thus, new research on the bilingual or
+multilingual lexicon (e.g. de Groot and Nas 1991, Cenoz et al. 2003) must be
+taken into account by every general theory of the lexicon.
+Vice versa, each lexical — and language — theory will have to be judged by its
+capacity to account for bilingual speech.
+3.4 MULTILINGUALISM AND THINKING
+Suppose a person can speak and think in two or more than two languages. Does
+that person think differently in each language? Further, do multilinguals – people
+who can speak two and possible more languages – think differently from
+monolinguals – people who can speak only one language? What differences, if
+any, emanate from the availability of multiple languages versus just one? Might
+multilingualism affect intelligence, positively or negatively?
+Does multilingualism make thinking in any one language more difficult, or does
+it enhance thought processes? The data are somewhat self-contradictory (Hakuta,
+1986). Different participant populations, different methodologies, different
+language groups, and different experimenter biases may have contributed to the
+inconsistency in the literature. Consider what happens when bilinguals are
+balanced bilinguals, who are roughly equally fluent in both languages, and when
+they come from middle-class backgrounds. In these instances, positive effects of
+bilingualism tend to be found but negative effects may result under other
+circumstances.
+Let us distinguish between additive versus subtractive bilingualism (Cummins,
+1976). As we have studied earlier, a second language is acquired in addition to a
+relatively well-developed first language in additive bilingualism; whereas, in
+subtractive bilingualism, elements of a second language replace elements of the
+first language.
+It appears that the additive form results in increased thinking ability. In contrast,
+the subtractive form results in decreased thinking ability (Cummins, 1976). In
+particular, there may be something of a threshold effect. Individuals may need to
+be at a certain relatively high level of competence in both languages for a positive
+effect of bilingualism to be found.
+In a study by Eleanor (1993), the relationships among language proficiency,
+learning mode, learning style, abstract reasoning, and age of second language
+acquisition in 227 adults was investigated. The subjects, most of whom were
+university students, included 17 monolinguals, 120 partial multilinguals, and 90
+competent multilinguals.
+For comparison with competent multilinguals, the monolinguals and partial
+multilinguals were grouped together. All were tested for language proficiency,
+learning style (diverger, assimilator, converger, accommodator), learning mode
+(concrete experience, reflective observation, abstract conceptualisation, active
+experimentation), and analogy-solving ability. Native English-speakers had higher
+analogy-solving scores than native speakers of other languages, regardless of
+language proficiency; competent multilinguals scored highest.
+
+
+===== PAGE 40 =====
+44
+Language Among competent multilinguals, native English-speakers scored higher than non-
+native speakers. Competent multilinguals scored lower on reflective observation
+than did other subjects. There was also a significant negative correlation between
+learning mode and analogy-solving ability.
+No significant difference was found in learning styles, and no significant
+interaction effect between language proficiency and learning mode or style on
+analogy-solving ability. Individuals learning the second language after age 12
+had higher analogy-solving scores than those learning it earlier. However, early-
+second-language-learners were more likely to be competent multilinguals.
+3.4.1 Other Benefits
+The advantages that multilinguals exhibit over monolinguals are not restricted
+to linguistic knowledge only, but extend outside the area of language (Cook,
+1999, 2002), and the substantial long-lived cognitive, social, personal, academic,
+and professional benefits of enrichment bilingual contexts have been well
+documented (Thomas & Collier, 1998).
+Children and older persons learning foreign languages have been demonstrated to:
+1) Have a keener awareness (Galambos & Goldin-Meadow, 1990; Ewert, 2006,
+2008) and sharper perception of language (enhanced metalingual abilities,
+e.g. detection of anomalous sentences; Bialystok, 2001).
+2) Foreign language learning “enhances children’s understanding of how
+language itself works and their ability to manipulate language in the service
+of thinking and problem solving” (Cummins, 1981);
+3) Be consistently better able to deal with distractions, which may help offset
+age-related declines in mental dexterity (Bialystok et al,. 2004);
+4) Have a better ear for listening and sharper memories (Ratte ,1968; Lapkin et
+al., 1990);
+5) Develop not only better verbal, but also spatial abilities (Diaz, 1983);
+6) Display generally greater cognitive flexibility, better problem solving and
+higher-order thinking skills (Hakuta, 1986).
+7) They have better ‘measures of conceptual development’, ‘creativity’ and
+‘analogical reasoning’ (Diaz, 1985), divergent thinking and figural creativity
+(Landry, 1968, 1972, 1973, 1974).
+8) Bilinguals or multilinguals are more used to switching thought patterns and
+have more flexible minds.
+9) Foreign language learners consistently outperform their peers in core subject
+areas on standardised tests. For instance, multilingual children in Brussels
+secondary schools outperform their monoglot schoolmates in problem-
+solving and fraction exercises;
+10) They possess extra skills in language use, e.g. engage in transfer, borrowing,
+insertional, alternational, inter- and intra-sentential code switching (Grosjean,
+1989), mixing, and translation patterns that are usual and natural rather
+than exceptional (as is in the case of monoglots), and analyse as psycholinguistically
+motivated hybrid utterances serving different interactional, linguistic, pragmatic,
+cognitive and strategic functions (Majer, 2006).
+
+
+===== PAGE 41 =====
+45
+Multiligualism and
+Cognition
+Thus, just like Latin once used to be taught as an academic exercise, mental
+gymnastics with the aim of cognitive training, it has been demonstrated that
+people who know more than one language usually think more flexibly than
+monolinguals.
+3.5 ACQUISITION OF A SECOND LANGUAGE
+Languages are learnt at different ages, in different situations and up to very
+different levels of competence. This has of course consequences for the way
+multilingual repertoires will be structured. It is thus crucial to analyse the social
+context in which the different varieties making up a multilingual repertoire have
+been acquired. Recent research has shown for instance that “passive” exposure
+to other languages during childhood can lead to an unfocussed form of language
+learning and to a form of competence that can be reactivated at later stages if
+necessary (Ellis 1995, Franceschini 1996, 1999).
+A significant factor believed to contribute to acquisition of a language is ‘age’.
+Research has shown that some aspects of a second language, such as vocabulary
+comprehension and fluency, seem to be acquired just as well after adolescence
+as before. The mastery of nativelike pronunciation, however, seems to depend
+on early acquisition.  In any case, there do not appear to be critical periods for
+second-language acquisition (Birdsong, 1999). The possible exception is the
+acquisition of native accent.
+Adults may appear to have a harder time learning second languages because
+they can retain their native language as their dominant language. Young children,
+in contrast, who typically need to attend school in the new language, may have
+to switch dominant language. They thus learn the new language to a higher level
+of mastery.
+It is assumed that learning a (second) language is a series of cognitive procedures
+by which the learner progressively constructs the grammar of the new language,
+not only assisted by a “language acquisition device” (more for L1, less for L2),
+but also with the support from more competent members of the community
+(Vygotsky 1978) in the compass of a “language acquisition support system” based
+on social interaction (Bruner 1982, 1983).
+Research on second language acquisition has shown the importance of a set of
+interactive procedures. These may be observed in exolingual situations that
+provide the non-native speaker the necessary help not only to communicate, but
+also to continue his/her learning process (e.g. Krafft & Dausendschön-Gay 1994).
+What kinds of learning experiences facilitate second-language acquisition? There
+is no single correct answer to this question (Bialystock & Hakuta, 1994). One
+reason is that each individual language learner brings distinctive cognitive abilities
+and knowledge to the language-learning experience. In addition, the kinds of
+learning experiences that facilitate second-language acquisition should match
+the context and uses for the second language once it is acquired.
+For example, consider four different individuals. Ria, a young child, may not
+need to master a wealth of vocabulary and complex syntax to get along well with
+other children. If she can master the phonology, some simple syntactical rules,
+and some basic vocabulary, she may be considered fluent.
+
+
+===== PAGE 42 =====
+46
+Language Similarly, Kishen needs only to get by in a few everyday situations, such as
+shopping, handling routine family business transactions, and getting around town.
+He may be considered proficient after mastering some simple vocabulary and
+syntax, as well as some pragmatic knowledge regarding context-appropriate
+manners of communicating.
+Meenakshi  must be able to communicate regarding her specialised technical
+field. She may be considered proficient if she masters the technical vocabulary,
+a primitive basic vocabulary, and the rudiments of syntax.
+Sumesh is a student who studies a second language in an academic setting. Sumesh
+may be expected to have a firm grasp of syntax and a rather broad, if shallow,
+vocabulary. Each of these language learners may require different kinds of
+language experiences to gain the proficiency being sought. Different kinds of
+experiences may be needed to enhance their competence in the phonology,
+vocabulary, syntax, and pragmatics of the second language.
+When speakers of one language learn other languages, they find the languages
+differentially difficult. For example, it is much easier, on average, for a native
+speaker of English to acquire Spanish as a second language than is to acquire
+Russian. One reason is that English and Spanish share more roots than do English
+and Russian. Moreover, Russian is much more highly inflected than are English
+and Spanish. English and Spanish are more highly dependent on word order.
+The difficulty of learning a language as a second language, however, does not
+appear to have much to do with its difficulty as a first language. Russian infants
+probably learn Russian about as easily as U.S. infants learn English
+3.5.1 Single-System Versus Dual-System Hypotheses
+One way of approaching multilingualism is to apply what we have learned from
+cognitive-psychological research to practical concerns regarding how to facilitate
+acquisition of a new language. Another approach is to study multilingual
+individuals to see how multilingualism may offer insight into human mind. For
+example, some cognitive psychologists have been interested in finding out how
+the different languages are represented in multilingual’s mind. The single-system
+hypothesis suggests that two or more languages are represented in just one system
+or brain region (see Hernandez & associates, 2001, for evidence supporting this
+hypothesis in early multilinguals).
+Alternatively, the dual-system hypothesis suggests that two/different languages
+are represented somehow in separate systems of mind (De Houwer, 1995; Paradis,
+1981). For instance, might German language information be stored in a physically
+different part of the brain than English language information?
+One way to address this question is through the study the multilinguals who
+have experienced brain damage. Suppose a multilingual person has brain damage
+in a particular part of the brain. An inference consistent with the dual-system
+hypothesis would be that the individual would show different degrees of
+impairment in the different languages. The single-system view would suggest
+roughly equal impairment in all the languages. The logic of this kind of
+investigation is compelling. But the results were not. When recovery of language
+after trauma is studied, sometimes the first language recovers first, sometimes
+the second/latter acquired language recovers first. And sometimes recovery is
+about equal for all the languages .
+
+
+===== PAGE 43 =====
+47
+Multiligualism and
+Cognition
+In a related situation, an early bilingual aphasic was trained in his native language
+but was given no training in his second language (Meinzer & associates, 2006).
+The researchers found significant recovery of the first language but no change in
+the individual’s ability to use the second language.
+The conclusions that can be drawn from all this research are equivocal.
+Nevertheless, the results seem to suggest at least some duality of structure. A
+different method of study has led to an alternative perspective on multilingualism.
+Two investigators mapped the region of cerebral cortex relevant to language use
+in two of their bilingual patients being treated for epilepsy (Ojemann & Whitaker,
+1978). Mild electrical stimulation was applied to the cortex of each patient.
+Electrical stimulation tends to inhibit activity where it is applied. It leads to a
+reduced activity to name the objects for which the memories are stored at the
+location being stimulated. The results for both patients were the same.
+The results of this study suggest some aspects of the two languages may be
+represented singly. Other aspects may be represented separately.
+3.6 NEURAL MECHANISM OF MULTILINGUALS
+The question whether we may speak of one entwined or several separated systems
+cannot be fully answered alone by the experimental studies discussed above.
+Neurosciences may offer additional insights. The functional magnetic resonance
+imaging (fMRI) has been able to throw light on a large number of factors.
+Answers to questions like whether there is a difference between balanced and
+unbalanced bilinguals, Whether there is a,  relation between the neuronal network
+constructed when learning a second language and the ‘classical’ language centre,
+whether the first be integrated into the latter and whether.
+The research findings in the neuroanatomy of bilinguals are still contradictory
+and the analysis of cases of bilingual speech used by speakers with different
+kinds of multilingual competencies could shed new light on these questions.
+Early bilinguals seem to build up a network in sufficiently adaptable to allow the
+integration of later acquired languages. Late bilinguals have to establish new
+neural areas to guarantee development of their late-acquired languages. These
+results could have an important impact on the structure of an integrated language
+theory. Such a theory will consider multilingual repertoires and their use in
+different contexts the default case, monolingual competencies and monolingual
+speech representing just one many cases to be explained. It will match new ways
+of modelling the dynamics of intercultural communication and contribute to it.
+3.7 LET US SUM UP
+To summarize, different languages seem to share some, but not all, aspects of
+mental representation. Learning a second language is often a plus, but it is probably
+most useful if the individual learning the second language is in an environment
+in which the learning of the second language adds to rather than subtracts from
+the learning of the first language.
+Moreover, for beneficial effects to appear, the second language must be learned
+well. In the approach usually taken in schools, students may receive as little as 2
+
+
+===== PAGE 44 =====
+48
+Language or 3 years of second-language instruction spread out over a few class periods a
+week. This approach probably will not be sufficient for the beneficial effects of
+bilingualism to appear. However, schooling does seem to yield beneficial effects
+on acquisition of syntax.
+This is particularly so when a second language is acquired after adolescence.
+Furthermore, individual learners should choose specific kinds of language-
+acquisition techniques to suit their personal attributes. These attributes include
+abilities, preferences, and personal goals for using the second language.
+3.8 UNIT END QUESTIONS
+1) Describe the various processes involved in multilingualism?
+2) Why study of multilingualism is important for cognitive psychologists?
+3) What can multilingualism tell us about language structures and processes?
+4) What are the advantages of being bilingual? Can you think of any
+disadvantages?
+5) Give a detailed account of language acquisition of a second language.
+6) Suppose you are an instructor of English as a second language. What kinds
+of things will you want to know about your students to determine how much
+to emphasise phonology, vocabulary, syntax, or pragmatics in your
+instruction?
+3.9 SUGGESTED READINGS AND REFERENCES
+Cenoz, J., &  Genesee, F.  (Eds.) (1998). Beyond Bilingualism: Multilingualism
+and Multilingual Education. Clevedon: Multilingual Matters.
+Edwards, J. & Edwards, J.R. (Eds.) (1994). Multilingualism. London: Routledge.
+Hunt, R. R., & Ellis, H.C. (2006). Fundamentals of Cognitive Psychology. New
+Delhi: TataMcGraw Hill
+References
+Gleitman, L. R., Liberman, M., & Osherson, D. N. (Eds.)(2000). An Invitation
+to Cognitive Science, 2nd Ed. V olume 1: Language. Cambridge, MA: MIT Press.
+Lleó, C. (Ed.)(2006). Interfaces in multilingualism: Acquisition and
+representation. PA: John Benjamins Publishing Co.
+Pattanavak, D.P . (Ed.) (1990). Multilingualism in India. Clevedon: Multilingual
+Matters.
+Pavlenko, A., Blackledge, A., Piller, I., & Teutsch-Dwyer, M. (Eds.)(2001).
+Multilingualism, second language learning, and gender. NY: Walter de Gruyter
+Sternberg, R.J. (2009). Applied Cognitive Psychology: Perceiving, Learning,
+and Remembering. London: Cengage.
+Tomasello, M. (2003). Constructing a Language. Cambridge: Harvard University
+Press.
+Yang, C. (2009)(Ed.). Language Acquisition. London: Routledge.
+
+
+===== PAGE 45 =====
+49
+Multiligualism and
+CognitionUNIT 4 LANGUAGE AND SPEECH
+DISORDERS
+“Language comes so naturally to us that it is easy to forget what a strange and
+miraculous gift it is.”  – Steven Pinker
+Structure
+4.0 Introduction
+4.1 Objectives
+4.2 Defining Language and Speech Disorders
+4.3 Language Disorders
+4.3.1 Aphasia
+4.3.2 Autism
+4.3.3 Learning Disability
+4.3.4 Alzheimer’s Disease
+4.3.5 Specific Language Impairment
+4.3.6 Developmental Phonological Disorders
+4.3.7 Dyspraxia
+4.4 Speech Disorders
+4.4.1 V oice Disorders
+4.4.2 Speech Sound Disorder
+4.4.3 Fluency Disorders
+4.4.4 Apraxia of Speech
+4.4.5 Dysprosody
+4.4.6 Dysarthria
+4.5 Let Us Sum Up
+4.6 Unit End Questions
+4.7 Suggested Readings and References
+4.0 INTRODUCTION
+Communication is so pervasive in any community in its day-to-day activities
+that it is often taken for granted (Sternberg, 2001). Normal language develops
+over a period and it is sequential or ordered (Crystal, 1992). A child acquires
+vocalisation, speech sounds (vowels and consonants) and then prosodies. This
+acquisition is in recognisable stages that entail acquisition of form, content, and
+use (Seymour & Nober, 1997). The form is the system of symbols that convey
+meaning and it is made up of the phonology, morphology, and syntax of a
+language. The content includes the individual words and combinations of words
+to produce meaning in the language. Content is made up of the semantics of a
+language. Use involves how we use words in contexts and is made up of the
+pragmatics of a language.
+Many things could go wrong with the natural order of language acquisition and
+development. In every community, we encounter individuals with language and/
+or a speech disorders. One in 10 people in the United States is affected by a
+communication disorder (speech, language, or hearing disorders). Unfortunately,
+
+
+===== PAGE 46 =====
+50
+Language there is much ignorance as far as identifying these disorders is concerned. The
+ignorance more often than not leads to mishandling of the persons with language
+and speech disorders.
+4.1 OBJECTIVES
+After reading this unit, you will be able to:
+• Define language and speech disorders;
+• Explain speech disorders;
+• List the causes for speech disorders;
+• Enumerate the language disorders; and
+• Explain treatment for the speech and language disorders.
+4.2 DEFINITION OF LANGUAGE AND SPEECH
+DISORDERS
+Language and speech are said to be disordered or impaired if they differ from
+what is considered the norm. As already indicated, the yardstick is embedded in
+the culture of each language; what may be considered disordered in one language
+will not necessarily be disordered in another language. There is need, therefore,
+to distinguish between genuine speech disorder and people’s cultural tendencies
+or practices. For example, Kim (1985) notes that Asian Americans favour verbal
+hesitancy and ambiguity to avoid offence. They also avoid making spontaneous
+or critical remarks. One should respect such a community’s culture and thus the
+hesitancy should not be confused with a fluency disorder.
+The unique nature of the language and speech disorders is that they are not visible
+since mostly they are not physically manifested, except defects that affect
+articulation. Most disorders are not evident until a person opens her/his mouth
+to speak. The disorders, for the same reason, are often not considered a disability,
+even by the persons who have them.
+Language and speech disorders may be due to factors such as physical, mental,
+or socialisation defects (Crystal, 1988). Though language and speech disorders
+are classified together they are slightly different from each other. Let’s take them
+one by one:
+4.3 LANGUAGE DISORDERS
+Language is the rule-based use of speech sounds to communicate (Sternberg,
+2000). Language disorders or language impairments involve the processing of
+linguistic information. Problems that may be experienced can involve grammar
+(syntax and/or morphology), semantics (meaning), or other aspects of language.
+Disordered language may be due to a receptive problem, that is, a difficulty in
+understanding speech sounds (involving impaired language comprehension). It
+can also be due to an expressive problem, that is, a difficulty in producing the
+speech sounds (involving language production), that follow the arbitrary rules
+of a specific language. A language disorder can also be due to problems in both
+reception and expression. Examples include specific language impairment and
+
+
+===== PAGE 47 =====
+51
+Language and Speech
+Disorders
+aphasia, among others. Language disorders can affect both spoken and written
+language, and can also affect sign language; typically, all forms of language will
+be impaired.
+Note that these are distinct from speech disorders, which involve difficulty with
+the act of speech production, but not with language. Language disorders, therefore,
+refer to the following:
+The use of speech sounds in combinations and patterns that fail to follow the
+arbitrary rules of a particular language is a language disorder. For instance, the
+lack of communication etiquette is considered a language disorder. Talking out
+of turn, not talking when it is your turn, or not responding when you are expected
+to could be disorders if frequently observed in one’s language behaviour.
+The delay in the use of speech sounds relative to normal development in the
+physical, cognitive, and social areas is another language disorder. Most language
+disorders are often diagnosed in conjunction with other developmental delays
+— for instance, health, sensory, motor, mental, emotional, and behavioural
+development.
+Language disorder is a disorder that is found in the development or use of the
+knowledge of language. It shows the breakdown in the development of language
+abilities on the usual developmental schedule. The disorders that come under
+language disorders are: Autism, Learning Disability, Specific Language
+Impairment, Developmental Phonological Disorders Aphasia, Dyspraxia, etc.
+We shall discuss the most common language disorders in detail:
+4.3.1 Aphasia
+Aphasia is an impairment of language functioning caused by damage to the left
+hemisphere of the brain (Garrett, 2003; Hillis & Caramazza, 2003). There are
+different type of aphasias, example; Broca’s aphasia and Wernicke’s aphasia.
+Wernicke’ s aphasia is caused by damage to the left temporal lobe of the brain. It
+is characterised by notable impairment in the understanding of spoken words
+and sentences. People with Wernicke’s aphasia have generally fluent phonetic
+and syntactic but semantically coherent speech.
+This coherence is exhibited through the creation of nonsense words for real-
+world concepts and improper substitutions of function words for content words
+(e.g., nouns, verbs). It also typically involves the production of sentences that
+have the basic structure of the language spoken but that make no sense. They are
+sentences without any meaning, e.g. ‘Yeah, that was the pumpkin furthest from
+my thoughts’ and ‘the scroolish prastimer ate my spanstakes’ (Hillis & Caramazza,
+2003).
+In the first case, the words make sense, but not in the context they are presented.
+In the second case, the words themselves are neologisms, or newly created words.
+Treatment for patients with this type of aphasia frequently involves supporting
+and encouraging nonlanguage communication (Altschuler et al., 2006).
+Broca’ s aphasia is caused by damage to the brain’s premotor area, responsible,
+in part, for controlling motor commands used in speech production. A person
+suffering from Broca’s aphasia exhibits speech containing excess pauses and
+
+
+===== PAGE 48 =====
+52
+Language slips of tongue, and s/he has trouble finding words when talking. The person
+also fails to make use of function words such as a, the, and of. For this reason,
+Broca’s aphasics also produce ungrammatical sentences (Tartter, 1987).
+Furthermore they have problem using syntactic information when understanding
+sentences (Just & Carpenter, 1987). For example, while a Broca’s aphasic has no
+trouble understanding a sentence such as “The bicycle that the man is holding is
+blue”, but s/he has trouble comprehending a sentence such as “the dog that the
+woman is biting is grey.”
+This difference is due to the fact that while the first sentence can be understood
+using real-world knowledge (e.g. bicycle, not people, are blue), the second
+sentence cannot (because it is unlikely that a woman would bite a dog). Because
+understanding the second sentence requires correctly using syntactic information,
+which Broca’s aphasics have difficulty doing, the sentence poses problem for
+them (Berndt & Caramazza, 1980).
+Broca’s aphasia differs from Wernicke’s aphasia in two key aspects. First is that
+speech is agrammatical rather than grammatical, as in Wernicke’s. Second is
+that verbal comprehension is largely preserved.
+Diseases like Broca’s and Wernicke’s aphasia, while tragic, tell us much about
+the critical functions of certain regions of the brain. Notably, their symptoms
+suggest that (at least certain) phonological, syntactic, and semantic, language
+information is stored and processed separately in the brain.
+Global aphasia  is the combination of highly impaired comprehension and
+production of speech. It is caused by lesions to both Broca’s and Wernicke’s
+areas. Aphasia following a stroke frequently involves damage to both Broca’s
+and Wernicke’s areas. In one study, researchers found 32 % of aphasias
+immediately following a stroke in Broca’s and Wernicke’s areas (Pedersen, Vinter,
+& Olsen, 2004).
+Anomic aphasia involves difficulties in naming objects in retrieving words. The
+patient may look at an object and simply be unable to receive the word that
+corresponds to the object. Sometimes, specific categories of things cannot be
+recalled, such as names of living things (Warrington & Shallice, 1984).
+4.3.2 Autism
+Autism is a developmental disorder characterised by abnormalities in social
+behaviour, language, and cognition (Jarrold & Happe’, 2003). It is biological in
+its origins, although the genes responsible for it have not been conclusively
+identified (Lamb et al., 2000). Children with autism are identified by around 14
+months of age, when they fail to show expected normal patterns of interaction
+with others. They display repetitive movements and stereotyped patterns of
+interests and activities. When they interact with someone, they are more likely to
+view their lips than their eyes. About half of children with autism fail to develop
+functional speech. The speech they tend to develop is characterised by echolalia,
+meaning they repeat, over and over again, speech they have heard. Sometimes
+the repetition occurs several hours after the original use of the words by someone
+else.
+Children with autism show abnormalities in many areas of the brain, including
+the frontal and parietal lobes, as well as the cerebellum, brainstem, corpus
+
+
+===== PAGE 49 =====
+53
+Language and Speech
+Disorders
+callosum, basal ganglia, amygdala, and hippocampus. The disease was first
+identified in the middle of the twentieth century (Kanner, 1943). It is five times
+more common in males than females. The incidence of diagnosed autism has
+increased rapidly over recent years (Chen et al., 2007). Autism is diagnosed
+today in approximately 60 out of every 10,000 children (Fombonne, 2003). The
+increase in recent times may be a result of a number of causes, including changes
+in diagnosing strategies or environmental pollution (Jick & Kaye, 2003; Windham
+et al., 2006).
+4.3.3 Learning Disability
+Language-based learning disabilities are problems with age-appropriate reading,
+spelling, and/or writing. Most people diagnosed with learning disabilities have
+average to superior intelligence. . In language-based learning disability (or just
+learning disabilities), many children with reading problems have spoken language
+problems. Dyslexia has been used to refer to the specific learning problem of
+reading.
+Dyslexia — Dyslexia has been around for a long time and has been defined in
+different ways. For example, in 1968, the World Federation of Neurologists
+defined dyslexia as “a disorder in children who, despite conventional classroom
+experience, fail to attain the language skills of reading, writing, and spelling
+commensurate with their intellectual abilities.” Dyslexia is not due to mental
+retardation, brain damage, or a lack of intelligence. It is caused by an impairment
+in the brain’s ability to translate images received from the eyes or ears into
+understandable language. The severity of dyslexia can vary from mild to severe.
+It is found more often in boys than in girls. The sooner dyslexia is treated, the
+more favorable the outcome; however, it is never too late for people with dyslexia
+to learn to improve their language skills (Schulte-Körne, Warnke, & Remschmidt,
+2006).
+Letter and number reversals are the most common warning sign of dyslexia (Birsh,
+2005). Difficulty in copying from the board or a book can also suggest problems.
+The child may appear to be uncoordinated and have difficulty with organised
+sports or games. Difficulty with left and right is common, and often dominance
+for either hand has not been established. Auditory problems in dyslexia encompass
+a variety of functions. Commonly, a child may have difficulty remembering or
+understanding what he hears. Parts of words or parts of whole sentences may be
+missed, and words can come out sounding funny. Children struggling with this
+problem may know what they want to say but have trouble finding the actual
+words to express their thoughts (Sperling et al., 2006).
+There are several types of dyslexia that can affect the child’s ability to spell as
+well as read (Heim, Tschierse, & Amunts, 2008). Primary dyslexia is a dysfunction
+of, rather than damage to, the left side of the brain (cerebral cortex) and does not
+change with age. Individuals with this type are rarely able to read above a fourth-
+grade level and may struggle with reading, spelling, and writing as adults. Primary
+dyslexia is passed in family lines through their genes (hereditary). Secondary or
+developmental dyslexia and is felt to be caused by hormonal development during
+the early stages of fetal development. Developmental dyslexia diminishes as the
+child matures (Galaburda & Cestnick, 2003).
+
+
+===== PAGE 50 =====
+54
+Language Dyslexia may affect several different functions. Visual dyslexia is characterised
+by number and letter reversals and the inability to write symbols in the correct
+sequence. Auditory dyslexia involves difficulty with sounds of letters or groups
+of letters. The sounds are perceived as jumbled or not heard correctly. Dysgraphia
+refers to the child’s difficulty holding and controlling a pencil so that the correct
+markings can be made on the paper (Facoetti et al., 2003).
+Many subtle signs can be observed in children with dyslexia. Due to the frustration
+arising from the difficulty in reading, children may become withdrawn and may
+show signs of depression and low self-esteem. Peer and sibling interactions can
+become strained. The child may become unmotivated and develop a dislike for
+school. The child’s success in school may be jeopardised if the problem remains
+untreated.
+4.3.4 Alzheimer’s Disease
+Alzheimer’s disease is a brain disorder which leads to a decrement in language
+processing ability. This disease primarily afflicts elderly persons and causes
+progressive, diffused, and irreversible damage to the cortical regions of the brain,
+impacting markedly on memory functions. Comparison between the language
+decrements due to the dementing effects of Alzheimer’s disease and those noted
+for the aphasics is useful because the average age of onset of Alzheimer’s Disease
+overlaps that of aphasias (around 50 to 60 years of age).
+The language of an Alzheimer’s patient is marked by a striking simplification
+process wherein words that once precisely described some event are now lost
+and are replaced by more general terms because of a fundamental loss of
+categorical organisation in semantic memory (Chan et al., 1993; Martin & Fedio,
+1983). It appears, however, that in patients suffering from Alzheimer’s disease,
+phonological and syntactic knowledge and use is minimally affected. Finally, a
+deficit in pragmatic knowledge, concerning the correct recognition of the intention
+of a speech act (e.g., that an utterance is meant to be taken as a request), turntaking
+in a conversation, and so on also occurs. Interestingly, this pattern of deficits and
+nondeficits again argues for the distinctiveness of the various levels of language
+information similar to what was seen for Broca’s and Wernicke’s aphasias (Bayles
+& Kaszniak, 1987).
+4.3.5 Specific Language Impairment
+Specific language impairment (SLI) is a developmental language disorder in the
+absence of frank neurological, sensorimotor, nonverbal cognitive or social
+emotional deficits (see Watkins, 1994). SLI is used to refer to problems in the
+acquisition and use of language, typically in the context of normal development.
+Children with SLI lag behind their peers in language production and language
+comprehension, which contributes to learning and reading disabilities in school.
+One of the hallmarks of SLI is a delay or deficit in the use of function morphemes
+(e.g., the, a, is) and other grammatical morphology (e.g., plural -s, past tense -
+ed). Individuals with SLI exhibit problems in combining and selecting speech
+sounds of language into meaningful units (phonological awareness).
+These problems are different to speech impairments that arise from difficulties
+in coordination of oral-motor musculature (Cohen, 2002). Symptoms include
+
+
+===== PAGE 51 =====
+55
+Language and Speech
+Disorders
+the use of short sentences, and problems producing and understanding
+syntactically complex sentences. SLI is also associated with an impoverished
+vocabulary, word finding problems, and difficulty learning new words, whereas
+the basic tasks for development of phonology and syntax are completed in
+childhood, vocabulary continues to grow in adulthood (Bishop, 1997).
+Some researchers claim that SLI children’s difficulty with grammatical
+morphology is due to delays or difficulty in acquiring a specific underlying
+linguistic mechanism. For example, difficulty in acquiring the rule that verbs
+must be marked for tense and number (“he walks”, not “he walk”) (Rice &
+Wexler, 1994).
+These children have a deficit in processing brief and/or rapidly changing auditory
+information, and/or in remembering the temporal order of auditory information
+(Tallal, et al., 1985). Children with SLI have poor short-term memory for speech
+sounds (example, Gathercole, 1998). In a number of recent studies short-term
+memory for speech sounds has been shown to correlate highly with vocabulary
+acquisition and speech production. This has led to the hypothesis that a primary
+function of this memory is to facilitate language learning.
+Moreover, among SLI children, about 50% will go on to experience reading
+difficulties and develop dyslexia (Bishop & Snowling, 2004).
+4.3.6 Developmental Phonological Disorders
+“Developmental Phonological Disorders, also known as phonological disability
+or phonological disorders, are a group of language disorders that affect children’s
+ability to develop easily understood speech by the time they are four years old,
+and, in some cases, their ability to learn to read and spell. Therefore, Phonological
+disorders involve a difficulty in learning and organising all the sounds needed
+for clear speech, reading and spelling” (Bowen, 1998).
+Individuals with this Communication Disorder of childhood demonstrate
+impairment in their ability to produce sounds as expected for their developmental
+level. Some children with developmental phonological disorders have other
+speech and language difficulties such as immature grammar and syntax, stuttering
+or word-retrieval difficulties.
+The cause of phonological disorder in children is largely unknown. It has been
+suggested that this disorder has a genetic component due to the large proportion
+of children who have relatives with some type of similar disorder. However
+there is no available data to support these observations. Developmental
+phonological disorders may occur in conjunction with other communication
+disorders such as stuttering, specific language impairment (SLI), or developmental
+apraxia of speech. No matter what combination of difficulties a child with a
+developmental phonological disorder has, appropriate speech-language pathology
+treatment is usually successful in eliminating or at the very least, reducing the
+problem (Bowen, 1998).
+4.3.7 Dyspraxia
+Developmental dyspraxia is a disorder characterised by impairment in the ability
+to plan and carry out sensory and motor tasks (Dewey, 1995). Generally,
+individuals with the disorder appear “out of sync” with their environment.
+
+
+===== PAGE 52 =====
+56
+Language Symptoms vary and may include poor balance and coordination, clumsiness,
+vision problems, perception difficulties, emotional and behavioural problems,
+difficulty with reading, writing, and speaking, poor social skills, poor posture,
+and poor short-term memory. Although individuals with the disorder may be of
+average or above average intelligence, they may behave immaturely (Henderson
+& Henderson, 2003).
+Developmental dyspraxia is a lifelong disorder. Many individuals are able to
+compensate for their disabilities through occupational and speech therapy.
+Treatment is symptomatic and supportive and may include occupational and
+speech therapy, and “cueing” or other forms of communication such as using
+pictures and hand gestures. Many children with the disorder require special
+education (Alloway & Temple, 2007).
+4.4 SPEECH DISORDERS
+Speech disorders are characterised by a difficulty in producing normal speech
+patterns. Children go through many stages of speech production while they are
+learning to communicate. What is normal in the speech of a child of one age may
+be a sign of a problem in an older child. Speech is the vocal utterance of language
+and it is considered disordered in three underlying ways: voice, articulation, and
+fluency (Roseberry-McKibbin, 1995).
+These disorders include voice disorders (abnormalities in pitch, volume, vocal
+quality, resonance, or duration of sounds), speed sound disorders/articulation
+disorders (problems producing speech sounds), and fluency disorders (impairment
+in the normal rate or rhythm of speech, such as stuttering).
+4.4.1 Voice Disorders
+V oice involves the coordinated effects of the lungs, larynx, vocal chords, and
+nasal passage to produce recognisable sounds. V oice can thus be considered
+disordered if it is incorrectly phonated or if it is incorrectly resonated. In the
+incorrect phonation an individual could have a breathy, strained, husky, or hoarse
+voice. With the incorrect resonation an individual could have hyper-nasality or
+hypo-nasality. The voice disorders could also be due to improper voicing habits.
+Paralanguage issues, such as use of pitch, volume, and intonation, are diverse
+for they are culturally determined. Every sound of voice has a possible range of
+meanings that could be conveyed simply through the voice rather than the words
+we use. The features that should be considered in determining a voice disorder
+are:
+V olume: how loudly or softly we speak
+Pitch: how pleasant or unpleasant
+Quality: the highness or lowness of one’s voice
+Rate: the speed at which one speaks
+V oice disorders are interpreted variously in different cultures. For instance, in
+many African cultures masculinity and femininity are determined by paralinguistic
+features. A man who speaks in a low volume, a high pitch, or a smooth and slow
+voice, would be frowned upon and called upon to “speak like a man.”
+
+
+===== PAGE 53 =====
+57
+Language and Speech
+Disorders4.4.2 Speech Sound Disorders
+These involve difficulty in producing specific speech sounds (most often certain
+consonants, such as /s/ or /r/), and are subdivided into articulation disorders
+(also called phonetic disorders) and phonemic disorders. Articulation disorders
+are characterised by difficulty learning to physically produce sounds.
+Phonemic disorders are characterised by difficulty in learning the sound
+distinctions of a language, so that one sound may be used in place of many.
+However, it is not uncommon for a single person to have a mixed speech sound
+disorder with both phonemic and phonetic components.
+i) Articulation disorders: Articulation involves the use of the tongue, lips,
+teeth and mouth to produce recognisable speech sounds. Articulation is
+disordered if sounds are added, omitted, substituted or distorted. Articulation
+disorders may be caused by factors such as structural abnormalities, for
+example, a cleft lip and/or palate, a tongue-tie, missing teeth, a heavy tongue,
+or a deformed mouth; faulty or incomplete learning of the sound system; or
+damage of the nervous system.
+Apart from affecting articulation, such conditions also affect the self-concept
+of the persons (Leonard et al., 1991). For instance, Pinky Sonkar, an eight-
+year-old girl from Mirzapur in Uttar Pradesh, (On her life the documentary
+Smile Pinky was made by American filmmaker Magan Mylan, which won
+Oscars for Best Documentary), had stopped smiling, even stopped going to
+school because she was ashamed of her cleft lip, a deformity 35,000 children
+are born with in India every year. Then in 2008, The Smile Train arrived in
+Pinky’s village and a seemingly routine plastic surgery was offered free by
+doctors’ abroad and her world was changed forever.
+ii) Phonemic disorders: are speech disorders in which individuals have trouble
+physically producing certain sounds. In the general population phonemic
+disorders are sometimes called speech impediments. Usually individuals
+with phonemic disorders have trouble distinguishing the sounds made by
+certain letters so that some letters, for example all “t”s or all “c” s, are
+always pronounced with an incorrect sound as a substitution. Phonemic
+disorders usually improve with speech therapy, though how much
+improvement may be made will depend upon each individual case.
+4.4.3 Fluency Disorders
+Fluency involves appropriate pauses and hesitations to keep speech sounds
+recognisable. Fluency is disordered if sounds are very rapid with extra sounds
+(cluttered), if sounds are repeated or blocked especially at the beginnings of
+words (stuttered), or if words are repeated.
+Fluency disorders are more prevalent in children and they are due to a combination
+of familial, psychological, neurological, and motoric factors.
+The social nature of communication is affected when one has disfluent speech.
+Human beings are social and they spend much of their time together. They first
+learn how to communicate in a social set up — for instance, with parents, siblings,
+relations, or friends. Socialisation is adversely affected if one has a fluency speech
+disorder. A person with disfluency is often mishandled at home, in school, or in
+public place. Often the individual becomes withdrawn.
+
+
+===== PAGE 54 =====
+58
+Language 4.4.4 Apraxia of Speech
+Apraxia of speech, also known as verbal apraxia or dyspraxia, is a speech disorder
+in which a person has trouble saying what he or she wants to say correctly and
+consistently. The severity of apraxia of speech can range from mild to severe.
+There are two main types of speech apraxia: acquired apraxia of speech and
+developmental apraxia of speech. Acquired apraxia of speech can affect a person
+at any age, although it most typically occurs in adults. It is caused by damage to
+the parts of the brain that are involved in speaking, and involves the loss or
+impairment of existing speech abilities. The disorder may result from a stroke,
+head injury, tumor, or other illness affecting the brain. Acquired apraxia of speech
+may occur together with muscle weakness affecting speech production (dysarthria)
+or language difficulties caused by damage to the nervous system (aphasia)
+(Epstein, Perkin, Cookson, & de Bono, 2003).
+Developmental apraxia of speech (DAS) occurs in children and is present from
+birth. It appears to affect more boys than girls. This speech disorder goes by
+several other names, including developmental verbal apraxia, developmental
+verbal dyspraxia, articulatory apraxia, and childhood apraxia of speech. DAS is
+different from what is known as a developmental delay of speech, in which a
+child follows the “typical” path of speech development but does so more slowly
+than normal. The causes of DAS are not yet known. Some scientists believe that
+DAS is a disorder related to a child’s overall language development.
+Others believe it is a neurological disorder that affects the brain’s ability to send
+the proper signals to move the muscles involved in speech. However, brain
+imaging and other studies have not found evidence of specific brain lesions or
+differences in brain structure in children with DAS. Children with DAS often
+have family members who have a history of communication disorders or learning
+disabilities. This observation and recent research findings suggest that genetic
+factors may play a role in the disorder (Kasper et al., 2005).
+People with either form of apraxia of speech may have difficulty putting sounds
+and syllables together in the correct order to form words. They also tend to make
+inconsistent mistakes when speaking. For example, they may say a difficult word
+correctly but then have trouble repeating it, or they may be able to say a particular
+sound one day and have trouble with the same sound the next day. They often
+appear to be groping for the right sound or word, and may try saying a word
+several times before they say it correctly. Another common characteristic of
+apraxia of speech is the incorrect use of “prosody” — that is, the varying rhythms,
+stresses, and inflections of speech that are used to help express meaning. The
+severity of both acquired and developmental apraxia of speech varies from person
+to person. It can range from so mild having trouble with very few speech sounds
+to the severe cases of being not able to communicate effectively.
+4.4.5 Dysprosody
+Dysprosody is the rarest neurological speech disorder. It is characterised by
+alterations in intensity, in the timing of utterance segments, and in rhythm,
+cadence, and intonation of words. The changes to the duration, the fundamental
+frequency, and the intensity of tonic and atonic syllables of the sentences spoken,
+deprive an individual’s particular speech of its characteristics. The cause of
+
+
+===== PAGE 55 =====
+59
+Language and Speech
+Disorders
+dysprosody is usually associated with neurological pathologies such as brain
+vascular accidents, cranioencephalic traumatisms, and brain tumors (Pinto, Corso,
+Guilherme, Pinho, & Nobrega, 2004).
+4.4.6 Dysarthria
+Dysarthria is a motor speech disorder. It is a weakness or paralysis of speech
+muscles caused by damage to the nerves and/or brain. The type and severity of
+dysarthria depend on which area of the nervous system is affected. Dysarthria is
+often caused by strokes, Parkinson’s disease, Amyotrophic lateral sclerosis (ALS),
+head or neck injuries, surgical accident, or cerebral palsy.
+A person with dysarthria may experience any of the following symptoms,
+depending on the extent and location of damage to the nervous system: “slurred”
+speech, speaking softly or barely able to whisper, slow rate of speech, rapid rate
+of speech with a “mumbling” quality, limited tongue, lip, and jaw movement,
+abnormal intonation (rhythm) when speaking, changes in vocal quality (“nasal”
+speech or sounding “stuffy”), hoarseness, breathiness, drooling or poor control
+of saliva, chewing and swallowing difficulty etc.
+A speech-language pathologist (SLP) can evaluate a person with speech
+difficulties and determine the nature and severity of the problem. The SLP will
+look at movement of the lips, tongue, and face, as well as breath support for
+speech, voice quality, and more.
+Children with isolated speech disorders are often helped by articulation therapy,
+in which they practice repeating specific sounds, words, phrases, and sentences.
+For stuttering and other fluency disorders, a popular treatment method is fluency
+training, which develops coordination between speech and breathing, slows down
+the rate of speech, and develops the ability to prolong syllables. Delayed auditory
+feedback (DAF), in which stutterers hear an echo of their own speech sounds,
+has also been effective in treating stuttering.
+When a speech problem is caused by serious or multiple disabilities, a
+neurodevelopmental approach, which inhibits certain reflexes to promote normal
+movement, is often preferred. Other techniques used in speech therapy include
+the motor-kinesthetic approach and biofeedback, which helps children know
+whether the sounds they are producing are faulty or correct. For children with
+severe communication disorders, speech pathologists can assist with alternate
+means of communication, such as manual signing and computer-synthesised
+speech.
+4.5 LET US SUM UP
+In this unit we have defined both speech and language disorders.  We have also
+indicated the various causative factors leading to these disorders.  Language is
+the rule-based use of speech sounds to communicate (Sternberg, 2000). Language
+disorders or language impairments involve the processing of linguistic
+information. Problems that may be experienced can involve grammar (syntax
+and/or morphology), semantics (meaning), or other aspects of language.
+Disordered language may be due to a receptive problem, that is, a difficulty in
+understanding speech sounds (involving impaired language comprehension).
+
+
+===== PAGE 56 =====
+60
+Language It can also be due to an expressive problem, that is, a difficulty in producing the
+speech sounds (involving language production), that follow the arbitrary rules
+of a specific language. A language disorder can also be due to problems in both
+reception and expression. Examples include specific language impairment and
+aphasia, among others. Language disorders can affect both spoken and written
+language, and can also affect sign language; typically, all forms of language will
+be impaired.
+Note that these are distinct from speech disorders, which involve difficulty with
+the act of speech production, but not with language. Language disorders, therefore,
+refer to the following:
+The use of speech sounds in combinations and patterns that fail to follow the
+arbitrary rules of a particular language is a language disorder. For instance, the
+lack of communication etiquette is considered a language disorder. Talking out
+of turn, not talking when it is your turn, or not responding when you are expected
+to could be disorders if frequently observed in one’s language behaviour.
+Language disorder is a disorder that is found in the development or use of the
+knowledge of language. It shows the breakdown in the development of language
+abilities on the usual developmental schedule. The disorders that come under
+language disorders are: Autism, Learning Disability, Specific Language
+Impairment, Developmental Phonological Disorders include Aphasia, Dyspraxia,
+etc.
+Aphasia is an impairment of language functioning caused by damage to the left
+hemisphere of the brain (Garrett, 2003; Hillis & Caramazza, 2003). There are
+different type of aphasias, example; Broca’s aphasia and Wernicke’s aphasia.
+Autism is a developmental disorder characterised by abnormalities in social
+behaviour, language, and cognition (Jarrold & Happe’, 2003). It is biological in
+its origins, although the genes responsible for it have not been conclusively
+identified (Lamb et al., 2000). Children with autism are identified by around 14
+months of age, when they fail to show expected normal patterns of interaction
+with others. They display repetitive movements and stereotyped patterns of
+interests and activities. When they interact with someone, they are more likely to
+view their lips than their eyes. About half of children with autism fail to develop
+functional speech. The speech they tend to develop is characterised by echolalia,
+meaning they repeat, over and over again, speech they have heard. Sometimes
+the repetition occurs several hours after the original use of the words by someone
+else .
+Language-based learning disabilities are problems with age-appropriate reading,
+spelling, and/or writing. Most people diagnosed with learning disabilities have
+average to superior intelligence. . In language-based learning disability (or just
+learning disabilities), many children with reading problems have spoken language
+problems. Dyslexia has been used to refer to the specific learning problem of
+reading.
+Alzheimer’s disease is a brain disorder which leads to a decrement in language
+processing ability. This disease primarily afflicts elderly persons and causes
+progressive, diffused, and irreversible damage to the cortical regions of the brain,
+impacting markedly on memory functions. Comparison between the language
+
+
+===== PAGE 57 =====
+61
+Language and Speech
+Disorders
+decrements due to the dementing effects of Alzheimer’s disease and those noted
+for the aphasics is useful because the average age of onset of Alzheimer’s Disease
+overlaps that of aphasias (around 50 to 60 years of age).
+The language of an Alzheimer’s patient is marked by a striking simplification
+process wherein words that once precisely described some event are now lost
+and are replaced by more general terms because of a fundamental loss of
+categorical organisation in semantic memory .
+Specific language impairment (SLI) is a developmental language disorder in the
+absence of frank neurological, sensorimotor, nonverbal cognitive or social
+emotional deficits (see Watkins, 1994).
+Moreover, among SLI children, about 50% will go on to experience reading
+difficulties and develop dyslexia (Bishop & Snowling, 2004).
+“Developmental Phonological Disorders, also known as phonological disability
+or phonological disorders, are a group of language disorders that affect children’s
+ability to develop easily understood speech by the time they are four years old,
+and, in some cases, their ability to learn to read and spell. Therefore, Phonological
+disorders involve a difficulty in learning and organising all the sounds needed
+for clear speech, reading and spelling” (Bowen, 1998).
+Developmental dyspraxia is a lifelong disorder characterised by impairment in
+the ability to plan and carry out sensory and motor tasks (Dewey, 1995). Generally,
+individuals with the disorder appear “out of sync” with their environment.
+Symptoms vary and may include poor balance and coordination, clumsiness,
+vision problems, perception difficulties, emotional and behavioural problems,
+difficulty with reading, writing, and speaking, poor social skills, poor posture,
+and poor short-term memory.
+Speech disorders are characterised by a difficulty in producing normal speech
+patterns. Children go through many stages of speech production while they are
+learning to communicate. What is normal in the speech of a child of one age may
+be a sign of a problem in an older child. Speech is the vocal utterance of language
+and it is considered disordered in three underlying ways: voice, articulation, and
+fluency (Roseberry-McKibbin, 1995).
+These disorders include voice disorders (abnormalities in pitch, volume, vocal
+quality, resonance, or duration of sounds), speed sound disorders/articulation
+disorders (problems producing speech sounds), and fluency disorders (impairment
+in the normal rate or rhythm of speech, such as stuttering).
+4.6 UNIT END QUESTIONS
+1) Compare and contrast the speech errors made by individuals in different
+speech disorders.
+2) Based on the discussion of language disorders in this chapter, make a worksheet
+of different kinds of language disorders and their symptoms and causes.
+3) What do brain disorders like Broca’s and Wernicke’s aphasias tell us about
+how a healthy brain processes phonological, syntactic and semantic
+information?
+
+
+===== PAGE 58 =====
+62
+Language 4) Speech disorders have a negative effect on the personality and overall
+development of the children. Explain with examples, how?
+5) What are several major features of speech sound disorder?
+4.7 SUGGESTED READINGS AND REFERENCES
+Cantwell, D.P ., & Baker, L. (1987). Developmental Speech and Language
+Disorders. NY: The Guilford Press.
+Clark, H., & Clark, E. (1977).  Psychology and Language: An Introduction to
+Psycholinguistics. New York: Harcourt Brace Jovanovich.
+References
+Damico, J.S., Miller, N., & Ball, M.J. (2010). The Handbook of Language and
+Speech Disorders. Singapore: Blackwell.
+Deputy, P . (2008).  Human Communication Disorders.
+Disability Info: Speech and Language Disorders Fact Sheet (FS11 ). National
+Dissemination Center for Children with Disabilities.
+Eisenson, J. (1986). Language and Speech Disorders in Children.  London:
+Elsevier.
+Hunt, R. R., & Ellis, H.C. (2006). Fundamentals of Cognitive Psychology. New
+Delhi: Tata McGraw Hill.
+Leonard, L.B. (2000). Children with Specific Language Impairment. NY: MIT
+Press.
+Sternberg, R.J. (2009).  Applied Cognitive Psychology: Perceiving, Learning,
+and Remembering. London: Cengage.
+Y ule, M, & Rutter, M. (Eds.)(1987). Language Development and Disorders.
+London: McKeith Press.

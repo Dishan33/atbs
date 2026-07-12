@@ -1,0 +1,2373 @@
+
+
+===== PAGE 1 =====
+5
+Cognitive Psychology
+UNIT 1 COGNITIVE PSYCHOLOGY
+“Mind and world … have evolved together, and in consequence are something
+of a mutual fit”.
+– William James
+Structure
+1.0 Introduction
+1.1 Objectives
+1.2 Cognitive Psychology: An Introduction
+1.3 Research Methods in Cognitive Psychology
+1.3.1 Goals of Research
+1.3.2 Distinctive Research Methods
+1.4 Domains of Cognitive Psychology
+1.5 A Brief History of Cognitive Psychology
+1.5.1 Early Thoughts of Thinking
+1.5.2 Cognition in the Renaissance and Beyond
+1.5.3 Cognitive Psychology in Early Twentieth Centuary
+1.5.4 Cognitive Psychology — As it is Today
+1.6 Key Issues in the Study of Cognitive Psychology
+1.7 Key Ideas in Cognitive Psychology
+1.7.1 Computer Metaphor and Human Cognition
+1.7.2 Cognitive Science
+1.7.3 Neuroscience and Cognitive Psychology
+1.8 Let Us Sum Up
+1.9 Unit End Questions
+1.10 Suggested Readings and References
+1.0 INTRODUCTION
+Cognitive psychology is the study of mental processes such as perceiving,
+remembering, and reasoning. Why do psychologists study mental processes?
+Since the beginning of recorded history, people have expressed curiosity about
+the operation of the mind, largely because they believed that behaviour is the
+result of mental processes. For example, how are we to understand the very
+behaviour in which you are engaged at this moment, reading this course book?
+At one level, we are interested in explaining your ability to comprehend what
+you are reading, and in so doing, we are likely to appeal to processes of perception
+of words and computation of meaning. At another level, we might explain your
+motivation for reading in terms of your goal to complete this course, which in
+turn is motivated by your goal of obtaining a degree in order to follow some plan
+that you have for a career. The point is that your behaviour of reading this book
+is determined in part by your intent to meet some goal and fulfill some plan.
+Intentionality, goals, and plans are mental phenomena that affect behaviour.
+Further, the specific behaviour, in this case, reading, is understood by appeal to
+the specific mental processes involved in perception and comprehension of text.
+In short, the study of mental processes is important because these processes are
+responsible for much of our behaviours. In this unit you will be studying the
+definition and description of cognitive psychology, distinctive research methods,
+domains of cognitive psychology, metaphor of cognition etc.
+
+===== PAGE 2 =====
+6
+Information Processing
+1.1 OBJECTIVES
+After reading this unit, you will be able to:
+• Field of cognitive psychology;
+• Provide a foundation on which to build an understanding of the topics in
+cognitive psychology;
+• Describes some of the intellectual history of the study of human thinking;
+and
+• Emphasises some of the issues and concerns that arise when we think about
+how people think.
+1.2 COGNITIVE PSYCHOLOGY: AN
+INTRODUCTION
+Cognitive psychology is the study of how people perceive, learn, remember, and
+think about information. A cognitive psychologist might study how people
+perceive various shapes, why they remember some facts but forget others, or
+how they learn language. Consider some examples of everyday experiences that
+are also of theoretical interest to cognitive psychologists:
+How many times have you carefully proofread written work, only to be
+embarrassed later by an obvious error you overlooked?
+Many times what we see is determined as much by the context in which it occurs
+as by what is actually there, an issue of pattern recognition.
+Have you noticed the difficulty of simultaneously taking notes in class and
+understanding a lecture?
+Explanations of this kind of difficulties are found in the discussion of attention.
+When you dial the telephone directory assistance for a telephone number and do
+not have a pen to note it down, why do you have to repeat the number until you
+have dialed it? And why you have to make your call again to enquire the number
+if someone talks to you before you dial the number?
+These are problems associated with the short term memory.
+Do you remember the experience of working on a problem or a puzzle that you
+were unable to solve, but after taking a break from the problem, you subsequently
+obtained a solution?
+This phenomenon, known as incubation effect, along with other commonly
+experienced events is an aspect of problem solving.
+Why do objects look farther away on foggy days than they really are? This
+discrepancy of perception can be dangerous, even deceiving drivers into having
+accidents.
+These are just a few of the many examples of everyday experiences which are
+discussed and explored by the experiments and theory of cognitive psychology.
+Two points about these examples should be considered as we attempt to gain an
+overview of cognitive psychology.
+
+===== PAGE 3 =====
+7
+Cognitive Psychology1) All represent instances of difficulty or failure of mental processes. We rarely
+think of them unless they fail to work. Failure of mental processes are
+immediately noticed because they can be frustrating, embarrassing, and
+sometimes even dangerous and, consequently, such failures become useful
+tools for the psychological analysis of mental phenomena.
+2) Cognitive psychology is interested in what is generally called mental
+phenomena. In this sense, the examples just discussed are consistent with
+the dictionary definition of cognitive psychology: “the scientific study of
+the mind”.
+While it is hoped that examples help clarify the definition, questions undoubtedly
+remain concerning how one goes about this ‘scientific study of mind’. To address
+these questions, here’s a brief discussion of the scientific methods, followed by
+an extensive description of the important historical events leading up to modern
+cognitive psychology.
+Next is a brief overview of the major methods, issues, and content areas of
+cognitive psychology.
+1.3 RESEARCH METHODS IN COGNITIVE
+PSYCHOLOGY
+This consists of the various research methods that we use in cognitive psychology.
+Every research has a goal and it is achieved through appropriate methodology.
+Let  us see what are the goals of research.
+1.3.1 Goals of Research
+To better understand the specific methods used by cognitive psychologists, one
+must grasp the goals of research in cognitive psychology. Briefly, those goals
+include data gathering, data analysis, theory development, hypothesis formulation,
+hypothesis testing, and perhaps even application to settings outside the research
+environment. However, most cognitive psychologists want to understand more
+than cognition. They  also seek to understand the how and the why of thinking.
+That is, researchers seek ways to explain cognition as well as describe it. To
+move beyond descriptions, cognitive psychologists must leap from what is
+observed directly to what can be inferred regarding observations.
+1.3.2 Distinctive Research Methods
+Cognitive psychologists use various methods to explore how humans think. These
+methods include (i) laboratory or other controlled experiments, (ii)
+psychobiological research, (iii) self-reports, case studies, naturalistic observation,
+and (iv) computer simulations and artificial intelligence. Each method offers
+distinctive advantages and disadvantages.
+i) Experiments on Human Behaviour: In controlled experimental designs,
+an experimenter conducts research, typically in a laboratory setting. The
+experimenter controls as many aspects of the experimental situation as
+possible. There are basically two kinds of variables in any given experiment
+– independent variables and dependent variables. The irrelevant variables
+are held constant and are called control variables. In implementing
+
+===== PAGE 4 =====
+8
+Information Processing experimental method, the experimenter must use a representative and
+random sample of the population of interest. S/he must also exert rigorous
+control over the experimental conditions. If those requisites for the
+experimental method are fulfilled, the experimenter may be able to infer
+probable causality. This influence is of the effects of the independent variable
+(the treatment) on the dependent variable (the outcome) for the given
+population.
+ii) Psychobiological Research:  Through psychobiological research ,
+investigators study the relationship between cognitive performance and
+cerebral events and situations. The various specific techniques used in the
+psychobiological research generally fall into three categories. The first
+category is that of techniques for studying an individual’s brain post-mortem,
+relating the individual’s cognitive function prior to death to observable
+features of the brain. The second category is techniques for studying images
+showing structures of or activities in the brain of an individual who is known
+to have a particular cognitive deficit. The third is techniques for obtaining
+information about cerebral processes during the normal performance of a
+cognitive activity (e.g. by using brain imaging techniques).
+iii) Self-Reports, Case Studies, and Naturalistic Observation:  Individual
+experiments and psychobiological studies often focus on precise
+specification of discrete aspects of cognition across individuals. To obtain
+richly textured information about how particular individuals think in a broad
+range of contexts, researchers may use self-reports (an individual’s own
+account of cognitive processes), case studies  (in-depth studies of
+individuals), and naturalistic observation  (detailed studies of cognitive
+performance in everyday situations and no laboratory contexts). On the
+one hand, experimental research is most useful for testing hypotheses. On
+the other hand, research based on qualitative methods is often particularly
+useful for the formulation of hypotheses. These methods are also useful to
+generate descriptions of rare events or processes that we have no other way
+to measure.
+iv) Computer Simulations and Artificial Intelligence:  Digital computers
+played a fundamental role in the emergence of the study of cognitive
+psychology. One kind of influence is indirect though models of human
+cognition based on models of how computers process information. Another
+kind is direct, that is through computer simulations and artificial intelligence.
+In computer simulations, researchers program computers to imitate a given
+human function or process. Some researchers even have attempted to create
+computer models of the entire cognitive architecture of the human mind.
+Their models have stimulated heated discussions regarding how the human
+mind may function as a whole. Sometimes the distinction between
+simulation and artificial intelligence is blurred. It is also possible to combine
+the two approaches.
+Cognitive psychologists often broaden and deepen their understanding of
+cognition through research in cognitive science. Cognitive science is a cross-
+disciplinary field that uses ideas and methods from cognitive psychology,
+psychobiology, artificial intelligence, philosophy, linguistics, and anthropology.
+Cognitive psychologists use these ideas and methods to focus on the study of
+
+===== PAGE 5 =====
+9
+Cognitive Psychologyhow humans acquire and use knowledge. They also work in collaboration with
+other psychologists, such as social psychologists (in the field of social cognition),
+psychologists who study motivation and emotion, and engineering psychologists
+(who study human-machine interactions).
+1.4 DOMAINS OF COGNITIVE PSYCHOLOGY
+Modern cognitive psychology freely, draws theories and techniques; from twelve
+principal areas of research (see Figure 1.1). Each area, in brief, is described
+below:
+i) Cognitive Neuroscience: Only within the past few years have cognitive
+psychologists and cognitive neuroscientists formed a close working
+relationship. Thus far, this union has produced some of the most provocative
+developments in the study of our mental character. Cognitive psychologists
+are seeking neurological explanations for their findings, and neuroscientists
+are turning to cognitive psychologists to explain observations made in their
+laboratories. Every part of the cognitive process from sensation to memory
+is supported by basic electrochemical processes taking place in the brain
+and nervous system.
+Fig. 1.1: Principal research areas of cognitive psychology
+ii) Perception: The branch of psychology directly involved with the detection
+and interpretation of sensory stimuli is perception. From experiments in
+perception, we have a good understanding of the sensitivity of the human
+organism to sensory signals and more important to cognitive psychology of
+the way we interpret sensory signals. The experimental study of perception
+has helped identify many of the parts of this process. However, the study of
+perception alone does not adequately account for the expected performance;
+other cognitive systems are involved, including pattern recognition, attention,
+consciousness, and memory.
+Thinking and
+Concept Formation
+Cognitive
+Psychology
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Pattern
+Recognition
+Human and Artificial
+Intelligence
+Cognitive
+Neuroscience
+Perception
+Attention
+ Representation
+of knowledge
+Consciousness
+Memory
+Imagery
+Language
+Developmental
+Psychology
+
+===== PAGE 6 =====
+10
+Information Processing iii) Pattern Recognition: Environmental stimuli rarely are perceived as single
+sensory events; they usually are perceived as part of a more meaningful
+pattern. The things we sense – see, hear, feel, taste, or smell—are almost
+always part of a complex pattern of sensory stimuli. Think about the problem
+of reading. Reading is a complex effort in which the reader is required to
+form a meaningful pattern from an otherwise meaningless array of lines
+and curves. By organising the stimuli that make up letters and words, the
+reader may then access meaning from his or her memory. The entire process
+takes place in a fraction of a second, and considering all the neuroanatomical
+and cognitive systems involved, this feat – performed daily by all sorts of
+people – is wondrous.
+iv) Attention: Although we are information-gathering creatures, it is evident
+that under normal circumstances we are also highly selective in the amount
+and type of information to which we attend. Our capacity to process
+information seems to be limited to two levels – sensory and cognitive. If
+too many sensory clues are imposed upon us at any given time, we can
+become overloaded; if we try to process too many events in memory, we
+can become overloaded, which may cause a breakdown in performance. All
+of us have felt the same way at one time or another.
+v) Consciousness: Consciousness is defined as “the current awareness, of
+external or internal circumstances.” Rejected as being “unscientific” by the
+behaviourists, the word consciousness and the concept it represents simply
+did not fade away. For most people, consciousness and unconscious thoughts
+(such as you might have on a first date) are very real. For example, when
+you glance at your watch while studying and it reads “10:42 (
+P.M.),” you are
+conscious, or, aware, of that external signal. However, your reading of the
+time also brings up another conscious thought, one that was initially activated
+by reading the time but is from “inside.” That conscious thought might be,
+“It’s getting late: I’d better finish this chapter and go to bed”. Consciousness
+has gained new respectability recently and now is a concept studied seriously
+in modern cognitive psychology.
+vi) Memory: Memory and perception work together. The information available
+to us comes from our perception, short-term memory, and long-term memory.
+Most obvious long-term storage is the knowledge of the language. We draw
+words from LTM and more or less use them correctly. In a fleeting second,
+we are able to recall information about an event of years before. Such
+information does not come from an immediate perceptual experience; it is
+stored along with a vast number of other facts in the LTM.
+vii) Representation of Knowledge: Fundamental of all human cognition is the
+representation of knowledge: how information is symbolised and combined
+with the things stored in the brain. This part of cognition has two aspects:
+the conceptual representation of knowledge in mind and the way the brain
+stores and process information. The conceptual representation in different
+individuals can be considerably different. In spite of these inherent
+dissimilarities between representations of knowledge, most humans do
+experience and depict experience in similar enough ways to get along well
+in the world. The content of this information is also hugely different. But
+our neurological web entraps information and experiences and holds them
+in structures that are similar in all human brains.
+
+===== PAGE 7 =====
+11
+Cognitive Psychologyviii)Imagery: Cognitive psychologists are especially interested in the topic of
+internal representations of knowledge. The mental images of the environment
+are formed in the form of a cognitive map, a type of internal representation
+of the juxtaposed buildings, streets, street signs, spotlights, and so on. From
+the cognitive maps, we are able to draw out significant cues. Although the
+experimental study of mental imagery is relatively new to psychology, some
+significant research has recently been reported.
+ix) Language: One form of knowledge shared by all human societies is the
+knowledge of language. Language is the principal means by which we acquire
+and express knowledge; thus, the study of how language is used is a central
+concern of cognitive psychology. Human language development represents
+a unique kind of abstraction, which is basic to cognition. Language processing
+is an important component of information processing and storage. Language
+also influences perception, a fundamental aspect of cognition.
+x) Developmental Psychology: Developmental psychology is another important
+area of cognitive psychology that has been intensely studied. Recent studies
+and theories in developmental cognitive psychology have greatly expanded
+our understanding of how cognitive structures develop. As adults, we have
+all lived through childhood and adolescence and we share maturational
+experiences with all members of our species.
+xi) Thinking and Concept Formation: Thinking is the crown jewel of cognition.
+Thinking is the process by which a new mental representation is formed
+through the transformation of information. Advances in cognitive psychology
+have led to a formidable arsenal of research techniques and theoretical
+models.  An ability to think and form concepts is an important aspect of
+cognition. Similar concepts help in the understanding and processing of
+information. There is a considerable body of knowledge about the laws and
+processes of concept formation.
+xii) Human and Artificial Intelligence: Human intelligence includes the ability
+to acquire, recall, and use knowledge to understand concrete and abstract
+concepts and the relationships among objects and ideas, to understand a
+language, to follow instructions, to convert verbal descriptions into actions,
+and to behave according to the rules, and to use knowledge in a meaningful
+way.
+The specialty within the computer science called artificial intelligence has had a
+major influence on the development of cognitive science, especially since the
+design of programs requires knowledge of how we process information. Cognitive
+psychology also addresses to find out whether a perfect robot can simulate human
+behaviour.
+1.5 A BRIEF HISTORY OF COGNITIVE
+PSYCHOLOGY
+As we have learned, a great portion of cognitive psychology deals with how
+knowledge is represented in the mind. In this section on the history of cognitive
+psychology we will review three major periods (for a detailed history see Solso
+& MacLin, 2000; Wilson & Keil, 1999). First, we will deal with traditional ideas
+
+===== PAGE 8 =====
+12
+Information Processing from a very early period. Then we touch on the way knowledge and thinking was
+conceptualised by Renaissance scholars. Finally, we will deal with the modern
+period with emphasis on current ideas and methods.
+1.5.1 Early Thoughts on Thinking
+Where did knowledge come from, and how is it represented in the mind? That
+eternal question is fundamental to cognitive psychology as it has been through
+the ages of humankind. Basically, two answers have been proposed. The
+empiricists maintain that knowledge comes from experience, and the nativists
+suggest that knowledge is based on innate characteristics of the brain. From a
+scientific perspective, neither case can be definitively proved, so the argument
+continues without clear resolution. With these issues clearly before us, let’s
+consider the way ancient philosophers and early psychologists grappled with the
+issue. The fascination with knowledge can be traced to the earliest writings.
+Early theories were concerned with the seat of thought and memory. Ancient
+Egyptian hieroglyphics suggest their authors believed that knowledge was
+localised in the heart—a view shared by the early Greek philosopher Aristotle
+but not by Plato, who held that the brain was the locus of knowledge.
+1.5.2 Cognition in the Renaissance and Beyond
+Renaissance philosophers and theologians seemed generally satisfied that
+knowledge was located in the brain. They considered that knowledge was acquired
+not only through the physical senses ( mundus sensibilis – touch, taste, smell,
+vision, and hearing) but also from divine sources (mundus intellectualis—Deus) .
+During the eighteenth century, when philosophic psychology was brought to the
+point where , scientific psychology could assume a role, the British empiricists,
+George Berkeley, David Hume, and, later, James Mill and his son John Stuart
+Mill suggested that internal representation is of three types: (1) direct sensory
+events, (2) faint copies of percepts, or those that are stored in memory; and (3)
+transformation of these faint copies, as in associated thought. These notions are
+the basis of much current research in cognitive psychology.
+During the nineteenth century, the early psychologists like Gustav Fechner, Franz
+Brentano, Hermann Helmholtz, Wilhelm Wundt, G; E. Muller, Oswald Kulpe,
+Hermann Ebbinghaus, Sir Francis Galton, Edward Titchener, and William James
+and others started to break away from philosophy to form a discipline based on
+empirical results rather than on speculation. By the last half of the nineteenth
+century, theories of the representation of knowledge were clearly dichotomous:
+that emphasised the structure of mental representation (Wundt, Titchner); and
+the processes or acts (Brentano).
+About the same time in America, James critically analysed the new psychology
+that was developing in Germany. He established the first’ psychological laboratory
+in America, wrote the definitive work in psychology in 1890 (Principles of
+Psychology), and developed a well-reasoned model of the mind. Perhaps James’s
+most direct link with modem cognitive psychology is in his view of memory, in
+which both structure and process play an important role. F. C. Donders and James
+Cattell, contemporaries of James’s, performed experiments using the perception
+of brief visual displays as a means of determining the time required for mental
+operations. The technique, subject matter, procedures, and even the interpretation
+
+===== PAGE 9 =====
+13
+Cognitive Psychologyof results of these early scientists seem to have anticipated the emergence of the
+cognitive psychology a half-century later.
+1.5.3 Cognitive Psychology in Early Twentieth Century
+The representation of knowledge took a radical turn with the advent of twentieth-
+century behaviourism and Gestalt psychology. The behaviourist views of human
+and animal psychology were cast in a framework of stimulus-response (S-R)
+psychology, and Gestalt theorists built elaborate conceptualisations of internal
+representation within the context of isomorphism – one-to-one relationship
+between representation and reality.
+Psychological studies of mental processes as conceptualised in the late nineteenth
+century suddenly became unfashionable, displaced by behaviourism. Studies of
+internal mental operations and structures such as attention, consciousness,
+memory, and thinking were laid to rest and remained so for about fifty years. To
+the behaviourists, internal states were subsumed under the label of “intervening
+variable,” that mediated the effects of stimuli on responses and were neglected
+in favor of making observations on behaviour rather than on the mental processes.
+In 1932, some years before the cognitive revolution swept across psychology,
+learning psychologist Edward Tolman from the University of California at
+Berkeley published Purposive Behavior in Animals and Men.  In this seminal
+work, Tolman observed that what rats learn in a maze is the layout of the land
+rather than simply a series of S-R connections. The animal, according to Tolman’s
+interpretation, gradually developed a “picture” of his environment that was later
+used to find the goal. This picture was called a cognitive map. Tolman’s postulate
+about cognitive maps in animals did anticipate the contemporary preoccupation
+with how knowledge is represented in a cognitive structure.
+Also in 1932 Sir Frederick Bartlett from Cambridge University wrote
+Remembering in which he rejected the then popular view that memory and
+forgetting can be studied by means of nonsense syllables, as had been advocated
+by Ebbinghaus in Germany during the previous century. In the study of human
+memory, Bartlett argued, the use of rich and meaningful material under naturalistic
+conditions would yield far more significant conclusions. Bartlett introduced the
+concept of schema as a unifying theme that describes the essence of an experience.
+Schema theory plays a central role in modern theories of memory. The fecund
+ideas of Tolman in America and Bartlett in England highly influenced the thinking
+of future cognitive psychologists.
+1.5.4 Cognitive Psychology—As it is Today
+In the 1950s interest again began to focus on attention, memory, pattern
+recognition, images, semantic organisation, language processes, thinking, and
+even consciousness (the most dogmatically eschewed concept), as well as other
+“cognitive” topics once considered outside the boundary of experimental
+psychology (vis-à-vis.behaviourism). New journals and professional groups were
+founded as psychologists began more and more to turn to cognitive psychology.
+As cognitive psychology became established with even greater clarity, it was
+plain that this was a brand of psychology different from that in vogue during the
+1930s and 1940s. Among the most important forces accounting for this
+neocognitive revolution were the following:
+
+===== PAGE 10 =====
+14
+Information Processing The “failure” of behaviourism.  Behaviorism, which generally studied overt
+responses to stimuli, failed to account for the diversity of human behaviour as in
+the case of language. Furthermore, there were some topics ignored by the
+behaviourists that seemed to be profoundly related to human psychology. These
+included memory, attention, consciousness, thinking, and imagery. It was apparent
+that internal mental processes were very real parts of psychology and required
+investigation.
+The emergence of communication theory.  Communication theory prompted
+experiments in signal detection, attention, cybernetics, and information theory –
+areas of significance to cognitive psychology.
+Modem linguistics. New ways of viewing language and grammatical structure
+became incorporated into attitudes concerning cognitions.
+Memory research. Research in verbal learning and semantic organisation provided
+a sturdy empirical base for theories of memory, which led to the development of
+models of memory systems and the appearance of testable models of other
+cognitive processes.
+Computer science and other technological advances.  Computer science, and
+especially a subdivision of it—artificial intelligence—caused reexamination of
+basic postulates of problem solving and memory processing and storage, as well
+as of ‘language processing and acquisition. Research capabilities were greatly
+expanded by new experimental devices.
+Cognitive development.  Psychologists interested in development psychology
+discovered an orderly unfolding of abilities with maturation. Notable among
+developmental psychologists during this period was Jean Piaget, who described
+how children develop an appreciation for concepts from infancy to adolescence.
+Such progress of abilities seems to be natural.
+From the earliest concepts of representational knowledge to recent research,
+knowledge has been thought to rely heavily on sensory inputs. That theme runs
+from the Greek philosophers, through Renaissance scholars, to contemporary
+cognitive psychologists. But are internal representations of the world identical
+to the physical properties of the world? Evidence is increasing that many internal
+representations of reality are not the same as the external reality—that is, they
+are not isomorphic. Tolman’s work with laboratory animals and Bartlett’s work
+with human subjects suggest that information from the senses is stored as an
+abstract representation. Furthermore, studies of neurology clearly show that
+information from the outside world is sensed and stored as in a neurochemical
+code.
+1.6 KEY ISSUES IN THE STUDY OF COGNITIVE
+PSYCHOLOGY
+If the important ideas are reviewed, it is observed that some major themes underlie
+all of cognitive psychology. Some of these issues are discussed dialectically here:
+Nature versus Nurture – Which is more influential in human cognition – nature
+or nurture? If we believe that innate characteristics of human cognition are more
+
+===== PAGE 11 =====
+15
+Cognitive Psychologyimportant, we might focus our research on studying innate characteristics of
+cognition. If we believe that the environment plays an important role in cognition,
+we might conduct research exploring how distinctive characteristics of
+environment seem to influence cognition.
+Rationalism versus Empiricism  – How should we discover the truth about
+ourselves and about the world around us? Should we do so by trying to reason
+logically, based on what we already know? Or should we do so by observing and
+testing our observations of what we can perceive through our senses? And how
+can we combine theory with empirical methods to learn the most we can about
+cognitive phenomena?
+Structures versus Processes - Should we study the structures (contents, attributes,
+and products) of the human mind? Or should we focus on processes of human
+thinking?
+Domain generality versus Domain specificity  – Are the processes we observe
+limited to single domains, or are they general across a variety of domains? Do
+observations in one domain apply also to all domains, or do they apply only to
+specific domains observed?
+V alidity of causal inferences versus Ecological validity  – Should we study
+cognition by using highly controlled experiments that increase the probability of
+valid inferences regarding causality? Or should we use more naturalistic
+techniques?
+Applied versus Basic research – Should we conduct research into fundamental
+cognitive processes? Or should we study ways in which to help people use
+cognition effectively in practical situations?
+Biological versus Behavioural methods  – Should we study the brain and its
+functions directly, perhaps even scanning the brain while people are performing
+cognitive tasks? Or should we study people’s behaviour in cognitive tasks, looking
+at measures such as percentage correct and reaction time?
+Note that these questions can be posed in the “either/or” form of thesis/antithesis,
+or in the both/and form of a synthesis of views or methods, which often proves
+more useful than one extreme position or another.
+1.7 KEY IDEAS IN COGNITIVE PSYCHOLOGY
+Certain key ideas seem to keep emerging in cognitive psychology, regardless of
+the particular phenomenon one studies. Here are what might be considered the
+five major ideas:
+Data in cognitive psychology can be fully understood only in the context of an
+explanatory theory, but theories are empty without empirical data.
+Cognition is generally adaptive but not in all specific instances.
+Cognitive processes interact with each other and with noncognitive processes.
+Cognition needs to be studied through a variety of scientific methods.
+All basic research in cognitive psychology may lead to applications, and all applied
+research may lead to basic understandings.
+
+===== PAGE 12 =====
+16
+Information Processing
+Activity: Think about some of the fields of cognitive psychology to which
+these key themes and issues may apply.
+1.7.1 Computer Metaphor and Human Cognition
+Although Pascal, Descartes, and others dreamt of computing machines centuries
+ago, it was not until the development of high-speed digital computers  more than
+fifty years ago that practical machines were invented. These machines gained
+enormous acceptance and are presently used in virtually every aspect of modern
+life. Originally, such devices were thought to be wonderful number crunchers
+capable of performing a multitude of complex mathematical operations in a
+fraction of the time required by humans. However, it was quickly discovered
+that they could perform functions that resembled human problem solving.
+However, what computers do well (perform high-speed mathematical functions
+and abide by rule-governed logic) humans do poorly, relatively speaking. And
+what humans do well (form generalisations, make inferences, understand complex
+patterns, and have emotions) computers do poorly, or not at all. Despite this
+problem, a second generation of cognitive-computer scientists is working toward
+building computers that looked something like a brain.
+These new computers are sometimes called neural networks and act more like
+humans than the earlier versions. They are able to make generalisations and
+understand complex visual patterns, are slow at math, and make witless mistakes.
+Although they still do not have emotions, they are nevertheless a mark of success.
+We now know that there are fundamental differences between the internal
+workings of computers and the internal workings of the brain. Nevertheless, the
+computer metaphor continues to have a profound and generally positive impact
+on the development of cognitive psychology.
+1.7.2 Cognitive Science
+Three powerful areas of scientific development, namely, computer science,
+neuroscience, and cognitive psychology, converge to create a new science called
+cognitive science. The boundaries between these disciplines are sometimes hard
+to distinguish, that is, some cognitive psychologists may be closer to neuroscience,
+others to computer science. One thing is clear, that is the science of human
+cognition is undergoing a radical transformation as a result of major changes in
+computer technology and brain science. Cognitive psychology makes full use of
+recent discoveries in neuroscience and computer science that illuminate the
+cognitive properties of the human species.
+1.7.3 Neuroscience and Cognitive Psychology
+During the early stages of cognitive psychology, little attention was given to
+physiological psychology or neuroanatomy. Much of the early information on
+the brain and its functions resulted from head traumas incurred during wars and
+accidents. The central issue neurologists struggled with was whether the brain
+was a holistic organ, with operations distributed throughout its infrastructure, or
+whether activities were localised and tied to specific regions. For example, did
+learning a specific act take place in a localised area of the brain, or was learning
+distributed throughout many parts of the brain? Among the most prominent of
+the scientists who wrestled with these issues was Karl Lashley (1929). Recently,
+
+===== PAGE 13 =====
+17
+Cognitive Psychologyprogress has been made in the field of neuroscience, which comprises both the
+structural aspects of the brain and its peripheral components, as well as the
+functional aspects.
+With the beginning of the twenty-first century, cognitive psychology seems poised
+to make another paradigm shift. While the traditional topics of perception,
+memory, language, problem solving, and thinking and the method of experimental
+analysis are still central to the cognitive theme.  As is well known, the use of
+neuro cognitive imagery promises to become one of the major means of
+investigating cognitive functions in this century.
+Neuro cognitive techniques, which have been developing very rapidly in the
+past several decades, allow us to see deeper and more clearly into the brain—
+and the brain is believed to be the engine of cognition. Virtually every area of
+cognition has been investigated with neuro cognitive techniques. These,
+techniques, MRI, PET, EEG
+ , and the like, show not only the structures of
+cognition but also the processes involved. And, in many instance, the results
+have been remarkable. While this trend is likely to continue and grow, it is
+important to recognise the central themes in cognition mentioned above.
+1.8 LET US SUM UP
+Cognitive psychology is the study of how people perceive, learn, remember, and
+think about information. A cognitive psychologist might study how people
+perceive various shapes, why they remember some facts but forget others, or
+how they learn language.
+Cognitive psychology is interested in what is generally called mental phenomena.
+In this sense, cognitive psychology IS the scientific study of the mind. Then we
+took up the various research methods that we use in cognitive psychology.  Every
+research has a goal and it is achieved through appropriate methodology.  It was
+noted that the goals of research in cognitive psychology was to find the how and
+why of thinking. It was pointed out that there are distinctive research methods in
+cognitive psychology.  Each method has distinctive advantages and disadvantages.
+It was also noted that Cognitive psychologists often broaden and deepen their
+understanding of cognition through research in cognitive science. Cognitive
+science is a cross-disciplinary field that uses ideas and methods from cognitive
+psychology, psychobiology, artificial intelligence, philosophy, linguistics, and
+anthropology.
+Modern cognitive psychology freely, draws theories and techniques; from twelve
+principal areas of research, namely cognitive neurosiceince, human and artificial
+intelligence, perception, thinking and concept formation, pattern recognition,
+developmental psychology, attention, language, representation of knowledge,
+imagery, memory and consciousness.  Then we dealt with a brief history of
+cognitive psychology and highlighted the early thoughts on thinking, renaissance
+and beyond and the status of cognitive psychology as of today. We then discussed
+some of the key issues in cognitive psychology highlighting nature vs. nurture,
+rationalism vs. empiricism, structure vs. processes etc.
+
+===== PAGE 14 =====
+18
+Information Processing
+1.9 UNIT END QUESTIONS
+1) Describe the major historical schools of psychological thought leading up
+to the development of cognitive psychology.
+2) Analyse how various research methods in cognitive psychology reflect
+empirist and rationalist approaches to gaining knowledge.
+3) Design a rough sketch of a cognitive-psychological investigation involving
+one of the research methods described in this chapter. Highlight both the
+advantages and disadvantages of using this particular method for your
+investigation.
+4) Describe Cognitive Psychology as it is today. How might you speculate that
+the field will change in the next 50 years?
+5) How might an insight gained from basic research lead to practical use in an
+everyday setting?
+6) Describe some real life situations related to different domains of cognitive
+psychology.
+7) How might an insight gained from applied research lead to deepened
+understanding of fundamental features of cognition?
+8) What was the importance of the computer to the development of cognitive
+psychology?
+9) Next time you visit a supermarket or mall, pause for a few moments and
+observe the various examples of cognitive psychology which surround you.
+Pay particular attention to: 1) the use of forms and colours to gain attention,
+2) your own reaction to environmental cues, 3) the use of memory in
+understanding language, context, and the interpretation of the sights and
+sounds of your environment. Note down your impressions of these matters
+and read them over in about a week. What principles discussed in this chapter
+apply?
+1.10  SUGGESTED READINGS AND REFERENCES
+Galotti, K.M. (2008). Cognitive Psychology: Perception, Attention, and Memory.
+London: Cengage.
+Goldstein, E. H. (2008). Cognitive Psychology: Connecting Mind, Research and
+Everyday Experience. London: Thomson Learning.
+References
+Hunt, R. R., & Ellis, H.C. (2006). Fundamentals of Cognitive Psychology. New
+Delhi: Tata McGraw Hill.
+Kellogg, R.T. (2007). Cognitive Psychology. London: Sage Publications.
+Reed, S.K. (2010). Cognition: Theories and Applications. London: Cengage.
+Solso, R.L. (2006). Cognitive Psychology. New Delhi: Pearson Education.
+Sternberg, R.J. (2009). Applied Cognitive Psychology: Perceiving, Learning,
+and Remembering. London: Cengage.
+
+===== PAGE 15 =====
+19
+Cognitive Psychology
+UNIT 2 INFORMATION PROCESSING IN
+LEARNING AND MEMORY
+“The mechanisms of learning and memory are at the essence of how the brain
+works.”
+— Brown
+Structure
+2.0 Introduction
+2.1 Objectives
+2.2 Learning and Memory
+2.3 Cognitive Information Processing
+2.3.1 Principles of the Information Processing
+2.4 Information Processing in Learning and Memory
+2.4.1 Cognitive Information Processing Model of Learning
+2.4.2 Development of Memory and Information Processing
+2.5 Theories of Information Processing
+2.5.1 Designing Instruction that Incorporate Best Practices for Information Processing
+2.5.2 Bloom’s T axonomy of Cognitive Domain
+2.5.3  Sternberg’s Information Processing Approach
+2.6 Let Us Sum Up
+2.7 Unit End Questions
+2.8 Suggested Readings and References
+2.0 INTRODUCTION
+One of the most fascinating and mysterious properties of the brain is its capacity
+to learn, or its ability to change in response to experience and to retain that
+knowledge throughout an organism’s lifetime. The ability to learn and to establish
+new memories is fundamental to our very existence; we rely on memory to engage
+in effective actions, to understand the words we read, to recognise the objects we
+see, to decode the auditory signals representing speech, and even to provide us
+with a personal identity and sense of self. Memory plays such an important and
+ubiquitous role that it is often taken for granted—the only time most people pay
+attention to their memory is when it fails, as too often happens through brain
+injury or disease.
+2.1 OBJECTIVES
+After reading this unit, you will be able to:
+• Define the concept of learning and memory;
+• Explain types of memory;
+• Explain cognitive information processing; and
+• Explain the theories of information processing.
+
+===== PAGE 16 =====
+20
+Information Processing
+2.2 LEARNING AND MEMORY
+Learning is acquiring new knowledge, behaviours, skills, values, preferences or
+understanding, and may involve synthesising and processing different types of
+information. Benjamin Bloom (1965) has suggested three domains of learning
+1) Cognitive  – to recall, calculate, discuss, analyse, problem solve, etc.;
+psychomotor – to dance, swim, ski, dive, drive a car, ride a bike, etc.; and
+affective – to like something or someone, love, appreciate, fear, hate, worship,
+etc. These domains are not mutually exclusive. For example, in learning to
+play chess, the person will have to learn the rules of the game (cognitive
+domain); but he also has to learn how to set up the chess pieces on the
+chessboard and also how to properly hold and move a chess piece
+(psychomotor). Furthermore, later in the game the person may even learn to
+love the game itself, value its applications in life, and appreciate its history
+(affective domain).
+2) Memory is usually divided into three storage systems: sensory, short-term,
+and long-term.
+i) Sensory Memory - Sensory memory is affiliated with the transduction
+of energy (change from one form of energy to another). The environment
+makes available a variety of sources of information (light, sound, smell,
+heat, cold, etc.), but the brain only understands electrical stimulation.
+The body has special sensory receptor cells that transduce this external
+energy to something the brain can understand. In the process of
+transduction, a memory is created. This memory is very short (less
+than 1/2 second for vision; about 3 seconds for hearing).
+The sensory memory retains an exact copy of what is seen or heard
+(visual and auditory). It is absolutely critical that the learner attend to
+the information at this initial stage in order to transfer it to the next
+one. There are two major concepts for getting information into STM:
+first, individuals are more likely to pay attention to a stimulus if it has
+an interesting feature. Second, individuals are more likely to pay
+attention if the stimulus activates a known pattern.
+ii) Short-Term Memory (STM) - After entering sensory memory, a limited
+amount of information is transferred into short-term memory. Selective
+attention determines what information moves from sensory memory to
+short-term memory. STM is most often stored as sounds, especially in
+recalling words, but may be stored as images. It works basically the
+same as a computer’s RAM (Random Access Memory) in that it
+provides a working space for short computations and then transfers it
+to other parts of the memory system or discards it. STM is vulnerable
+to interruption or interference. STM is characterised by:
+A limited capacity of up to seven pieces of independent information
+(Miller,1956).
+The brief duration of these items last from 3 to 20 seconds.
+Decay appears to be the primary mechanism of memory loss.
+
+===== PAGE 17 =====
+21
+Information Processing in
+Learning and Memory
+Miller’s Magic Number - George Miller’s classic 1956 study found
+that the amount of information which can be remembered on one
+exposure is between five and nine items, depending on the information.
+Applying a range of +2 or -2, the number 7 became known as Miller’ s
+Magic Number, the number of items which can be held in Short-Term
+Memory at any one time. Miller himself stated that his magic number
+was for items with one aspect. His work is based on subjects listening
+to a number of auditory tones that varied only in pitch. Each tone was
+presented separately, and the subject was asked to identify each tone
+relative to the others s/he had already heard, by assigning it a number.
+After about five or six tones, subjects began to get confused, and their
+capacity for making further tone judgments broke down. He found this
+to be true of a number of other tasks. But if more aspects are included,
+then we can remember more, depending upon our familiarity and the
+complexity of the subject (in Miller’s research, there was only one
+aspect — the tone). For example, we can remember way more human
+faces as there are a number of aspects, such as hair color, hair style,
+shape of face, facial hair, etc. We remember phone numbers by their
+aspects of 2 or more groupings, i.e. chunking. We don’t really remember
+“seven” numbers. We remember the first group of three and then the
+other grouping of four numbers. If it is long distance, then we add an
+area code. So we actually remember 10 numbers by breaking it into
+groups of three.
+Within STM, there are three basic operations:
+Iconic memory - The ability to hold visual images.
+Acoustic memory - The ability to hold sounds. Acoustic memory can
+be held longer than iconic memory.
+Working memory - Short-term memory is also called working memory
+and relates to what we are thinking about at any given moment in time.
+In Freudian terms, this is conscious memory. It is created by our paying
+attention to an external stimulus, an internal thought, or both. An active
+process to keep it until it is put to use (think of a phone number you’ll
+repeat to yourself until you can dial it on the phone). Note that the goal
+is not really to move the information from STM to LTM, but merely
+put the information to immediate use.
+iii) Long-Term Memory (LTM) -  This is relatively permanent storage.
+Information is stored on the basis of meaning and importance. The
+process of transferring information from STM to LTM involves the
+encoding or consolidation of information. This is not a function of
+time, that is, the longer a memory stayed in STM, the more likely it
+was to be placed into LTM; but on organising complex information in
+STM before it can be encoded into LTM. In this process of organisation,
+the meaningfulness or emotional content of an item may play a greater
+role in its retention into LTM. We must find ways to make learning
+relevant and meaningful enough for the learner to make the important
+transfer of information to long-term memory.
+Also, on a more concrete level, the use of chunking has been proven to be a
+significant aid for enhancing the STM transfer to LTM. Remember, STM’s
+
+===== PAGE 18 =====
+22
+Information Processing capacity is limited to about seven items, regardless of the complexity of those
+items. Chunking allows the brain to automatically group certain items together,
+hence the ability to remember and learn better.
+The knowledge we store in LTM affects our perceptions of the world, and
+influences what information in the environment we attend to. LTM provides the
+framework to which we attach new knowledge. It contrasts with short-term and
+perceptual memory in that information can be stored for extended periods of
+time and the limits of its capacity are not known.
+Schemas are mental models of the world. Information in LTM is stored in
+interrelated networks of these schemas. These, in turn, form intricate knowledge
+structures. Related schemas are linked together, and information that activates
+one schema also activates others that are closely linked. This is how we recall
+relevant knowledge when similar information is presented. These schemas guide
+us by diverting our attention to relevant information and allow us to disregard
+what is not important.
+Since LTM storage is organised into schemas, instructional designers should
+activating existing schemas before presenting new information can be helpful in
+processing of the new information. This can be done in a variety of ways, including
+graphic organisers, curiosity-arousing questions, movies, etc.
+LTM also has a strong influence on perception through top-down processing -
+our prior knowledge affects how we perceive sensory information. Our
+expectations regarding a particular sensory experience influence how we interpret
+it. This is how we develop bias. Also, most optical illusions take advantage of
+this fact. An important factor for retention of learned information in LTM is
+rehearsal that provides transfer of learning.
+2.3 COGNITIVE INFORMATION PROCESSING
+Information processing is the change (processing) of information in any manner
+detectable by an observer. Within the field of cognitive psychology, information
+processing is an approach to the goal of understanding human thinking. It began
+in the 1940s and 1950s. Educators are very interested in the study of how humans
+learn. This is because how one learns, acquires new information, and retains
+previous information guides selection of long-term learning objectives and
+methods of effective instruction. To this end, cognition as a psychological area
+of study goes far beyond simply the taking in and retrieving information. It is a
+broad field dedicated to the study of the mind holistically. Neisser (1967), one of
+the most influential researchers in cognition, defined it as the study of how people
+encode, structure, store, retrieve, use or otherwise learn knowledge. Cognitive
+psychologists hypothesise an intervening variable or set of variables between
+environment and behaviour—which contrasts it with behavioural theories.
+2.3.1 Principles of the Information Processing
+Even though there are widely varying views within cognitive psychology, there
+is general agreement among most cognitive psychologists on some basic principles
+of the information processing system (Huitt, 2000).
+
+===== PAGE 19 =====
+23
+Information Processing in
+Learning and Memory
+The first is the assumption of a limited capacity of the mental system. This means
+that the amount of information that can be processed by the system is constrained
+in some very important ways. Bottlenecks, or restrictions in the flow and
+processing of information, occur at very specific points (e.g., Broadbent, 1975;
+Case, 1978).
+A second principle is that a control mechanism is required to oversee the encoding,
+transformation, processing, storage, retrieval and utilisation of information (e.g.,
+Atkinson & Shiffrin, 1971). That is, not all of the processing capacity of the
+system is available; an executive function that oversees this process will use up
+some of this capability. When one is learning a new task or is confronted with a
+new environment, the executive function requires more processing power than
+when one is doing a routine task or is in a familiar environment.
+A third principle is that there is a two-way flow of information as we try to make
+sense of the world around us. We constantly use information that we gather
+through the senses (often referred to as bottom-up processing) and information
+we have stored in memory (often called top-down processing) in a dynamic
+process as we construct meaning about our environment and our relations to it.
+This is somewhat analogous to the difference between inductive reasoning (going
+from specific instances to a general conclusion) and deductive reasoning (going
+from a general principle to specific examples.) A similar distinction can be made
+between using information we derive from the senses and that generated by our
+imaginations.
+A fourth principle generally accepted by cognitive psychologists is that the human
+organism has been genetically prepared to process and organise information in
+specific ways. For example, a human infant is more likely to look at a human
+face than any other stimulus. Other research has discovered additional biological
+predispositions to process information. For example, language development is
+similar in all human infants regardless of language spoken by adults or the area
+in which they live (e.g., rural versus urban, Asia versus Europe.) All human
+infants with normal hearing babble and coo, generate first words, begin the use
+of telegraphic speech (example, ball gone), and overgeneralise (e.g., using “goed
+to the store” when they learn the verbs) at approximately the same ages(Discussed
+in detail in Block 3).
+2.4 INFORMATION PROCESSING IN LEARNING
+AND MEMORY
+One of the primary areas of cognition studied by researches is memory. There
+are many hypotheses and suggestions as to how this integration occurs, and many
+new theories have built upon established beliefs in this area. Currently, there is
+widespread consensus on several aspects of information processing; however,
+there are many dissentions in reference to specifics on how the brain actually
+codes or manipulates information as it is stored in memory.
+Schacter and Tulving (as cited in Driscoll, 2001) state that “a memory system is
+defined in terms of its brain mechanisms, the kind of information it processes,
+and the principles of its operation”. This suggests that memory is the combined
+total of all mental experiences. In this light, memory is a built store that must be
+accessed in some way in order for effective recall or retrieval to occur. It is
+
+===== PAGE 20 =====
+24
+Information Processing premised on the belief that memory is a multi-faceted, if not multi-staged, system
+of connections and representations that encompass a lifetime’s accumulation of
+perceptions.
+Eliasmith (2001) defines memory as the “general ability, or faculty that enables
+us to interpret the perceptual world to help organise responses to changes that
+take place in the world”. It is implied by this definition that there must be a
+tangible structure in which to incorporate new stimuli into memory. The form of
+this structure has been the source of much debate, and there seems to be no
+absolute agreement on what shape a memory structure actually takes, but there
+are many theories on what constitutes both the memory structure and the
+knowledge unit.
+Winn and Snyder (2001) attribute the idea that memory is organised into structures
+to the work of Sir Frederick Charles Bartlett. Bartlett’s work established two
+consistent patterns regarding recall. First, memory is inaccurate. His second
+finding, though, brought about somewhat of a revolution in traditional thinking
+about memory. Bartlett suggested that the inaccuracy of memory is systematic.
+A systematic difference makes allowable the scientific study of inaccuracy, and
+this suggestion led to an entirely new mode of thought on memory. What
+accounted for systematic inaccuracies in memory were the intervening influences
+of previous information and the experiences of the person. This demonstrates
+that knowledge units are not simply stored and then left alone, but that they are
+retained, manipulated, and changed as new knowledge is acquired.
+2.4.1 Cognitive Information Processing Model (CIP) of
+Learning
+Information theorists approach learning primarily through a study of memory.
+The following Cognitive Information Processing model (CIP) of learning presents
+a well-established paradigm of cognitive-behavioural psychology. The model
+articulates the limited capacity of “working memory.” Working memory is tasked
+with the burden of processing incoming information, transferring information to
+long-term memory and retrieval of information from long-term memory. The
+concept of “cognitive load” — the amount of work imposed on working memory
+by a learning task — is based on observations of the functions of working memory.
+Information processing in memory can be viewed from a computer model
+perspective. Like the computer, the human mind takes in information, performs
+operations on it to change its form and content, stores the information, retrieves
+it when needed, and generates responses to it. Processing involves encoding
+(gathering and representing information); storage (holding information); and
+retrieval (getting the information when needed). The entire system is guided by
+a control process that determines how and when information will flow through
+the system. Some theorists suggest that the operation of the brain resembles a
+large number of computers all operating at the same time (in parallel).
+2.4.2 Development of Memory and Information Processing
+As previously stated, cognition is the encoding, structuring, storing, retrieving,
+using, or otherwise learning knowledge (Neisser, 1967). There are important
+developmental aspects for each of these activities. According to Flavell et al.
+(2002), from an information processing perspective some of the most important
+are:
+
+===== PAGE 21 =====
+25
+Information Processing in
+Learning and Memory
+• Brain changes brought about by biological maturation or experience;
+• Increased processing capacity, speed, and efficiency as a result of both
+maturation and knowledge development;
+• Modifications of connections in a neural network;
+• New emergent concepts arising from repeated self-organisation as a result
+of adapting to the demands of a changing environment; and
+• Increased capacity for problem-solving and metacognition.
+Encoding - Encoding occurs during the initial processing of a stimulus or event.
+Maturation and experience influence this process. In terms of maturation,
+Dempster (1981) suggests that the adult capacity for short-term memory of 5 + 2
+digits might be as much as 2 digits lower for children aged 5 and 1 digit lower
+for children aged 9. As for experience, in a series of well-known studies of
+expertise, novices remember new information less well than experts (e.g., Chi,
+1978; Schneider, Korkel, & Winert, 1989). One of the most important differences
+between novices and experts is the structure and organisation of domain-specific
+knowledge.
+Structuring and Organising - Structuring and organising information occur as
+the learner processes and stores information. The learner’s ability changes over
+time as a result of both maturation and experience. When presented with
+information they are asked to remember, younger children do not rehearse
+information in order to remember it. As they get into school, they begin to develop
+or are taught various strategies. At first these strategies are only used when
+prompted by someone else, but as the child becomes more competent in their
+use and uses them more frequently, the child will increasingly use the strategies
+spontaneously (Flavell et al., 2002).
+One of the most important information processing capacities a child develops is
+the ability to organise information; this is, in turn, influenced by the child’s ability
+to categorise. As is the case with other information-processing capacities, this
+ability changes with both maturation and experience.
+One of the basic types of categorisation is the grouping of specific events, ideas,
+people, things, etc. into concepts. Rosch and his colleagues (e.g., Mervis & Rosch,
+1981; Rosch, Mervis, Gray, Johnson, & Boyes-Braem, 1976) demonstrated two
+fundamental features to the development of concepts: the ease of identifying
+similarities of members of the concept and distinguishing differences between
+members that are not. For example, the development of the concept of animal
+would be more difficult than developing the concept of dog or cat because it
+would be easier to identify similarities among dogs or cats and differences between
+cats and dogs than it would be to identify similarities among all animals or to
+differentiate all animals from all plants.
+This has important implications as we design learning activities for children and
+youth that can help them develop their organisational and storage capacities.
+Storage and Retrieval - How much information can be stored and retrieved
+relative to a stimulus or event also changes over time. For example, prior to
+about age 7 months an infant will not seek an object that has been shown and
+then removed from view. The infant has encoded the object (such as a rattle) and
+
+===== PAGE 22 =====
+26
+Information Processing will reach for it, but seems to lose interest as soon as it is no longer in view. At
+about 7 months attains what is called “object permanence” and will begin to
+seek the object if it is removed from view.
+A series of studies by Bauer, Mandler and associates (as cited in Flavell et al.,
+2002) demonstrates a child’s increasing ability to perform simple multiple-act
+sequences. By age 13 months infants can reproduce three-act sequences; by age
+24 months this has increased to five-act sequences; and by age 30 months to
+eight separate actions. As children gain language skills, their ability to store and
+recall more complex events increases. This is shown first in autobiographical
+accounts of daily activities and then to events they may have witnessed or heard
+about.
+Flavell et al. (2002) made four observations about strategy development:
+Strategy development is not linear. When developing any particular strategy,
+development will often stall or even regress before it becomes systematically
+and correctly used.
+A strategy will continue to develop after it is first demonstrated in its mature
+form. This continued development may take months or even years.
+Children show considerable variability in their use of strategies. Children often
+go back and forth in their use of strategies, changing strategies even after they
+have been found to work well.
+Children differ in their abilities to integrate different strategies into a coherent
+pattern for successful learning. Children must be given ample opportunity to
+create successful learning programs that work for them.
+2.5 THEORIES OF INFORMATION PROCESSING
+There are important theories which explain information processing.  Some of
+the major theories are presented in the following section.
+2.5.1 Designing Instruction that Incorporates Best Practices
+for Information Processing
+The understanding of how the mind processes and stores information is invaluable
+to educators as they plan for instruction. If there is little to no understanding of
+the information processing skills of the students with whom one is working, it
+would be almost impossible to design instruction that contributes to high levels
+of learning and achievement. However, attempting to understand the myriad
+theories of information processing and cognitive development can be
+overwhelming and contradictory. There are means of structuring instruction,
+though that can incorporate the best of all of these ideas, and in order to help
+students reach higher-level thinking and learning skills, educators must draw
+from all of these theories.
+If learning is to occur, educators must ensure that new information is processed
+in such a way that it can be retained in long-term memory. In order to achieve
+this, elaboration and connection must occur between previously learned memory
+and new information. It has been established that the more deeply information is
+processed and the more connections that can be made between new information
+and existing memory structures, the more information will be retained in long-
+
+===== PAGE 23 =====
+27
+Information Processing in
+Learning and Memory
+term memory. Therefore, in order to make new material meaningful, instruction
+must be presented in such a way that students can easily access and connect
+previous learning and experiences with the new material. One of the most often
+cited references to levels of elaboration for instructional purposes is the Taxonomy
+of the Cognitive Domain developed by Bloom and his colleagues (Bloom,
+Englehart, Furst, Hill, & Krathwohl, 1956) and recently revised by Anderson
+and Krathwohl (2000).
+2.5.2 Bloom’s Taxonomy of Cognitive Domain
+Bloom et al. (1965) proposed that information processing can be classified in
+six levels, each more complex than the previous. The first level is labeled knowing
+and simply requires a learner to repeat back what was heard or seen. This involves
+very little elaboration. The second level is labeled comprehension and requires
+some rudimentary levels of understanding that might involve having the student
+summarize or paraphrase some information. Again, this requires only modest
+levels of elaboration. The next two levels, application and analysis, involve
+more elaboration and show a significant impact on long-term learning when
+they are used during the learning process. Application involves using the concepts
+or principles to solve a problem, while analysis involves understanding the
+relationship among the parts and how they are organised into a whole. The last
+two levels, synthesis and evaluation, are the most complex and require the highest
+levels of elaboration. Synthesis involves putting the parts or components together
+in an original manner, while evaluation is the process of making judgments based
+on comparison to a standard.
+Research has confirmed that the first four levels are indeed a hierarchy, while
+there seems to be a problem with the ordering of the two highest levels (Hummel
+& Huitt, 1994). Anderson and Krathwohl (2000) propose that the ordering is
+reversed, with evaluation being less difficult than synthesis, while Huitt (2000)
+proposes that they are both at the same level of difficulty though they incorporate
+different types of processing. There seems to be consensus that both synthesis
+and evaluation are based on analysis or the ability to compare and contrast parts
+of a whole and understand the relationship among parts.
+2.5.3 Sternberg’s Information Processing Approach
+Another theorist firmly grounded in the information processing approach is
+Sternberg (1988). Sternberg’s theory suggests that development is skills-based
+and continuous rather than staged and discontinuous as stage theorists believe,
+and his focus is on intelligence. This focus on intelligence separates his ideas
+from stage theorists because it rejects the idea of incremental stages, but rather
+suggests that development occurs in the same way throughout life differentiated
+only by the expertise of the learner to process new information. First, and very
+importantly, Sternberg’s model does not differentiate between child and adult
+learning. Also, he deals solely with information processing aspects of development
+and does not incorporate any facets of biological development into his theory.
+Cognitive development is viewed as a novice to expert progression; as one
+becomes better at interaction and learning, one is able to learn more and at higher
+levels. Development changes as a result of feedback, self-monitoring, and
+automatisation. In this theory, intelligence is comprised of three kinds of
+information processing components: metacomponents, performance components,
+and knowledge-acquisition components.
+
+===== PAGE 24 =====
+28
+Information Processing In Sternberg’s (1988) model, each of these three components works together to
+facilitate learning and cognitive development. Metacomponents are executive in
+nature. They guide the planning and decision making in reference to problem
+solving situations; they serve to identify the problem and connect it with
+experiences from the past. There is, however, no action directly related to
+metacomponents, they simply direct what actions will follow. Performance
+components are the actions taken in the completion of a problem-solving task.
+Performance components go beyond metacomponents in that they perform the
+function also of weighing the merit and or consequences of actions in comparison
+to other options rather than simply identifying options. Sternberg’s third proposed
+type of intelligence is the knowledge-acquisition component. This type is
+characterised by the ability to learn new information in order to solve a potential
+problem. This type is much more abstract and may or may not be directly related
+to a current problem-solving task (Driscoll, 2001). This three-leveled view of
+intelligence comprises the componential aspect of Sternberg’s theory, but this is
+only one of three parts to his larger triarchic theory of intelligence (Kearsley,
+2001).
+Sternberg’s (1988) theory adds the components of feedback to theories of
+cognitive development; this suggests that an individual’s social interaction has
+some impact on cognitive development. In fact, one of the three parts of his
+theory is based on the context in which learning takes place; this subpart of the
+theory “specifies that intelligent behaviour is defined by the sociocultural context
+in which it takes place and involves adaptation to the environment, selection of
+better environments, and shaping of the present environment” (Kearsley, 2001).
+The addition of social context as a factor in cognitive development links Sternberg
+to the interactional theories of development of Bruner (1977, 1986) and Vygotsky
+(1978). These theories, and others of this type, are premised on the assumption
+that learning does not occur in a vacuum. Therefore, one must discuss the social
+and cultural contexts of learning. Driscoll (2001) says, “Of central importance is
+viewing education as more than curriculum and instructional strategies. Rather,
+one must consider the broader context in how culture shapes the mind and
+provides the toolkit by which individuals construct worlds and their conceptions
+of themselves and their powers”.
+These theories all work under the assumption that new information can most
+effectively be learned if the material can be matched to memory structures already
+in place (Winn and Snyder, 2001). Most theories hold that the mind contains
+some type of framework into which new information is placed. This structure is
+multi-leveled and has varying degrees of specificity. New information can be
+matched with, compared to, contrasted to, joined with, or modified to fit with
+existing structures. This in-place structural system allows for differing levels of
+complexity of information processing. The formation of and continual building
+of these structures, then, is critical in order for learners to process information in
+various ways and at higher levels.
+2.6 LET US SUM UP
+One of the most fascinating and mysterious properties of the brain is its capacity
+to learn, or its ability to change in response to experience and to retain that
+knowledge throughout an organism’s lifetime. The ability to learn and to establish
+new memories is fundamental to our very existence; we rely on memory to engage
+
+===== PAGE 25 =====
+29
+Information Processing in
+Learning and Memory
+in effective actions, to understand the words we read, to recognise the objects we
+see, to decode the auditory signals representing speech, and even to provide us
+with a personal identity and sense of self.
+Learning is acquiring new knowledge, behaviours, skills, values, preferences or
+understanding, and may involve synthesising and processing different types of
+information.
+Memory is usually divided into three storage systems: sensory, short-term, and
+long-term.
+We then discussed Miller’s Magic number. We pointed out how within STM,
+there are 3 basic operations, viz., iconic memory, acoustic memory and working
+memory. Long Term Memory has been then presented which includes schemas
+etc. Then the principles of information processing was taken up and and
+highlighted the limited capacity of the mental system and secondlhy the control
+mechanism is required to oversee the encoding, transformation, processing storage
+etc.
+Then we dealt with information processing in learning and memory.  It was
+pointed out that from  an information processing perspective some of the most
+important aspects include
+• Brain changes brought about by biological maturation or experience;
+• Increased processing capacity, speed, and efficiency as a result of both
+maturation and knowledge development;
+• Modifications of connections in a neural network;
+• New emergent concepts arising from repeated self-organisation as a result
+of adapting to the demands of a changing environment; and
+• Increased capacity for problem-solving and metacognition.
+Then we discussed about encoding which involves structuring, organising,
+storage, retrieval etc. This was followed by theories of informationprocessing
+which highlighted Bloom’s Taxonomy and  Sternberg’s information processing
+theory.  It was  pointed out that that new information can most effectively be
+learned if the material can be matched to memory structures already in place.
+Most theories hold that the mind contains some type of framework into which
+new information is placed. This structure is multi-leveled and has varying degrees
+of specificity. New information can be matched with, compared to, contrasted
+to, joined with, or modified to fit with existing structures.
+2.7 UNIT END QUESTIONS
+1) Describe two characteristics each of sensory memory, short term memory,
+and long term memory.
+2) Discuss the information processing approaches of learning and memory.
+3) How would you design a study program to process the information so that it
+can be retained in long term memory?
+4) Describe the development of memory with reference to information
+processing.
+
+===== PAGE 26 =====
+30
+Information Processing 4) How would your life be different if you could greatly enhance your memory
+skills?
+5) What are the basic principles of information processing?
+6) What are the three things you have learned about memory that can help you
+learn new information so that you can effectively recall the information
+over the long-term?
+2.8 SUGGESTED READINGS AND REFERENCES
+Atkinson, R., & Shiffrin, R. (1968). Human memory: A proposed system and its
+control processes. In K Spence & J Spence (Eds.). The Psychology of Learning
+and Motivation: Advances in Research and Theory (V ol. 2). New York: Academic
+Press.
+Bransford, J. (1979). Human Cognition: Learning, Understanding, and
+Remembering. Belmont, CA: Wadsworth.
+References
+Cunia, E. (2005). Cognitive learning theory. Principles of Instruction and
+Learning: A Web Quest. Retrieved April 2006, from http://suedstudent.syr.edu/
+~ebarrett/ide621/cognitive.htm
+Galotti, K.M. (2008). Cognitive Psychology: Perception, Attention, and Memory.
+London: Cengage.
+Goldstein, E. H. (2008). Cognitive Psychology: Connecting Mind, Research and
+Everyday Experience. London: Thomson Learning.
+http://www.well.com/user/smalin/miller.html]
+Hunt, R. R., & Ellis, H.C. (2006). Fundamentals of Cognitive Psychology. New
+Delhi: Tata McGraw Hill.
+Miller, G . A. (1956). The magical number seven, plus or minus two: Some limits
+on our capacity for processing information. Psychological Review, 63, 81-97.
+[Available online from Classics in the History of Psychology:
+Solso, R.L. (2006). Cognitive Psychology. New Delhi: Pearson Education.
+Sternberg, R.J. (2009). Applied Cognitive Psychology: Perceiving, Learning,
+and Remembering. London: Cengage.
+Stillings, N, Feinstein, M., Garfield, J., Rissland, E., Rosenbaum, D., Weisler,
+S., & Baker-Ward, L. (1987). Cognitive Science: An Introduction. Cambridge,
+MA: MIT Press.
+
+===== PAGE 27 =====
+31
+Information Processing in
+Learning and MemoryUNIT 3 NEUROPSYCHOLOGICAL BASIS OF
+LEARNING AND MEMORY
+ “It’ s a sense of flooding the brain too quickly. The brain has this disruption,
+and the short-term memory isn’ t converting into long-term memory.”
+                                                                               – John Hamilton
+Structure
+3.0 Introduction
+3.1 Objectives
+3.2 Memory and Brain
+3.2.1 Human Memory, Brain Damage and Amnesia
+3.2.2 Brain Surgery and Memory Loss
+3.2.3 Amnesia and the Medial Temporal Lobe
+3.3 Memory Consolidation and Hippocampus
+3.4 Anterior and Lateral Temporal Lobes and  Memory
+3.5 Animal Models of Memory
+3.6 Imaging the Human Brain and Memory
+3.61 Episodic Encoding and Retrieval
+3.6.2 Semantic Encoding and Retrieval
+3.6.3 Procedural Memory Encoding and Retrieval
+3.6.4 Perceptual Priming and Implicit and Explicit Memory
+3.7 Cellular Bases of Learning and Memory
+3.8 Let Us Sum Up
+3.9 Unit End Questions
+3.10 Suggested Readings and References
+3.0 INTRODUCTION
+What is the relationship between learning and memory? Learning is the process
+of acquiring new information, whereas memory refers to the persistence of
+learning in a state that can be revealed at a later time (Squire, 1987). Learning,
+then, has an outcome, and we refer to that as memory. To put it another way,
+learning happens when a memory is created or is strengthened by repetition.
+This need not involve the conscious attempt to learn. Learning can occur and
+performance can improve simply from more exposure to information or to a
+task. For example, we remember the details of a person’s face better by seeing it
+more, without having to try to consciously memorize facial features.
+Learning and memory can be subdivided into major hypothetical stages: encoding,
+storage, and retrieval. Encoding refers to the processing of incoming information
+to be stored. The encoding stage has two separate steps: acquisition and
+consolidation. Acquisition registers inputs in sensory buffers and sensory analysis
+stages, while consolidation creates a stronger representation over time. Storage,
+the result of acquisition and consolidation, creates and maintains a permanent
+record. Finally, retrieval utilises stored information to create a conscious
+representation or to execute a learned behaviour like a motor act.
+
+===== PAGE 28 =====
+32
+Information Processing We search for the neural correlates of learning and memory in many ways: a)
+through case studies which reveal what is and is not lost in amnesia; b) by
+developing animal models of memory in simple (invertebrates) and complex
+systems (nonhuman primates); c) and with brain imaging to investigate normal
+encoding, retrieval, and recall in healthy humans. In this chapter we will explore
+all these methods in brief in order to understand the neural basis of learning and
+memory.
+3.1 OBJECTIVES
+After reading this unit, you will be able to:
+• Describe the process of memory in the brain;
+• Define neurological issues related to memory;
+• Define neuropsychological basis of learning and memory;
+• Explain the neural processes of learning and memory.
+3.2 MEMORY AND BRAIN
+The field of the cognitive and experimental psychology of memory is rich with
+theory and data and has produced a consistent set of concepts about the
+organisation of human memory. The neuro scientific studies of memory are
+important, both to understand how they have contributed to general theories of
+memory, and to investigate how specific neural circuits and systems enable the
+learning and retention of specific forms of knowledge.
+3.2.1 Human Memory, Brain Damage and Amnesia
+Deficits in memory as a function of brain damage, disease, or psychological
+trauma are known as amnesia. Amnesia can involve either the inability to learn
+new things or a loss of previous knowledge, or both. It can differentially affect
+short-term/ working memory and long-term memory abilities. Thus, by examining
+amnesia in conjunction with cognitive theories derived from experiments on
+normal subjects, we can understand the organisation of memory at a functional
+and a neural level. Much compelling information about the organisation of human
+memory during amnesia was first derived from medical treatments that left
+patients amnesic. The history is fascinating, and so let’s begin by turning back
+the clock more than fifty years.
+3.2.2 Brain Surgery and Memory Loss
+In the late 1940s and early 1950s, surgeons attempted to treat neurological and
+psychiatric disease using a variety of neurosurgical procedures, including
+prefrontal lobotomy (removing or disconnecting the prefrontal lobe), corpus
+callosotomy (surgically sectioning the corpus callosum), amygdalotomies
+(removing the amygdala), and temporal lobe resection (removal of the temporal
+lobe) (Figure 1.3.1). These surgical procedures opened a new window on human
+brain function as they revealed, usually quite by accident, fundamentally important
+principles of the organisation of human cognition. One surgical procedure relevant
+to memory was removal of the medial portion of the temporal lobe, including
+the hippocampal formation.
+
+===== PAGE 29 =====
+33
+Neuropsychological Basis of
+Learning and Memory
+In 1953 at a medical conference, the neurosurgeon William Beecher Scoville
+from the Montreal Neurological Institute reported on bilateral removal of the
+medial temporal lobe in one epileptic patient and several schizophrenic patients.
+Shortly thereafter he wrote:
+Bilateral resection of the uncus, and amygdalum alone, or in conjunction with
+the entire pyriform amygdaloid hippocampal complex, has resulted in no marked
+physiologic or behavioural changes with the one exception of a very grave, recent
+memory loss, so severe as to prevent the patient from remembering the locations
+of the rooms in which he lives, the names of his close associates, or even the way
+to the toilet.... (Scoville, 1954).
+Scoville and psychologist Brenda Milner did the neuropsychological examination
+of ten patients. Milner found that memory impairments in the patients having
+medial temporal lobe resections as part of their treatment were in relation to how
+much of the medial temporal lobe was removed. The farther posterior along the
+medial temporal lobe the resection was, the worse the amnesia. Strikingly,
+however, only bilateral resection of the hippocampus resulted in severe amnesia.
+In comparison, in one patient whose entire right medial temporal lobe
+(hippocampus and hippocampal gyrus) was removed, no residual memory deficit
+was found (Figure 1.3.1). But the interesting patient was the young man who
+had had bilateral medial temporal resection.
+Fig. 1.3.1: Medial view of Human Brain (Source: Net)
+The case history of patient H.M. – H.M. was a young man who suffered
+from a difficult-to-treat from of epilepsy that progressed in severity during
+his teen years. Over the years his physicians had treated him with the
+available drugs to minimize his seizures, but these drugs were largely
+ineffective for him. As his seizures worsened in his twenties, he decided to
+try a then-radical new therapy that involved surgery. At that time
+neurologists knew that many seizures originated in the medial portions of
+the temporal lobe and from there spread to other areas of the brain, leading
+to violent seizures and often loss of consciousness. It was also becoming
+increasingly clear that surgically removing the brain region in which the
+seizure activity originated, the so-called seizure focus, could help patients
+with epilepsy. The decision in H.M.’ s case was to remove his medial temporal
+lobe bilaterally, in a procedure called temporal lobectomy
+SEPTUM
+CINGULATE GYRUS
+BASALGANGLIA
+FORNIX
+THALAMUS
+MEDULLA
+PONSHIPPOCAMPUS
+ANYGDALA
+PITUITARY
+HYPOTHALPMUS
+PREFRONTAL
+CORTEX
+
+===== PAGE 30 =====
+34
+Information Processing Following recovery from this major neurosurgical procedure, H.M.’s epilepsy
+did improve. The surgery was a success, both with regard to his surviving the
+risks associated with any surgery of the brain and with regard to the epilepsy.
+However, physicians, family, and friends began to realise that H.M. was
+experiencing new difficulties. For example, a year and a half after the surgery,
+which was performed in September 1953, H.M. displayed clear problems with
+his memory. Although it was April 1955 and H.M. was 29 years old, he reported
+his age to be 27. H.M. would say he did not remember ever meeting certain
+individuals, even when he actually spoke to them a few minutes earlier and they
+merely left the room, returning after a short delay! H.M. was profoundly
+amnesic—that is, he suffered from disorders of memory. However, H.M. did not
+have the kind of amnesia one sees depicted in television shows or movies, where
+the character has a total loss of all prior memories. Indeed, H.M. knew who he
+was and could remember things about his life—that is, up until a period prior to
+his surgery. However, it became increasingly clear that H.M. could not form new
+long-term memories.
+Formal neuropsychological tests were performed on H.M. to establish the nature
+of his cognitive deficits. These tests showed that his intelligence was well above
+normal after the surgery. He also had no perceptual or language problems and
+seemed generally fine, with no changes in his personality or motivation. However,
+when memory tests were administered, H.M. scored well below normal. The
+bilateral removal of H.M.’s medial temporal lobe produced a highly selective
+deficit in his memory ability, leaving other cognitive functions intact. H.M. had
+normal short-term memory (sensory registers and working memory), but he
+developed a severe and permanent inability to acquire and store new information
+(Figure 1.3.2). The transfer of information from short-term storage to long-term
+memory was disrupted.
+Fig. 1.3.2: Major Areas of the Brain (Source: InterNet)
+3.2.3 Amnesia and the Medial Temporal Lobe
+Which region or regions of the medial temporal lobe were critical for supporting
+the long-term memory ability lost in H.M.? The medial temporal area includes
+sensori Motor Area
+parietal lobe
+visual
+visual association
+auditory associationauditory
+temporal lobe
+Broca's Area (in
+left hemisphere)
+prefrontal
+area
+frontal lobe
+
+===== PAGE 31 =====
+35
+Neuropsychological Basis of
+Learning and Memory
+the amygdala, the hippocampus, the entorhinal cortex, and the surrounding
+parahippocampal and perirhinal cortical areas (Figure 1.3.1).
+For the past 40 years, scientists studying H.M. used surgical reports of his lesions
+to guide theories of memory and “amnesia and their neural bases. Reports by
+Scoville, who performed the surgery, indicated that all of H.M.’s hippocampus
+in each hemisphere had been removed. H.M.’s brain and surgical lesions were
+re-evaluated with improved accuracy with high-resolution neuroimaging methods
+such as magnetic resonance imaging (MRI), and it was found that in addition to
+the hippocampus, some of H.M.’s surrounding cortex was also removed.
+Is damage to the hippocampus sufficient to block the formation of new long-
+term memories? Consider another patient, R.B., who lost his memory after an
+ischemic episode (reduction of blood to brain) during bypass surgery. R.B.
+developed dense anterograde amnesia similar to H.M.’s. He could not form new
+long-term memories. He also had retrograde amnesia that extended back to 1 to
+2 years, slightly less severe than H.M.’s retrograde loss. After his death, R.B.’s
+brain was donated for study, permitting a detailed analysis of the extent of his
+neuroanatomical damage. In R.B.’s case, lesions were found to be restricted to
+his hippocampus; within each hippocampus, R.B. had sustained a specific lesion
+restricted to the CA1 pyramidal cells.
+These findings in patient R.B. support the idea that the hippocampus is crucial
+in forming new long-term memories. R.B.’s case also supports the distinction
+between areas that store long-term memories and the role of the hippocampus in
+forming new memories. Even though retrograde amnesia is associated with medial
+temporal lobe damage, it is temporally limited and does not affect long term
+memories of events that happened more than a few years prior to the amnesia-
+inducing event.
+3.3 MEMORY CONSOLIDATION AND
+HIPPOCAMPUS
+Memories are solidified in long-term stores over days, weeks, months, and years.
+This process is referred to as consolidation, an old concept that refers to how
+long term memory develops over time after initial acquisition. From a cognitive
+neuroscience perspective, consolidation is conceived of as biological changes
+that underlie the long-term retention of learned information, and we can ask
+what brain structures and systems support this process.
+Because damage to the medial temporal lobe does not wipe out most of the
+declarative memories formed over a lifetime, we know that the hippocampus is
+not the repository of stored knowledge. Rather, the medial temporal lobe appears
+to support the process of forming new memories; that is, the hippocampal region
+is critical for the consolidation of information in long term memory. The strongest
+evidence that the hippocampus is involved in consolidation comes from the fact
+that amnesics have retrograde amnesia for memories from one to a few years
+prior to the damage to the medial temporal lobe or diencephalon, a pattern that
+does not support a storage role but rather a role in consolidation.
+What might consolidation entail at the neural level? One idea is that consolidation
+strengthens the associations between multiple stimulus inputs and activations of
+
+===== PAGE 32 =====
+36
+Information Processing previously stored information. The hippocampus is hypothesised to coordinate
+this strengthening, but the effects are believed to take place in the neocortex.
+The idea is that once consolidation is complete, the hippocampus is no longer
+required for storage or retrieval. Nonetheless, keep in mind that although the
+memories are stored in the neocortex, the hippocampus is crucial for
+consolidation.
+Alcoholic Korsakoff’ s Syndrome and Diencephalic Amnesia - The medial
+temporal lobe is not the only area of interest in human memory. Amnesia emerges
+from brain damage in other regions too. For example, damage to midline structures
+of the diencephalon of the brain causes amnesia. The prime structures are the
+dorsomedial nucleus of the thalamus and the mammillary bodies (Figure 1.3.2).
+Damage to these midline subcortical regions can be caused by stroke, tumors,
+and metabolic problems like those brought on by chronic alcoholism as well as
+by trauma.
+In the last half of the nineteenth century, the Russian psychiatrist Sergei Korsakoff
+reported an anterograde and retrograde amnesia associated with alcoholism. Long
+term alcohol abuse can lead to vitamin deficiencies that cause brain damage.
+Patients suffering from alcoholic Korsakoff’s syndrome have degeneration in
+the diencephalon, especially the dorsomedial nucleus of the thalamus and the
+mammillary bodies. It remains unclear whether the dorsomedial thalamic nucleus,
+the mammillary bodies, or both are necessary for the patients’ amnesia.
+Nonetheless, damage to the diencephalon can produce amnesia.
+3.4 ANTERIOR AND LATERAL TEMPORAL
+LOBES AND MEMORY
+If, as suggested earlier, the neocortex is crucial for the storage of memories, then
+it should be possible to demonstrate retrograde amnesia with cortical damage,
+even though most amnesias are anterograde. In line with this proposal, amnesia
+can be caused by damage to regions of the neocortex.
+One region of special interest is the temporal neocortex outside the medial
+temporal lobe. Lesions that damage the lateral cortex of the anterior temporal
+lobe, near the anterior pole, lead to a dense amnesia that includes severe retrograde
+amnesia; in such cases the entorhinal cortex and perihippocampal cortex may be
+involved. The retrograde amnesia may be severe, extending back many decades
+before the amnesia-inducing event occurred or encompassing the patient’s entire
+life. Various forms of damage can lead to this condition. Progressive neurological
+diseases like Alzheimer’s, and herpes simplex encephalitis involving viral
+infection of the brain are two such  conditions.
+Some patients with dense retrograde amnesia might still form new long-term
+memories. This type of amnesia is called isolated retrograde amnesia. It is
+particularly related to damage of the anterior temporal lobe. This portion of the
+temporal lobe is not, therefore, essential for acquiring new information.
+Are these lateral and anterior regions of the temporal lobe the sites of storage of
+long-term declarative memories? The answer is maybe, but another view is that
+these regions may be particularly important for the retrieval of information from
+long-term stores. Where then are memories stored? More recent evidence from
+
+===== PAGE 33 =====
+37
+Neuropsychological Basis of
+Learning and Memory
+neuroimaging studies suggests that memories are stored as distributed
+representations throughout neocortex, involving the regions that originally
+encoded the perceptual information and regions representing information that
+was associated with this incoming information (as noted in the last section, the
+medial temporal lobe may coordinate the consolidation of this information over
+time).
+3.5 ANIMAL MODELS OF MEMORY
+Studies in monkeys with lesions to the hippocampus and surrounding cortex
+have been invaluable in learning about the contributions of the medial temporal
+lobe to primate memory systems. In general, the goal of such research is to develop
+animal models of human memory and amnesia. Through research, such models
+are providing key information on relations between specific memory and brain
+structures. Several animal species, ranging from invertebrates to monkeys, have
+been investigated for clues to human memory and its functional neuroanatomy
+and neurobiology; it is likely that monkeys will contribute the most directly
+applicable knowledge about human processes at the systems level given the
+similarity among primate brains. We must always keep in mind, however, that
+the gross organisation and functional capabilities of the brains of monkeys and
+humans differ significantly. Thus, animal models of cognitive processes like
+memory are perhaps most informative when linked with studies in humans.
+One of the key questions in memory research was how much the hippocampus
+alone, as compared with surrounding structures in the medial temporal lobe,
+participated in the memory deficits of patients like H.M. In other words, what
+structures of the medial temporal lobe system are involved in episodic memory?
+For example, does the amygdala influence memory deficits in amnesics? Data
+from amnesics indicate that the amygdala is not part of the brain’s episodic
+memory system, although it has a role in emotion and emotional memories.
+To verify this, surgical lesions were created in the medial temporal lobe and
+amygdala of monkeys, to cause memory impairment. In classic work by Mortimer
+Mishkin (1978) at the National Institute of Mental Health (NIMH), the
+hippocampus or the amygdala, or both the hippocampus and the amygdala, of
+monkeys were removed surgically. He found that the amount of impairment, as
+measured on tests, varied according to what was lesioned.
+In his early work, Mishkin found that in the monkey, memory was impaired only
+if the lesion included the hippocampus and amygdala. This led to the idea that
+the amygdala was a key structure in memory. The idea does not fit well with data
+from amnesics like R.B., who had anterograde amnesia caused by a lesion
+restricted to neurons of the hippocampus and no damage to the amygdala. Stuart
+Zola and colleagues (1993) at the University of California at San Diego
+investigated this dilemma. They performed more selective lesions of the brains
+of monkeys by distinguishing between the amygdala and hippocampus, as well
+as the surrounding cortex near each structure. They surgically created lesions of
+the amygdala, the entorhinal cortex, or the surrounding neocortex of the
+parahippocampal gyrus and the perirhipal cortex (Brodmann’s areas 35 and 36)
+(Figure 1.3.3).
+
+===== PAGE 34 =====
+38
+Information Processing
+Fig. 1.3.3: Broca’s areas of the Brain (Source: Net)
+They found that lesions of the hippocampus and amygdala produced the most
+severe memory deficits only when the cortex surrounding these regions was also
+lesioned. When lesions of the hippocampus and amygdala were made but the
+surrounding cortex was spared, the presence or absence of the amygdala lesion
+did not affect the monkey’s memory. The amygdala, then, could not be part of
+the system that supported the acquisition of long-term memory.
+In subsequent investigations, Zola and his colleagues selectively created lesions
+of the surrounding cortex in the perirhinal, entorhinal, and parahippocampal
+regions. This worsened memory performance in delayed nonmatching to sample
+tests. Follow-up work showed that lesions of only the parahippocampal and
+perirhinal cortices also produced significant memory deficit.
+How does this make sense in relation to R.B’s profound anterograde amnesia
+with damage limited to the hippocampus and not involving the surrounding para-
+hippocampal or perirhinal cortex? The parahippocampal and perirhinal areas
+receive information from the visual, auditor, and somatosensory association cortex
+and send these inputs to the hippocampus, and from there to other cortical regions.
+The hippocampus cannot function properly if these vital connections are damaged.
+But more than this, we now also know that these regions are involved in much
+processing themselves, and hence lesions restricted to the hippocampus do not
+produce as severe a form of amnesia as do lesions that include surrounding cortex.
+In summary, the data from animals are highly consistent with evidence from
+amnesic patients such as R.B. and H.M. that implicates the hippocampal system
+in the medial temporal lobe and the associated cortex as critical for forming
+long-term memories. Lesions that damage the hippocampus directly, or damage
+the input-output relation of the hippocampus with the neocortex, produce severe
+memory impairments. The amygdala is not a crucial part of the system for episodic
+memory but is important for emotional memory. Moreover, the animal data match
+well with those from amnesics with regard to the preservation of short-term
+memory processes after the medial temporal lobe has been damaged; monkeys
+memory deficits in the delay mismatching to sample task became more
+pronounced as the interval between the sample and test increased. The medial
+temporal lobe, then, is not essential for short-term or working memory processes.
+
+
+===== PAGE 35 =====
+39
+Neuropsychological Basis of
+Learning and Memory
+As we noted earlier, the medial temporal lobe is not the locus of long-term storage
+because retrograde amnesia is not total after damage to this area; rather, the
+medial temporal lobe is a key component in organising and consolidating long-
+term memory that is permanently stored in a distributed fashion in the neocortex.
+3.6 IMAGING THE HUMAN BRAIN AND MEMORY
+The work described so far has dealt with evidence from humans and animals
+with brain damage. These data are consistent with regard to the role of the medial
+temporal lobe in memory. Over the past decade, there has been an exponential
+increase in studies of normal subjects using functional brain imaging methods.
+The results are quite provocative and are confirming and extending the findings
+from lesion studies. In the following, we review recent studies of the brain
+organisation of episodic memory, semantic memory, procedural memory, and
+the perceptual representation system (PRS).
+3.6.1 Episodic Encoding and Retrieval
+Given the purported role of the hippocampus system in encoding memory in
+long-term stores, researchers have eagerly addressed this issue using positron
+emission tomography (PET) and functional magnetic resonance imaging (fMRI).
+One such line of work involved face encoding and recognition. The question
+was whether the Hippocampus becomes active when encoding new information.
+James Haxby, Leslie Ungerleider, and their colleagues (1996) at the NIMH
+presented subjects with pictures of either faces or nonsense patterns, and, using
+PET, investigated memory performance. In different conditions subjects were
+required to remember (encode) the face, recognise the face, and perceptually
+analyse the face by comparing two faces. During these periods, PET scans
+recorded changes in regional cerebral blood flow triggered by local neuronal
+activity.
+These investigators observed that the right hippocampus region was activated
+during encoding of the face but not during recognition, where retrieval processes
+should have been engaged. These data are consistent with those from amnesic
+patients who had medial temporal lobe damage that led to anterograde amnesia
+but preserved distant retrograde memories. Encoding also activated the left
+prefrontal cortex, whereas recognition activated the right prefrontal cortex. Thus,
+we have more support for the hippocampus’s role in memory, as well as possible
+support for hemispheric asymmetries in memory functions.
+Encoding and retrieval processes were lateralised in the left and right hemispheres,
+respectively, giving rise to a model with the acronym of HERA, which stands for
+“hemispheric encoding-retrieval asymmetry.” This model represents the idea that
+encoding involves the left hemisphere more than the right, and retrieval involves
+the right hemisphere more than the left. Both processes predominantly involve
+the dorsolateral prefrontal cortex. In encoding and retrieving information from
+long-term memory, neocortical areas were the most activated.
+Some more recent studies made use of event-related fMRI methods to track the
+processing of individual items as a function of the success of the encoding, as
+indexed by later memory performance. Anthony Wagner and his colleagues at
+MIT, Harvard University, and Massachusetts General Hospital (1998), and John
+
+===== PAGE 36 =====
+40
+Information Processing Gabrieli and his colleagues at Stanford (Brewer et al., 1998) conducted such
+studies. They presented subjects with items and scanned their brains using of
+MRI while they were encoding the information, and then later tested them for
+their memories of the items. Each research group found that event-related
+responses were larger in prefrontal and medial temporal regions (parahippocampal
+cortex) during encoding of words or pictures that were later remembered.
+3.6.2 Semantic Encoding and Retrieval
+The encoding and retrieval of semantic knowledge also have been studied using
+functional neuroimaging, and significant new findings have been uncovered. In
+particular, evidence for domain-specific organisation (i.e., knowledge of animate
+and inanimate objects is localised in different cortical regions) has proved to be
+a fascinating story. Unlike episodic retrieval that activates the right prefrontal
+cortex, semantic retrieval involves the left prefrontal cortex. The region includes
+Broca’s area (Brodmann’s area 44 extending into area 46) and the ventral lateral
+region (Brodmann’s areas 44 and 45) (Figure 1.3.3). This lateralisation to the
+left hemisphere remains regardless of whether the memories being retrieved are
+of objects or words.
+3.6.3 Procedural Memory Encoding and Retrieval
+Earlier we learned that amnesics demonstrate implicit learning of motor sequences
+(procedural knowledge) even when they cannot form explicit memories about
+the stimulus sequence. Amnesics provide powerful evidence that implicit learning
+need not be mediated by explicit knowledge about the material.
+Scott Grafton, Eliot Hazeltine, and Ivry (1995) investigated the brain basis of
+procedural motor learning in normal subjects. They compared conditions in which
+the subjects learned motor sequences implicitly during dual-task conditions, which
+helped to prevent subjects from explicitly noticing and learning the sequence.
+PET conducted during the dual-task condition demonstrated activation of the
+motor cortex and the supplementary motor area of the left hemisphere, and the
+putamen in the basal ganglia bilaterally. Also activated were the rostral prefrontal
+cortex and parietal cortex. Therefore, when subjects were implicitly learning the
+task, brain areas that control limb movements were activated. When the distracting
+auditory task was removed, the right dorsolateral prefrontal cortex, right pre
+motor cortex, right putamen, and parieto-occipital cortex were activated
+bilaterally.
+3.6.4 Perceptual Priming and Implicit and Explicit Memory
+Daniel Schacter and his colleagues (1996) at Harvard University investigated
+the neural bases of perceptual priming (implicit learning) in a PET study. The
+scanning was performed only during the task. Subjects manifested implicit
+priming behaviourally. No activations or deactivations were noted in the
+hippocampus, but blood flow in the bilateral occipital cortex, (area 19) decreased
+(Figure 1.3.3). The hippocampus was not activated, then, even though implicit
+perceptual priming was obtained.
+The conclusions from this and other studies are that implicit and explicit retrieval
+of information is subserved by separate brain systems. Together with the face
+encoding data Haxby and colleagues obtained by PET, and animal and human
+lesion data, a reasonable conclusion is that the hippocampus encodes new
+
+===== PAGE 37 =====
+41
+Neuropsychological Basis of
+Learning and Memory
+information but also retrieves recent information when explicit recollection is
+involved. Perhaps more interestingly, deactivation of the visual cortex for
+previously seen words is a correlate of perceptual priming.
+In summary, neuroimaging studies have demonstrated patterns of neuronal
+activation that are consistent with memory systems derived from cognitive
+research, studies in human amnesics, and animal models. Neuroimaging also
+has provided some notable new findings in the cognitive neuroscience of memory,
+including, for example, the hemispheric asymmetries in encoding and retrieval.
+3.7 CELLULAR BASES OF LEARNING AND
+MEMORY
+How does the activity of different brain regions change as memories are formed?
+Most models of the cellular bases of memory hold that it is the result of changes
+in the strength of synaptic interactions among neurons in neural networks. How
+would synaptic strength be altered to enable learning and memory? Neil Carlson
+(1994) described some basic physiological mechanisms for learning new
+information.
+One basic mechanism is Hebb’ s law, named after the man who posited it, Canadian
+psychologist Donald Hebb, in 1949. Hebb’s rule states that if a synapse between
+two neurons is repeatedly activated at about the same time the postsynaptic neuron
+fires, the structure or the chemistry of neuron changes and the synapse will be
+strengthened—this is known as Hebbian learning. A more general, and more
+complex, mechanism is called long-term potentiation (LTP) . In this process,
+neural circuits in the hippocampus that are subjected to repeated and intense
+electrical stimulation develop hippocampal cells that become more sensitive to
+stimuli.
+That an excitatory input and postsynaptic depolarisation are needed to produce
+LTP is explained by the properties of the doubly gated N-methyl-D-aspartate
+(NMDA) receptor located on the dendritic spines of postsynaptic neurons that
+show LTP. Glutamate is the major excitatory transmitter in the hippocampus,
+and it can bind with NMDA and non-NMDA receptors. When 2-amino-5-
+phosphonopentanoate (AP5) is introduced to neurons, NMDA receptors are
+chemically blocked and LTP induction is prevented. But the AP5 treatment does
+not produce any effect on previously established LTP in these cells.
+Therefore, NMDA receptors are central to producing LTP but not maintaining it.
+It turns out that maintenance of LTP may depend on the non-NMDA receptors.
+Long-Term Potentiation and Memory Performance -  This effect of enhanced
+response can last for weeks or even longer, suggesting to many that this could be
+a mechanism for long-term learning and retention (Baddeley, 1993).
+Disrupting the process of long-term potentiation (say, through different drugs)
+also disrupts learning and remembering. Chemically blocking LTP in the
+hippocampus of normal mice impairs their ability to demonstrate normal place
+learning; thus, blocking LTP prevents normal spatial memory. In a similar way,
+genetic manipulations that block the cascade of molecular triggers for LTP also
+impair spatial learning.
+
+===== PAGE 38 =====
+42
+Information Processing These experiments provide strong evidence of impairing spatial memory by
+blocking NMDA receptors and preventing LTP. Moreover, we are rapidly
+developing a very clear understanding of the molecular processes that support
+synaptic plasticity, and thus learning and memory in the brain.
+3.8 LET US SUM UP
+The ability to acquire new information and retain it over time defines learning
+and memory. Cognitive theory and neuroscientific evidence argue that memory
+is supported by multiple cognitive and neural systems. These systems support
+different aspects of memory, and their distinctions in quality can be readily
+identified. Sensory registration, perceptual representation, working memory,
+procedural memory, semantic memory, and episodic memory all represent systems
+or subsystems for learning and memory. The brain structures that support various
+memory processes differ, depending on the type of information to be retained
+and how it is encoded and retrieved.
+Despite the intriguing results from neuropsychological studies, we are far from
+having a complete picture of how the brain instantiates all, or even many, memory
+phenomenon. It is not clear which aspects of memory are localised in one place
+in the brain and which are distributed across different cortical regions. Tulving
+pointed that neuroscientists today reject the idea of studying memory as though
+it were a single process. Instead, they are likely to look for neurological
+underpinnings at a more precise level – at such processes as encoding or retrieval.
+The latest neuroimaging techniques clearly will continue to provide invaluable
+information about human memory and its neural substrates in the healthy human
+in the years to come.
+3.9 UNIT END QUESTIONS
+1) Summarize the findings of neuropsychological research on localising memory
+in the brain.
+2) Compare and contrast the human and animal models of the study of neural
+basis of memory.
+3) What exactly do findings from memory studies with amnesic patients tell us
+about the way memory operates in nonamnesic people?
+4) Imagine what it would be like to recover from one of the forms of amnesia.
+Describe your impressions of and reactions to your newly recovered memory
+abilities.
+5) How would you design an experiment to study the neural process of semantic
+memory by functional MRI technique?
+6) Patient H.M. and others with damage to the medial temporal lobe develop
+amnesia. What form of amnesia do they develop, and what information can
+they retain, and what doe sthis tell us about how memories are encoded in
+the brain?
+
+===== PAGE 39 =====
+43
+Neuropsychological Basis of
+Learning and Memory3.10 SUGGESTED READINGS AND REFERENCES
+Galotti, K.M. (2008). Cognitive Psychology: Perception, Attention, and Memory.
+London: Cengage.
+Solso, R.L. (2006). Cognitive Psychology. New Delhi: Pearson Education.
+References
+Gazzaniga, M.S., Ivry, R., & Mangun, G .R. (2002). Cognitive Neuroscience:
+The Biology of the Mind. New York: W.W. Norton.
+Gleitman, L. R., Liberman, M., & Osherson, D. N. (Eds.)(2000). An Invitation
+to Cognitive Science, 2nd Ed. Cambridge, MA: MIT Press.
+Levinthal, C.F. (1990). Introduction to Physiological Psychology. New Jersey:
+Prentice Hall.
+Sternberg, R.J. (2009). Applied Cognitive Psychology: Perceiving, Learning,
+and Remembering. London: Cengage.
+
+===== PAGE 40 =====
+44
+Information Processing
+UNIT 4 MODELS OF INFORMATION
+PROCESSING
+“Information is a source of learning. But unless it is organised, processed, and
+available to the right people in a format for decision making, it is a burden, not
+a benefit.”
+– William Pollard
+Structure
+4.0 Introduction
+4.1 Objectives
+4.2 Waugh and Norman’s Model of Primary and Secondary Memory
+4.3 Atkinson and Shiffrin’s the Stage Model
+4.4 Level of Recall
+4.5 Levels of Processing: Craik and Lockhart
+4.6 Self Reference Effect
+4.7 A Connectionist Model of Memory: Rumelhart and McClelland
+4.8 Let Us Sum Up
+4.9 Unit End Questions
+4.10 Suggested Readings and References
+4.0 INTRODUCTION
+Cognition as a psychological area of study goes far beyond simply the taking in
+and retrieving information. Neisser (1967), one of the most influential researchers
+in cognition, defined it as the study of how people encode, structure, store, retrieve,
+use or otherwise learn knowledge. The information processing approach to human
+cognition remains very popular in the field of psychology.
+Information processing is the change (processing) of information in any manner
+detectable by an observer. Within the field of cognitive psychology, information
+processing is an approach to the goal of understanding human thinking. It arose
+in the 1940s and 1950s. The essence of the approach is to see cognition as being
+essentially computational in nature, with mind being the software and the brain
+being the hardware.
+One of the primary areas of cognition studied by researches is memory. By the
+1960s research in memory had reached a high state of activity, and it was about
+this time that some formalised comprehensive theories of memory were beginning
+to be formulated. There are many hypotheses and suggestions as to how this
+integration occurs, and many new theories have built upon established beliefs in
+this area. Currently, there is widespread consensus on several aspects of
+information processing; however, there are many dissentions in reference to
+specifics on how the brain actually codes or manipulates information as it is
+stored in memory. This section considers a few of the more viable memory theories
+of that time.
+
+===== PAGE 41 =====
+45
+Models of Infromation
+Processing4.1 OBJECTIVES
+After reading this unit, you will be able to:
+• define information processing approach;
+• discussing the various models of information processing;
+• explain levels of recall; and
+• describe levels of processing.
+4.2 WAUGH AND NORMAN’S MODEL OF
+PRIMARY AND SECONDARY MEMORY
+The first modern behavioural model to travel down memory lane, and one whose
+concept of primary memory has served as a departure point for most modern
+theories, was developed by Waugh and Norman (1965). The theory is dualistic;
+primary memory (PM), a short-term storage system, is conceptualised as being
+independent of secondary memory (SM), a longer-term storage system. Waugh
+and Norman borrowed freely from William James’s dichotomy of primary and
+secondary memory and illustrated their theory by means of the model shown in
+Figure below, which encouraged the memory metaphor of boxes in the head that
+soon proliferated in the literature of cognitive psychology.
+What Waugh and Norman did that James never attempted was to quantify
+properties of primary memory. This short-term storage system was taken to have
+very limited capacity, so that loss of information from it was postulated to occur
+not as a simple function of time but (once the storage capacity was exhausted)
+by displacement of old items by new ones. PM could be conceptualised as a
+storage compartment much like a vertical file, in which information is stored in
+a slot or, if all the slots are filled, displaces an item occupying one of the slots.
+Fig. 1.4.1: Model of Primary and Secondary Memory ( Adapted from Waugh and Norman
+(1965)
+Waugh and Norman traced the fate of items in PM (primary memory) by using
+lists of sixteen digits, that were read to subjects at the rate of one digit per second
+or four digits per second. The purpose of presenting digits every second or quarter
+second was to determine whether forgetting was a function of decay (presumed
+to be due to time) or interference in PM.
+ 
+Stimulus Primary
+Memory
+Secondary
+Memory
+Forgotton
+Rehearsal
+
+===== PAGE 42 =====
+46
+Information Processing If forgetting was a function of decay, then less recall could be expected with the
+slower rate (one digit per second); if forgetting was a function of interference in
+PM, then no difference in recall could be expected according to the presentation
+rate. The same amount of information is presented at both presentation rates,
+which, by Waugh and Norman’s logic, allows the same time for decay to occur.
+It might be argued that even at one item per second, subjects would allow extra
+experimental information to enter their PM, but later experimentation (Norman,
+1966) in which presentation rates varied from one to ten digits (for a given period),
+yielded data  consistent with a rate of forgetting expected from the original model.
+The rate of forgetting for the two presentation rates is similar. Interference seems
+to be a greater factor than decay in forgetting in PM.
+Waugh and Norman’s system makes good sense. PM holds verbal information
+and is available for verbatim recall; this is true in our ordinary conversation. We
+can recall that last part of a sentence we have just heard with complete accuracy,
+even if we were barely paying attention to what was said. However, to recall the
+same information sometime later is impossible unless we rehearse it, which makes
+it available through SM.
+4.3 ATKINSON AND SHIFFRIN’S THE STAGE
+MODEL
+Traditionally, the most widely used model of information processing is the stage
+theory model, based on the work of Atkinson and Shiffrin (1968). The key
+elements of this model are that it views learning and memory as discontinuous
+and multi-staged. It is hypothesised that as new information is taken in, it is in
+some way manipulated before it is stored. The stage theory model, as shown in
+Figure 1.4.2, recognises three types or stages of memory: sensory memory, short-
+term or working memory, and long-term memory.
+Fig. 1.4.2: A stage model of memory (Adapted from Atkinson and Shiffrin 1969)
+In the Atkinson-Shiffrin model, memory starts with a sensory input from the
+environment. This input is held for a very brief time – several seconds at most –
+in a sensory register associated with the sensory channels (vision, hearing, touch,
+and so forth). This occurs in as little as ½ second for visual stimuli (Sperling, 1960),
+
+
+===== PAGE 43 =====
+47
+Models of Infromation
+Processing
+and about 4 or 5 seconds for auditory stimuli (Darwin et al., 1972). The transfer
+of new information quickly to the next stage of processing is of critical importance,
+and sensory memory acts as a portal for all information that is to become part of
+memory. There are many ways to ensure transfer and many methods for facilitating
+that transfer. To this end, attention and automaticity are the two major influences
+on sensory memory, and much work has been done to understand the impact of
+each on information processing.
+Information that is attended to and recognised in the sensory register may be
+passed on to second stage of information processing, i.e. short-term memory
+(STM) or working memory, where it is held for perhaps 20 or 30 seconds. This
+stage is often viewed as active or conscious memory because it is the part of
+memory that is being actively processed while new information is being taken
+in. Some of the information reaching short-term memory is processed by being
+rehearsed – that is, by having attention focused on it, perhaps by being repeated
+over and over (maintenance rehearsal), or perhaps by being processed in some
+other way that will link it up with other information already stored in memory
+(elaborate rehearsal). Generally 5 + 2 number of units can be processed at any
+given time in STM.
+Information that is rehearsed may then be passed along to long-term memory
+(LTM); information not so processed is lost. When items of information are placed
+in long-term memory, they are organised into categories, where they may reside
+for days, months, years, or for a lifetime. When you remember something, a
+representation of the item is withdrawn, or retrieved, from long-term memory.
+Organisations of long-term memory - Each of the memory unit or structures
+represented in the mind is distinct and serves a different operational function.
+However, it is evident that some type of very specialised categorisation system
+exists within the human mind. One of the first to make this idea explicit was
+Bruner (as cited in Anderson, 1998). “Based upon the idea of categorisation,
+Bruner’s theory states ‘To perceive is to categorise, to conceptualise is to
+categorise, to learn is to form categories, to make decisions is to categorise’”.
+Tulving (1972) was the first to distinguish between episodic and semantic
+memory. “Episodic memories are those which give a subject the sense of
+remembering the actual situation, or event” (Eliasmith, 2001). Episodic memory’s
+store is centered on personal experience and specific events. It is entirely
+circumstantial and it is not generally used for the processing of new information
+except as a sort of backdrop. Semantic memory, in contrast, deals with general,
+abstract information and can be recalled independently of how it was learned. It
+is semantic memory that is the central focus of most current study because it
+houses the concepts, strategies and other structures that are typically used for
+encoding new information. Most researchers now combine these two in a broader
+category labeled declarative.
+Other researchers have identified additional organisational types. For example,
+Abbott lists declarative and procedural while Huitt (2000), citing the work of
+Paivio (1971, 1986) adds imagery to this list. However, Pylyshyn (2002) states
+that imagery is not a distinct organisational structure, but follows the rules that
+apply to semantic and episodic memory. Abbott (2002) and Huitt (2000) define
+declarative memory as that which can be talked about or verbalised. It is, then,
+
+===== PAGE 44 =====
+48
+Information Processing the sum of stored information that can be readily retrieved and put into words in
+conscious thought and sharing. As previously stated, declarative memory can be
+subdivided into both semantic and episodic memories. Procedural memory can
+be thought of as “how to” knowledge (Huitt, 2000). It is the type of long-term
+memory sometimes associated with information that has reached a state of
+automaticity, but it not limited to this. This type of memory is defined in terms of
+learned skills and the ability to recall instruction-like memory. Paivio (1971,
+1986) describes imagery as the memory structure for collecting and storing
+information related to pictures. It captures information much like a photograph
+and can be extremely useful for context and visual presentation of information.
+Information Processing in Three Stage Model - Atkinson and Shiffrin make an
+important distinction between the concepts of memory and memory stores; they
+use the term memory to refer to the data being retained, while store refers to the
+structural component that contains the information. Simply indicating how long
+an item has been retained does not necessarily reveal where it is located in the
+structure of memory.
+Information processing from one store to another is largely controlled by the
+subject. Information briefly held in the sensory register is scanned by the subject,
+and selected information is introduced into the STS. Transfer of information
+from the STS was regarded as capable of taking place so long as it was held
+there. Atkinson and Shiffrin postulated that information might enter the long-
+term store directly from the sensory register.
+4.4 LEVEL OF RECALL
+In a report by P. I. Zinchenko (1962, 1981), a Russian psychologist, the matter of
+how a subject interacts with the material to be learned and committed to memory
+was introduced. The basic notion was that words encoded by deep means would
+be retained in incidental memory better than if encoded by other, superficial
+means. Thus the memorability of words was profoundly influenced by the goal
+of the subject at the time the material was presented. Different goals were thought
+to activate different systems of connections because subjects have different
+orientations toward the material.
+The thesis was tested in an experiment in which subjects were given ten series of
+four words. The first word was to be connected to one of the other words, but the
+instructions varied for each of three groups. An example of a series is HOUSE—
+WINDOW—BUILDING—FISH.  In the first condition the subjects were asked to
+identify the word whose meaning was different from the first word (HOUSE—
+FISH). In a second condition subjects were asked to make a concrete connection
+between the first word and one of the other words [HOUSE—WINDOW).  In the
+third condition the subjects were asked to make a “logical” connection between
+the first word and one of the other three words [HOUSE—BUILDING].
+Zinchenko thought that by altering the instructions the subjects would not only
+have different goals toward the material but also be required to examine each
+item for meaning. After a brief interrupting task, the subjects were asked to recall
+the items. In the condition in which subjects formed logical connections between
+the first word and another word, recall of the target word occurred with greater
+frequency than the other conditions. Recall of the concrete relationship words
+was greater than the no-meaning condition.
+
+===== PAGE 45 =====
+49
+Models of Infromation
+Processing
+Thus the level of recall (LOR), as Zinchenko called it, is determined by the goal
+of an action. In the experiment cited, we can see that when subjects were given
+a learning set, or instructions to process material at different levels (to use
+contemporary jargon), recall of the material was affected greatly. Because the
+original paper was published in Russian and not widely distributed, it has not
+been incorporated into the larger framework of memory models. Nevertheless,
+as we shall see, the experiment presented by Zinchenko, because of its theoretical
+importance to the concept of levels of processing, which has had a profound
+influence on cognitive psychology, has important consequences for our
+conceptualisation of human memory.
+4.5 LEVELS OF PROCESSING: CRAIK AND
+LOCKHART
+It is likely that progress in the early stages of scientific development is made
+more by reaction and counterreaction than by the discovery of great immutable
+truths. Craik and Lockhart’s (1972) levels-of-processing (LOP) model,  as a
+reaction against the boxes-in-the-head scheme of memory, is consistent with
+that view. They take the position that data can be better described by a concept of
+memory based on levels of processing. The general idea is that incoming stimuli
+are subjected to a series of analyses starting with shallow sensory analysis and
+proceeding to deeper, more complex, abstract, and semantic analyses.
+Whether a stimulus is processed at a shallow or deep stage depends on the nature
+of the stimulus and the time available for processing. An item processed at a
+deep level is less likely to be forgotten than one processed at a shallow level. At
+the earliest level, incoming stimuli are subjected to sensory and featural analyses;
+at a deeper level, the item may be recognised by means of pattern recognition
+and extraction of meaning; at a still deeper level, it may engage the subject’s
+long-term associations.
+With deeper processing a greater degree of semantic or cognitive analysis is
+undertaken. Consider word recognition, for example. At the preliminary stages,
+the visual configuration may be analysed according to such physical or sensory
+features as lines and angles. Later stages are concerned with matching the stimuli
+with stored information—for example, recognition that one of the letters
+corresponds to the pattern identified as A. At the highest level, the recognised
+pattern “may trigger associations, images or stories on the basis of the subject’s
+past experience with the word” (Craik & Lockhart, 1972).
+The significant issue, in Craik and Lockhart’s view, is that we are capable of
+perceiving at meaningful levels before we analyse information at a more primitive
+level. Thus, levels of processing are more a “spread” of processing, with highly
+familiar, meaningful stimuli more likely to be processed at a deeper level than
+less meaningful stimuli.
+That we can perceive at a deeper level before analysing at a shallow level casts
+grave doubts on the original levels-of-processing formulation. Perhaps we are
+dealing simply with different types of processing, with the types not following
+any constant sequence. If all types are equally accessible to the incoming stimulus,
+then the notion of levels could be replaced by a system that drops the notion of
+
+===== PAGE 46 =====
+50
+Information Processing levels or depth but retains some of Craik and Lockhart’s ideas about rehearsal
+and about the formation of memory traces.
+A model that is closer to their original idea is shown in Figure 1.4.3. This figure
+depicts the memory activation involved in proofreading a passage as contrasted
+with that involved in reading the same passage for the gist of the material.
+Proofreading, that is, looking at the surface of the passage, involves elaborate
+shallow processing and minimal semantic processing.
+Reading for gist, that is, trying to get the essential points, involves minimal
+shallow processing, or “maintenance rehearsal” (held in memory without
+elaboration), but elaborate semantic processing. Another example of this latter
+kind of memory activity would be a typist who concentrates on responding to
+letter sequences but has very little understanding of the material being typed.
+As a result of some studies (Craik & Watkins, 1973; and Lockhart, Craik, &
+Jacoby, 1975), the idea that stimuli are always processed through an unvarying
+sequence of stages was abandoned, while the general principle that some sensory
+processing must precede semantic analysis was retained.
+Fig. 1.4.3: Memory activation in two kind of reading. (Adapted from Solso, 2006)
+Levels of Processing versus Information Processing. Information-processing
+models of memory have generally stressed structural components (for example,
+sensory store, STM, and LTM) dealing with processing (for example, attention,
+coding, rehearsal, transformation of information, and forgetting) as operations
+that are tied (sometimes uniquely) to the structural components. However, another
+approach is to postulate process and then to formulate a memory system in terms
+of these operations. Craik and Lockhart have taken just such a position, and their
+implicit criticism of the information processing model (along with Neisser, 1976)
+suggests that it is falling on hard times.
+Where information-processing models of memory stress the sequence of stages
+through which information is moved and processed, this alternate viewpoint
+argues that memory traces are formed as a by -product of perceptual processing.
+Thus, the durability of memory is conceptualised as a function of the depth of
+processing. Information that is not given full attention and is analysed only to a
+shallow level is soon forgotten; information that is deeply processed—attended
+to, fully analysed and enriched by associations or images—is long lasting. The
+levels-of-processing model is not free of criticism (see Craik & Tulving, 1975;
+and Baddeley, 1978). The criticism includes that (1) it seems to say little more
+than that meaningful events are well remembered, a mundane conclusion; (2) it
+Proofreading Gist
+Elaborat
+rehearsal
+Maintenance rehearsal
+Deeper Levels
+ 
+ 
+
+===== PAGE 47 =====
+51
+Models of Infromation
+Processing
+is vague and generally untestable; and (3) it is circular in that any events that are
+well remembered are designated “deeply processed,” with no objective and
+independent index of depth available.
+One clear difference between the boxes-in-the-head theory (Waugh and Norman,
+and Atkinson and Shiffrin) and the levels-of-processing theory (Craik and
+Lockhart) is their respective notions concerning rehearsal. In the former, rehearsal,
+or repetition, of information in STM serves the function of transferring it to a
+longer-lasting memory store; in the latter, rehearsal is conceptualised as either
+maintaining information at one level of analysis or elaborating information by
+processing it to a deeper level. The first type, maintenance rehearsal, will not
+lead to better retention.
+Craik and Tulving (1975) tested the idea that words that are deeply processed
+should be recalled better than those that are less so. They did this by having
+subjects simply rate words as to their structural, phonemic, or semantic aspects.
+Craik and Tulving measured both the time to make a decision and recognition of
+the rated words. The data  obtained are interpreted as showing that (1) deeper
+processing takes longer to accomplish and (2) recognition of encoded words
+increases as a function of the level to which they are processed, with those words
+engaging semantic aspects better recognised than those engaging only the
+phonological or structural aspects. Using slightly different tasks, D’Agostino,
+O’Neill, and Paivio (1977); Klein and Saltz (1976); and Schulman (1974) obtained
+similar results.
+4.6 SELF REFERENCE EFFECT
+New light was shed on the levels-of-processing concept when Rogers, Kuiper,
+and Kirker [1977) showed that self-reference is a powerful method variable.
+Using a method similar to that of Craik and Tulving (1975), they asked subjects
+to evaluate a list of forty adjectives on one of four tasks hypothesised to vary in
+depth, or semantic richness. Included were structural, phonemic, semantic, and
+self-reference tasks.
+As in the Craik and Tulving study, it was assumed that words more deeply coded
+during rating should be recalled better than those words with shallow coding.
+After the subjects rated the words, they were asked to free-recall as many of the
+words they had rated as possible. Recall was poorest for words rated structurally
+and ascended through those phonemically rated and semantically rated. Self-
+reference words were recalled best.
+The Narcissistic Trait Modifications of the original experiment have been
+conducted in several laboratories with the results being about the same. Some
+have argued that self-reference tasks are stored in some special memory system.
+Certainly, if you are asked to evaluate a personality trait as being self-descriptive,
+such as greedy, loving, or angry, you are engaging a very powerful self-schema,
+an organised system of internal attributes that is constellated around the topic of
+“I, me, mine.” We also call this the narcissistic trait. Since we all know a great
+deal about ourselves (and are emotionally, if not intellectually, deeply invested
+in ourselves) we have a rich and elaborate internal network available for storing
+self-information. Because of these complex internal self structures we can more
+
+===== PAGE 48 =====
+52
+Information Processing easily organise new information as it might refer to ourselves than other, more
+mundane information (see Bellezza 1992 for several important studies on this
+theme). Whether or not these self-rating memories are stored in different parts of
+the brain remains a question, but it is a good hunch that plenty of precious brain
+space is given over to the narcissistic trait.
+4.7 A CONNECTIONIST (PARALLEL DISTRIBUTED
+PROCESSING) MODEL OF MEMORY:
+RUMELHART AND MCCLELLAND
+Many people have been associated with this model of human cognition, but
+David Rumelhart and James McClelland have done the most to formalise the
+theory.
+Essentially, the model is neutrally inspired, concerned with the kind of processing
+mechanism that is the human mind. Is it a type of von Neumann computer – a
+Johniac – in which information is processed in sequential steps? Alternatively,
+might the human mind process information in a massively distributed, mutually
+interactive parallel system in which various activities are carried out
+simultaneously through excitation and/or inhibition of neural cells? PDPers opt
+for latter explanation.
+“These [PDP] models assume that information processing takes place through
+the interactions of a large number of simple processing elements called units,
+each sending excitatory and inhibitory signals to other units” (McClelland,
+Rumelhart, & Hinton, 1986). These units may stand for possible guesses about
+letters in a string of words or notes on a score. In other situations, the units may
+stand for possible goals and actions, such as reading a particular letter or playing
+a specific note. Proponents suggest that PDP models are concerned with the
+description of the internal structure of larger units of cognitive activity, such as
+reading, perceiving, processing sentences, and so on.
+The connectionist (or PDP) model attempts to describe memory from the even
+finer-grained analysis of processing units, which resemble neurons. Furthermore,
+the connectionist model is based on the development of laws that govern the
+representation of knowledge in memory. One additional feature of the PDP model
+of memory is that it is not just a model of memory; it is also a model for action
+and the representation of knowledge.
+A fundamental assumption of the PDP model is that mental processes take place
+through a system of highly interconnected units, which take on activation values
+and communicate with other units. Units are simple processing elements that
+stand for possible hypotheses about the nature of things, such as letters in a
+display, the rules that govern syntax, and goals or actions (for example, the goal
+of typing a letter on a key board or playing a note on the piano). Units can be
+compared to atoms, in that both are building blocks for more complete structures
+and combine with others of their kind to form larger networks. A neuron in the
+brain is a type of unit that combines with other neurons in a parallel processing
+mode to form larger systems.
+Units are organised into modules, much as atoms are organised into molecules.
+The number of units per module range from thousands to millions. Each unit
+
+===== PAGE 49 =====
+53
+Models of Infromation
+Processing
+receives information from other modules and, after processing, passes information
+to other modules. In this model, information is received, is permeated throughout
+the model, and leaves traces behind when it has passed through. These traces
+change in the strength (sometimes called weight) of the connections between
+individual units in the model.
+A memory trace, such as a friend’s name, may be distributed over many different
+connections. The storage of information (for example, friend’s name) is thought
+to be content addressable—that is, we can access the information in memory on
+the basis of its attributes. You can recall your friend’s name if I show you a
+picture of him, tell you where he lives, or describe what he does. All of these
+attributes may be used to access the name in memory. Of course, some cues are
+better than others.
+Even though the theory is abstract, it touches real-life activities. To continue
+with the example of your friend’s name, suppose I ask, “What is the name of the
+man you play tennis with?” Such an inquiry gives at least two content-addressable
+cues: man and tennis partner. If you play tennis with only one man (and you
+know his name), then the answer should be easy. If you have many partners who
+are men, then the answer may be impossible.
+Additional information (for example, the man with the beard, the left handed
+player, the guy with red tennis shorts, the dude with the rocketlike serve, the
+chap with the Boston terrier, and so forth) may easily focus the search. You can
+imagine how very narrow the search would be if all of these attributes were
+associated with only one person: the man you play tennis with has a beard, is
+left-handed, wears red tennis shorts, has a hot serve, and has a terrier.
+In real life, each of these attributes may be associated with more than one person.
+You may know several people who have a hot serve or have a beard. If that is the
+case, it is possible to recall names other than the intended one. However, if the
+categories are specific and mutually exclusive, retrieval is likely to be accurate.
+How can a PDP modular concept of memory keep these interfering components
+from running into each other?
+According to this model, information is represented in memory in terms of
+numerous connections with other units. If an attribute is part of a number of
+different memories and is activated (for example. What was your friend’s name
+...?), then it will tend to excite all the memories in which the attribute is a part.
+One way interfering components are kept from overrunning the system is to
+conceptualise the relationship between units as being subject to inhibitory laws.
+Thus, when we identify the person you play tennis with as a man, in theory we
+inhibit all searches for people who are women. When we add that he has a Boston
+terrier, then we do not search for the names of people with whom you do not
+play tennis and who do not own a Boston terrier.
+Consider the following example of prototype learning, suggested by McClelland
+and Rumelhart (1986). A small boy sees many different dogs, each only once
+and each with a different name. All the dogs have slightly different features but
+can be considered a variation of the prototype dog, the epitome of “dogness.”
+The boy forms a memory for a prototypical dog on the basis of experience with
+exemplar dogs. As in the case of faces, the boy is likely to recognise the prototype
+dog as a dog, even if he has never seen it. Of course, the boy is not likely to
+
+===== PAGE 50 =====
+54
+Information Processing remember the names of each of the individual dogs, though the most recently
+seen dog may still be in memory.
+The rationale offered by the connectionist model for prototype formation in the
+case of the boy and his (prototype) dog is that each time the boy sees a dog, a
+visual pattern of activation is produced over several of the units in the module.
+In contrast, the name of the dog produces a reduced pattern of activation. The
+combined activation of all exemplar dogs sums to the prototype dog, which may
+be the stable memory representation. Thus, the model, more detailed than
+presented here, seems to account for this form of memory quite nicely.
+The connectionist model of memory has won many disciples in the past few
+years. Its popularity is due in part to its elegant mathematical models, its
+relationship to neural networks, and its flexibility in accounting for diverse forms
+of memories.
+4.8 LET US SUM UP
+In summary, there are many different theories and models of information
+processing that focus on different aspects of perceiving, remembering, and
+reasoning. There are many constant themes of information processing regardless
+of the specific theory to which one subscribes. Almost all ideas related to how
+information becomes stored in memory agree that the learner more deeply and
+meaningfully processes information that is presented in a context-rich manner.
+One of the most important agreements is that elaboration is a key to permanently
+storing information in a way that facilitates its quick retrieval when it is needed.
+Most theories hold that the mind contains some type of framework into which
+new information is placed. This structure is multi-leveled and has varying degrees
+of specificity. New information can be matched with, compared to, contrasted
+to, joined with, or modified to fit with existing structures. The formation of and
+continual building of these structures, then, is critical in order to process
+information. This in-place structural system allows for differing levels of
+complexity of information processing.
+4.9 UNIT END QUESTIONS
+1) Describe the Attkinson-Shiffrin model of information processing in detail.
+2) Compare information processing and level of processing models of memory.
+3) How does a connectionist (PDP) model handle memory?
+4) What is meant by level of recall, level of processing, and self-refrence effect?
+5) What are the basic principles and models of information processing?
+6) How does organisation in long-term memory take place?
+7) Design an experiment to compare the maintenance (shallow) and elaborate
+level of information processing
+4.10 SUGGESTED READINGS AND REFERENCES
+Abbot, B. (2002). Human Memory . Fort Wayne: Indiana University-Purdue
+University at Fort Wayne, Psychology Department., from http://users.ipfw.edu/
+abbot/120/LongTermMemory.html
+
+===== PAGE 51 =====
+55
+Models of Infromation
+Processing
+Atkinson, R., & Shiffrin, R. (1968). Human memory: A proposed system and its
+control processes. In K Spence & J Spence (Eds.). The Psychology of Learning
+and Motivation: Advances in Research and Theory (V ol. 2). New York: Academic
+Press.
+References
+Bransford, J. (1979). Human Cognition: Learning, Understanding, and
+Remembering. Belmont, CA: Wadsworth.
+Galotti, K.M. (2008). Cognitive Psychology: Perception, Attention, and Memory.
+London: Cengage.
+Goldstein, E. H. (2008). Cognitive Psychology: Connecting Mind, Research and
+Everyday Experience. London: Thomson Learning.
+http://chiron.valdosta.edu/whuitt/col/cogsys/infoproc.html
+http://www.well.com/user/smalin/miller.html]
+Huitt, W. (2000). The Information Processing Approach. Educational Psychology
+Interactive. V aldosta, GA: Valdosta State University.
+Solso, R.L. (2006). Cognitive Psychology. New Delhi: Pearson Education.
+Sternberg, R.J. (2009). Applied Cognitive Psychology: Perceiving, Learning,
+and Remembering. London: Cengage.

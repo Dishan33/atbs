@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MPC-003 Personality — Themes & Theories</title>
+<style>
+  :root{--bg:#0f172a;--surface:#1e293b;--surface-hover:#253347;--accent:#3b82f6;--accent-light:#60a5fa;--accent-glow:rgba(59,130,246,0.15);--purple:#a855f7;--green:#22c55e;--amber:#f59e0b;--rose:#f43f5e;--cyan:#06b6d4;--text:#e2e8f0;--text-muted:#94a3b8;--text-bright:#f8fafc;--border:#334155;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;background:var(--bg);color:var(--text);line-height:1.6;}
+  .hero{background:linear-gradient(135deg,#1e293b 0%,#0f172a 100%);border-bottom:1px solid var(--border);padding:40px 24px;text-align:center;}
+  .hero h1{font-size:2rem;font-weight:800;color:var(--text-bright);margin-bottom:8px;}
+  .hero h1 span{background:linear-gradient(90deg,var(--accent-light),var(--purple));-webkit-background-clip:text;-webkit-text-fill-color:transparent;}
+  .hero p{color:var(--text-muted);font-size:1rem;}
+  .search-wrap{max-width:520px;margin:20px auto 0;position:relative;}
+  .search-wrap input{width:100%;padding:10px 16px 10px 40px;background:var(--bg);border:1px solid var(--border);border-radius:10px;color:var(--text);font-size:.9rem;}
+  .search-wrap input:focus{outline:none;border-color:var(--accent);}
+  .search-wrap .si{position:absolute;left:14px;top:50%;transform:translateY(-50%);color:var(--text-muted);}
+  .container{max-width:1100px;margin:0 auto;padding:24px 16px;}
+  .theme-section{margin-bottom:32px;}
+  .theme-header{display:flex;align-items:center;gap:12px;cursor:pointer;padding:16px 20px;background:var(--surface);border:1px solid var(--border);border-radius:12px;transition:background .2s;}
+  .theme-header:hover{background:var(--surface-hover);}
+  .theme-icon{font-size:1.5rem;}
+  .theme-title{font-size:1.1rem;font-weight:700;color:var(--text-bright);flex:1;}
+  .theme-count{background:var(--accent-glow);color:var(--accent-light);padding:2px 10px;border-radius:20px;font-size:.75rem;font-weight:600;}
+  .theme-chevron{color:var(--text-muted);transition:transform .3s;font-size:1.2rem;}
+  .theme-section.open .theme-chevron{transform:rotate(180deg);}
+  .theme-body{display:none;padding:16px 0;}
+  .theme-section.open .theme-body{display:block;}
+  .theory-card{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:20px;margin-bottom:12px;transition:border-color .2s;}
+  .theory-card:hover{border-color:var(--accent);}
+  .theory-name{font-size:1.05rem;font-weight:700;color:var(--text-bright);margin-bottom:4px;}
+  .theory-meta{font-size:.8rem;color:var(--accent-light);margin-bottom:8px;}
+  .theory-note{font-size:.875rem;color:var(--text);margin-bottom:8px;}
+  .theory-components summary{font-size:.82rem;font-weight:600;color:var(--text-muted);cursor:pointer;}
+  .theory-components summary:hover{color:var(--text);}
+  .theory-components ul{margin-top:6px;padding-left:18px;font-size:.85rem;}
+  .theory-components li{margin-bottom:3px;}
+  .tag{display:inline-block;background:var(--accent-glow);color:var(--accent-light);padding:2px 8px;border-radius:4px;font-size:.72rem;margin:2px;font-weight:500;}
+  @media(max-width:600px){.hero h1{font-size:1.5rem;}}
+</style>
+</head>
+<body>
+<div class="hero">
+  <h1>🃏 MPC-003 <span>Personality: Themes & Theories</span></h1>
+  <p>Overarching themes, theory maps & key concepts</p>
+  <div class="search-wrap">
+    <span class="si">🔍</span>
+    <input type="text" id="searchInput" placeholder="Search theories, theorists, concepts..." oninput="doSearch()">
+  </div>
+</div>
+<div class="container">
+
+<!-- FOUNDATIONS -->
+<div class="theme-section open" data-theme="foundations">
+<div class="theme-header" onclick="this.parentElement.classList.toggle('open')">
+<span class="theme-icon">🏗️</span><span class="theme-title">Foundations & Determinants</span><span class="theme-count">10 theories</span><span class="theme-chevron">▾</span>
+</div>
+<div class="theme-body">
+<div class="theory-card" data-search="personality definition allport 1937 individuality consistency dynamic organisation psychophysical character temperament">
+<div class="theory-name">Concept & Definition of Personality</div><div class="theory-meta">Allport (1937, 1961) · Kluckhohn & Murray (1953)</div>
+<div class="marks-badge mh">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">"Dynamic organisation within the person of the psychophysical systems that determine unique adjustments to environment." Two pillars: Individuality + Consistency. Character = moral judgement; Temperament = inborn characteristics.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">dynamic organisation</span><span class="tag">psychophysical systems</span><span class="tag">individuality</span><span class="tag">consistency</span><span class="tag">character vs temperament</span><span class="tag">Allport (1937)</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="determinants biological psychological environmental watson formula">
+<div class="theory-name">Three Determinants of Personality</div><div class="theory-meta">J.B. Watson</div>
+<div class="marks-badge mh">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">Biological × Psychological × Environmental (multiplicative). Watson: extreme environmentalist. Biological factors set the boundary; psychological and environmental shape within it.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">biological/psychological/environmental</span><span class="tag">boundary concept</span><span class="tag">J.B. Watson</span><span class="tag">multiplicative formula</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="biological determinants body build somatotype homeostasis physical defects health attractiveness adler organ inferiority">
+<div class="theory-name">Biological Determinants</div><div class="theory-meta">Adler · Sheldon · Brislin & Lewis (1968)</div>
+<div class="marks-badge mh">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">5 factors: Body build (somatotypes), Physical attractiveness, Homeostasis, Physical defects (Adler's organ inferiority), Health conditions. Anoxia → emotional outbursts. Obesity → social handicap.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">ectomorph/endomorph/mesomorph</span><span class="tag">homeostasis</span><span class="tag">anoxia</span><span class="tag">organ inferiority</span><span class="tag">Brislin & Lewis (1968)</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="psychological determinants intellectual emotional self-disclosure aspiration achievement freud strecker">
+<div class="theory-name">Psychological Determinants</div><div class="theory-meta">Freud · Strecker (1956)</div>
+<div class="marks-badge mh">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">Intellectual (very superior intelligence → unfavourable), Emotional balance ("mental health insurance"), Emotional catharsis, Self-disclosure, Aspiration/achievement (level of aspiration, defeatist attitude, delusion of grandeur, superiority complex).</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">emotional balance</span><span class="tag">emotional catharsis</span><span class="tag">Strecker (1956)</span><span class="tag">level of aspiration</span><span class="tag">defeatist attitude</span><span class="tag">delusion of grandeur</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="environmental determinants social acceptance deprivation educational family ordinal position size">
+<div class="theory-name">Environmental Determinants</div><div class="theory-meta">Various</div>
+<div class="marks-badge mh">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">Social acceptance (isolation → sour-grapes attitude), Social deprivation, Educational factors, Family (identification, imitation), Ordinal position (firstborn/lastborn/middle), Family size.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">social acceptance/isolation</span><span class="tag">sour-grapes</span><span class="tag">ordinal position</span><span class="tag">identification</span><span class="tag">juvenile delinquency</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="guilford seven modalities somatic behavioural needs interests attitudes aptitudes temperament GZTS structure intellect">
+<div class="theory-name">Guilford's Trait Theory</div><div class="theory-meta">J.P. Guilford (1959, 1988)</div>
+<div class="marks-badge mm">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">7 modalities: Morphological, Physiological, Needs, Interests, Attitudes, Aptitudes, Temperament. GZTS (10 bipolar traits). Structure-of-Intellect: 120→180 factors. Three levels: hexic, primary, type.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">seven modalities</span><span class="tag">GZTS</span><span class="tag">Structure-of-Intellect</span><span class="tag">hexic/primary/type</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="history assessment galen wundt binet army alpha terman woodworth german assessment center OSS MMPI">
+<div class="theory-name">History of Personality Assessment</div><div class="theory-meta">Various (1000 BC – present)</div>
+<div class="marks-badge ml">Marks Range <span class="tier-badge t3">TIER 3</span></div>
+<div class="theory-note">~1000 BC Chinese civil service → 190 AD Galen → 1879 Wundt → 1905 Binet-Simon → 1914 Army Alpha/Beta → 1916 Terman IQ → 1918 Woodworth → 1920s German Assessment Center → 1942 OSS → 1943 MMPI → 1980s computer-administered.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Galen (190 AD)</span><span class="tag">Wundt (1879)</span><span class="tag">Binet-Simon (1905)</span><span class="tag">Army Alpha/Beta</span><span class="tag">Woodworth (1918)</span><span class="tag">OSS (1942)</span><span class="tag">MMPI (1943)</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="nunnally 1979 four types traits social traits motives personal conceptions adjustment personality measurement">
+<div class="theory-name">Nunnally's Four Types of Traits</div><div class="theory-meta">Nunnally (1979)</div>
+<div class="marks-badge ml">Marks Range <span class="tier-badge t3">TIER 3</span></div>
+<div class="theory-note">Social traits (friendliness, dominance), Motives (non-biological drives = personality dynamics), Personal conceptions (attitudes, values), Adjustment (harmony, conformance). All four are correlated.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Nunnally (1979)</span><span class="tag">social traits</span><span class="tag">motives/personality dynamics</span><span class="tag">personal conceptions</span><span class="tag">adjustment</span></li></ul></details>
+
+<div class="theory-card" data-search="nomothetic idiographic allport 1934 cattell eysenck quantitative qualitative case study individual unique general laws">
+<div class="theory-name">Nomothetic vs Idiographic Approaches</div>
+<div class="theory-meta">Allport (1934) · Cattell · Eysenck · Freud</div>
+<div class="marks-badge ml">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note"><b>Nomothetic:</b> general laws via quantitative methods (experiments, correlation, psychometric tests). Cattell, Eysenck. <b>Idiographic:</b> unique individual via qualitative methods (case studies, interviews, observation). Allport, Freud. Allport identified nomothetic approach to testing (1934) but promoted idiographic for understanding individuals. Modern researchers use both.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">nomothetic</span><span class="tag">idiographic</span><span class="tag">quantitative vs qualitative</span><span class="tag">Allport (1934)</span><span class="tag">general laws</span><span class="tag">case studies</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="neurophysiological basis traits types ARAS limbic system cortical arousal eysenck MAO lemon drop test EEG">
+<div class="theory-name">Neurophysiological Basis of Traits and Types</div>
+<div class="theory-meta">Eysenck · Corcoran (1964) · Aleksandrov & Shchukina (1992)</div>
+<div class="marks-badge mm">Marks Range <span class="tier-badge t3">TIER 3</span></div>
+<div class="theory-note">E: ARAS (higher arousal in introverts). N: limbic system (lower thresholds in neurotics). P: gonadal hormones/MAO. Evidence: Lemon Drop Test (saliva 2× in introverts), EEG (higher alpha suppression), Aleksandrov & Shchukina — different character accentuations have varying curability.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">ARAS</span><span class="tag">limbic system</span><span class="tag">cortical arousal</span><span class="tag">Yerkes-Dodson Law</span><span class="tag">MAO</span><span class="tag">Lemon Drop Test</span></li></ul></details>
+</div>
+</div>
+</div>
+</div>
+
+<!-- TYPE THEORIES -->
+<div class="theme-section" data-theme="type">
+<div class="theme-header" onclick="this.parentElement.classList.toggle('open')">
+<span class="theme-icon">🏷️</span><span class="theme-title">Type Theories</span><span class="theme-count">5 theories</span><span class="theme-chevron">▾</span>
+</div>
+<div class="theme-body">
+<div class="theory-card" data-search="hippocrates galen four humour theory sanguine phlegmatic melancholic choleric blood phlegm bile">
+<div class="theory-name">Four-Humour Theory</div><div class="theory-meta">Hippocrates & Galen (~5th century BC – 190 AD)</div>
+<div class="marks-badge ml">Marks Range <span class="tier-badge t2">TIER 2</span></div>
+<div class="theory-note">4 humours: Blood→Sanguine (cheerful, optimistic), Phlegm→Phlegmatic (apathetic, sluggish), Black bile→Melancholic (sad, brooding), Yellow bile→Choleric (irritable, excitable). Baseless today.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Hippocrates</span><span class="tag">Galen</span><span class="tag">sanguine/phlegmatic/melancholic/choleric</span><span class="tag">four humours</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="sheldon somatotype ectomorph endomorph mesomorph cerebrotonic viscerotonic somatotonic">
+<div class="theory-name">Sheldon's Somatotype Theory</div><div class="theory-meta">William Sheldon (1942)</div>
+<div class="marks-badge ml">Marks Range <span class="tier-badge t2">TIER 2</span></div>
+<div class="theory-note">Ectomorph (thin→artistic, introverted; cerebrotonic), Endomorph (round→relaxed, sociable; viscerotonic), Mesomorph (muscular→dominant, energetic; somatotonic). 1–7 scale. Weak methodology (Tylor, 1965).</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Sheldon (1942)</span><span class="tag">ectomorph/cerebrotonic</span><span class="tag">endomorph/viscerotonic</span><span class="tag">mesomorph/somatotonic</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="jung MBTI myers-briggs 16 types extraversion introversion sensing intuition thinking feeling judging perceiving keirsey temperament">
+<div class="theory-name">Jungian Types & MBTI</div><div class="theory-meta">Carl Jung (1922) · Myers-Briggs · Keirsey</div>
+<div class="marks-badge ml">Marks Range <span class="tier-badge t2">TIER 2</span></div>
+<div class="theory-note">4 dimensions: E/I, S/N, T/F, J/P. 16 personality types. Jung's task = Individuation. Keirsey temperaments: Guardian, Rational, Idealist, Artisan.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Jung (1922)</span><span class="tag">MBTI</span><span class="tag">E/I, S/N, T/F, J/P</span><span class="tag">16 types</span><span class="tag">individuation</span><span class="tag">Keirsey temperaments</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="type A type B meyer friedman workaholic coronary heart disease personality">
+<div class="theory-name">Type A & Type B Personalities</div><div class="theory-meta">Meyer Friedman</div>
+<div class="marks-badge mm">Marks Range <span class="tier-badge t2">TIER 2</span></div>
+<div class="theory-note">Type A = workaholic, driven, impatient (coronary heart disease risk). Type B = laid back, easy going. Origin: Friedman noted impatient patients wore out front edges of waiting room sofas.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Meyer Friedman</span><span class="tag">Type A</span><span class="tag">Type B</span><span class="tag">coronary heart disease</span></li></ul></details>
+
+<div class="theory-card" data-search="introvert extrovert extravert eysenck arousal ARAS yerkes-dodson lemon drop test wilson 1978 corcoran 1964">
+<div class="theory-name">Introvert vs Extrovert — Eysenck’s Type Dimension</div>
+<div class="theory-meta">Eysenck · Corcoran (1964) · Wilson (1978)</div>
+<div class="marks-badge ml">Marks Range <span class="tier-badge t2">TIER 2</span></div>
+<div class="theory-note">Introverts: higher baseline cortical arousal via ARAS, avoid stimulation, prefer scientific vocations, higher college grades. Extraverts: lower arousal, seek stimulation, prefer people-oriented jobs, greater pain tolerance. Yerkes-Dodson Law: inverted-U. Lemon Drop Test: introverts secrete ~2× more saliva.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">ARAS</span><span class="tag">cortical arousal</span><span class="tag">Yerkes-Dodson Law</span><span class="tag">Lemon Drop Test</span><span class="tag">Wilson (1978)</span></li></ul></details>
+</div>
+</div>
+</div>
+</div>
+
+<!-- TRAIT THEORIES -->
+<div class="theme-section" data-theme="trait">
+<div class="theme-header" onclick="this.parentElement.classList.toggle('open')">
+<span class="theme-icon">📊</span><span class="theme-title">Trait Theories</span><span class="theme-count">6 theories</span><span class="theme-chevron">▾</span>
+</div>
+<div class="theme-body">
+<div class="theory-card" data-search="allport trait theory lexical approach cardinal central secondary proprium functional autonomy idiographic">
+<div class="theory-name">Allport's Trait Theory</div><div class="theory-meta">Gordon Allport (1937, 1961)</div>
+<div class="marks-badge mh">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">Lexical approach (17,953 words, Allport & Odbert 1936). Idiographic. Cardinal (pervasive), Central (~5–10 per person), Secondary (situation-specific). Proprium = self. Functional autonomy of motives. Seven propriate functions.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Allport (1937)</span><span class="tag">lexical approach</span><span class="tag">cardinal/central/secondary</span><span class="tag">Proprium</span><span class="tag">functional autonomy</span><span class="tag">idiographic</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="allport seven propriate functions bodily self identity esteem extension self-image rational coper striving">
+<div class="theory-name">Allport's Seven Propriate Functions</div><div class="theory-meta">Allport</div>
+<div class="marks-badge mh">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">(1) Bodily self (2) Self-identity (3) Self-esteem (4) Self-extension (5) Self-image (6) Rational coper (7) Propriate striving. Two modes: Opportunistic (reactive, biological) vs Propriate (proactive, psychological).</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">bodily self</span><span class="tag">self-identity</span><span class="tag">self-esteem</span><span class="tag">self-extension</span><span class="tag">self-image</span><span class="tag">rational coper</span><span class="tag">propriate striving</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="cattell trait theory surface source 16PF ergs sentiments MAVA specification equation syntality">
+<div class="theory-name">Cattell's Trait Theory</div><div class="theory-meta">Raymond Cattell (1950)</div>
+<div class="marks-badge mm">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">Surface vs Source traits (16 PF). Ergs (10 innate) + Sentiments (environmental). MAVA (1/3 heredity, 2/3 environment). Specification Equation: R=f(S,P). L/Q/OT-data. Syntality (group traits). Global traits: Introversion-Extraversion, Openness, Conscientiousness.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Cattell (1950)</span><span class="tag">surface vs source</span><span class="tag">16 PF</span><span class="tag">ergs</span><span class="tag">MAVA</span><span class="tag">specification equation</span><span class="tag">syntality</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="eysenck PEN model hierarchy superfactor extraversion neuroticism psychoticism ARAS arousal limbic EPQ lemon drop">
+<div class="theory-name">Eysenck's Trait-Type Theory (PEN Model)</div><div class="theory-meta">Hans Eysenck (1916–1997)</div>
+<div class="marks-badge mm">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">4-level hierarchy: Specific responses → Habits → Traits → Superfactors. PEN (orthogonal). E via ARAS (introverts higher arousal; Yerkes-Dodson Law). N via limbic system. P via gonadal hormones/MAO. EPQ + Lie Scale. Lemon Drop Test (Corcoran, 1964). High I + High N → anxiety; High E + High N → psychopathic.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Eysenck</span><span class="tag">PEN</span><span class="tag">4-level hierarchy</span><span class="tag">ARAS</span><span class="tag">Yerkes-Dodson</span><span class="tag">limbic system</span><span class="tag">EPQ</span><span class="tag">Lemon Drop Test</span><span class="tag">MAO</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="big five five factor model OCEAN goldberg mccrae costa NEO-PI-R BFI IPIP mischel person-situation">
+<div class="theory-name">Big Five / Five-Factor Model</div><div class="theory-meta">Goldberg (1981) · McCrae & Costa (1987) · Fiske (1949)</div>
+<div class="marks-badge mh">Marks Range <span class="tier-badge t2">TIER 2</span></div>
+<div class="theory-note">OCEAN: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism. Big Five = taxonomy (Goldberg, lexical, phenotypic) vs FFM = theoretical (McCrae & Costa, biosocial). NEO-PI-R: 240 items, 6 facets. Mischel (1968): person-situation debate. Stable 3–30 years.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">OCEAN</span><span class="tag">Goldberg</span><span class="tag">McCrae & Costa</span><span class="tag">NEO-PI-R</span><span class="tag">BFI</span><span class="tag">Mischel (1968)</span><span class="tag">person-situation debate</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="allport study of values spranger six values theoretical economic aesthetic social political religious">
+<div class="theory-name">Allport's Study of Values</div><div class="theory-meta">Allport et al. (1960) · Eduard Spranger</div>
+<div class="marks-badge mh">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">Based on Spranger's "Types of Men." Six value types: Theoretical, Economic, Aesthetic, Social, Political, Religious. 45 questions, 20 minutes. "Deep level traits."</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Allport</span><span class="tag">Spranger</span><span class="tag">six values</span><span class="tag">Study of Values</span></li></ul></details>
+</div>
+</div>
+</div>
+
+<!-- PSYCHODYNAMIC -->
+<div class="theme-section" data-theme="psychodynamic">
+<div class="theme-header" onclick="this.parentElement.classList.toggle('open')">
+<span class="theme-icon">🎭</span><span class="theme-title">Psychodynamic Theories</span><span class="theme-count">6 theories</span><span class="theme-chevron">▾</span>
+</div>
+<div class="theme-body">
+<div class="theory-card" data-search="freud psychoanalytic topographical structural id ego superego conscious preconscious unconscious pleasure reality principle">
+<div class="theory-name">Freud — Structure of Personality</div><div class="theory-meta">Sigmund Freud (1890s–1930s)</div>
+<div class="marks-badge mh">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">Topographical: Conscious (~10%), Preconscious (~10–15%), Unconscious (~75–80%). Iceberg metaphor. Structural: Id (pleasure principle), Ego (reality principle), Superego (ego-ideal + conscience). Tripartite. Psychic determinism.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Freud</span><span class="tag">conscious/preconscious/unconscious</span><span class="tag">iceberg</span><span class="tag">id/ego/superego</span><span class="tag">pleasure principle</span><span class="tag">reality principle</span><span class="tag">ego-ideal</span><span class="tag">conscience</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="freud defense mechanisms denial repression regression reaction formation projection rationalisation intellectualisation displacement sublimation">
+<div class="theory-name">Freud — Defense Mechanisms</div><div class="theory-meta">Sigmund Freud</div>
+<div class="marks-badge mh">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">Denial, Repression, Regression, Reaction formation, Projection, Rationalisation, Intellectualisation, Displacement, Sublimation (most adaptive — greatest civilisational achievements).</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">denial</span><span class="tag">repression</span><span class="tag">regression</span><span class="tag">reaction formation</span><span class="tag">projection</span><span class="tag">rationalisation</span><span class="tag">sublimation (most adaptive)</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="freud psychosexual development oral anal phallic latency genital oedipus electra fixation regression">
+<div class="theory-name">Freud — Psychosexual Development</div><div class="theory-meta">Sigmund Freud</div>
+<div class="marks-badge mh">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">5 stages: Oral (0–18mo), Anal (18mo–3yr), Phallic (3–6yr; Oedipus/Electra complexes, castration anxiety, identification), Latency (6yr–puberty), Genital (puberty+). Fixation = stuck; Regression = retreat under stress.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">oral/anal/phallic/latency/genital</span><span class="tag">erogenous zone</span><span class="tag">Oedipus complex</span><span class="tag">Electra complex</span><span class="tag">castration anxiety</span><span class="tag">fixation</span><span class="tag">regression</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="horney social foundation basic anxiety basic evil hostility neurotic needs compliance aggression withdrawal womb envy">
+<div class="theory-name">Karen Horney — Social Foundation</div><div class="theory-meta">Karen Horney (1885–1952)</div>
+<div class="marks-badge mh">Marks Range <span class="tier-badge t2">TIER 2</span></div>
+<div class="theory-note">Basic anxiety (isolated/helpless in hostile world). Basic evil → basic hostility. 10 neurotic needs. 3 coping strategies: Compliance (moving-toward), Aggression (moving-against), Withdrawal (moving-away-from). Real self vs Ideal self → "tyranny of the should." Womb envy. Neo-Freudian.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Horney</span><span class="tag">basic anxiety</span><span class="tag">basic evil/hostility</span><span class="tag">10 neurotic needs</span><span class="tag">compliance/aggression/withdrawal</span><span class="tag">tyranny of the should</span><span class="tag">womb envy</span><span class="tag">neo-Freudian</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="sullivan interpersonal theory prototaxic parataxic syntaxic self-system dynamism personification good-me bad-me not-me epochs">
+<div class="theory-name">Sullivan — Interpersonal Theory</div><div class="theory-meta">Harry Stack Sullivan (died 1949)</div>
+<div class="marks-badge mh">Marks Range <span class="tier-badge t3">TIER 3</span></div>
+<div class="theory-note">Interpersonal model (vs Freud's drive model). 3 levels of cognition: Prototaxic, Parataxic, Syntaxic. Self-system (security operations: dissociation, selective inattention). Personifications: Good-me, Bad-me, Not-me. 7 developmental epochs. Euphoria = no anxiety. "Mothering one."</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Sullivan</span><span class="tag">interpersonal</span><span class="tag">prototaxic/parataxic/syntaxic</span><span class="tag">self-system</span><span class="tag">good-me/bad-me/not-me</span><span class="tag">7 epochs</span><span class="tag">mothering one</span><span class="tag">euphoria</span></li></ul></details>
+
+<div class="theory-card" data-search="developmental epochs sullivan infancy childhood juvenile pre-adolescence adolescence adulthood chumship mothering one">
+<div class="theory-name">Developmental Epochs (Sullivan)</div>
+<div class="theory-meta">Harry Stack Sullivan</div>
+<div class="marks-badge ml">Marks Range <span class="tier-badge t3">TIER 3</span></div>
+<div class="theory-note">Seven epochs (timing by social environment, not biology): Infancy (0–1), Childhood (1–5), Juvenile (6–8), Pre-adolescence (9–12, chumship), Early adolescence (13–17), Late adolescence (18–22), Adulthood (23+). Self-system develops to protect against anxiety.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">seven epochs</span><span class="tag">mothering one</span><span class="tag">chumship</span><span class="tag">euphoria</span><span class="tag">self-system</span></li></ul></details>
+</div>
+</div>
+</div>
+</div>
+
+<!-- LEARNING & COGNITIVE -->
+<div class="theme-section" data-theme="learning">
+<div class="theme-header" onclick="this.parentElement.classList.toggle('open')">
+<span class="theme-icon">⚙️</span><span class="theme-title">Learning & Cognitive Theories</span><span class="theme-count">4 theories</span><span class="theme-chevron">▾</span>
+</div>
+<div class="theme-body">
+<div class="theory-card" data-search="pavlov classical conditioning UCS UCR CS CR acquisition generalisation discrimination extinction experimental neurosis systematic desensitisation">
+<div class="theory-name">Pavlov — Classical Conditioning</div><div class="theory-meta">Ivan Pavlov (1849–1936)</div>
+<div class="marks-badge mm">Marks Range <span class="tier-badge t2">TIER 2</span></div>
+<div class="theory-note">UCS→UCR; CS paired with UCS→CR. Acquisition, Generalisation, Discrimination, Extinction, Spontaneous recovery, Higher-order conditioning. Experimental neurosis (Shenger-Krestovnika, 1921). Applications: systematic desensitisation, flooding, aversion therapy.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Pavlov</span><span class="tag">UCS/UCR/CS/CR</span><span class="tag">acquisition</span><span class="tag">generalisation/discrimination</span><span class="tag">extinction</span><span class="tag">experimental neurosis</span><span class="tag">systematic desensitisation</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="skinner operant conditioning reinforcer schedules shaping token economy superstitious behaviour chomsky critique punishment">
+<div class="theory-name">Skinner — Operant Conditioning</div><div class="theory-meta">B.F. Skinner (1904–1990)</div>
+<div class="marks-badge mm">Marks Range <span class="tier-badge t2">TIER 2</span></div>
+<div class="theory-note">Operant vs Respondent behaviour. Positive/negative reinforcers. Schedules: continuous, fixed/variable ratio/interval (variable interval = most resistant). Shaping. Superstitious behaviour. Token economy. Chomsky (1959) critique: language not explained. Boulding (1984): animal principles may not apply to humans.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Skinner</span><span class="tag">operant/respondent</span><span class="tag">reinforcer</span><span class="tag">schedules</span><span class="tag">variable interval (most resistant)</span><span class="tag">shaping</span><span class="tag">token economy</span><span class="tag">Chomsky critique</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="bandura social cognitive theory reciprocal determinism self-efficacy bobo doll observational learning modeling vicarious mastery experiences">
+<div class="theory-name">Bandura — Social Cognitive Theory</div><div class="theory-meta">Albert Bandura (b. 1925)</div>
+<div class="marks-badge mh">Marks Range <span class="tier-badge t3">TIER 3</span></div>
+<div class="theory-note">Triadic reciprocal determinism (P↔B↔E). Self-efficacy (4 sources: mastery experiences, social modeling, social persuasion, psychological responses). Bobo doll experiment. Observational learning: 4 steps (attentional, retentional, reproduction, motivational). Vicarious learning. Symbolic modeling.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Bandura</span><span class="tag">triadic reciprocal determinism</span><span class="tag">self-efficacy</span><span class="tag">Bobo doll</span><span class="tag">observational learning</span><span class="tag">modeling (4 steps)</span><span class="tag">vicarious learning</span></li></ul></details>
+
+<div class="theory-card" data-search="social-cognitive theory bandura reciprocal determinism self-efficacy mischel cognitive person variables person-situation debate">
+<div class="theory-name">Social-Cognitive Theory of Personality</div>
+<div class="theory-meta">Bandura · Mischel (1968)</div>
+<div class="marks-badge mh">Marks Range <span class="tier-badge t2">TIER 2</span></div>
+<div class="theory-note">Triadic reciprocal determinism (P↔B↔E). Self-efficacy: belief in capabilities. Mischel’s 5 cognitive person variables: encoding strategies, expectancies, subjective values, self-regulatory systems, competencies. Goes beyond S-R behaviourism — includes cognition, self-regulation, vicarious learning. Initiated person-situation debate.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">triadic reciprocal determinism</span><span class="tag">self-efficacy</span><span class="tag">Mischel’s variables</span><span class="tag">P-B-E interaction</span></li></ul></details>
+</div>
+</div>
+</div>
+</div>
+
+<!-- HUMANISTIC -->
+<div class="theme-section" data-theme="humanistic">
+<div class="theme-header" onclick="this.parentElement.classList.toggle('open')">
+<span class="theme-icon">🌟</span><span class="theme-title">Humanistic Theories</span><span class="theme-count">3 theories</span><span class="theme-chevron">▾</span>
+</div>
+<div class="theme-body">
+<div class="theory-card" data-search="maslow hierarchy of needs physiological safety belongingness esteem self-actualisation D-needs B-needs peak experiences">
+<div class="theory-name">Maslow — Hierarchy of Needs</div><div class="theory-meta">Abraham Maslow (1908–1970)</div>
+<div class="marks-badge mm">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">"Third Force." 5 levels: Physiological→Safety→Belongingness→Esteem (lower=respect of others, higher=self-respect)→Self-actualisation. D-needs (first 4; homeostasis). B-needs (self-actualisation; continuous). Self-actualisers: reality-centered, autonomous, unhostile humour, peak experiences, democratic value. Regress under stress. Metapathologies.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Maslow</span><span class="tag">hierarchy of needs</span><span class="tag">D-needs vs B-needs</span><span class="tag">self-actualisation</span><span class="tag">Third Force</span><span class="tag">peak experiences</span><span class="tag">metapathologies</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="rogers person-centered self theory real self ideal self congruence unconditional positive regard fully functioning person">
+<div class="theory-name">Rogers — Person-Centered / Self Theory</div><div class="theory-meta">Carl Rogers (1902–)</div>
+<div class="marks-badge mh">Marks Range <span class="tier-badge t2">TIER 2</span></div>
+<div class="theory-note">Self = organised perceptions of who I am. Real self vs Ideal self. Congruence = healthy; Incongruence = anxiety. Unconditional positive regard (vs conditional). Fully functioning person: open to experience, lives existentially, trusts organism. Three therapeutic conditions: genuineness, unconditional positive regard, empathic understanding.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Rogers</span><span class="tag">person-centered</span><span class="tag">real self vs ideal self</span><span class="tag">congruence</span><span class="tag">unconditional positive regard</span><span class="tag">fully functioning person</span><span class="tag">client-centered therapy</span></li></ul></details>
+
+<div class="theory-card" data-search="real self ideal self rogers congruence incongruence Q-sort unconditional positive regard">
+<div class="theory-name">The Self — Real and Ideal Self (Rogers)</div>
+<div class="theory-meta">Carl Rogers</div>
+<div class="marks-badge ml">Marks Range <span class="tier-badge t3">TIER 3</span></div>
+<div class="theory-note">Self = organised perceptions of who I am. Real self = who we are. Ideal self = who we want to be. Congruence (overlap) = healthy. Incongruence (gap) = anxiety, defensiveness. Measurement: Q-sort technique. Unconditional positive regard bridges the gap.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">real self</span><span class="tag">ideal self</span><span class="tag">congruence</span><span class="tag">incongruence</span><span class="tag">Q-sort</span></li></ul></details>
+</div>
+</div>
+</div>
+</div>
+
+<!-- ASSESSMENT -->
+<div class="theme-section" data-theme="assessment">
+<div class="theme-header" onclick="this.parentElement.classList.toggle('open')">
+<span class="theme-icon">📋</span><span class="theme-title">Assessment Methods</span><span class="theme-count">10 theories</span><span class="theme-chevron">▾</span>
+</div>
+<div class="theme-body">
+<div class="theory-card" data-search="personality assessment overview subjective objective projective standardisation norms reliability validity technical criteria">
+<div class="theory-name">Assessment Overview & Technical Criteria</div><div class="theory-meta">Various</div>
+<div class="marks-badge mm">Marks Range <span class="tier-badge t2">TIER 2</span></div>
+<div class="theory-note">3 categories: Subjective, Objective, Projective. 4 technical criteria: Standardisation, Norms, Reliability (test-retest, split-half, parallel forms, inter-scorer; >+.70), Validity (content, predictive, concurrent, construct [convergent, divergent]).</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">subjective/objective/projective</span><span class="tag">standardisation</span><span class="tag">norms</span><span class="tag">reliability</span><span class="tag">validity</span><span class="tag">convergent/divergent</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="self-report inventory fake good fake bad social desirability response set forced-choice Marlowe-Crowne MMPI validity scales">
+<div class="theory-name">Self-Report Personality Inventories</div><div class="theory-meta">Various</div>
+<div class="marks-badge mm">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">Standardised response alternatives. Fake good vs Fake bad. Social desirability (Marlowe-Crowne, 1964). Response set. Methods to overcome: rapport, forced-choice, concealing purpose, verification keys. Filler items. Acquiescence response set.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">self-report</span><span class="tag">fake good/fake bad</span><span class="tag">social desirability</span><span class="tag">Marlowe-Crowne</span><span class="tag">forced-choice</span><span class="tag">validity scales</span><span class="tag">acquiescence response set</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="rorschach inkblot 10 plates performance inquiry scoring W D location determinants F C S M content Exner comprehensive">
+<div class="theory-name">Rorschach Inkblot Test</div><div class="theory-meta">Hermann Rorschach (1921) · Exner (1969)</div>
+<div class="marks-badge ml">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">10 inkblots (5 black, 5 coloured). 3 stages: Performance Proper, Inquiry, Scoring. Location (W/D/Dd), Determinants (F/C/S/M), Content (H/A/Hd/Ad). Response productivity ratio (R): 15–30 for adults. Exner Comprehensive System (1969). Holtzman HIT (1961): 2 parallel forms, 45 cards, 22 variables.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Rorschach (1921)</span><span class="tag">10 inkblots</span><span class="tag">W/D/Dd</span><span class="tag">F/C/S/M</span><span class="tag">Exner (1969)</span><span class="tag">Holtzman HIT</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="TAT thematic apperception test morgan murray 1935 20 pictures hero needs press projective storytelling">
+<div class="theory-name">Thematic Apperception Test (TAT)</div><div class="theory-meta">Morgan & Murray (1935)</div>
+<div class="marks-badge ml">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">20 B&W pictures. Client tells story: what happening, what caused, past, future. "Hero" = character respondent identifies with. Content analysed via Murray's needs (achievement, affiliation, aggression) and press (environmental forces). Construction technique (Lindzay, 1959).</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Morgan & Murray (1935)</span><span class="tag">TAT</span><span class="tag">20 pictures</span><span class="tag">hero</span><span class="tag">needs</span><span class="tag">press</span><span class="tag">Lindzay (1959)</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="MMPI-2 Hathaway McKinley 1943 567 statements 10 clinical scales 8 validity scales abnormal behaviour">
+<div class="theory-name">MMPI-2 — Minnesota Multiphasic Personality Inventory</div><div class="theory-meta">Hathaway & McKinley (1943) · Butcher et al. (2000)</div>
+<div class="marks-badge ml">Marks Range <span class="tier-badge t2">TIER 2</span></div>
+<div class="theory-note">567 statements (True/False/Cannot Say). 10 clinical scales + 8 validity scales. Items repeated in different form to detect faking. Most common personality inventory. Tests from mild (shyness) to serious (schizophrenia, depression).</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">MMPI-2</span><span class="tag">Hathaway & McKinley (1943)</span><span class="tag">567 statements</span><span class="tag">10 clinical scales</span><span class="tag">8 validity scales</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="projective techniques frank 1939 1948 classification constructive constitutive cathartic interpretative refractive lindzay 1959">
+<div class="theory-name">Projective Techniques — Frank's Classification</div><div class="theory-meta">Frank (1939) · Lindzay (1959)</div>
+<div class="marks-badge ml">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">Frank coined "projective technique." 5 categories: Constructive, Constitutive, Cathartic, Interpretative, Refractive. Lindzay's 5: Association, Construction, Completion, Expressive, Choice/Ordering. Strengths: indirect, circumvent defenses. Weaknesses: poorly standardised, low reliability.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Frank (1939)</span><span class="tag">projective technique</span><span class="tag">5 categories</span><span class="tag">Lindzay (1959)</span><span class="tag">circumvent defenses</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="behavioural assessment observation naturalistic situational tests OSS Hartshorne May Shuttleworth CEI duplicating technique">
+<div class="theory-name">Behavioural & Situational Assessment</div><div class="theory-meta">Hartshorne, May & Shuttleworth (1930)</div>
+<div class="marks-badge mm">Marks Range <span class="tier-badge t1">TIER 1</span></div>
+<div class="theory-note">Direct observation, Naturalistic observation (observer bias; Kazdin 1982). Situational tests (OSS first; leadership, dominance). CEI: altruism, honesty, self-control. Duplicating technique for cheating detection. Limitations: time-consuming, observer bias, "what to observe," visible vs invisible observer.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">naturalistic observation</span><span class="tag">situational tests</span><span class="tag">OSS</span><span class="tag">CEI</span><span class="tag">duplicating technique</span><span class="tag">observer bias</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="reliability validity test-retest split-half parallel forms inter-scorer content predictive concurrent construct convergent divergent campbell fiske cronbach meehl">
+<div class="theory-name">Reliability & Validity in Detail</div><div class="theory-meta">Anastasi (1968) · Campbell & Fiske (1959) · Cronbach & Meehl (1955)</div>
+<div class="marks-badge mm">Marks Range <span class="tier-badge t2">TIER 2</span></div>
+<div class="theory-note">Reliability: Test-retest (Anastasi 1968; >+.70), Split-half (internal consistency), Parallel forms, Inter-scorer (Yin 1984). Validity: Content, Predictive, Concurrent (criterion contamination), Construct (Cronbach & Meehl 1955). Convergent + Divergent/Discriminant (Campbell & Fiske 1959).</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">test-retest</span><span class="tag">split-half</span><span class="tag">parallel forms</span><span class="tag">inter-scorer</span><span class="tag">content/predictive/concurrent/construct</span><span class="tag">convergent vs divergent</span><span class="tag">Campbell & Fiske (1959)</span><span class="tag">criterion contamination</span></li></ul></details>
+</div>
+
+<div class="theory-card" data-search="interview method structured unstructured halo effect white speisman 1982 face-to-face dialogue rapport subjectivity personality assessment">
+<div class="theory-name">Interview Method as a Personality Assessment Tool</div>
+<div class="theory-meta">White & Speisman (1982)</div>
+<div class="marks-badge ml">Marks Range <span class="tier-badge t2">TIER 2</span></div>
+<div class="theory-note">Oldest and most widely used method. Face-to-face dialogue. Structured (prescribed order, preferred in research) vs Unstructured (flexible, preferred in therapy). Strengths: rapport, rich data, follow-up. Weaknesses: subjectivity, halo effect, interviewer bias. Halo effect = positive characteristics influence all assessments.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">structured/unstructured interview</span><span class="tag">halo effect</span><span class="tag">White & Speisman (1982)</span><span class="tag">rapport</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="case study method le play freud little hans deviant case analysis isolated clinical longitudinal generalisability personality assessment">
+<div class="theory-name">Case Study Method in Personality Assessment</div>
+<div class="theory-meta">Le Play (1806–1882) · Freud · Rogers</div>
+<div class="marks-badge mm">Marks Range <span class="tier-badge t3">TIER 3</span></div>
+<div class="theory-note">Detailed study of single individual over extended period. Preserves unitary character. Types: Individual vs Community; Deviant case analysis vs Isolated clinical case analysis (e.g., Freud’s Little Hans). Strengths: rich, idiographic, rare phenomena. Weaknesses: limited generalisability, no cause-effect certainty, retrospective data distortion.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">case study</span><span class="tag">Le Play</span><span class="tag">Freud’s Little Hans</span><span class="tag">deviant case analysis</span><span class="tag">limited generalisability</span></li></ul></details>
+</div>
+</div>
+</div>
+
+</div>
+<script>
+function doSearch(){const q=document.getElementById('searchInput').value.toLowerCase().trim();document.querySelectorAll('.theory-card').forEach(c=>{const text=(c.dataset.search+' '+c.textContent).toLowerCase();c.style.display=(!q||text.includes(q))?'':'none';});if(q)document.querySelectorAll('.theme-section').forEach(s=>s.classList.add('open'));}
+</script>
+</body>
+</html>
