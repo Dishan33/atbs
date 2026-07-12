@@ -3,11 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <title>MPC-003 Personality &#8212; Study Dashboard</title>
 <script type="module" src="https://cdn.jsdelivr.net/npm/mind-elixir/dist/MindElixir.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mind-elixir/dist/MindElixir.css">
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600;700&display=swap');
 :root{--ink:#0d1117;--parchment:#e6d5b8;--parchment-dim:#988b78;--amber:#e9b44c;--amber-glow:rgba(233,180,76,.12);--slate:#1c2a2a;--slate-light:#2a3d3d;--leather:#8b5e3c;--clinical:#c8553d;--border:rgba(230,213,184,.08);--border-strong:rgba(230,213,184,.14);font-size:16px}
 *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
 body{font-family:'Inter',system-ui,sans-serif;background:var(--ink);color:var(--parchment);height:100vh;overflow:hidden;-webkit-font-smoothing:antialiased}
@@ -364,7 +366,7 @@ let mind = new MindElixir({
 });
 
 mind.init(data);
-document.querySelector('.mm-loading').style.display = 'none';
+var mm=document.querySelector('.mm-loading');if(mm)mm.style.display='none';
 
 setTimeout(function(){mind.toCenter()},400);
 
