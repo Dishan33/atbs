@@ -3,54 +3,57 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#1c2a2a">
-  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#101827">
   <title>Roma Course — IGNOU MAPC</title>
   <style>
     :root {
       color-scheme: dark;
-      --ink: #0d1117;
-      --slate: #1c2a2a;
-      --parchment: #e6d5b8;
-      --muted: #988b78;
-      --amber: #e9b44c;
+      --ink: #101827;
+      --paper: #f8f2e8;
+      --muted: #aab7c8;
+      --sun: #f5be55;
+      --line: rgba(248, 242, 232, .14);
     }
 
     * { box-sizing: border-box; }
 
     body {
-      align-items: center;
-      background: var(--ink);
-      color: var(--parchment);
-      display: flex;
-      font-family: Inter, ui-sans-serif, system-ui, sans-serif;
-      justify-content: center;
+      background: radial-gradient(circle at 88% -5%, #345178 0, transparent 32rem), var(--ink);
+      color: var(--paper);
+      font-family: ui-sans-serif, system-ui, sans-serif;
       margin: 0;
       min-height: 100svh;
-      padding: 24px;
+      padding: clamp(24px, 6vw, 84px) 20px;
     }
 
-    main {
-      border-left: 2px solid var(--amber);
-      max-width: 34rem;
-      padding: 1.5rem 1.75rem;
-    }
-
-    p { color: var(--muted); line-height: 1.55; margin: .5rem 0 1.25rem; }
-    h1 { font-family: Georgia, serif; font-size: clamp(1.5rem, 6vw, 2.15rem); margin: 0; }
-    h1 span { color: var(--amber); font-family: inherit; font-style: italic; font-weight: 400; }
-    a { color: var(--amber); text-underline-offset: .2em; }
-    a:focus-visible { outline: 2px solid var(--parchment); outline-offset: 4px; }
+    main { margin: 0 auto; max-width: 1040px; }
+    .eyebrow { color: var(--sun); font-size: .7rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; }
+    h1 { font-family: Georgia, serif; font-size: clamp(3.2rem, 8vw, 6.8rem); letter-spacing: -.06em; line-height: .86; margin: 18px 0; max-width: 800px; }
+    h1 em { color: var(--sun); font-weight: 400; }
+    .intro { color: var(--muted); line-height: 1.65; margin: 0 0 42px; max-width: 560px; }
+    .label { border-top: 1px solid var(--line); color: var(--muted); font-size: .68rem; font-weight: 700; letter-spacing: .12em; padding-top: 15px; text-transform: uppercase; }
+    .courses { display: grid; gap: 14px; grid-template-columns: repeat(2, minmax(0, 1fr)); margin-top: 16px; }
+    .course { background: rgba(28, 45, 74, .74); border: 1px solid var(--line); border-radius: 18px; color: var(--paper); display: flex; flex-direction: column; min-height: 245px; padding: 24px; text-decoration: none; transition: .18s ease; }
+    .course:hover { background: #2a4168; border-color: rgba(245,190,85,.7); transform: translateY(-4px); }
+    .course small { color: var(--sun); font-size: .68rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+    .course h2 { font-family: Georgia, serif; font-size: 2rem; line-height: 1; margin: 18px 0 9px; }
+    .course p { color: var(--muted); font-size: .86rem; line-height: 1.55; margin: 0; }
+    .course span { color: var(--sun); font-size: .7rem; font-weight: 700; letter-spacing: .08em; margin-top: auto; padding-top: 22px; text-transform: uppercase; }
+    .course span::after { content: '  →'; font-size: 1rem; }
+    a:focus-visible { outline: 2px solid var(--sun); outline-offset: 4px; }
+    @media (max-width: 650px) { body { padding: 32px 18px; } h1 { font-size: clamp(3.2rem, 17vw, 4.8rem); } .courses { grid-template-columns: 1fr; } .course { min-height: 205px; } .course:hover { transform: none; } }
   </style>
 </head>
 <body>
   <main>
-    <h1>Roma Course <span>— IGNOU MAPC</span></h1>
-    <p>Opening your MPC-003 Personality study dashboard…</p>
-    <a id="dashboard-link" href="MPC%20003%20-%20Personality/MPC003_Dashboard.html">Open the study dashboard</a>
+    <p class="eyebrow">Roma Course · IGNOU MAPC</p>
+    <h1>Study with a <em>clearer</em> next step.</h1>
+    <p class="intro">Focused revision spaces for the MAPC courses you are actively preparing—built around concepts, recall, and the patterns your term-end papers reward.</p>
+    <p class="label">Choose a course</p>
+    <section class="courses" aria-label="Available courses">
+      <a class="course" href="MPC%20003%20-%20Personality/MPC003_Dashboard.html"><small>MPC-003</small><h2>Personality</h2><p>Mind map, flashcards, theory timelines, cheat sheets, PYQ analysis, and answer bank.</p><span>Open study desk</span></a>
+      <a class="course" href="MPC%20004%20-%20Social%20Psychology/MPC004_Dashboard.html"><small>MPC-004</small><h2>Advanced Social Psychology</h2><p>Active recall, block sheets, PYQ-led revision routes, and an exam answer bank.</p><span>Open study desk</span></a>
+    </section>
   </main>
-  <script>
-    window.location.replace(document.getElementById('dashboard-link').href);
-  </script>
 </body>
 </html>
