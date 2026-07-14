@@ -412,7 +412,6 @@ document.addEventListener("keydown",function(e){if(e.ctrlKey||e.metaKey){if(e.ke
 (function(){var map={"iframe-flashcards":"tmpl-flashcards","iframe-themes":"tmpl-themes","iframe-pyq-analysis":"tmpl-pyq-analysis","iframe-pyq-answers":"tmpl-pyq-answers"};var keys=Object.keys(map);for(var i=0;i<keys.length;i++){var t=document.getElementById(map[keys[i]]);var f=document.getElementById(keys[i]);if(t&&f&&t.textContent.trim()){try{f.srcdoc=atob(t.textContent.trim())}catch(e){console.warn("Load fail",keys[i],e)}}}})();
 </script>
 
-<script>(function(){const bar=document.querySelector('.topbar');if(!bar)return;bar.insertAdjacentHTML('afterbegin','<select aria-label="Choose subject" onchange="location.href=this.value" style="background:#101827;border:1px solid rgba(246,242,233,.18);border-radius:6px;color:#f6f2e9;flex:0 0 auto;font:500 .7rem Inter,sans-serif;padding:8px"><option value="../MPC%20001%20-%20Cognitive%20Psychology/MPC001_Dashboard.html">MPC-001</option><option value="../MPC%20002%20-%20Life%20Span%20Psychology/MPC002_Dashboard.html">MPC-002</option><option value="MPC003_Dashboard.html" selected>MPC-003</option><option value="../MPC%20004%20-%20Social%20Psychology/MPC004_Dashboard.html">MPC-004</option><option value="../MPC%20005%20-%20Research%20Methods/MPC005_Dashboard.html">MPC-005</option></select>');})();</script>
 <script src="../course-nav.js"></script>
 </body>
 </html>
