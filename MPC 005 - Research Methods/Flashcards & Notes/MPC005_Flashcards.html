@@ -28,8 +28,12 @@
 </p>
 <h2 class="question" id="question">
 </h2>
-<p class="answer" id="answer">
+<div class="exam-meta" id="examMeta" aria-label="Exam priority">
+</div>
+<p class="exam-scope" id="examScope">
 </p>
+<div class="answer" id="answer">
+</div>
 <p class="hint" id="hint">Tap to reveal the answer</p>
 </article>
 <div class="nav" aria-label="Flashcard controls">
@@ -101,9 +105,325 @@ const cards=[
 ['Qualitative','How is qualitative data evaluated?','Through credibility, dependability, confirmability and transferability, supported by transparent procedures, reflexivity, audit trails, triangulation or member checking where appropriate.'],
 ['Qualitative','What belongs in a qualitative research report?','Problem and context; approach and researcher position; participants/setting; data collection and analysis; ethically presented evidence/extracts; findings, interpretation, limitations and implications.']
 ,['Qualitative','What is reflexivity in qualitative research?','Reflexivity is the researcher’s ongoing examination of how their position, assumptions, relationships and decisions may shape the research process and interpretation. It strengthens transparency rather than claiming complete neutrality.']
+].map((item,order)=>[...item,order]);
+const priorityByCard=[
+['10','TIER 1',24,'very-high'],['10','TIER 1',24,'very-high'],['10','TIER 1',24,'very-high'],['6','TIER 2',24,'very-high'],['10','TIER 1',24,'very-high'],['6','TIER 2',24,'very-high'],
+['10','TIER 1',12,'medium'],['6','TIER 2',12,'medium'],['6','TIER 2',12,'medium'],['6','TIER 2',12,'medium'],['3','TIER 3',12,'medium'],['6','TIER 2',12,'medium'],
+['10','TIER 1',19,'high'],['10','TIER 1',19,'high'],['10','TIER 1',19,'high'],
+['6','TIER 1',17,'high'],['6','TIER 1',17,'high'],['6','TIER 1',17,'high'],['6','TIER 1',17,'high'],['3','TIER 2',17,'high'],
+['10','TIER 2',9,'low-medium'],['6','TIER 2',9,'low-medium'],
+['10','TIER 2',14,'medium'],['6','TIER 2',14,'medium'],['6','TIER 2',14,'medium'],['3','TIER 3',14,'medium'],
+['10','TIER 1',22,'very-high'],['10','TIER 1',22,'very-high'],['6','TIER 1',22,'very-high'],['6','TIER 2',22,'very-high'],['6','TIER 1',22,'very-high'],
+['10','TIER 1',14,'medium'],['10','TIER 1',14,'medium'],['10','TIER 1',14,'medium'],['10','TIER 2',11,'medium'],['10','TIER 2',11,'medium'],['10','TIER 2',10,'medium'],
+['10','TIER 1',23,'very-high'],['6','TIER 1',23,'very-high'],['10','TIER 1',12,'medium'],['10','TIER 1',12,'medium'],['6','TIER 2',12,'medium'],
+['10','TIER 1',17,'high'],['10','TIER 1',17,'high'],['10','TIER 1',17,'high'],['6','TIER 2',17,'high'],['10','TIER 1',17,'high'],['10','TIER 1',17,'high'],['10','TIER 1',17,'high'],
+['10','TIER 1',24,'very-high'],['10','TIER 1',16,'high'],['10','TIER 1',16,'high'],['10','TIER 1',18,'high'],['10','TIER 1',18,'high'],['6','TIER 1',18,'high'],['10','TIER 1',22,'very-high'],['10','TIER 1',22,'very-high'],['10','TIER 1',11,'medium'],['10','TIER 1',11,'medium'],['6','TIER 1',11,'medium']
+].map(([marks,tier,hits,heat])=>({marks,tier,hits,heat}));
+const rich=(lead,points,terms)=>`<p>${lead}</p><ul>${points.map(point=>`<li>${point}</li>`).join('')}</ul><div class="key-terms"><div class="key-terms-title">Key terms for marks</div>${terms.map(term=>`<span class="term">${term}</span>`).join('')}</div>`;
+const detailedAnswers=[
+rich('<strong>Research in psychology</strong> is a systematic, objective and empirical enquiry used to describe, understand, predict or explain behaviour and mental processes.',[
+'It begins with a problem or question, connects it to existing knowledge, and collects evidence through an appropriate method rather than relying on opinion or intuition.',
+'The process requires clear concepts and <em>operational definitions</em>, so that abstract ideas such as anxiety or intelligence can be studied through observable indicators.',
+'Findings are analysed, interpreted within their limits and communicated so that other researchers can examine, replicate or extend the work.'
+],['systematic enquiry','empirical evidence','objectivity','operational definition','replication']),
+rich('<strong>Good research</strong> is planned enquiry that produces trustworthy evidence relevant to a clearly stated problem.',[
+'It is <em>systematic and logical</em>: the question, concepts, design, sample, measurement and analysis fit together.',
+'It is empirical and objective: claims are checked against observations or data, with procedures that reduce personal influence.',
+'It is ethical, feasible and transparent. Adequate control, reliable measurement, valid inference, clear reporting and replicability strengthen its value.'
+],['systematic','objective','empirical','ethical','reliable','valid','replicable']),
+rich('<strong>The research process</strong> moves from a focused problem to an evidence-based conclusion; it is iterative, so later stages can refine earlier decisions.',[
+'Identify and delimit the problem; review relevant literature; state objectives, research questions or hypotheses; and define the constructs and variables.',
+'Select a design, population and sampling plan; choose or develop measures; pilot where needed; then collect data ethically and systematically.',
+'Organise and analyse the data, interpret results against the question and theory, note limitations, draw conclusions, and report the study clearly.'
+],['research problem','literature review','hypothesis','research design','sampling','analysis','report']),
+rich('<strong>Context of discovery</strong> concerns how an idea is generated; <strong>context of justification</strong> concerns how that idea is evaluated.',[
+'Discovery may arise from observation, personal experience, a practical problem, prior research, theory or an unexpected finding. It can be creative and exploratory.',
+'Justification asks whether the proposed explanation survives systematic examination: definitions, appropriate design, evidence, analysis and reasoned interpretation are required.',
+'A useful exam distinction: discovery explains the <em>origin of a hypothesis</em>; justification evaluates the <em>acceptability of the hypothesis</em>.'
+],['context of discovery','context of justification','hypothesis generation','empirical test','evidence']),
+rich('<strong>Objectivity</strong> means making observation, measurement, analysis and interpretation as independent as possible from the researcher’s preferences or expectations.',[
+'Use explicit operational definitions, standardised instructions and scoring, so that procedures are not altered selectively from one participant or condition to another.',
+'Use control procedures where appropriate: randomisation, comparison groups, blind scoring, reliable instruments and pre-specified analysis.',
+'Transparency, record keeping, peer scrutiny and replication allow others to assess whether the conclusion follows from the evidence.'
+],['objectivity','standardisation','operationalisation','control','blind scoring','replication']),
+rich('<strong>Research bias</strong> is a systematic distortion in a study’s planning, data collection, analysis or interpretation—not merely random error.',[
+'<em>Experimenter expectancy</em> can influence instructions, behaviour or observation; <em>confirmation bias</em> can favour evidence that supports a prior belief.',
+'Selection bias occurs when the sample or groups differ in a way that affects results; response and social-desirability biases can distort participants’ reports.',
+'Reduce bias through transparent criteria, standardisation, appropriate sampling, blinding where feasible, checks on coding and careful interpretation of limitations.'
+],['bias','experimenter expectancy','selection bias','confirmation bias','standardisation','blinding']),
+rich('<strong>Reliability</strong> is the consistency, stability or dependability of measurement: similar conditions should yield similar scores or observations.',[
+'A reliable measure has low random measurement error. Reliability may concern stability over time, equivalence of forms, internal consistency or agreement among observers.',
+'The appropriate reliability estimate depends on the instrument and purpose; for example, observational coding requires inter-rater agreement.',
+'Reliability is necessary for sound measurement, but it does not by itself show that the instrument measures the intended construct.'
+],['reliability','consistency','measurement error','stability','internal consistency','inter-rater agreement']),
+rich('<strong>Test-retest reliability</strong> estimates the temporal stability of a measure by administering the same test to the same people on two occasions.',[
+'Scores from Time 1 and Time 2 are correlated. A high correlation suggests that the measure gives relatively stable rankings when the characteristic is expected to remain stable.',
+'The time interval must be suitable: too short may inflate scores through memory or practice; too long may allow real change in the characteristic.',
+'It is especially relevant for traits assumed to be stable, and less suitable when genuine change is expected.'
+],['test-retest','temporal stability','correlation','time interval','practice effect']),
+rich('<strong>Parallel-forms reliability</strong> assesses whether two equivalent versions of an instrument yield comparable results.',[
+'The same participants complete Form A and Form B, and their scores are correlated. The forms should cover the same content, difficulty and measurement purpose.',
+'It reduces the direct recall problem of repeating identical items and can be used when repeated assessment is required.',
+'Its limitation is practical: creating truly parallel forms is difficult; differences in wording or difficulty can lower the estimate.'
+],['parallel forms','equivalent forms','equivalence','correlation','recall effect']),
+rich('<strong>Split-half reliability</strong> estimates internal consistency by comparing scores from two comparable halves of the same test.',[
+'Items may be divided into odd-even halves or another balanced split; the two half scores are correlated.',
+'Because each half is shorter than the full test, the correlation is commonly adjusted with the <em>Spearman–Brown formula</em> to estimate full-test reliability.',
+'It is useful when one administration is available, but its value can depend on how the test is split and on whether the test measures a coherent content domain.'
+],['split-half','internal consistency','odd-even split','Spearman–Brown','full-test reliability']),
+rich('<strong>Inter-rater reliability</strong> is the degree of agreement between independent observers, judges or scorers applying the same criteria.',[
+'It is essential when data depend on judgement: behavioural observation, interview coding, content analysis or marking open-ended responses.',
+'Clear coding categories, observer training, a scoring manual and independent ratings improve agreement.',
+'Agreement can be summarised with suitable coefficients; the central point is that conclusions should not depend on one idiosyncratic observer.'
+],['inter-rater reliability','observer agreement','coding manual','independent ratings','scoring criteria']),
+rich('<strong>Reliability</strong> asks whether measurement is consistent; <strong>validity</strong> asks whether the measurement or inference is appropriate for what is claimed.',[
+'A scale may reliably produce the same score yet fail to measure the intended construct—for example, a consistently biased instrument.',
+'Validity concerns the adequacy of interpretation: whether the procedure measures the construct, supports the causal conclusion, or generalises appropriately.',
+'In an exam answer, state the relationship clearly: reliability supports validity, but reliability alone does not establish validity.'
+],['reliability','validity','consistency','accuracy of inference','construct','measurement error']),
+rich('<strong>Internal validity</strong> is the degree to which a study justifies the conclusion that the independent variable, rather than an alternative explanation, produced the observed outcome.',[
+'It is strongest when the researcher manipulates the independent variable, has an appropriate comparison condition, and controls competing influences.',
+'Random assignment, standardised procedures, matching, counterbalancing and careful measurement can reduce rival explanations.',
+'Internal validity is about the credibility of the <em>causal inference within the study</em>, not about whether the result generalises elsewhere.'
+],['internal validity','causal inference','independent variable','control group','random assignment','rival explanation']),
+rich('<strong>Threats to internal validity</strong> are alternative explanations for a change in the dependent variable.',[
+'<em>History</em> is an outside event; <em>maturation</em> is a natural change in participants; <em>testing</em> is the effect of prior measurement; and <em>instrumentation</em> is a change in the measuring procedure.',
+'<em>Statistical regression</em> can follow extreme scores; <em>selection</em> means groups differed initially; and <em>attrition</em> means dropout changes the composition of groups.',
+'A strong answer names the threat, explains how it could mimic the treatment effect, and states a relevant design safeguard.'
+],['history','maturation','testing','instrumentation','regression','selection','attrition']),
+rich('<strong>External validity</strong> concerns the extent to which findings may be generalised beyond the particular study.',[
+'The question is whether the result is likely to hold across relevant people, settings, times, materials or treatment conditions.',
+'Sampling quality affects population generalisation; the realism of tasks and setting affects ecological relevance; and replication across contexts strengthens confidence.',
+'Generalisability should be reasoned, not assumed. A tightly controlled study may have strong internal validity but limited external validity.'
+],['external validity','generalisation','population validity','ecological validity','sampling','replication']),
+rich('<strong>A variable</strong> is a characteristic that can take different values; <strong>a construct</strong> is an abstract theoretical concept used to explain or organise observations.',[
+'Age, score, response time and treatment condition are variables. Anxiety, intelligence and attitude are constructs that cannot be observed directly in a single act.',
+'A construct must be <em>operationally defined</em> through measurable indicators, tasks, ratings or scores before it can function as a variable in a study.',
+'The quality of the operational definition affects both reliability and validity of conclusions about the construct.'
+],['variable','construct','operational definition','indicator','measurement','theoretical concept']),
+rich('<strong>The independent variable (IV)</strong> is the presumed cause or predictor; <strong>the dependent variable (DV)</strong> is the measured outcome.',[
+'In an experiment, the researcher manipulates the IV and observes whether the DV changes. For example, feedback condition may be the IV and task persistence the DV.',
+'In non-experimental work, variables may be measured rather than manipulated; language such as “predictor” is often safer than causal language.',
+'A clear design states each variable, its levels or operationalisation, and how the DV will be recorded.'
+],['independent variable','dependent variable','manipulation','outcome measure','operationalisation','predictor']),
+rich('<strong>An extraneous variable</strong> is any variable other than the IV that could influence the DV and therefore obscure the effect being studied.',[
+'For a study of teaching method and performance, prior knowledge, fatigue, time of day or instructor style may be extraneous variables.',
+'Researchers can hold them constant, randomise, match participants, counterbalance order, measure them statistically, or use a control group.',
+'An extraneous variable is a potential problem; it becomes a confound only when it varies systematically with the IV.'
+],['extraneous variable','control','randomisation','matching','counterbalancing','dependent variable']),
+rich('<strong>A confounding variable</strong> is an uncontrolled extraneous variable that changes systematically with the IV.',[
+'Because the IV and confound covary, the study cannot separate their effects. If one teaching method is always delivered in the morning and another in the afternoon, time of day is confounded with method.',
+'Confounding weakens internal validity and makes a causal interpretation ambiguous.',
+'Prevent it through appropriate design: random assignment, equivalent treatment conditions, standardisation, matching or counterbalancing.'
+],['confounding variable','systematic covariation','internal validity','alternative explanation','random assignment']),
+rich('<strong>Active variables</strong> can be manipulated by the researcher; <strong>attribute variables</strong> are pre-existing characteristics that are measured or used for grouping.',[
+'Feedback, amount of practice and task difficulty can be actively varied. Age, sex, educational background and personality scores are typical attribute variables.',
+'Active-variable designs permit stronger control and, with other safeguards, stronger causal inference.',
+'Attribute-variable research is often necessary and valuable, but group differences must be interpreted cautiously because other characteristics may also differ.'
+],['active variable','attribute variable','manipulation','pre-existing characteristic','causal inference']),
+rich('<strong>A hypothesis</strong> is a clear, tentative and testable proposition about a relationship, difference or expected outcome.',[
+'It should be grounded in theory, prior findings or a reasoned problem analysis—not merely a guess.',
+'It identifies relevant variables and should be operationally testable in a feasible design. A directional hypothesis predicts the direction of an effect; a non-directional one predicts that a difference or relationship exists.',
+'The null hypothesis states no difference or relationship for statistical testing; the research or alternative hypothesis expresses the substantive expectation.'
+],['hypothesis','research hypothesis','null hypothesis','directional','testable proposition','variables']),
+rich('<strong>Hypothesis formulation</strong> is difficult when the problem or concepts are not sufficiently clear to produce a precise, testable expectation.',[
+'Abstract or vague concepts require operational definitions; otherwise variables cannot be measured or manipulated consistently.',
+'Limited literature, conflicting evidence, an overly broad problem, value-laden language or uncertainty about the relevant population can make prediction unclear.',
+'Feasibility matters: a hypothesis must fit available participants, time, instruments, ethical requirements and an appropriate research design.'
+],['hypothesis formulation','operational definition','research problem','feasibility','population','testability']),
+rich('<strong>The population</strong> is the complete group to which the researcher wishes to refer; <strong>the sample</strong> is the part of that population actually studied.',[
+'A population may be all students in a university, all adolescents in a region, or another clearly defined target group.',
+'The sample is selected using a sampling frame and method. Its composition affects how confidently findings can be generalised.',
+'Always state the target population, accessible population, sampling method and sample characteristics when evaluating a study.'
+],['population','sample','target population','accessible population','sampling frame','generalisation']),
+rich('<strong>Simple random sampling</strong> is a probability method in which each member of the defined population has an equal and independent chance of selection.',[
+'It requires a usable sampling frame: a list or procedure that identifies all eligible members of the population.',
+'Selection may use random-number tables, a lottery method or computer-generated random numbers.',
+'It can reduce systematic selection bias, but it may be costly or impractical for dispersed populations and does not automatically guarantee every subgroup is adequately represented.'
+],['simple random sampling','probability sampling','sampling frame','equal chance','random selection']),
+rich('<strong>Purposive sampling</strong> is a non-probability method in which participants are intentionally selected because they have characteristics relevant to the question.',[
+'It is useful when the study needs information-rich cases: people with a particular experience, expertise, role or condition.',
+'The selection criteria should be explicit and closely linked to the research purpose; this makes the sampling decision transparent.',
+'It supports depth and relevance, especially in qualitative research, but it does not provide a statistical basis for population generalisation.'
+],['purposive sampling','non-probability sampling','selection criteria','information-rich cases','qualitative research']),
+rich('<strong>Snowball sampling</strong> begins with eligible participants who identify or refer further eligible participants from their networks.',[
+'It is useful for hidden, rare, stigmatised or hard-to-reach populations where no complete sampling frame is available.',
+'Researchers should set eligibility criteria and recruit through several initial contacts where possible, rather than relying on one network.',
+'Because participants tend to refer socially connected people, network bias and limited diversity can restrict representativeness.'
+],['snowball sampling','network referral','hard-to-reach population','non-probability sampling','network bias']),
+rich('<strong>Survey research</strong> systematically gathers standardised information from a sample, usually through questionnaires, interviews or schedules.',[
+'It is commonly descriptive and non-experimental: it can estimate opinions, characteristics, behaviours or associations, but it does not by itself establish causation.',
+'The same questions or response format are used across respondents so that answers can be coded, compared and summarised.',
+'Its quality depends on a clear objective, sound sampling, carefully designed questions, ethical administration and appropriate interpretation.'
+],['survey research','questionnaire','interview schedule','standardisation','descriptive research','sample']),
+rich('<strong>Survey research steps</strong> turn a broad information need into a standardised and analysable enquiry.',[
+'Define the problem, objectives and population; review relevant knowledge; decide the survey mode and sampling plan.',
+'Draft the instrument, sequence questions logically, pilot test it and revise unclear, leading or impractical items.',
+'Collect data ethically, edit and code responses, analyse and interpret patterns, then report findings with sampling and response limitations.'
+],['survey objectives','sampling plan','questionnaire design','pilot study','coding','analysis','reporting']),
+rich('<strong>Cross-sectional surveys</strong> collect information at one point in time; <strong>longitudinal surveys</strong> collect information repeatedly over time.',[
+'A cross-sectional survey compares current characteristics or opinions efficiently but cannot directly show individual change.',
+'A longitudinal <em>trend study</em> samples the same population at successive times; a <em>cohort study</em> follows a defined cohort; a <em>panel study</em> repeatedly studies the same respondents.',
+'Longitudinal designs reveal change and sequence, but face cost, time and attrition problems.'
+],['cross-sectional','longitudinal','trend study','cohort study','panel study','attrition']),
+rich('<strong>A structured question</strong> provides respondents with fixed response alternatives, making answers easy to standardise and code.',[
+'Forms include dichotomous yes/no items, multiple-choice items, checklists, rank-order questions and rating-scale items.',
+'It improves comparability across respondents and supports quantitative summary, but may not capture an unexpected or nuanced answer.',
+'Response alternatives should be mutually exclusive, reasonably exhaustive and worded in a way respondents can understand.'
+],['structured question','closed-ended','response alternatives','rating scale','standardised coding']),
+rich('<strong>A good questionnaire</strong> minimises ambiguity and burden while obtaining information that directly answers the research objectives.',[
+'Use simple, familiar and neutral language; ask one idea per item; avoid leading, loaded, double-barrelled and negatively confusing questions.',
+'Arrange questions from easy and general to more specific or sensitive; give clear instructions and appropriate response categories.',
+'Pilot the questionnaire, check timing and comprehension, protect confidentiality and remove items that do not serve the study purpose.'
+],['questionnaire','neutral wording','double-barrelled question','pilot testing','confidentiality','response categories']),
+rich('<strong>Ex-post facto research</strong> examines possible causes after the relevant event or condition has already occurred; the researcher does not manipulate the presumed cause.',[
+'It compares naturally occurring groups or conditions—for example, groups differing in prior experience, health status or exposure.',
+'It is useful where manipulation is impossible or unethical, but pre-existing group differences make causal inference weaker than in a true experiment.',
+'The researcher must define the criterion and groups carefully, consider alternative explanations and use cautious language such as “associated with” or “may contribute to”.'
+],['ex-post facto','causal-comparative','naturally occurring groups','no manipulation','causal inference']),
+rich('<strong>Ex-post facto research steps</strong> organise comparison of groups defined by an already existing condition or outcome.',[
+'State the problem and the suspected relationship; identify the criterion and groups; review likely alternative variables.',
+'Select comparable participants or use matching and other controls where possible; collect relevant data with reliable measures.',
+'Compare the groups, interpret patterns against rival explanations, and report the limits on causal conclusion because random assignment and manipulation are absent.'
+],['ex-post facto steps','criterion group','matching','comparison','alternative explanations','cautious interpretation']),
+rich('<strong>Experimental research</strong> manipulates an IV and seeks control over alternative explanations; <strong>ex-post facto research</strong> studies pre-existing differences.',[
+'A true experiment can use random assignment, control conditions and standardisation, which strengthen internal validity and causal inference.',
+'Ex-post facto work cannot randomly assign people to many attributes or past events. It is appropriate when experimentation is impractical or unethical.',
+'Both require clear variables and careful measurement, but causal claims from ex-post facto findings must be more tentative.'
+],['true experiment','ex-post facto','manipulation','random assignment','control','causal inference']),
+rich('<strong>A field experiment</strong> manipulates a variable in a natural or real-life setting rather than a highly controlled laboratory.',[
+'The researcher still has an intervention or IV, but the setting, participants’ awareness and contextual events are less fully controlled.',
+'It can study behaviour where it naturally occurs, such as a classroom, workplace or community setting.',
+'Planning must consider access, consent, privacy, disruption, practical constraints and how the outcome will be measured reliably in the field.'
+],['field experiment','natural setting','manipulation','ecological validity','control','ethics']),
+rich('<strong>Field experiments</strong> trade some control for the value of studying behaviour in a natural setting.',[
+'Strength: behaviour may be more realistic and findings may have stronger ecological relevance than an artificial task.',
+'Strength: the intervention can be evaluated in the context where it would actually be used.',
+'Limitations: uncontrolled events, difficult random assignment, variable conditions, consent or privacy concerns and harder replication can weaken internal validity.'
+],['field experiment','ecological validity','internal validity','natural behaviour','replication','ethical issues']),
+rich('<strong>Case study research</strong> is an intensive, contextual examination of a bounded case—an individual, group, event, institution or community.',[
+'It can combine interviews, observation, records, tests, documents and other sources to build a detailed understanding of the case in context.',
+'It is especially useful for rare, complex or process-based phenomena where depth matters more than broad numerical coverage.',
+'Its findings are analytically informative but should not be treated as automatically statistically generalisable to every population.'
+],['case study','bounded case','multiple sources','context','depth','generalisability']),
+rich('<strong>A research design</strong> is the overall plan, structure and strategy for answering a research question with defensible evidence.',[
+'It specifies the variables or phenomena, participants and sampling, measures, conditions, sequence of data collection and method of analysis.',
+'A design should fit the question: descriptive, correlational, experimental, quasi-experimental, survey, case study or qualitative approaches make different claims possible.',
+'Good design anticipates control of extraneous variance, ethical requirements and the limits of interpretation.'
+],['research design','plan','structure','strategy','variables','sampling','data collection','analysis']),
+rich('<strong>MAXMINCON</strong> is a design principle: maximise systematic variance, minimise error variance and control extraneous variance.',[
+'Maximise <em>systematic variance</em> by making IV conditions meaningfully different and measuring the relevant DV sensitively.',
+'Minimise <em>error variance</em> through reliable measurement, standard procedures, adequate instructions and appropriate sampling.',
+'Control <em>extraneous variance</em> through randomisation, matching, holding conditions constant, counterbalancing or statistical control.'
+],['MAXMINCON','systematic variance','error variance','extraneous variance','control','research design']),
+rich('<strong>A single-factor design</strong> studies the effect of one independent variable, called a factor, with two or more levels.',[
+'The factor might be feedback type, teaching method or task difficulty; its levels are the particular conditions being compared.',
+'It may be organised as between-groups, within-subjects or matched-groups depending on how participants experience levels.',
+'The design can estimate whether the factor is associated with differences in the DV, provided extraneous variables are appropriately addressed.'
+],['single-factor design','factor','levels','independent variable','between-groups','within-subjects']),
+rich('<strong>Between-groups design</strong> uses different participants in each condition; <strong>within-subjects design</strong> exposes the same participants to every condition.',[
+'Between-groups avoids carryover from one condition to another, but individual differences between groups can add error variance unless randomisation or matching is used.',
+'Within-subjects controls many individual differences because each participant serves as their own comparison, often increasing sensitivity.',
+'Within-subjects designs risk order, practice, fatigue and carryover effects; counterbalancing and suitable intervals are common safeguards.'
+],['between-groups','within-subjects','individual differences','order effects','carryover','counterbalancing']),
+rich('<strong>Counterbalancing</strong> systematically varies the order of conditions in a within-subjects design to distribute order effects fairly.',[
+'It addresses practice, fatigue, boredom and carryover effects that might otherwise make a later condition look better or worse merely because it was experienced later.',
+'With two conditions, half the participants may receive AB and half BA. With more conditions, all possible orders or a balanced subset may be used.',
+'Counterbalancing reduces order confounding; it does not replace the need for standardised procedures and appropriate control of other variables.'
+],['counterbalancing','order effects','practice effect','fatigue effect','carryover','within-subjects']),
+rich('<strong>A factorial design</strong> includes two or more independent variables (factors), each with two or more levels.',[
+'It permits examination of the separate influence of each factor—the <em>main effects</em>—and whether one factor’s effect changes across levels of another—the <em>interaction</em>.',
+'For example, feedback type and task difficulty can be studied together rather than in separate single-factor studies.',
+'Factorial designs are efficient and often closer to real situations, but they require careful interpretation of interactions and adequate observations in each cell.'
+],['factorial design','factors','levels','main effect','interaction effect','cells']),
+rich('<strong>A main effect</strong> is the overall effect of one factor on the DV after averaging across the levels of the other factor or factors.',[
+'In a feedback × difficulty study, a main effect of feedback means average performance differs by feedback type across both difficulty levels.',
+'Main effects describe broad patterns, but they should be interpreted carefully when an interaction is present.',
+'If the effect of feedback reverses or changes sharply with difficulty, the interaction provides the more informative explanation.'
+],['main effect','factor','average effect','dependent variable','factorial design','interaction']),
+rich('<strong>An interaction effect</strong> occurs when the effect of one IV on the DV depends on the level of another IV.',[
+'For example, one feedback method may improve performance on difficult tasks but make little difference on easy tasks.',
+'In a graph, non-parallel lines often indicate an interaction; the pattern, not merely the presence of two factors, must be explained.',
+'An interaction qualifies main effects: it shows that a single overall statement about one factor may conceal important conditional differences.'
+],['interaction effect','conditional effect','factorial design','non-parallel lines','main effects']),
+rich('<strong>A 2 × 2 factorial design</strong> has two factors, each with two levels, yielding four experimental conditions or cells.',[
+'For example, feedback (positive/neutral) × task difficulty (easy/difficult) creates four combinations.',
+'The design tests two main effects—one for each factor—and one interaction between them.',
+'A diagram or table showing the four cells is useful in an exam answer because it makes factors, levels and comparisons explicit.'
+],['2 × 2 factorial design','two factors','two levels','four cells','main effects','interaction']),
+rich('<strong>Quasi-experimental designs</strong> evaluate an intervention, programme or event when full random assignment and/or full experimental control is not possible.',[
+'They often use pre-existing groups, repeated measurement or comparison groups to strengthen inference in schools, clinics and communities.',
+'They are valuable where a true experiment is impractical or unethical, but selection and other threats to internal validity require careful design and cautious conclusions.',
+'The core aim is to approximate the logic of an experiment while acknowledging the limits of control.'
+],['quasi-experimental','intervention','no random assignment','comparison group','internal validity','evaluation']),
+rich('<strong>Quasi-experimental designs</strong> use design features to improve inference without full random assignment.',[
+'A <em>non-equivalent control-group design</em> compares an intervention group with a naturally occurring comparison group, often using pretest and posttest measures.',
+'A <em>one-group pretest-posttest design</em> measures a single group before and after an intervention, but history and maturation remain concerns.',
+'Other forms include separate pretest-posttest samples, double-pretest designs, switching replications and interrupted time-series designs; each tackles particular validity threats.'
+],['non-equivalent control group','one-group pretest-posttest','time series','switching replication','quasi-experiment']),
+rich('<strong>Correlational design</strong> measures the degree and direction of association between variables without manipulating them.',[
+'A positive correlation means values tend to increase together; a negative correlation means one tends to decrease as the other increases; a near-zero correlation indicates little linear association.',
+'Correlation can support prediction and theory development, but it does not establish causation because directionality and third-variable explanations remain possible.',
+'Interpret correlation with the variables’ measurement quality, range, context and the distinction between association and causal claim in mind.'
+],['correlational design','association','positive correlation','negative correlation','prediction','third variable']),
+rich('<strong>Qualitative research</strong> studies meanings, experiences, processes and context using non-numerical material and interpretive analysis; <strong>quantitative research</strong> measures variables numerically and analyses patterns statistically.',[
+'Qualitative work commonly uses interviews, observations, field notes, documents or talk/text. Its questions often ask how people experience or make sense of a phenomenon.',
+'Quantitative work commonly tests differences, relationships or effects using standardised measures, numerical data and statistical procedures.',
+'They differ in emphasis, not in rigour: each requires a coherent question, transparent method, ethical practice and claims that fit the evidence.'
+],['qualitative research','quantitative research','meaning','context','numerical data','interpretive analysis']),
+rich('<strong>Ethnography</strong> is an in-depth qualitative study of a culture, community or social world, aiming to understand meanings and practices from participants’ perspectives.',[
+'It usually involves prolonged engagement in the field, observation or participation, field notes, interviews and relevant documents or artefacts.',
+'The researcher attends to everyday practices, shared meanings, relationships and the setting in which behaviour occurs.',
+'Ethnographic accounts require reflexivity: the researcher’s role, access, relationships and interpretation influence what can be known and reported.'
+],['ethnography','culture','fieldwork','participant observation','field notes','emic perspective','reflexivity']),
+rich('<strong>Ethnographic work</strong> proceeds through sustained, ethical engagement with a social setting rather than a one-time data collection event.',[
+'Define the field and question; negotiate access and consent; learn the setting and build rapport while clarifying the researcher role.',
+'Observe and, where appropriate, participate; keep detailed field notes; collect interviews, documents and artefacts that illuminate practices and meanings.',
+'Analyse recurring patterns in context, check interpretations where appropriate, protect identities and write a reflexive account of method and findings.'
+],['ethnographic steps','access','rapport','participant observation','field notes','analysis','ethical reporting']),
+rich('<strong>Grounded theory</strong> is a qualitative approach that develops a theory from systematically collected and analysed data.',[
+'Data collection and analysis proceed together. Concepts and categories are compared across cases, incidents and time rather than waiting until all data are collected.',
+'The researcher asks what process, conditions, actions and consequences are evident, and gradually develops categories that account for the data.',
+'The resulting theory is grounded in the studied material and should be presented with a transparent account of coding, comparison and sampling decisions.'
+],['grounded theory','theory generation','constant comparison','categories','data collection','analysis']),
+rich('<strong>Grounded-theory coding</strong> moves from detailed labels toward an integrated account of a central process.',[
+'<em>Open coding</em> breaks data into meaningful segments and names concepts; comparisons identify similarities and differences.',
+'<em>Axial coding</em> relates categories to conditions, context, actions or interactions, and consequences.',
+'<em>Selective coding</em> integrates categories around a core category. Memo writing records emerging ideas, questions and links throughout the process.'
+],['open coding','axial coding','selective coding','core category','memoing','constant comparison']),
+rich('<strong>Theoretical sampling</strong> selects additional people, settings or incidents because they can develop, compare or refine emerging categories.',[
+'It is guided by analysis rather than by a fixed goal of statistical representativeness. The researcher asks which next data source will clarify a category or test its range.',
+'Sampling, data collection and analysis continue iteratively until categories are sufficiently developed for the study purpose, often discussed as theoretical saturation.',
+'The sampling rationale should be documented so readers can follow how the emerging theory was built.'
+],['theoretical sampling','emerging categories','constant comparison','theoretical saturation','grounded theory']),
+rich('<strong>Discourse analysis</strong> examines how language in talk or text constructs meanings, identities, actions and social realities.',[
+'It treats language as doing work: accounts may justify, blame, persuade, categorise, claim expertise or construct particular versions of events.',
+'Analysis attends to wording, recurring patterns, contrasts, metaphors, positioning, context and, in critical approaches, power relations and ideology.',
+'It does not treat a statement as a transparent report of an inner fact; it asks how that statement functions in its particular setting.'
+],['discourse analysis','language','meaning construction','identity','context','power','interpretive repertoire']),
+rich('<strong>Discourse analysis steps</strong> make interpretation traceable from a defined corpus to a supported account of language use.',[
+'Specify the question and select relevant spoken or written material; transcribe where needed and become familiar with the corpus.',
+'Identify recurring patterns, categories, rhetorical devices and variations; examine their function in local and wider social context.',
+'Support claims with carefully selected extracts, explain the analytic reading, consider alternative interpretations and report the researcher’s position and limits.'
+],['corpus','transcription','linguistic pattern','context','extracts','interpretation','reflexivity']),
+rich('<strong>Qualitative evaluation</strong> asks whether the study and its interpretations are credible, transparent and well grounded in the data.',[
+'<em>Credibility</em> concerns the plausibility of the account; <em>dependability</em> concerns the clarity and consistency of the process; <em>confirmability</em> concerns the link between claims and evidence.',
+'<em>Transferability</em> is supported by rich contextual description, enabling readers to judge relevance to another setting rather than assuming universal generalisation.',
+'Reflexive notes, an audit trail, triangulation, careful use of extracts and appropriate participant feedback can strengthen trustworthiness.'
+],['credibility','dependability','confirmability','transferability','audit trail','triangulation','trustworthiness']),
+rich('<strong>A qualitative report</strong> should show how the research question, context, method, analysis and interpretation connect.',[
+'Introduce the problem, purpose and relevant context; explain the qualitative approach and the researcher’s position or role where relevant.',
+'Describe participants or setting, recruitment, ethical procedures, data generation and analytic steps clearly enough for readers to understand the study.',
+'Present themes or categories with evidence such as extracts; interpret their significance, acknowledge limitations and state implications without overstating generalisation.'
+],['qualitative report','method','researcher position','themes','extracts','interpretation','limitations']),
+rich('<strong>Reflexivity</strong> is the researcher’s ongoing examination of how their standpoint, assumptions, relationships and decisions shape the research process.',[
+'It recognises that qualitative researchers are part of the interpretive process; it does not require pretending that complete neutrality is possible.',
+'A reflexive account may discuss access to the field, power relations, emotional responses, prior beliefs, analytic choices and how these were managed.',
+'By making these influences visible, reflexivity strengthens transparency and helps readers evaluate the account rather than treating it as unmediated fact.'
+],['reflexivity','researcher position','assumptions','power relations','transparency','qualitative research'])
 ];
-let topic='All',i=0,flipped=false;const card=document.querySelector('#card'),tag=document.querySelector('#tag'),question=document.querySelector('#question'),answer=document.querySelector('#answer'),counter=document.querySelector('#counter'),hint=document.querySelector('#hint'),filters=document.querySelector('#filters');const themes=['All',...new Set(cards.map(x=>x[0]))];const active=()=>cards.filter(x=>topic==='All'||x[0]===topic);function draw(){const set=active();if(i>=set.length)i=0;const x=set[i];flipped=false;card.classList.remove('flip');tag.textContent=x[0];question.textContent=x[1];answer.textContent=x[2];counter.textContent=`Card ${i+1} of ${set.length} · ${topic}`;hint.textContent='Tap to reveal the answer'}themes.forEach(t=>{const b=document.createElement('button');b.textContent=t;b.className=t==='All'?'active':'';b.onclick=()=>{topic=t;i=0;[...filters.children].forEach(x=>x.classList.toggle('active',x.textContent===t));draw()};filters.append(b)});card.onclick=()=>{flipped=!flipped;card.classList.toggle('flip',flipped);hint.textContent=flipped?'Tap to hide the answer':'Tap to reveal the answer'};card.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();card.click()}};document.querySelector('#prev').onclick=()=>{i=(i-1+active().length)%active().length;draw()};document.querySelector('#next').onclick=()=>{i=(i+1)%active().length;draw()};document.querySelector('#shuffle').onclick=()=>{for(let n=cards.length-1;n>0;n--){const j=Math.floor(Math.random()*(n+1));[cards[n],cards[j]]=[cards[j],cards[n]]}i=0;draw()};document.querySelector('#reset').onclick=()=>{topic='All';i=0;[...filters.children].forEach(x=>x.classList.toggle('active',x.textContent==='All'));draw()};document.addEventListener('keydown',e=>{if(e.target.matches('button'))return;if(e.key==='ArrowLeft')document.querySelector('#prev').click();if(e.key==='ArrowRight')document.querySelector('#next').click();if(e.key==='s'||e.key==='S')document.querySelector('#shuffle').click()});draw();
+let topic='All',i=0,flipped=false,mpc005ReturnTimer;const card=document.querySelector('#card'),tag=document.querySelector('#tag'),question=document.querySelector('#question'),examMeta=document.querySelector('#examMeta'),examScope=document.querySelector('#examScope'),answer=document.querySelector('#answer'),counter=document.querySelector('#counter'),hint=document.querySelector('#hint'),filters=document.querySelector('#filters');const themes=['All',...new Set(cards.map(x=>x[0]))];const heatLabels={'very-high':'Very High',high:'High',medium:'Medium','low-medium':'Low–Medium',low:'Low'};const active=()=>cards.filter(x=>topic==='All'||x[0]===topic);const scopeFor=marks=>marks==='10'?'10-mark scope: definition → core components, steps or types → a method example or distinction → brief conclusion.':marks==='6'?'6-mark scope: definition → three focused points → one relevant distinction, control or limitation.':'3-mark scope: precise definition → two decisive terms, steps or points.';function draw(){const set=active();if(i>=set.length)i=0;const x=set[i],priority=priorityByCard[x[3]];flipped=false;card.classList.remove('flip','unflipping');card.setAttribute('aria-pressed','false');tag.textContent=x[0];question.textContent=x[1];examMeta.innerHTML=`<span class="marks-badge marks-${priority.marks}">Likely ${priority.marks} Marks</span><span class="tier-badge tier-${priority.tier.slice(-1)}">${priority.tier}</span><span class="hits-badge">${priority.hits} PYQ hits</span><span class="heat-badge heat-${priority.heat}">${heatLabels[priority.heat]}</span>`;examScope.textContent=scopeFor(priority.marks);answer.innerHTML=detailedAnswers[x[3]]??x[2];counter.textContent=`Card ${i+1} of ${set.length} · ${topic}`;hint.textContent='Tap to reveal the answer'}function flipCard(){flipped=!flipped;card.classList.toggle('flip',flipped);card.classList.toggle('unflipping',!flipped);card.setAttribute('aria-pressed',String(flipped));clearTimeout(mpc005ReturnTimer);if(!flipped)mpc005ReturnTimer=setTimeout(()=>card.classList.remove('unflipping'),520);hint.textContent=flipped?'Tap to hide the answer':'Tap to reveal the answer'}themes.forEach(t=>{const b=document.createElement('button');b.textContent=t;b.className=t==='All'?'active':'';b.onclick=()=>{topic=t;i=0;[...filters.children].forEach(x=>x.classList.toggle('active',x.textContent===t));draw()};filters.append(b)});card.onclick=flipCard;card.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();flipCard()}};document.querySelector('#prev').onclick=()=>{i=(i-1+active().length)%active().length;draw()};document.querySelector('#next').onclick=()=>{i=(i+1)%active().length;draw()};document.querySelector('#shuffle').onclick=()=>{for(let n=cards.length-1;n>0;n--){const j=Math.floor(Math.random()*(n+1));[cards[n],cards[j]]=[cards[j],cards[n]]}i=0;draw()};document.querySelector('#reset').onclick=()=>{topic='All';i=0;[...filters.children].forEach(x=>x.classList.toggle('active',x.textContent==='All'));draw()};document.addEventListener('keydown',e=>{if(e.target.matches('button'))return;if(e.key==='ArrowLeft')document.querySelector('#prev').click();if(e.key==='ArrowRight')document.querySelector('#next').click();if(e.key==='s'||e.key==='S')document.querySelector('#shuffle').click();if(e.key===' '){e.preventDefault();flipCard()}});draw();
 </script>
-<script>var mpc005ReturnTimer;card.onclick=()=>{flipped=!flipped;card.classList.toggle('flip',flipped);card.classList.toggle('unflipping',!flipped);clearTimeout(mpc005ReturnTimer);if(!flipped)mpc005ReturnTimer=setTimeout(()=>card.classList.remove('unflipping'),520);hint.textContent=flipped?'Tap to hide the answer':'Tap to reveal the answer'};</script><style>.card{perspective:900px;transform-style:preserve-3d;transition:background-color .24s ease,border-color .24s ease;will-change:transform}.card.flip{animation:reveal-turn .52s cubic-bezier(.4,0,.2,1);background:#0f172b;border-color:#3b82f6}.card.unflipping{animation:conceal-turn .52s cubic-bezier(.4,0,.2,1)}.card.flip .answer{animation:answer-arrive .28s .11s both}@keyframes reveal-turn{0%{transform:rotateY(0)}48%{transform:rotateY(88deg) scale(.985)}100%{transform:rotateY(0)}}@keyframes conceal-turn{0%{transform:rotateY(0)}48%{transform:rotateY(-88deg) scale(.985)}100%{transform:rotateY(0)}}@keyframes answer-arrive{from{opacity:0;transform:translateY(9px)}to{opacity:1;transform:translateY(0)}}@media(prefers-reduced-motion:reduce){.card{will-change:auto}.card.flip,.card.unflipping,.card.flip .answer{animation:none}}</style>
+<style>.card{perspective:900px;transform-style:preserve-3d;transition:background-color .24s ease,border-color .24s ease;will-change:transform}.card.flip{animation:reveal-turn .52s cubic-bezier(.4,0,.2,1);background:#0f172b;border-color:#3b82f6}.card.unflipping{animation:conceal-turn .52s cubic-bezier(.4,0,.2,1)}.card.flip .answer{animation:answer-arrive .28s .11s both}.exam-meta{align-items:center;display:flex;flex-wrap:wrap;gap:6px;margin:0 0 14px}.marks-badge,.tier-badge,.hits-badge,.heat-badge{border-radius:5px;display:inline-block;font:700 .72rem Inter,sans-serif;letter-spacing:.02em;padding:4px 8px}.marks-10{background:rgba(239,68,68,.15);color:#fca5a5}.marks-6{background:rgba(245,158,11,.15);color:#fcd34d}.marks-3{background:rgba(34,197,94,.15);color:#86efac}.tier-1{background:rgba(239,68,68,.12);color:#f87171}.tier-2{background:rgba(245,158,11,.12);color:#fbbf24}.tier-3{background:rgba(34,197,94,.12);color:#4ade80}.hits-badge{background:rgba(30,58,95,.8);color:#bfdbfe}.heat-badge{border:1px solid currentColor}.heat-very-high{color:#fca5a5}.heat-high{color:#fdba74}.heat-medium{color:#fde047}.heat-low-medium{color:#86efac}.heat-low{color:#7dd3fc}.exam-scope{border-left:2px solid #3b82f6;color:#cbd5e1;font-size:.86rem;line-height:1.55;margin:0 0 18px;padding-left:10px}.card.flip .exam-scope{display:none}.answer p{margin:0 0 12px}.answer strong{color:#f8fafc}.answer em{color:#93c5fd;font-style:normal}.answer ul{margin:0 0 16px;padding-left:1.25rem}.answer li{margin:0 0 7px}.key-terms{border-top:1px solid rgba(148,163,184,.28);margin-top:18px;padding-top:12px}.key-terms-title{color:#4ade80;font:700 .68rem 'Inter',monospace;letter-spacing:.1em;margin-bottom:7px;text-transform:uppercase}.term{background:rgba(30,58,95,.78);border:1px solid rgba(96,165,250,.25);border-radius:4px;color:#dbeafe;display:inline-block;font-size:.72rem;line-height:1.3;margin:2px 4px 2px 0;padding:4px 8px}@keyframes reveal-turn{0%{transform:rotateY(0)}48%{transform:rotateY(88deg) scale(.985)}100%{transform:rotateY(0)}}@keyframes conceal-turn{0%{transform:rotateY(0)}48%{transform:rotateY(-88deg) scale(.985)}100%{transform:rotateY(0)}}@keyframes answer-arrive{from{opacity:0;transform:translateY(9px)}to{opacity:1;transform:translateY(0)}}@media(prefers-reduced-motion:reduce){.card{will-change:auto}.card.flip,.card.unflipping,.card.flip .answer{animation:none}}</style>
 </body>
 </html>
