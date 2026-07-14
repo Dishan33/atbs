@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MPC-005 Flashcards</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet">
+<style>:root{--ink:#0d1c2b;--panel:#183247;--paper:#f4f1e9;--muted:#aec0c9;--mint:#8ee0c3;--line:rgba(244,241,233,.14)}*{box-sizing:border-box}body{margin:0;background:linear-gradient(90deg,rgba(142,224,195,.025) 1px,transparent 1px),linear-gradient(rgba(142,224,195,.025) 1px,transparent 1px),var(--ink);background-size:24px 24px;color:var(--paper);font-family:'DM Sans',sans-serif}.head{background:rgba(18,36,55,.94);border-bottom:1px solid var(--line);padding:clamp(26px,6vw,66px) 20px}.wrap{max-width:860px;margin:auto}.back,.kicker{color:var(--mint);font:500 .68rem 'DM Mono',monospace;letter-spacing:.12em;text-decoration:none;text-transform:uppercase}.head h1{font:clamp(3rem,7vw,5.7rem)/.88 Fraunces,Georgia,serif;letter-spacing:-.06em;margin:19px 0}.head h1 em{color:var(--mint);font-style:normal}.head p{color:var(--muted);line-height:1.65;max-width:620px}.content{max-width:860px;margin:auto;padding:34px 20px 70px}.filters{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 20px}.filters button,.nav button{border:1px solid var(--line);border-radius:5px;background:rgba(24,50,71,.85);color:var(--muted);cursor:pointer;font:500 .68rem 'DM Mono',monospace;padding:9px 11px}.filters button:hover,.filters button.active{background:var(--mint);border-color:var(--mint);color:var(--ink)}.counter{color:var(--muted);font-size:.78rem;margin:0 0 11px}.card{background:linear-gradient(135deg,#1c4d59,#153348);border:1px solid var(--line);border-radius:8px;cursor:pointer;min-height:390px;padding:clamp(25px,5vw,55px);position:relative}.card:focus-visible,button:focus-visible{outline:2px solid var(--mint);outline-offset:4px}.tag{color:var(--mint);font:500 .68rem 'DM Mono',monospace;letter-spacing:.12em;text-transform:uppercase}.question{font:clamp(1.9rem,4vw,3.3rem)/1.02 Fraunces,Georgia,serif;letter-spacing:-.04em;margin:28px 0}.answer{display:none;color:var(--paper);font-size:1rem;line-height:1.7;max-width:670px}.card.flip .question{display:none}.card.flip .answer{display:block}.hint{bottom:25px;color:var(--muted);font-size:.72rem;margin:0;position:absolute}.nav{display:flex;gap:10px;justify-content:space-between;margin-top:14px}.nav button{color:var(--paper);font-family:'DM Sans',sans-serif;font-weight:600;padding:11px 16px}.nav button:last-child{background:var(--mint);border-color:var(--mint);color:var(--ink)}@media(max-width:600px){.content{padding:26px 18px 48px}.card{min-height:420px;padding:27px 22px}.question{font-size:2.15rem}.head{padding:28px 18px}.head h1{font-size:clamp(3rem,16vw,4.6rem)}}</style>
+<style>.course-nav{display:flex;gap:7px;max-width:860px;margin:0 auto 32px;overflow-x:auto;scrollbar-width:none;white-space:nowrap}.course-nav a{border:1px solid var(--line);border-radius:999px;color:var(--muted);font:500 .65rem 'DM Mono',monospace;letter-spacing:.03em;padding:8px 10px;text-decoration:none}.course-nav a:hover,.course-nav a.active{background:var(--mint);border-color:var(--mint);color:var(--ink)}@media(max-width:600px){.course-nav{margin-bottom:25px}.course-nav a{padding:8px 9px}}</style>
+</head>
+<body>
+<header class="head">
+<nav class="course-nav" aria-label="MPC-005 study routes"><a href="../MPC005_Dashboard.html">Study desk</a><a class="active" aria-current="page" href="MPC005_Flashcards.html">Flashcards</a><a href="MPC005_Themes_and_Timeline.html">Themes</a><a href="../MPC005_Dashboard.html?view=blocks">Cheat sheets</a><a href="../MPC005_PYQ_Analysis.html">Analysis</a><a href="../MPC005_PYQ_Answer_Bank.html">Answers</a></nav>
+<div class="wrap">
+<p class="kicker">Active recall · 60 cards</p>
+<h1>Test the <em>method.</em>
+</h1>
+<p>Answer before you reveal the card. Check for the distinction, condition or example the question asks for.</p>
+</div>
+</header>
+<main class="content">
+<div class="filters" id="filters">
+</div>
+<p class="counter" id="counter">
+</p>
+<article class="card" id="card" tabindex="0" role="button" aria-label="Flashcard. Press to reveal answer">
+<p class="tag" id="tag">
+</p>
+<h2 class="question" id="question">
+</h2>
+<p class="answer" id="answer">
+</p>
+<p class="hint" id="hint">Tap to reveal the answer</p>
+</article>
+<div class="nav" aria-label="Flashcard controls">
+<button id="prev">← Previous</button>
+<button id="shuffle">Shuffle</button>
+<button id="reset">Reset</button>
+<button id="next">Next →</button>
+</div>
+</main>
+<script>
+const cards=[
+['Foundations','What is research in psychology?','A systematic and objective inquiry that uses empirical evidence to answer questions, develop or test explanations, and support prediction or understanding of behaviour.'],
+['Foundations','What makes research “good”?','It is systematic, objective, empirical, logical, ethical, controlled where possible, replicable and communicated clearly. Match the criteria to the research problem.'],
+['Foundations','Name the core steps in the research process.','Identify the problem; review literature; formulate hypothesis/questions; identify variables; choose design; sample and collect data; analyse and interpret; draw conclusions; report and publish.'],
+['Foundations','Differentiate context of discovery and context of justification.','Discovery concerns generating an idea, question or hypothesis. Justification concerns systematically testing the claim with evidence, controls and analysis.'],
+['Foundations','What is objectivity in research?','Making observations, decisions and interpretations as independent as possible from personal preference or bias. Safeguards include standardisation, operational definitions, controls, transparency and peer review.'],
+['Foundations','What is research bias?','A systematic influence that distorts planning, data collection, analysis or interpretation. Examples include experimenter expectancy, selection bias and confirmation bias.'],
+['Measurement','Define reliability.','Reliability is the consistency or dependability of a measurement: it yields similar results under similar conditions. Reliability is necessary but alone does not establish validity.'],
+['Measurement','What is test-retest reliability?','Administering the same measure to the same people on two occasions and correlating the scores. It estimates temporal stability, though memory or real change can affect it.'],
+['Measurement','What is parallel-forms reliability?','Using two equivalent forms of a measure with the same sample and correlating scores. It reduces recall effects but requires genuinely comparable forms.'],
+['Measurement','What is split-half reliability?','Dividing a test into two comparable halves, correlating the halves and adjusting the estimate (commonly with Spearman-Brown). It indexes internal consistency.'],
+['Measurement','What is inter-rater reliability?','The degree to which independent observers or scorers agree. It matters when judgement or coding is part of measurement.'],
+['Measurement','Differentiate validity and reliability.','Reliability is consistency; validity is whether a tool measures what it claims to measure. A measure can be reliable without being valid, but an invalid inconsistent tool cannot support sound inference.'],
+['Measurement','What is internal validity?','The degree to which a study supports the conclusion that the independent variable, rather than an alternative cause, produced the observed effect.'],
+['Measurement','Name common threats to internal validity.','History, maturation, testing, instrumentation, statistical regression, selection, attrition/mortality and selection interactions. Define the relevant threat rather than only listing it.'],
+['Measurement','What is external validity?','The extent to which findings can be generalised across people, settings, times or treatment conditions. Sampling and ecological realism are relevant here.'],
+['Variables','Differentiate a variable and a construct.','A variable is something that can take different values and be measured or manipulated. A construct is an abstract theoretical idea, such as anxiety, operationalised through observable indicators.'],
+['Variables','What are independent and dependent variables?','The independent variable is manipulated or treated as the presumed cause; the dependent variable is the measured outcome expected to vary with it.'],
+['Variables','What is an extraneous variable?','Any variable other than the independent variable that might influence the dependent variable. It should be controlled, randomised, matched or otherwise addressed.'],
+['Variables','What is a confounding variable?','An extraneous variable that changes systematically with the independent variable, so its effect cannot be separated from the IV’s effect.'],
+['Variables','Differentiate active and attribute variables.','An active variable can be manipulated by the researcher, such as feedback condition. An attribute variable is a pre-existing characteristic, such as age or gender, and cannot be manipulated.'],
+['Hypothesis & sampling','What is a hypothesis?','A clear, testable proposition predicting a relationship or difference between variables. It should flow from theory or evidence and be operationally testable.'],
+['Hypothesis & sampling','What difficulties arise in formulating a hypothesis?','Vague concepts, insufficient theory or evidence, unmeasurable variables, overly broad scope, value judgements, lack of feasibility and failure to specify direction or population.'],
+['Hypothesis & sampling','Differentiate population and sample.','The population is the full group a researcher wants to understand; the sample is the subset actually studied. Sampling affects the strength of generalisation.'],
+['Hypothesis & sampling','What is simple random sampling?','A probability method in which every population member has an equal, independent chance of selection. It needs a usable sampling frame.'],
+['Hypothesis & sampling','What is purposive sampling?','A non-probability method in which participants are deliberately selected because they meet characteristics relevant to the research question.'],
+['Hypothesis & sampling','What is snowball sampling?','A non-probability technique where initial participants refer further eligible participants. It is useful for hard-to-reach populations but can increase network bias.'],
+['Survey','Define survey research.','A usually descriptive, non-experimental method that collects standardised information from a sample through questionnaires, interviews or related instruments.'],
+['Survey','What are the main steps in survey research?','Set aims; define population; design the survey and pilot it; select a representative sample; administer instrument; code/analyse data; interpret and report.'],
+['Survey','Name common types of survey research.','Cross-sectional surveys collect data at one point in time; longitudinal surveys collect repeatedly. Longitudinal forms include trend, cohort and panel studies.'],
+['Survey','What is a structured question?','A question with pre-set response alternatives, such as dichotomous, multiple-choice, rating-scale or checklist questions. It supports standardised coding.'],
+['Survey','What precautions improve a questionnaire?','Use simple neutral wording; ask one idea at a time; avoid leading, double-barrelled and ambiguous items; choose logical order; pilot test; protect confidentiality.'],
+['Non-experimental','What is ex-post facto research?','A causal-comparative approach that examines possible causes after the fact, using naturally occurring groups or conditions rather than manipulating the presumed cause.'],
+['Non-experimental','What are the basic steps in ex-post facto research?','State problem; identify groups/criterion; select and match where possible; collect relevant data; compare groups; interpret cautiously because causation is not fully controlled.'],
+['Non-experimental','Differentiate ex-post facto and experimental research.','Experiment manipulates an IV and uses control/random assignment where possible; ex-post facto studies pre-existing differences without manipulation. Thus experimental causal inference is stronger.'],
+['Non-experimental','What is a field experiment?','An experiment that manipulates a variable in a natural setting. It gains realism but usually sacrifices some control and may raise consent or privacy issues.'],
+['Non-experimental','Name strengths and weaknesses of a field experiment.','Strengths: natural behaviour and higher ecological validity. Weaknesses: reduced control, difficult random assignment, practical/ethical issues and possible replication difficulty.'],
+['Non-experimental','What is case study research?','An intensive, contextual study of an individual, group, event, institution or community using one or more sources of evidence. It offers depth, not automatic generalisability.'],
+['Designs','What is a research design?','The plan, structure and strategy for answering a research question while controlling variance and specifying sampling, measurement, data collection and analysis.'],
+['Designs','What is MAXMINCON?','A design principle: maximise systematic variance, minimise error variance and control extraneous variance. It explains why design choices affect valid inference.'],
+['Designs','What is a single-factor design?','A design with one independent variable (factor) having two or more levels. It may use separate groups or the same participants across conditions.'],
+['Designs','Differentiate between-group and within-subject designs.','Between-group design assigns different participants to each condition; within-subject design exposes the same participants to all conditions. The latter controls individual differences but risks order/carryover effects.'],
+['Designs','What is counterbalancing?','Systematically varying the order of conditions across participants to reduce order, practice and fatigue effects in within-subject designs.'],
+['Designs','What is a factorial design?','A design with two or more independent variables, each with levels, allowing study of each factor’s main effect and their interaction.'],
+['Designs','What is a main effect?','The overall effect of one independent variable on the dependent variable, averaging across levels of the other factor(s).'],
+['Designs','What is an interaction effect?','When the effect of one independent variable depends on the level of another independent variable. Explain it with a simple conditional example.'],
+['Designs','What does a 2 × 2 factorial design mean?','It has two factors, each with two levels, producing four conditions/cells. It can test two main effects and one interaction.'],
+['Designs','What is a quasi-experimental design?','A design that evaluates an intervention or event without full random assignment and/or full experimental control. It can be practical and ethical but has weaker internal validity.'],
+['Designs','Name types of quasi-experimental design.','Common types include non-equivalent control-group designs, one-group pretest-posttest designs and interrupted time-series designs.'],
+['Designs','What is correlational design?','A non-manipulative design that measures the association between variables. It can predict but cannot by itself establish direction or causation.'],
+['Qualitative','Differentiate qualitative and quantitative research.','Qualitative research explores meanings, experiences and context through non-numerical data and interpretive analysis; quantitative research measures variables numerically and tests relationships or differences statistically.'],
+['Qualitative','What is ethnography?','An in-depth study of a culture, community or social world, often using prolonged field engagement, observation, interviews and attention to participants’ meanings.'],
+['Qualitative','Name key steps in ethnography.','Identify field/question; gain access and build rapport; observe and participate; record field notes; collect interviews/documents; analyse patterns; check interpretations; report ethically.'],
+['Qualitative','What is grounded theory?','A qualitative approach aimed at generating theory from systematically collected and analysed data, using ongoing comparison between data, codes and emerging categories.'],
+['Qualitative','Name the coding stages in grounded theory.','Open coding breaks data into concepts; axial coding relates categories and conditions; selective coding integrates categories around a core category.'],
+['Qualitative','What is theoretical sampling?','Selecting further cases or data because they help develop, compare or refine emerging categories, rather than sampling only for representativeness.'],
+['Qualitative','What is discourse analysis?','A family of approaches studying how language constructs meanings, identities, actions and power relations in talk or text, rather than treating language as transparent fact.'],
+['Qualitative','What are common steps in discourse analysis?','Define question and corpus; transcribe/familiarise; identify patterns and linguistic devices; interpret in context; examine functions/power; support claims with extracts; reflexively report.'],
+['Qualitative','How is qualitative data evaluated?','Through credibility, dependability, confirmability and transferability, supported by transparent procedures, reflexivity, audit trails, triangulation or member checking where appropriate.'],
+['Qualitative','What belongs in a qualitative research report?','Problem and context; approach and researcher position; participants/setting; data collection and analysis; ethically presented evidence/extracts; findings, interpretation, limitations and implications.']
+,['Qualitative','What is reflexivity in qualitative research?','Reflexivity is the researcher’s ongoing examination of how their position, assumptions, relationships and decisions may shape the research process and interpretation. It strengthens transparency rather than claiming complete neutrality.']
+];
+let topic='All',i=0,flipped=false;const card=document.querySelector('#card'),tag=document.querySelector('#tag'),question=document.querySelector('#question'),answer=document.querySelector('#answer'),counter=document.querySelector('#counter'),hint=document.querySelector('#hint'),filters=document.querySelector('#filters');const themes=['All',...new Set(cards.map(x=>x[0]))];const active=()=>cards.filter(x=>topic==='All'||x[0]===topic);function draw(){const set=active();if(i>=set.length)i=0;const x=set[i];flipped=false;card.classList.remove('flip');tag.textContent=x[0];question.textContent=x[1];answer.textContent=x[2];counter.textContent=`Card ${i+1} of ${set.length} · ${topic}`;hint.textContent='Tap to reveal the answer'}themes.forEach(t=>{const b=document.createElement('button');b.textContent=t;b.className=t==='All'?'active':'';b.onclick=()=>{topic=t;i=0;[...filters.children].forEach(x=>x.classList.toggle('active',x.textContent===t));draw()};filters.append(b)});card.onclick=()=>{flipped=!flipped;card.classList.toggle('flip',flipped);hint.textContent=flipped?'Tap to hide the answer':'Tap to reveal the answer'};card.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();card.click()}};document.querySelector('#prev').onclick=()=>{i=(i-1+active().length)%active().length;draw()};document.querySelector('#next').onclick=()=>{i=(i+1)%active().length;draw()};document.querySelector('#shuffle').onclick=()=>{for(let n=cards.length-1;n>0;n--){const j=Math.floor(Math.random()*(n+1));[cards[n],cards[j]]=[cards[j],cards[n]]}i=0;draw()};document.querySelector('#reset').onclick=()=>{topic='All';i=0;[...filters.children].forEach(x=>x.classList.toggle('active',x.textContent==='All'));draw()};document.addEventListener('keydown',e=>{if(e.target.matches('button'))return;if(e.key==='ArrowLeft')document.querySelector('#prev').click();if(e.key==='ArrowRight')document.querySelector('#next').click();if(e.key==='s'||e.key==='S')document.querySelector('#shuffle').click()});draw();
+</script>
+</body>
+</html>
