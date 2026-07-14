@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Life Span Development — Themes & Theories</title>
+<style>
+  :root { --bg:#0f172a;--surface:#1e293b;--surface-hover:#253347;--accent:#3b82f6;--accent-light:#60a5fa;--accent-glow:rgba(59,130,246,0.15);--purple:#a855f7;--green:#22c55e;--amber:#f59e0b;--rose:#f43f5e;--cyan:#06b6d4;--text:#e2e8f0;--text-muted:#94a3b8;--text-bright:#f8fafc;--border:#334155;--high:#ef4444;--high-bg:rgba(239,68,68,0.15);--med:#f59e0b;--med-bg:rgba(245,158,11,0.15);--low:#22c55e;--low-bg:rgba(34,197,94,0.15); }
+  * { margin:0;padding:0;box-sizing:border-box; }
+  body { font-family:'Segoe UI',system-ui,-apple-system,sans-serif;background:var(--bg);color:var(--text);line-height:1.6; }
+  .hero { background:linear-gradient(135deg,#1e293b 0%,#0f172a 100%);border-bottom:1px solid var(--border);padding:40px 24px;text-align:center; }
+  .hero h1 { font-size:2rem;font-weight:800;color:var(--text-bright);margin-bottom:8px; }
+  .hero h1 span { background:linear-gradient(90deg,var(--accent-light),var(--purple));-webkit-background-clip:text;-webkit-text-fill-color:transparent; }
+  .hero p { color:var(--text-muted);font-size:1rem; }
+  .search-wrap { max-width:520px;margin:20px auto 0;position:relative; }
+  .search-wrap input { width:100%;padding:10px 16px 10px 40px;background:var(--bg);border:1px solid var(--border);border-radius:10px;color:var(--text);font-size:0.9rem; }
+  .search-wrap input:focus { outline:none;border-color:var(--accent); }
+  .search-wrap .si { position:absolute;left:14px;top:50%;transform:translateY(-50%);color:var(--text-muted);font-size:0.9rem; }
+  .container { max-width:1100px;margin:0 auto;padding:24px 16px; }
+  .theme-section { margin-bottom:32px; }
+  .theme-header { display:flex;align-items:center;gap:12px;cursor:pointer;padding:16px 20px;background:var(--surface);border:1px solid var(--border);border-radius:12px;transition:background 0.2s; }
+  .theme-header:hover { background:var(--surface-hover); }
+  .theme-icon { font-size:1.5rem; }
+  .theme-title { font-size:1.1rem;font-weight:700;color:var(--text-bright);flex:1; }
+  .theme-count { background:var(--accent-glow);color:var(--accent-light);padding:2px 10px;border-radius:20px;font-size:0.75rem;font-weight:600; }
+  .theme-chevron { color:var(--text-muted);transition:transform 0.3s;font-size:1.2rem; }
+  .theme-section.open .theme-chevron { transform:rotate(180deg); }
+  .theme-body { display:none;padding:16px 0; }
+  .theme-section.open .theme-body { display:block; }
+  .theory-card { background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:20px;margin-bottom:12px;transition:border-color 0.2s; }
+  .theory-card:hover { border-color:var(--accent); }
+  .theory-name { font-size:1.05rem;font-weight:700;color:var(--text-bright);margin-bottom:4px; }
+  .theory-meta { font-size:0.8rem;color:var(--accent-light);margin-bottom:4px; }
+  .marks-badge { display:inline-block;padding:2px 8px;border-radius:5px;font-size:0.72rem;font-weight:700;margin-bottom:8px; }
+  .mh { background:var(--high-bg);color:var(--high); } .mm { background:var(--med-bg);color:var(--med); } .ml { background:var(--low-bg);color:var(--low); }
+  .theory-note { font-size:0.875rem;color:var(--text);margin-bottom:8px; }
+  .theory-components summary { font-size:0.82rem;font-weight:600;color:var(--text-muted);cursor:pointer; }
+  .theory-components summary:hover { color:var(--text); }
+  .theory-components ul { margin-top:6px;padding-left:18px;font-size:0.85rem; }
+  .theory-components li { margin-bottom:3px; }
+  .tag { display:inline-block;background:var(--accent-glow);color:var(--accent-light);padding:2px 8px;border-radius:4px;font-size:0.72rem;margin:2px;font-weight:500; }
+  @media(max-width:600px){ .hero h1{font-size:1.5rem;} }
+</style>
+</head>
+<body>
+<div class="hero">
+  <h1>📚 Life Span Development <span>Themes & Theories</span></h1>
+  <p>Overarching themes, theory maps & marks weightage for all 29 topics</p>
+  <div class="search-wrap">
+    <span class="si">🔍</span>
+    <input type="text" id="searchInput" placeholder="Search theories, theorists, concepts..." oninput="doSearch()">
+  </div>
+</div>
+<div class="container">
+
+<!-- FOUNDATIONS -->
+<div class="theme-section open" data-theme="foundations">
+<div class="theme-header" onclick="this.parentElement.classList.toggle('open')">
+<span class="theme-icon">🏗️</span><span class="theme-title">Foundations of Lifespan Development</span><span class="theme-count">2 topics</span><span class="theme-chevron">▾</span>
+</div>
+<div class="theme-body">
+<div class="theory-card" data-search="issues areas approaches lifespan development baltes continuity discontinuity stability change nature nurture plasticity multidimensional multidirectional contextual normative cephalocaudal proximodistal">
+<div class="theory-name">Issues, Areas & Approaches to Lifespan Development</div>
+<div class="theory-meta">Paul Baltes · Tennant & Pogson (1995) · Boyd & Bee (2006)</div>
+<div class="marks-badge mh">🎯 Likely 10 Marks</div>
+<div class="theory-note">Three issues: Continuity vs. Discontinuity · Stability vs. Change · Nature vs. Nurture. Baltes' 11 characteristics: lifelong, multidimensional, multidirectional, <b>plasticity</b>, contextual, multidisciplinary, growth/maintenance/regulation, embedded in history, normative age-graded, normative history-graded, non-normative events. Four areas: Physical · Psychological/Cognitive · Social/Emotional · Sexuality/Gender. Four forces: Biological · Psychological · Socio-cultural · Life cycle.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">continuity vs. discontinuity</span><span class="tag">stability vs. change</span><span class="tag">nature vs. nurture</span><span class="tag">Paul Baltes</span><span class="tag">plasticity</span><span class="tag">normative age/history-graded</span><span class="tag">non-normative events</span><span class="tag">Cephalocaudal Law</span><span class="tag">Proximodistal Law</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="research methods longitudinal cross-sectional sequential time lag obstacles representative sample rapport ethics">
+<div class="theory-name">Research Methods in Lifespan Development</div>
+<div class="theory-meta">Various</div>
+<div class="marks-badge ml">🎯 Likely 3 Marks</div>
+<div class="theory-note">Four methods: <b>Longitudinal</b> (same individual over time) · <b>Cross-sectional</b> (different ages, same time — faster/cheaper) · <b>Sequential</b> (combines both — "best method") · <b>Time-lag</b> (different age groups, different years). Five obstacles: Representative sample · Establishing rapport · Appropriate methodology · Accuracy of data · Ethical aspects.</div>
+</div>
+</div>
+</div>
+
+<!-- PRENATAL & PHYSICAL -->
+<div class="theme-section" data-theme="prenatal">
+<div class="theme-header" onclick="this.parentElement.classList.toggle('open')">
+<span class="theme-icon">🤰</span><span class="theme-title">Prenatal & Physical Development</span><span class="theme-count">3 topics</span><span class="theme-chevron">▾</span>
+</div>
+<div class="theme-body">
+<div class="theory-card" data-search="prenatal development zygote embryo fetus teratogens critical period lanugo vernix quickening erythroblastosis rh factor rubella fetal alcohol syndrome">
+<div class="theory-name">Prenatal Development — Characteristics, Periods & Environmental Influences</div>
+<div class="theory-meta">Various · Knobloch & Pasamanick (1974) · Jensen et al. (1981)</div>
+<div class="marks-badge mh">🎯 Likely 10 Marks</div>
+<div class="theory-note">Three periods: <b>Zygote</b> (fertilisation → 2 wks; 46 chromosomes) · <b>Embryo</b> (2 wks → 2 months; tissue differentiation; critical period for teratogens) · <b>Fetus</b> (2 months → birth; quickening at ~20 wks; viable at ~25 wks). Environmental influences: Mother's diseases (rubella) · Drugs/alcohol (FAS) · Radiation · Age (>35 risk) · Nutrition · Stress · Rh incompatibility.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">zygote/embryo/fetus</span><span class="tag">tissue differentiation</span><span class="tag">teratogens</span><span class="tag">critical period</span><span class="tag">lanugo</span><span class="tag">vernix caseosa</span><span class="tag">quickening</span><span class="tag">erythroblastosis</span><span class="tag">Rh factor</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="motor development gross fine motor skills sensitive period cephalocaudal proximodistal handedness eye-hand coordination secular trend hurlock">
+<div class="theory-name">Motor Development — Gross & Fine Motor Skills</div>
+<div class="theory-meta">Hurlock (1978)</div>
+<div class="marks-badge mm">🎯 Likely 6 Marks</div>
+<div class="theory-note">Gross motor (large muscles: running, jumping) learnt before fine motor (small muscles: writing, drawing). Sensitive period: time when specific activity learnt most effectively. Not force writing before 4.5–5.5 yrs. Six basic behaviours: running, jumping, sequencing, balancing, throwing, catching. Laws: Cephalocaudal, Proximodistal.</div>
+</div>
+<div class="theory-card" data-search="height weight factors family nutrition emotional disturbances socio-economic status endocrine functioning dwarfism giantism body types endomorphic mesomorphic ectomorphic">
+<div class="theory-name">Factors Influencing Height and Weight in Early Childhood</div>
+<div class="theory-meta">Hurlock (1978)</div>
+<div class="marks-badge ml">🎯 Likely 3 Marks</div>
+<div class="theory-note">Seven factors: Family influences · Nutrition · Emotional disturbances (adrenal steroids inhibit growth hormone) · Socio-economic status · Health · Endocrine functioning (dwarfism/giantism) · Sex. Body types: endomorphic, mesomorphic, ectomorphic. Growth: 2–2.5 in + 3–6 lbs/year.</div>
+</div>
+</div>
+</div>
+
+<!-- COGNITIVE -->
+<div class="theme-section" data-theme="cognitive">
+<div class="theme-header" onclick="this.parentElement.classList.toggle('open')">
+<span class="theme-icon">🧠</span><span class="theme-title">Cognitive Development</span><span class="theme-count">6 topics</span><span class="theme-chevron">▾</span>
+</div>
+<div class="theme-body">
+<div class="theory-card" data-search="piaget cognitive development schemas assimilation accommodation egocentrism conservation reversibility decentration horizontal decalage formal operations pre-operational concrete operational sensorimotor">
+<div class="theory-name">Piaget's Theory of Cognitive Development</div>
+<div class="theory-meta">Jean Piaget (1896–1980)</div>
+<div class="marks-badge mh">🎯 Likely 10 Marks</div>
+<div class="theory-note">4 stages: Sensorimotor (0–2; object permanence) → Pre-operational (2–7; egocentrism, symbols) → Concrete operational (7–11; conservation, decentration, reversibility) → Formal operational (11+; abstract, hypothetical; only 35% achieve). Key concepts: schemas → structures; assimilation vs. accommodation; egocentrism; horizontal décalage (Inhelder & Piaget, 1955/1958). Educational: discovery learning, manipulatives.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">schemas/structures</span><span class="tag">assimilation/accommodation</span><span class="tag">egocentrism</span><span class="tag">conservation</span><span class="tag">decentration</span><span class="tag">horizontal décalage</span><span class="tag">reversibility</span><span class="tag">object permanence</span><span class="tag">formal operations</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="sensorimotor stage sub-stages reflexes primary circular reactions secondary circular reactions coordination tertiary representational thought object permanence">
+<div class="theory-name">Sensori-Motor Stage in Cognitive Development</div>
+<div class="theory-meta">Piaget</div>
+<div class="marks-badge ml">🎯 Likely 3 Marks</div>
+<div class="theory-note">Six sub-stages: Reflexes (0–1 mo) → Primary Circular Reactions (1–4 mo) → Secondary Circular Reactions (4–8 mo) → Coordination (8–12 mo; goal-directed) → Tertiary Circular Reactions (12–24 mo; trial-and-error) → Early Representational Thought (symbols). Object permanence at ~7 months.</div>
+</div>
+<div class="theory-card" data-search="information processing approach herbert simon sensory register working memory long-term memory encoding strategy construction automatisation generalisation self-modification metamemory embedded figures test">
+<div class="theory-name">Information Processing Approach in Cognitive Development</div>
+<div class="theory-meta">Herbert Simon · 1950s</div>
+<div class="marks-badge mh">🎯 Likely 10 Marks</div>
+<div class="theory-note">Model: Sensory register → Working memory (7 items) → Long-term memory. Four beliefs: Thinking = encoding/storing/retrieving; Four mechanisms (encoding, strategy construction, automatisation, generalisation); Self-modification; Task analysis. Components: Attention · Perception (Embedded Figures Test, Witkin 1971) · Memory (rehearsal, elaboration, metamemory).</div>
+</div>
+<div class="theory-card" data-search="language development phonology semantics grammar pragmatics babbling cooing telegraphic speech fast mapping vocabulary spurt over-extension under-extension">
+<div class="theory-name">Language Development</div>
+<div class="theory-meta">Various</div>
+<div class="marks-badge mm">🎯 Likely 6 Marks</div>
+<div class="theory-note">Four components: Phonology · Semantics (fast mapping, vocabulary spurt 18–24 mo, under/over-extensions) · Grammar (syntax + morphology; telegraphic speech) · Pragmatics (turn-taking, audience awareness). Comprehension before production (5-month lag).</div>
+</div>
+<div class="theory-card" data-search="learning write school skill fine motor handwriting eye-hand coordination sensitive period dexterity bairstow 1989">
+<div class="theory-name">Learning to Write as a Basic School Skill</div>
+<div class="theory-meta">Various · Bairstow (1989)</div>
+<div class="marks-badge ml">🎯 Likely 3 Marks</div>
+<div class="theory-note">Handwriting improves 6–11 yrs. Eye-hand coordination: by age 8, better planning; by age 10, control of speed/direction (Bairstow, 1989). Not force before 4.5–5.5 yrs. Girls greater dexterity.</div>
+</div>
+<div class="theory-card" data-search="grammar semantics syntax morphology vocabulary communication effectiveness language difficulties aggression burke 1989">
+<div class="theory-name">Grammar and Semantics</div>
+<div class="theory-meta">Burke et al. (1989)</div>
+<div class="marks-badge ml">🎯 Likely 3 Marks</div>
+<div class="theory-note">Ages 6–12: vocabulary expansion, language structure refinement. 6–7-yr-olds confused by complex constructions. Language difficulties → aggressive behaviour (Burke et al., 1989). Communication effectiveness develops with cognitive/overall development.</div>
+</div>
+</div>
+</div>
+
+<!-- MORAL -->
+<div class="theme-section" data-theme="moral">
+<div class="theme-header" onclick="this.parentElement.classList.toggle('open')">
+<span class="theme-icon">⚖️</span><span class="theme-title">Moral Development</span><span class="theme-count">1 topic</span><span class="theme-chevron">▾</span>
+</div>
+<div class="theme-body">
+<div class="theory-card" data-search="kohlberg moral development heinz dilemma preconventional conventional postconventional punishment obedience instrumental exchange good boy nice girl system maintaining social contract universal ethical principles piaget heteronomous autonomous moral realism imminent justice">
+<div class="theory-name">Kohlberg's Theory of Moral Development</div>
+<div class="theory-meta">Lawrence Kohlberg · Piaget</div>
+<div class="marks-badge mh">🎯 Likely 10 Marks</div>
+<div class="theory-note">Moral dilemmas method. <b>Heinz dilemma.</b> Analysed reasons, not answers. Three levels / six stages: <b>Preconventional</b> (Punishment-obedience; Instrumental-exchange) → <b>Conventional</b> (Good-boy-nice-girl; System-maintaining/law & order) → <b>Postconventional</b> (Social-contract; Universal ethical principles). Piaget: Heteronomous morality (6–7; imminent justice, objective consequences, absolutism) → Autonomous morality (~10; cooperation, motives considered). Hartshorne & May (1928–30): moral standards ≠ moral behaviour.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Heinz dilemma</span><span class="tag">preconventional/conventional/postconventional</span><span class="tag">punishment-obedience</span><span class="tag">good-boy-nice-girl</span><span class="tag">social-contract</span><span class="tag">universal ethical principles</span><span class="tag">heteronomous/autonomous</span><span class="tag">imminent justice</span></li></ul></details>
+</div>
+</div>
+</div>
+
+<!-- SOCIAL-EMOTIONAL -->
+<div class="theme-section" data-theme="social">
+<div class="theme-header" onclick="this.parentElement.classList.toggle('open')">
+<span class="theme-icon">❤️</span><span class="theme-title">Social-Emotional Development</span><span class="theme-count">3 topics</span><span class="theme-chevron">▾</span>
+</div>
+<div class="theme-body">
+<div class="theory-card" data-search="attachment patterns ainsworth 1978 internal working model secure avoidant resistant anxious-ambivalent separation anxiety">
+<div class="theory-name">Attachment Patterns</div>
+<div class="theory-meta">Ainsworth et al. (1978)</div>
+<div class="marks-badge ml">🎯 Likely 3 Marks</div>
+<div class="theory-note">Attachment = emotionally toned relationship. <b>Internal working model</b> predicts adult romantic relationships. Three patterns: <b>Secure</b> (likable, open, trusting) · <b>Avoidant</b> (independent, mistrusting, emotional distance) · <b>Resistant/anxious-ambivalent</b> (fears of abandonment, smothering). Healthy relationships can heal troubled backgrounds.</div>
+</div>
+<div class="theory-card" data-search="common emotional patterns childhood fear anxiety anger curiosity joy emotional tolerance impulsive inhibited responses shyness questioning age">
+<div class="theory-name">Common Emotional Patterns in Childhood</div>
+<div class="theory-meta">Hurlock (1978) · Devadas & Jaya (1984)</div>
+<div class="marks-badge ml">🎯 Likely 3 Marks</div>
+<div class="theory-note">Fear (shift from typical to general; shyness) · Anxiety (develops later; increases 4th–6th grade) · Anger (more frequent than fear; impulsive vs. inhibited responses) · Curiosity (instinctive foundation; "questioning age") · Joy (success most pleasant). Emotional tolerance = accept and adjust to unpleasant experiences. Patterns affected by health, intellect, environment, social reactions.</div>
+</div>
+<div class="theory-card" data-search="social development parents siblings peers peer group gender segregation crowds cliques conformity popularity rejected neglected children baumrind 1971">
+<div class="theory-name">Social Development — Role of Parents, Siblings & Peers</div>
+<div class="theory-meta">Baumrind (1971)</div>
+<div class="marks-badge mh">🎯 Likely 10 Marks</div>
+<div class="theory-note">Parents: role → consultants. Mothers preferred; fathers encourage independence. Household responsibilities → mature behaviour (Baumrind, 1971). Siblings: teach/help each other. Peer group: 6–9 yrs (small groups, gender segregation) → 9–12 yrs (crowds, cliques). Conformity peak at grades 8–9. Popularity: sociable, cooperative, assertive. Rejected: aggressive or withdrawn. Neglected: neither liked nor disliked.</div>
+</div>
+</div>
+</div>
+
+<!-- IDENTITY & ADOLESCENCE -->
+<div class="theme-section" data-theme="identity">
+<div class="theme-header" onclick="this.parentElement.classList.toggle('open')">
+<span class="theme-icon">🪪</span><span class="theme-title">Identity & Adolescence</span><span class="theme-count">3 topics</span><span class="theme-chevron">▾</span>
+</div>
+<div class="theme-body">
+<div class="theory-card" data-search="identity crisis marcia identity statuses foreclosure diffusion moratorium achievement erikson identity vs role confusion lifespan construct crisis commitment exploration">
+<div class="theory-name">Identity Crisis & Marcia's Identity Statuses</div>
+<div class="theory-meta">Erik Erikson · James Marcia (1966, 1976, 1980)</div>
+<div class="marks-badge mh">🎯 Likely 10 Marks</div>
+<div class="theory-note"><b>Erikson:</b> Identity vs. Role Confusion. Identity crisis = intensive analysis and exploration. <b>Marcia (1966):</b> Four statuses defined by Crisis × Commitment: <b>Foreclosure</b> (no crisis, commitment made) · <b>Diffusion</b> (±crisis, no commitment) · <b>Moratorium</b> (crisis, no commitment yet) · <b>Achievement</b> (crisis experienced, commitment made). NOT stages — not sequential. <b>Lifespan construct:</b> basis for adult expectations.</div>
+<details class="theory-components"><summary>Key terms</summary><ul><li><span class="tag">Erikson</span><span class="tag">identity vs. role confusion</span><span class="tag">identity crisis</span><span class="tag">Marcia (1966)</span><span class="tag">foreclosure/diffusion/moratorium/achievement</span><span class="tag">crisis × commitment</span><span class="tag">lifespan construct</span></li></ul></details>
+</div>
+<div class="theory-card" data-search="adolescence early middle late stages challenges identity cognitive development formal operations abstract thinking metacognition adolescent egocentrism imaginary audience elkind 1967">
+<div class="theory-name">Adolescence — Challenges, Identity & Cognitive Development</div>
+<div class="theory-meta">Elkind (1967)</div>
+<div class="marks-badge mh">🎯 Likely 10 Marks</div>
+<div class="theory-note">Three stages: <b>Early</b> (12–14; contradictory; search for identity) · <b>Middle</b> (14–17; friends pivotal; "Who am I?") · <b>Late</b> (17–19; firm identity; idealistic views). Challenges: independent identity; challenge parents; peer group belonging. Cognitive: formal operations (abstract, hypothetical, multidimensional, relative). Adolescent egocentrism (Elkind, 1967): imaginary audience.</div>
+</div>
+<div class="theory-card" data-search="sexuality adolescence puberty testosterone estrogen fsh pituitary gland menarche spermarche ejaculation nocturnal emissions secondary sexual characteristics sex education">
+<div class="theory-name">Sexuality During Adolescence</div>
+<div class="theory-meta">Various</div>
+<div class="marks-badge mm">🎯 Likely 6 Marks</div>
+<div class="theory-note">Puberty = biologically/sexually mature. Pituitary gland → FSH → testosterone (males) / estrogen (females). Males: testicle enlargement → penis → pubic hair → nocturnal emissions (~14 yr). Females: breast development → pubic hair → menarche (10–16.5 yr). Concerns: pregnancy, STDs, inappropriate behaviours. Need individualized sex education.</div>
+</div>
+<div class="theory-card" data-search="self-esteem self-concept adolescence self-schemas personal social ideal imaginary audience elkind 1967 negative self-concept causes low self-esteem">
+<div class="theory-name">Self-Esteem & Self-Concept During Adolescence</div>
+<div class="theory-meta">Elkind (1967)</div>
+<div class="marks-badge mm">🎯 Likely 6 Marks</div>
+<div class="theory-note">Self-concept = knowledge about self (becomes abstract, complex, organised into self-schemas). Three categories: Personal · Social · Self-ideals. Self-esteem ≠ self-concept: esteem = overall evaluation; concept = domain-specific perceptions. Self-concept is consequence, not cause, of high achievement. Imaginary audience (Elkind, 1967). Causes of low self-esteem: hereditary, living conditions, education, physiology, society, fear, disease.</div>
+</div>
+</div>
+</div>
+
+<!-- ADULTHOOD & AGEING -->
+<div class="theme-section" data-theme="adulthood">
+<div class="theme-header" onclick="this.parentElement.classList.toggle('open')">
+<span class="theme-icon">👤</span><span class="theme-title">Adulthood & Ageing</span><span class="theme-count">5 topics</span><span class="theme-chevron">▾</span>
+</div>
+<div class="theme-body">
+<div class="theory-card" data-search="middle adulthood psychosocial developmental tasks cognitive changes erikson generativity stagnation levinson seasons life four tasks young-old destruction-creation masculinity-femininity engagement-separateness crystallized fluid intelligence horn hofer 1992">
+<div class="theory-name">Middle Adulthood — Psychosocial Issues, Developmental Tasks & Cognitive Changes</div>
+<div class="theory-meta">Erikson · Levinson · Horn & Hofer (1992) · Sternberg</div>
+<div class="marks-badge mh">🎯 Likely 10 Marks</div>
+<div class="theory-note">Age 40–60. <b>Erikson:</b> Generativity vs. Stagnation. <b>Levinson:</b> Transition (40–45) → Life structure → Re-evaluation → Culminating. Four tasks: Young-Old · Destruction-Creation · Masculinity-Femininity · Engagement-Separateness. <b>Intelligence:</b> Crystallized (verbal, vocabulary — improves) vs. Fluid (flexible reasoning, speed — declines). Marital satisfaction: U-curve. Possible selves. Androgyny.</div>
+</div>
+<div class="theory-card" data-search="cognitive changes adulthood early middle schaie achieving responsibility stage perry relativistic thinking post-formal thought labouvie-vief multidirectional sternberg triarchic analytic creative practical">
+<div class="theory-name">Cognitive Changes During Adulthood (Early & Middle)</div>
+<div class="theory-meta">Schaie · Perry · Labouvie-Vief · Sternberg · Horn & Hofer (1992)</div>
+<div class="marks-badge mh">🎯 Likely 10 Marks</div>
+<div class="theory-note"><b>Early:</b> Schaie (Achieving + Responsibility stages). Perry (dualistic → multiple → relative subordinate → full relativism). Post-formal thought. Labouvie-Vief (logic replaced with commitment). <b>Middle:</b> Multidirectional development. Crystallized vs. fluid. Sternberg's triarchic (analytic/creative/practical). Memory/processing decline. Religion/meaning (Victor Frankl). Cohort effects.</div>
+</div>
+<div class="theory-card" data-search="psychosocial changes early adulthood old age erikson intimacy isolation levinson life structure dream social clock sternberg triangular theory love intimacy passion commitment companionate passionate ego integrity despair peck three tasks body transcendence ego transcendence labouvie-vief emotional expertise reminiscence life review social convoy">
+<div class="theory-name">Psychosocial Changes — Early Adulthood & Old Age</div>
+<div class="theory-meta">Erikson · Levinson · Sternberg · Peck · Labouvie-Vief</div>
+<div class="marks-badge mm">🎯 Likely 6 Marks</div>
+<div class="theory-note"><b>Early adulthood:</b> Intimacy vs. Isolation (Erikson). Levinson: life structure, dream, age-30 transition, social clock. Sternberg's Triangular Theory (intimacy + passion + commitment; passionate → companionate love). <b>Old age:</b> Ego Integrity vs. Despair. Peck's 3 tasks (ego differentiation, body transcendence, ego transcendence). Labouvie-Vief: emotional expertise. Reminiscence vs. life review. Social convoy.</div>
+</div>
+<div class="theory-card" data-search="family life approach adulthood launching children empty nest u-curve marital satisfaction feminisation of poverty grandparenthood androgyny possible selves">
+<div class="theory-name">Family Life Approach During Adulthood</div>
+<div class="theory-meta">Various</div>
+<div class="marks-badge mm">🎯 Likely 6 Marks</div>
+<div class="theory-note">Launching children (no longer negative). U-curve of marital satisfaction. Feminisation of poverty. Grandparenthood meanings (valued elder, immortality, reinvolvement, indulgence). Siblings: declining contact; sister relationships closer. Friends: selective; quality over quantity. Gender identity shifts → androgyny.</div>
+</div>
+<div class="theory-card" data-search="late adulthood ageing issues retirement leisure primary secondary ageing young-old old-old presbyopia selective optimisation compensation terminal decline implicit explicit memory autobiographical prospective wisdom">
+<div class="theory-name">Late Adulthood — Ageing Issues, Retirement & Leisure</div>
+<div class="theory-meta">Horn & Hofer (1992) · Schaie & Willis</div>
+<div class="marks-badge mm">🎯 Likely 6 Marks</div>
+<div class="theory-note">Age 65+. Primary vs. secondary ageing. Physical: hair, skin, presbyopia, hearing loss. Cognitive: <b>Selective optimisation with compensation</b>. Terminal decline. Memory: slower processing; implicit > deliberate; autobiographical best recall of adolescence/early adulthood; prospective memory declines. <b>Wisdom:</b> practical knowledge, emotional maturity, increases with age. Remedial training reverses decline in 40–60% (Schaie & Willis).</div>
+</div>
+</div>
+</div>
+
+<!-- SPECIAL TOPICS -->
+<div class="theme-section" data-theme="special">
+<div class="theme-header" onclick="this.parentElement.classList.toggle('open')">
+<span class="theme-icon">⭐</span><span class="theme-title">Special Topics</span><span class="theme-count">4 topics</span><span class="theme-chevron">▾</span>
+</div>
+<div class="theme-body">
+<div class="theory-card" data-search="learning disability characteristics identification remedial measures dyslexia dysgraphia dyscalculia iq-achievement discrepancy iep multisensory instruction assistive technology">
+<div class="theory-name">Learning Disability — Characteristics, Identification & Remedial Measures</div>
+<div class="theory-meta">Various</div>
+<div class="marks-badge mm">🎯 Likely 6 Marks</div>
+<div class="theory-note">Disorder in basic psychological processes (language). Average to superior intelligence. Discrepancy between ability and achievement. Types: dyslexia, dysgraphia, dyscalculia. Identification: standardised tests, IQ-achievement discrepancy, observation. Remedial: IEP, multisensory instruction, assistive technology, peer tutoring.</div>
+</div>
+<div class="theory-card" data-search="intellectual disability mental retardation identification remedial measures adaptive behaviour down syndrome levels mild moderate severe profound early intervention life skills training inclusive education">
+<div class="theory-name">Intellectual Disability (Mental Retardation) — Identification & Remedial Measures</div>
+<div class="theory-meta">Various</div>
+<div class="marks-badge mm">🎯 Likely 6 Marks</div>
+<div class="theory-note">Subaverage intellectual functioning + deficits in adaptive behaviour + manifested before age 18. Levels: Mild (50–70), Moderate (35–50), Severe (20–35), Profound (<20). Causes: genetic (Down syndrome), prenatal (rubella), perinatal, postnatal. Identification: IQ tests (<70), adaptive behaviour scales. Remedial: early intervention, life skills training, vocational training, inclusive education.</div>
+</div>
+<div class="theory-card" data-search="exceptional children gifted talented learning disabilities intellectual disability physical disabilities emotional behavioural communication disorders autism inclusive education iep resource room">
+<div class="theory-name">Exceptional Children</div>
+<div class="theory-meta">Various</div>
+<div class="marks-badge ml">🎯 Likely 3 Marks</div>
+<div class="theory-note">Children who deviate from normal and require specialised services. Categories: gifted/talented, learning disabilities, intellectual disability, physical disabilities, emotional/behavioural disorders, communication disorders, autism spectrum. Approaches: inclusive education, IEP, special schools, resource rooms, remedial teaching, assistive technology.</div>
+</div>
+<div class="theory-card" data-search="value education educational excursions school children moral reasoning value clarification experiential learning games puzzles plays acting">
+<div class="theory-name">Value Education & Educational Excursions for School Children</div>
+<div class="theory-meta">Various</div>
+<div class="marks-badge mm">🎯 Likely 6 Marks</div>
+<div class="theory-note">Value education: develop moral reasoning, empathy, character, social responsibility. Methods: storytelling, role-playing, group discussions, community service, value clarification. Educational excursions: experiential learning, real-world connections, social development, motivation. Language teaching: start young, free from fatigue, through games/puzzles/plays.</div>
+</div>
+<div class="theory-card" data-search="early childhood characteristics hazards toy age play age school going age obstinacy stubbornness negativistic physical hazards illness accidents obesity psychological hazards speech social play moral unesco">
+<div class="theory-name">Early Childhood — Characteristics & Hazards</div>
+<div class="theory-meta">UNESCO</div>
+<div class="marks-badge mm">🎯 Likely 6 Marks</div>
+<div class="theory-note">Early childhood = 2–6 years. Also: toy age, play age, school going age. UNESCO: birth to 8 years. Characteristics: obstinacy, stubbornness, negativistic, self-sufficient, independent. Physical hazards: illness, accidents, obesity. Psychological hazards: speech, social, play, moral hazards.</div>
+</div>
+</div>
+</div>
+
+</div>
+
+<script>
+function doSearch() {
+  const q = document.getElementById('searchInput').value.toLowerCase().trim();
+  document.querySelectorAll('.theory-card').forEach(c => {
+    const text = (c.dataset.search + ' ' + c.textContent).toLowerCase();
+    c.style.display = (!q || text.includes(q)) ? '' : 'none';
+  });
+  if (q) document.querySelectorAll('.theme-section').forEach(s => s.classList.add('open'));
+}
+</script>
+</body>
+</html>
