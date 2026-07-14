@@ -9,6 +9,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght,400;0,600;0,700;1,400&family=Inter:wght;500;600;700&display=swap" rel="stylesheet">
 <style>:root{--ink:#0f172a;--panel:#1e293b;--paper:#e2e8f0;--muted:#94a3b8;--mint:#60a5fa;--orange:#f59e0b;--line:rgba(244,241,233,.14)}*{box-sizing:border-box}body{background:linear-gradient(90deg,rgba(142,224,195,.025) 1px,transparent 1px),linear-gradient(rgba(142,224,195,.025) 1px,transparent 1px),var(--ink);background-size:24px 24px;color:var(--paper);font-family:Inter,sans-serif;margin:0}.head{background:rgba(18,36,55,.94);border-bottom:1px solid var(--line);padding:clamp(30px,7vw,82px) 20px}.wrap{max-width:920px;margin:auto}.back,.kicker{color:var(--mint);font:500 .7rem 'Inter',monospace;letter-spacing:.12em;text-decoration:none;text-transform:uppercase}.head h1{font:clamp(3rem,8vw,6rem)/.85 'Crimson Pro',Georgia,serif;letter-spacing:-.06em;margin:18px 0}.head h1 em{color:var(--mint);font-style:normal}.head p{color:var(--muted);line-height:1.65;max-width:690px}.content{max-width:920px;margin:auto;padding:38px 20px 70px}.intro{border-left:2px solid var(--mint);color:var(--muted);line-height:1.65;padding-left:16px}.note{background:rgba(239,155,87,.09);border:1px solid rgba(239,155,87,.25);border-radius:7px;color:var(--muted);font-size:.87rem;line-height:1.55;margin:24px 0;padding:16px}.note b{color:var(--orange)}.answer{background:rgba(24,50,71,.78);border:1px solid var(--line);border-radius:8px;margin:13px 0;overflow:hidden}.answer summary{cursor:pointer;list-style:none;padding:20px 54px 20px 20px;position:relative}.answer summary::-webkit-details-marker{display:none}.answer summary:after{color:var(--mint);content:'+';font:500 1.45rem 'Inter',monospace;position:absolute;right:20px;top:16px}.answer[open] summary:after{content:'−'}.marks{color:var(--orange);font:500 .66rem 'Inter',monospace;letter-spacing:.1em}.answer h2{font:1.65rem/1.1 'Crimson Pro',Georgia,serif;margin:10px 0 0}.answer .year{color:var(--muted);font-size:.76rem;margin:7px 0 0}.body{border-top:1px solid var(--line);padding:4px 20px 22px}.body h3{color:var(--mint);font:500 .68rem 'Inter',monospace;letter-spacing:.1em;margin:20px 0 8px;text-transform:uppercase}.body p,.body li{color:var(--muted);font-size:.9rem;line-height:1.65}.body p{margin:8px 0}.body ul,.body ol{margin:9px 0;padding-left:20px}.body strong{color:var(--paper)}@media(max-width:600px){.head{padding:32px 18px}.content{padding:30px 18px 55px}.head h1{font-size:clamp(3rem,16vw,4.7rem)}.answer summary{padding:18px 46px 18px 17px}.body{padding:3px 17px 20px}}</style>
 <style>.course-nav{display:flex;gap:7px;max-width:920px;margin:0 auto 32px;overflow-x:auto;scrollbar-width:none;white-space:nowrap}.course-nav a{border:1px solid var(--line);border-radius:999px;color:var(--muted);font:500 .65rem 'Inter',monospace;letter-spacing:.03em;padding:8px 10px;text-decoration:none}.course-nav a:hover,.course-nav a.active{background:var(--mint);border-color:var(--mint);color:var(--ink)}@media(max-width:600px){.course-nav{margin-bottom:25px}.course-nav a{padding:8px 9px}}</style>
+<style>
+/* MPC-003-compatible answer-bank presentation. Course terms below remain MPC-005 specific. */
+body{background:#0f172a;color:#e2e8f0;font-family:"Segoe UI",system-ui,sans-serif;padding:16px}.head{display:none}.content{max-width:none;margin:0;padding:0}.content>.intro,.content>.note{display:none}.bank-title,.topic-heading{border-bottom:1px solid #334155;color:#60a5fa;font-size:1.05rem;line-height:1.25;margin:0 0 10px;padding-bottom:5px}.topic-heading{margin:24px 0 10px}.bank-intro{color:#94a3b8;font-size:.8rem;line-height:1.5;margin:0 0 16px}.bank-intro b{color:#cbd5e1}.answer{background:#1e293b;border:1px solid #334155;border-radius:8px;margin:10px 0;overflow:visible}.answer-head{padding:14px 18px 0}.answer .marks{background:rgba(239,68,68,.22);border-radius:4px;color:#fca5a5;display:inline-block;font-size:.67rem;font-weight:700;letter-spacing:.05em;padding:3px 7px}.answer h2{color:#60a5fa;font-family:"Segoe UI",system-ui,sans-serif;font-size:.92rem;line-height:1.3;margin:8px 0 3px}.answer .year{color:#94a3b8;font-size:.74rem;line-height:1.45;margin:0}.body{border:0;padding:5px 18px 15px}.body h3{color:#94a3b8;font-family:"Segoe UI",system-ui,sans-serif;font-size:.69rem;font-weight:700;letter-spacing:.07em;margin:14px 0 5px}.body p,.body li{color:#cbd5e1;font-size:.82rem;line-height:1.55}.body p{margin:5px 0}.body ul,.body ol{margin:6px 0;padding-left:20px}.body strong{color:#f8fafc}@media(max-width:600px){body{padding:12px}.answer-head{padding:12px 14px 0}.body{padding:4px 14px 13px}.topic-heading{margin-top:20px}}
+</style>
 </head>
 <body>
 <header class="head">
@@ -32,7 +36,7 @@
 </summary>
 <div class="body">
 <h3>Opening</h3>
-<p>Define research as a systematic, objective and empirical process for answering questions. State that the sequence may be iterative but each step makes the final conclusion more defensible.</p>
+<p>Define research as a systematic, objective and empirical process for answering questions. In psychology, controlled observation and evidence make it possible to develop, test and refine concepts, principles and explanations of behaviour. State that the sequence may be iterative but each step makes the final conclusion more defensible.</p>
 <h3>Answer structure</h3>
 <ol>
 <li>
@@ -95,6 +99,8 @@
 <p>Explain <strong>history</strong>, <strong>maturation</strong>, <strong>testing</strong>, <strong>instrumentation</strong>, <strong>regression</strong>, <strong>selection</strong> and <strong>attrition</strong>. For each, show how an alternative explanation could mimic a treatment effect.</p>
 <h3>External threats</h3>
 <p>Discuss unrepresentative samples, artificial settings/reactivity, interaction of selection and treatment, and time/context specificity. Use cautious language: generalisation is supported by converging replication, not assumed.</p>
+<h3>Types of validity</h3>
+<p>For a “types” question, add <strong>content validity</strong> (adequate coverage of the domain), <strong>criterion-related validity</strong> (relation with an appropriate criterion) and <strong>construct validity</strong>. Construct evidence includes <strong>convergent validity</strong>—the measure relates to measures it should relate to—and <strong>discriminant validity</strong>—it does not relate too strongly to distinct constructs.</p>
 <h3>Close</h3>
 <p>State that good design balances control with realism and reports limits rather than hiding them.</p>
 </div>
@@ -114,6 +120,7 @@
 <li>Extraneous variables and the special case of confounded variables</li>
 <li>Continuous and discrete variables where relevant</li>
 </ul>
+<p>For a construct-focused PYQ, add that a construct is a concept adopted for a scientific purpose. <strong>Intervening variables</strong> summarise an inferred internal process, whereas a <strong>hypothetical construct</strong> is a theoretical term used to describe something regarded as real but not directly observed.</p>
 <p>Use one matched psychological example and end by noting that operational definitions link constructs to variables.</p>
 </div>
 </details>
@@ -134,7 +141,7 @@
 <strong>Non-probability:</strong> convenience, purposive, quota and snowball sampling. Selection probability is unknown.</li>
 </ul>
 <h3>Evaluation</h3>
-<p>Probability sampling generally supports stronger statistical generalisation but needs a sampling frame and resources. Non-probability methods can be appropriate for exploratory or hard-to-reach groups, but selection bias must be acknowledged.</p>
+<p>Probability sampling generally supports stronger statistical generalisation but needs a sampling frame and resources. Non-probability methods can be appropriate for exploratory or hard-to-reach groups, but selection bias must be acknowledged. For a comparison question, define <strong>purposive</strong> selection by relevant characteristics and <strong>snowball</strong> selection through participant referrals.</p>
 </div>
 </details>
 <details class="answer">
@@ -147,7 +154,7 @@
 <h3>Opening</h3>
 <p>Survey research is a descriptive, non-experimental approach using standardised questions or interviews to gather information from a sample.</p>
 <h3>Types</h3>
-<p>Contrast <strong>cross-sectional</strong> surveys (one point in time) with <strong>longitudinal</strong> surveys: trend, cohort and panel. Mention that surveys may use questionnaires, interviews, telephone or online modes.</p>
+<p>Contrast <strong>cross-sectional</strong> surveys (one point in time) with <strong>longitudinal</strong> surveys: trend, cohort and panel. Mention that surveys may use questionnaires, interviews, telephone or online modes. For difficulties/issues, note non-response, inaccurate self-report, social desirability, recall limits, wording effects, cost and follow-up loss in longitudinal work.</p>
 <h3>Steps</h3>
 <ol>
 <li>Set focused objectives and define population.</li>
@@ -208,9 +215,9 @@
 <h3>Opening</h3>
 <p>A case study is an intensive contextual investigation of a bounded individual, group, event, institution or community.</p>
 <h3>Body</h3>
-<p>Cover case selection, defining the case and context, gathering multiple sources (interviews, observation, records/documents), triangulating evidence, analysing patterns and presenting a rich account. Explain types where relevant: intrinsic, instrumental or collective/multiple case.</p>
+<p>Cover case selection, defining the case and context, gathering multiple sources (interviews, observation, records/documents), triangulating evidence, analysing patterns and presenting a rich account. For selection, use information-oriented cases: <strong>critical</strong>, <strong>extreme/deviant</strong> or <strong>paradigmatic</strong> cases can be more informative than an average case. Explain types where relevant: illustrative, exploratory, cumulative or critical-instance case study.</p>
 <h3>Evaluation</h3>
-<p>Its strength is depth and holistic understanding; its limitation is that findings may not generalise automatically. The answer should reject the misconception that a case study is “unscientific” merely because it uses a small N.</p>
+<p>Its strength is depth and holistic understanding; its limitation is that findings may not generalise automatically. The answer should reject the misconceptions that a case study is merely anecdotal, only clinical, or “unscientific” simply because it uses a small N. Its generalisation is analytical and evidence-based, not automatic statistical generalisation.</p>
 </div>
 </details>
 <details class="answer">
@@ -228,6 +235,7 @@
 <strong>Between-group:</strong> different people receive each level; avoids carryover but individual differences can add error.</li>
 <li>
 <strong>Within-subject:</strong> same people experience all levels; controls individual differences but needs counterbalancing to address order/fatigue effects.</li>
+<li><strong>Randomised-group design:</strong> participants are randomly assigned to separate conditions. Random assignment helps distribute individual differences, but it does not by itself remove every contextual or measurement threat.</li>
 </ul>
 <h3>Example</h3>
 <p>Compare recall after silence, instrumental music and lyrical music. State the factor, its three levels and the memory-score DV.</p>
@@ -241,11 +249,11 @@
 </summary>
 <div class="body">
 <h3>Core definition</h3>
-<p>A factorial design includes two or more factors and permits simultaneous study of each factor and their joint effect.</p>
+<p>A factorial design includes two or more factors and permits simultaneous study of each factor and their joint effect. Define the <strong>factor</strong>, its <strong>levels</strong>, the resulting <strong>cells</strong>, and the dependent variable before explaining the notation.</p>
 <h3>Explain with 2 × 2</h3>
 <p>Use study environment (quiet/noisy) × sleep (adequate/restricted) on memory score. A <strong>main effect</strong> is the overall effect of one factor averaged across the other. An <strong>interaction</strong> occurs if the effect of noise is much larger after restricted sleep than after adequate sleep.</p>
 <h3>Close</h3>
-<p>State why factorial designs are efficient: they test interactions that separate single-factor studies cannot reveal.</p>
+<p>State why factorial designs are efficient: they test interactions that separate single-factor studies cannot reveal. They may be <strong>between-subject</strong>, <strong>within-subject</strong> or <strong>mixed</strong>; their cost is the larger number of conditions and more complex interpretation.</p>
 </div>
 </details>
 <details class="answer">
@@ -261,7 +269,8 @@
 <ul>
 <li>One-group pretest-posttest design</li>
 <li>Non-equivalent control-group design</li>
-<li>Interrupted time-series design</li>
+<li>Separate pretest–posttest samples, double-pretest and switching-replications designs</li>
+<li>Interrupted/multiple time-series, repeated-treatment and counterbalanced designs</li>
 </ul>
 <h3>Evaluation</h3>
 <p>They are valuable in natural institutions and where randomisation is impossible, but selection, history and maturation threaten internal validity. Strengthen the design through comparison groups, repeated observations and transparent limits.</p>
@@ -276,6 +285,7 @@
 <div class="body">
 <h3>Framework</h3>
 <p>Define correlational design as measurement of covariation between variables without manipulation.</p>
+<p>For a “types” question, distinguish <strong>bivariate</strong> correlation (two variables), <strong>multiple</strong> correlation (several predictors) and <strong>partial</strong> correlation (the association after controlling specified variables). The coefficient expresses direction and degree, not a causal mechanism.</p>
 <ul>
 <li>
 <strong>Advantages:</strong> studies naturally occurring variables; permits prediction; useful when manipulation is unethical/impossible; can reveal strength/direction of association.</li>
@@ -388,7 +398,7 @@
 </summary>
 <div class="body">
 <h3>Framework</h3>
-<p>Organise the report through: title/abstract; background and research question; methodological approach and researcher position; participants/setting and ethics; data collection/analysis procedure; findings supported by extracts; interpretation/discussion; limitations, implications and references. Explain that reflexivity and anonymisation are especially important in qualitative reporting.</p>
+<p>Organise the report through: title/abstract; background and research question; methodological approach and researcher position; participants/setting and ethics; data collection/analysis procedure; findings supported by extracts; interpretation/discussion; limitations, implications and references. Explain that reflexivity and anonymisation are especially important in qualitative reporting. In interpretation, separate what the data show from the researcher’s inference, acknowledge alternative explanations and limits, and do not claim more generalisation than the design supports.</p>
 </div>
 </details>
 <details class="answer">
@@ -402,7 +412,179 @@
 <p>Define objectivity as minimising the influence of personal preference on research decisions. Give three concise safeguards: <strong>operational definitions and standardised procedures</strong>; <strong>controls, randomisation or blind assessment</strong>; and <strong>transparent records, independent checking or peer review</strong>. Conclude that safeguards reduce bias but do not eliminate the need for reflexive ethical judgement.</p>
 </div>
 </details>
+<details class="answer">
+<summary>
+<span class="marks">10 MARKS · DESIGN</span>
+<h2>Explain research design and the main features of true experimental research.</h2>
+<p class="year">PYQ family: research design, objectives of design, experimental research and experimental designs</p>
+</summary>
+<div class="body">
+<h3>Opening</h3>
+<p>Research design is the <strong>plan, structure and strategy</strong> of investigation. It specifies how variables will be operationalised, how a sample and data will be obtained, and how the hypothesis will be analysed so that the research question can be answered.</p>
+<h3>Objectives of a good design</h3>
+<ol>
+<li><strong>Answer the research question:</strong> produce valid, objective, accurate and economical evidence relevant to the hypothesis.</li>
+<li><strong>Control variance:</strong> maximise systematic or experimental variance, control extraneous variance through elimination, randomisation or building a variable into the design, and minimise error variance through reliable measurement and controlled conditions.</li>
+</ol>
+<h3>True experimental research</h3>
+<ul>
+<li><strong>Manipulation:</strong> the researcher deliberately varies an independent variable.</li>
+<li><strong>Control:</strong> relevant extraneous conditions are held constant or controlled, usually with a comparison/control condition.</li>
+<li><strong>Random assignment:</strong> participants are assigned to treatment conditions by chance, reducing systematic pre-existing differences.</li>
+<li><strong>Measurement of the dependent variable:</strong> the outcome is recorded after the planned treatment conditions, allowing a stronger causal inference than non-experimental designs.</li>
+</ul>
+<h3>Design forms to name</h3>
+<p>Use the form that fits the question: <strong>between-subjects</strong>, <strong>within-subjects/repeated measures</strong>, <strong>mixed</strong>, <strong>classical pretest–posttest control-group</strong>, <strong>Solomon four-group</strong> or <strong>factorial</strong> design. The final sentence should state that even a true experiment needs reliable measures, ethical procedures and a design appropriate to the hypothesis.</p>
+</div>
+</details>
+<details class="answer">
+<summary>
+<span class="marks">10 MARKS · HYPOTHESIS</span>
+<h2>Define a hypothesis. Explain its characteristics, formulation and types.</h2>
+<p class="year">PYQ family: hypothesis formulation, null hypothesis and alternative hypothesis</p>
+</summary>
+<div class="body">
+<h3>Opening</h3>
+<p>A hypothesis is a <strong>tentative and testable statement</strong> about a possible relationship between two or more variables. It offers a potential answer to a solvable research problem and directs collection and interpretation of data.</p>
+<h3>Characteristics of a useful hypothesis</h3>
+<ul>
+<li>It is conceptually clear, specific and expressed in a form that can be empirically tested.</li>
+<li>It is logically connected to the research problem and the existing body of theory or evidence.</li>
+<li>It is capable of verification and operationalisation: the relevant variables and their measurement can be specified.</li>
+</ul>
+<h3>Formulation</h3>
+<p>Move from a defined problem and review of relevant theory/evidence to a clear statement of the expected relationship. Identify the variables, make their operational implications explicit, and choose a design and data-collection procedure capable of testing the statement. A hypothesis suggested after inspecting data should be tested on a new set of data rather than treated as confirmation.</p>
+<h3>Types and caution</h3>
+<p>A <strong>null hypothesis</strong> states no difference or relationship of scientific interest. An <strong>alternative hypothesis</strong> is the research hypothesis that states the relationship or difference the researcher expects. Lack of an adequate theoretical framework, insufficient knowledge of prior evidence and limited knowledge of scientific technique can make formulation difficult.</p>
+</div>
+</details>
+<details class="answer">
+<summary>
+<span class="marks">6 MARKS · OBJECTIVITY</span>
+<h2>Explain research bias and safeguards for objectivity.</h2>
+<p class="year">Linked short-answer and research-quality PYQ family</p>
+</summary>
+<div class="body">
+<h3>Framework</h3>
+<p>Research bias is a systematic influence that can distort the question, data collection, analysis or interpretation. Personal expectations, observer effects, inconsistent administration and selective interpretation can make a conclusion look stronger than the evidence permits.</p>
+<ul>
+<li><strong>Specify operations and standardise procedures:</strong> define constructs, instructions, scoring and recording rules before collecting data.</li>
+<li><strong>Use appropriate control:</strong> random assignment, control/comparison conditions, counterbalancing or blind assessment where the design permits.</li>
+<li><strong>Strengthen measurement and checking:</strong> use reliable instruments, independent scoring/checking, transparent records and clear reporting of limitations.</li>
+<li><strong>Use reflexivity in qualitative work:</strong> state the researcher’s position and show how interpretations were checked against the data.</li>
+<li><strong>Name common biases when asked:</strong> a placebo effect can change responses because participants expect an effect; a post hoc fallacy mistakes an event following another for proof that it was caused by it.</li>
+</ul>
+<p>Conclude that objectivity is strengthened through disciplined design and transparent evidence; it is not achieved by simply claiming neutrality.</p>
+</div>
+</details>
+<details class="answer">
+<summary>
+<span class="marks">10 MARKS · COMPARATIVE DESIGN</span>
+<h2>Explain causal-comparative research design and evaluate it against experimental research.</h2>
+<p class="year">PYQ family: causal-comparative design, comparison with experimental/correlational design and evaluation</p>
+</summary>
+<div class="body">
+<h3>Opening</h3>
+<p>Causal-comparative research is a <strong>non-experimental</strong> design in which the researcher compares pre-existing groups to understand an existing difference on a variable of interest. The independent variable has already occurred or cannot be ethically/practically manipulated.</p>
+<h3>Basic procedure</h3>
+<ol>
+<li>Select a group possessing the relevant attribute or condition and a comparison group without it.</li>
+<li>Define and measure the dependent variable with the same procedure for both groups.</li>
+<li>Compare the groups and consider plausible extraneous or confounding variables before interpreting the difference.</li>
+</ol>
+<h3>Comparison and evaluation</h3>
+<ul>
+<li>Unlike a true experiment, it has <strong>no researcher manipulation and no random assignment</strong>; therefore causal inference is more limited.</li>
+<li>Unlike correlational design, it focuses on differences between groups; correlational research examines relationships among variables within a group.</li>
+<li>It is useful where manipulation is impossible or unethical, but selection and pre-existing group differences threaten internal validity. Conclude cautiously: the design can suggest a causal explanation, not prove it as strongly as a controlled experiment.</li>
+</ul>
+</div>
+</details>
+<details class="answer">
+<summary>
+<span class="marks">6 MARKS · QUASI / FACTORIAL</span>
+<h2>Write notes on mixed factorial and interrupted time-series designs.</h2>
+<p class="year">PYQ family: mixed factorial design and interrupted time-series design</p>
+</summary>
+<div class="body">
+<h3>Mixed factorial design</h3>
+<p>A mixed factorial design has at least one <strong>within-subject variable</strong> and at least one <strong>between-subject variable</strong>. For example, gender may be a between-subject variable while the same participants are measured under more than one treatment condition. It permits examination of main effects and interaction effects, while requiring attention to order effects for the repeated condition.</p>
+<h3>Interrupted time-series design</h3>
+<p>An interrupted time-series design compares a <strong>single group over time</strong> by examining the data trend before and after an intervention or event. Repeated observations make it possible to see whether the level or direction of the trend changes at the interruption. It is especially useful where random assignment is not feasible, but history and other concurrent changes must be considered before attributing the shift to the intervention.</p>
+</div>
+</details>
+<details class="answer">
+<summary>
+<span class="marks">6 MARKS · SURVEY</span>
+<h2>Explain the construction of questions for a survey instrument.</h2>
+<p class="year">PYQ family: survey methods, survey instrument and types of survey questions</p>
+</summary>
+<div class="body">
+<h3>Framework</h3>
+<p>First decide the content, scope and objective of every question. The wording must be clear enough to elicit the information required by the research question, rather than merely sounding formal.</p>
+<ul>
+<li>Use short, specific language appropriate to the respondent; avoid ambiguity, double-barrelled wording, loaded/leading wording and unnecessary assumptions.</li>
+<li>Select a response format that fits the information required: open-ended responses, fixed alternatives, rating scales or Likert-type formats.</li>
+<li>Arrange questions in a logical order, give understandable instructions, and avoid asking sensitive or demanding questions before rapport is established.</li>
+<li>Pilot the instrument, check whether respondents understand it as intended, and revise wording, order or response options before the main survey.</li>
+</ul>
+<p>End by linking question construction to validity: poorly worded questions create measurement error even when the sample is large.</p>
+</div>
+</details>
+<details class="answer">
+<summary>
+<span class="marks">6 MARKS · QUALITATIVE ANALYSIS</span>
+<h2>Differentiate content analysis and critical discourse analysis.</h2>
+<p class="year">PYQ family: discourse analysis, critical discourse analysis and qualitative analysis</p>
+</summary>
+<div class="body">
+<h3>Content analysis</h3>
+<p>Content analysis is a systematic method for organising material into categories and examining what is represented in documents, media, responses or other text. The researcher defines the unit of analysis, develops categories, codes the material consistently and interprets patterns. It may attend to manifest content as well as more interpretive latent content.</p>
+<h3>Critical discourse analysis</h3>
+<p>Critical discourse analysis examines how language constructs meanings, social positions and relations of power in a particular context. It asks how vocabulary, framing, assumptions and interactional patterns work, rather than only how often a category occurs.</p>
+<h3>Close</h3>
+<p>Both require a transparent analytic procedure and examples from the material. Content analysis foregrounds systematic categorisation; critical discourse analysis foregrounds language, context and power.</p>
+</div>
+</details>
 </main>
-<script>document.querySelectorAll('details.answer').forEach(answer=>{answer.open=true});</script>
+<script>
+  const main = document.querySelector('.content');
+  const sourceCards = [...main.querySelectorAll('details.answer')];
+  const cards = sourceCards.map((detail) => {
+    const article = document.createElement('article');
+    article.className = 'answer';
+    const head = document.createElement('div');
+    head.className = 'answer-head';
+    const summary = detail.querySelector('summary');
+    while (summary.firstChild) head.append(summary.firstChild);
+    article.append(head, detail.querySelector('.body'));
+    return article;
+  });
+  const plan = [
+    ['1. Research Process, Good Research & Objectivity', [0, 19, 22]],
+    ['2. Research Design & True Experimental Research', [20]],
+    ['3. Reliability', [1]], ['4. Validity & Validity Threats', [2]],
+    ['5. Variables & Constructs', [3]], ['6. Hypothesis Formulation', [21]],
+    ['7. Sampling', [4]], ['8. Survey Research & Question Construction', [5, 25]],
+    ['9. Ex-Post Facto Research', [6]], ['10. Field Experiment', [7]],
+    ['11. Case Study', [8]], ['12. Single-Factor Design', [9]],
+    ['13. Factorial, Mixed Factorial & Interrupted Time-Series Designs', [10, 24]],
+    ['14. Quasi-Experimental Design', [11]], ['15. Correlational Design', [12]],
+    ['16. Causal-Comparative Design', [23]], ['17. Qualitative versus Quantitative Research', [13]],
+    ['18. Ethnography', [14]], ['19. Grounded Theory', [15]],
+    ['20. Discourse & Content Analysis', [16, 26]],
+    ['21. Qualitative Data Analysis & Report', [17, 18]]
+  ];
+  const title = document.createElement('h1'); title.className = 'bank-title';
+  title.textContent = 'PYQ Answer Bank — MPC-005 (Organized by Topic)';
+  const intro = document.createElement('p'); intro.className = 'bank-intro';
+  intro.innerHTML = 'Answers drafted for IGNOU exam format. <b>10 marks ≈ 450 words · 6 marks ≈ 250 words · 3 marks ≈ 100 words.</b> Intro → Key Points → Conclusion.';
+  const fragment = document.createDocumentFragment();
+  plan.forEach(([topic, indexes]) => {
+    const heading = document.createElement('h2'); heading.className = 'topic-heading'; heading.textContent = topic;
+    fragment.append(heading); indexes.forEach((index) => fragment.append(cards[index]));
+  });
+  main.replaceChildren(title, intro, fragment);
+</script>
 </body>
 </html>
