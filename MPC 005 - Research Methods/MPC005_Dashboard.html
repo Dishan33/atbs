@@ -1,224 +1,29 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#122437">
-<title>MPC-005: Research Methods</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet">
-<style>
-:root{--ink:#0d1c2b;--navy:#122437;--panel:#183247;--paper:#f4f1e9;--muted:#aec0c9;--mint:#8ee0c3;--orange:#ef9b57;--line:rgba(244,241,233,.14)}*{box-sizing:border-box}body{margin:0;background:linear-gradient(90deg,rgba(142,224,195,.025) 1px,transparent 1px),linear-gradient(rgba(142,224,195,.025) 1px,transparent 1px),var(--ink);background-size:24px 24px;color:var(--paper);font-family:'DM Sans',system-ui,sans-serif;height:100svh;overflow:hidden}.topbar{height:64px;display:flex;align-items:center;gap:4px;padding:0 28px;background:rgba(18,36,55,.94);border-bottom:1px solid var(--line);backdrop-filter:blur(16px)}.brand{margin-right:auto;line-height:1}.brand b{font-family:Fraunces,Georgia,serif;font-size:1.35rem}.brand span{display:block;color:var(--mint);font:500 .59rem 'DM Mono',monospace;letter-spacing:.12em;text-transform:uppercase;margin-top:4px}.tab{height:64px;border:0;border-bottom:3px solid transparent;background:none;color:var(--muted);cursor:pointer;font:500 .73rem 'DM Sans',sans-serif;padding:0 13px}.tab:hover,.tab.active{color:var(--mint);border-color:var(--mint)}.tab:focus-visible,.route:focus-visible{outline:2px solid var(--mint);outline-offset:-3px}.area{height:calc(100svh - 64px);position:relative}.panel{display:none;position:absolute;inset:0}.panel.active{display:block}.scroll{height:100%;overflow:auto;padding:clamp(28px,5vw,70px)}.shell{max-width:1080px;margin:auto}.eyebrow{margin:0 0 16px;color:var(--mint);font:500 .69rem 'DM Mono',monospace;letter-spacing:.14em;text-transform:uppercase}.hero{max-width:780px;font:clamp(3.3rem,7vw,6.2rem)/.86 Fraunces,Georgia,serif;letter-spacing:-.06em;margin:0}.hero em{color:var(--mint);font-style:normal}.intro{max-width:610px;color:var(--muted);font-size:1rem;line-height:1.65;margin:24px 0 38px}.label{border-top:1px solid var(--line);color:var(--muted);font:500 .67rem 'DM Mono',monospace;letter-spacing:.12em;padding-top:15px;text-transform:uppercase}.routes{display:grid;grid-template-columns:repeat(12,1fr);gap:14px;margin-top:16px}.route{border:1px solid var(--line);border-radius:7px;background:rgba(24,50,71,.78);color:var(--paper);cursor:pointer;display:flex;flex-direction:column;justify-content:space-between;min-height:178px;padding:22px;text-align:left;transition:.18s ease}.route:hover{background:#204257;border-color:rgba(142,224,195,.75);transform:translateY(-3px)}.route.recall{grid-column:span 5;background:linear-gradient(135deg,#1c4d59,#153348)}.route.exam{grid-column:span 7;background:linear-gradient(135deg,#493841,#1d3446)}.route.small{grid-column:span 4}.no{color:var(--mint);font:500 1.25rem 'DM Mono',monospace}.route h2{font:1.8rem/1 Fraunces,Georgia,serif;margin:0}.route p{color:var(--muted);font-size:.82rem;line-height:1.5;margin:8px 0 0}.go{color:var(--mint);font:500 .66rem 'DM Mono',monospace;letter-spacing:.06em;text-transform:uppercase}.go:after{content:'  ↗';font-size:1rem}.section-title{font:clamp(2.4rem,5vw,4.5rem)/.9 Fraunces,Georgia,serif;margin:0 0 14px;letter-spacing:-.05em}.section-copy{color:var(--muted);line-height:1.6;margin:0 0 25px;max-width:700px}.priority{display:grid;grid-template-columns:repeat(auto-fit,minmax(235px,1fr));gap:12px}.priority article,.block{background:rgba(24,50,71,.75);border:1px solid var(--line);border-radius:7px;padding:20px}.priority strong{color:var(--mint);font:500 .67rem 'DM Mono',monospace;letter-spacing:.1em}.priority h2,.block h2{font:1.6rem Fraunces,Georgia,serif;margin:14px 0 8px}.priority p,.block p,.block li{color:var(--muted);font-size:.85rem;line-height:1.55}.priority ul,.block ul{margin:12px 0 0;padding-left:18px}.block-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.block .tag{color:var(--mint);font:500 .66rem 'DM Mono',monospace;letter-spacing:.1em;text-transform:uppercase}.source{color:var(--muted);font-size:.73rem;line-height:1.5;margin-top:28px}.source a{color:var(--mint)}.chip{color:var(--orange);font:500 .67rem 'DM Mono',monospace;letter-spacing:.1em}.meter{display:flex;gap:5px;margin:12px 0}.meter i{background:var(--mint);display:block;height:4px;width:22px}.meter i.off{background:var(--line)}@media(max-width:720px){.topbar{height:56px;justify-content:space-around;padding:0 5px}.brand{display:none}.tab{height:56px;font-size:.63rem;padding:0 8px}.area{height:calc(100svh - 56px)}.scroll{padding:28px 18px 40px}.hero{font-size:clamp(3.1rem,16vw,4.8rem)}.routes{grid-template-columns:1fr;gap:10px}.route,.route.recall,.route.exam,.route.small{grid-column:span 1;min-height:145px;padding:18px}.route:hover{transform:none}.block-grid{grid-template-columns:1fr}.section-title{font-size:3.1rem}}@media(prefers-reduced-motion:reduce){.route{transition:none}.route:hover{transform:none}}
-</style>
-<style>.topbar{justify-content:flex-start;overflow-x:auto;scrollbar-width:none}.topbar .brand{color:var(--paper);flex:0 0 auto;text-decoration:none}.topbar .tab{align-items:center;display:flex;flex:0 0 auto;text-decoration:none;white-space:nowrap}@media(max-width:720px){.topbar{justify-content:flex-start}.topbar .tab{padding:0 12px}}</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0f172a">
+  <title>MPC-005 - Research Methods</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root{--ink:#0f172a;--parchment:#f6f2e9;--parchment-dim:#94a3b8;--amber:#f6b84b;--amber-glow:rgba(246,184,75,.14);--slate:#17233a;--border:rgba(246,242,233,.12)}*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 82% -15%,#304364 0,transparent 33rem),var(--ink);color:var(--parchment);font-family:Inter,system-ui,sans-serif;height:100svh;overflow:hidden}.topbar{height:64px;background:rgba(23,35,58,.92);backdrop-filter:blur(18px);border-bottom:1px solid var(--border);display:flex;align-items:center;padding:0 28px;gap:4px}.topbar-brand{display:flex;align-items:baseline;gap:8px;margin-right:auto;white-space:nowrap;font:600 1.35rem 'Crimson Pro',Georgia,serif}.topbar-brand span{color:var(--amber);font:500 .66rem Inter,sans-serif;letter-spacing:.08em;text-transform:uppercase}.tab-btn{height:64px;border:0;border-bottom:3px solid transparent;background:none;color:var(--parchment-dim);cursor:pointer;display:flex;align-items:center;gap:5px;font:500 .72rem Inter,sans-serif;padding:0 12px;white-space:nowrap}.tab-btn .ni{font-size:.85rem;opacity:.5}.tab-btn:hover{color:var(--parchment)}.tab-btn.active{border-bottom-color:var(--amber);color:var(--amber)}.tab-btn.active .ni{opacity:1}.tab-btn:focus-visible,.study-card:focus-visible,.subtab:focus-visible{outline:2px solid var(--amber);outline-offset:-4px}.content-area{height:calc(100svh - 64px);position:relative}.tab-panel{display:none;position:absolute;inset:0}.tab-panel.active{display:block}.iframe-full{width:100%;height:100%;border:0;background:var(--ink)}.study-home{height:100%;overflow:auto;padding:clamp(24px,5vw,72px);background:linear-gradient(115deg,rgba(16,24,39,.96),rgba(16,24,39,.72))}.desk-shell{max-width:1100px;margin:auto}.desk-kicker{color:var(--amber);font-size:.68rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;margin:0 0 16px}.desk-title{font:600 clamp(2.9rem,7vw,5.8rem)/.86 'Crimson Pro',Georgia,serif;letter-spacing:-.045em;margin:0;max-width:760px}.desk-title em{color:var(--amber);font-weight:400}.desk-copy{max-width:570px;color:var(--parchment-dim);font-size:1rem;line-height:1.65;margin:24px 0 42px}.route-label{border-top:1px solid var(--border);color:var(--parchment-dim);font-size:.7rem;font-weight:700;letter-spacing:.11em;margin:0;padding-top:16px;text-transform:uppercase}.study-grid{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:14px;margin-top:16px}.study-card{appearance:none;background:rgba(35,50,80,.72);border:1px solid var(--border);border-radius:18px;color:var(--parchment);cursor:pointer;min-height:180px;padding:22px;text-align:left;transition:transform .18s ease,border-color .18s ease,background .18s ease;display:flex;flex-direction:column;justify-content:space-between}.study-card:hover{background:#283957;border-color:rgba(246,184,75,.65);transform:translateY(-4px)}.study-card--recall{grid-column:span 5;background:linear-gradient(135deg,#294270,#1b2c4a)}.study-card--exam{grid-column:span 7;background:linear-gradient(135deg,#472b4d,#27233f)}.study-card--map,.study-card--notes,.study-card--sheets{grid-column:span 4}.study-card__number{color:var(--amber);font:italic 1.7rem 'Crimson Pro',Georgia,serif}.study-card__title,.study-card__copy{display:block}.study-card__title{font:1.8rem/1 'Crimson Pro',Georgia,serif}.study-card__copy{color:var(--parchment-dim);font-size:.82rem;line-height:1.5;margin-top:8px;max-width:31ch}.study-card__go{align-items:center;color:var(--amber);display:flex;font-size:.73rem;font-weight:700;gap:8px;letter-spacing:.06em;text-transform:uppercase}.study-card__go:after{content:'→';font-size:1rem}.desk-footnote{color:var(--parchment-dim);font-size:.75rem;margin:26px 0 0}.sheet-panel{height:100%;background:var(--parchment)}.subtabs{height:44px;background:var(--slate);border-bottom:1px solid var(--border);display:flex;gap:2px;align-items:center;padding:0 20px}.subtab{background:none;border:0;color:var(--parchment-dim);cursor:pointer;font:500 .74rem Inter,sans-serif;padding:7px 14px}.subtab.active{background:var(--amber-glow);color:var(--amber)}.sheet-frame{height:calc(100% - 44px);width:100%;border:0;background:var(--parchment)}@media(max-width:768px){.topbar{height:56px;justify-content:space-around;overflow:hidden;padding:0 6px}.topbar-brand{display:none}.tab-btn{flex:0 0 44px;height:56px;justify-content:center;padding:0;font-size:0}.tab-btn .ni{display:inline;font-size:1rem}.content-area{height:calc(100svh - 56px)}.study-home{padding:28px 18px 38px}.desk-title{font-size:clamp(3rem,15vw,4.7rem)}.desk-copy{font-size:.94rem;margin:20px 0 32px}.study-grid{grid-template-columns:1fr;gap:10px}.study-card,.study-card--recall,.study-card--exam,.study-card--map,.study-card--notes,.study-card--sheets{grid-column:span 1;min-height:148px;border-radius:14px;padding:18px}.study-card__title{font-size:1.55rem}.study-card__copy{font-size:.78rem}.study-card:hover{transform:none}.subtabs{overflow:auto;padding:0 8px;white-space:nowrap}}@media(prefers-reduced-motion:reduce){.study-card{transition:none}.study-card:hover{transform:none}}
+  </style>
 </head>
 <body>
-<nav class="topbar" aria-label="MPC-005 study routes">
-<a class="brand" href="MPC005_Dashboard.html">
-<b>MPC-005</b>
-<span>Research methods in psychology</span>
-</a>
-<a class="tab active" aria-current="page" href="MPC005_Dashboard.html">Study desk</a>
-<a class="tab" href="Flashcards%20%26%20Notes/MPC005_Flashcards.html">Flashcards</a>
-<a class="tab" href="Flashcards%20%26%20Notes/MPC005_Themes_and_Timeline.html">Themes</a>
-<a class="tab" href="MPC005_Dashboard.html?view=blocks">Cheat sheets</a>
-<a class="tab" href="MPC005_PYQ_Analysis.html">Analysis</a>
-<a class="tab" href="MPC005_PYQ_Answer_Bank.html">Answers</a>
-</nav>
-<div class="area">
-<section class="panel active" id="desk">
-<main class="scroll">
-<div class="shell">
-<p class="eyebrow">MPC-005 · Research Methods in Psychology</p>
-<h1 class="hero">Build a study you can <em>defend.</em>
-</h1>
-<p class="intro">Practise the definitions, comparisons and research decisions that MPC-005 papers test: reliability, sampling, designs and qualitative inquiry.</p>
-<p class="label">Pick a study route</p>
-<div class="routes">
-<button class="route recall" data-link="Flashcards%20%26%20Notes/MPC005_Flashcards.html">
-<span class="no">01</span>
-<span>
-<h2>Recall the terms</h2>
-<p>Use 60 cards for methods, designs, validity and qualitative analysis.</p>
-</span>
-<span class="go">Start cards</span>
-</button>
-<button class="route exam" data-link="MPC005_PYQ_Answer_Bank.html">
-<span class="no">02</span>
-<span>
-<h2>Write for marks</h2>
-<p>Use 20 mark-labelled frameworks from papers set between 2011 and 2025.</p>
-</span>
-<span class="go">Open answer bank</span>
-</button>
-<button class="route small" data-go="blocks">
-<span class="no">03</span>
-<span>
-<h2>Map the course</h2>
-<p>Read four block sheets before you revise a topic in depth.</p>
-</span>
-<span class="go">Open sheets</span>
-</button>
-<button class="route small" data-link="MPC005_PYQ_Analysis.html">
-<span class="no">04</span>
-<span>
-<h2>Find repeats</h2>
-<p>See topics and answer moves that appear across fifteen years of papers.</p>
-</span>
-<span class="go">View patterns</span>
-</button>
-<button class="route small" data-link="Flashcards%20%26%20Notes/MPC005_Themes_and_Timeline.html">
-<span class="no">05</span>
-<span>
-<h2>Choose a method</h2>
-<p>Match a research question to a design and the claim it can support.</p>
-</span>
-<span class="go">Open method atlas</span>
-</button>
-</div>
-<p class="source">Use the prescribed MPC-005 blocks with the <a href="PYQ_MPC-005_2011-2025.pdf" target="_blank">2011–2025 MPC-005 PYQ corpus</a>.</p>
-</div>
-</main>
-</section>
-<section class="panel" id="focus">
-<main class="scroll">
-<div class="shell">
-<p class="eyebrow">PYQ priority map · 2011–2025</p>
-<h1 class="section-title">Examiners ask for precise <em>method.</em>
-</h1>
-<p class="section-copy">Start with repeat clusters. For a long answer, write the definition, organise the explanation, use an example and close by answering the command word.</p>
-<div class="priority">
-<article>
-<strong>ESSENTIAL</strong>
-<h2>Research foundations</h2>
-<div class="meter">
-<i>
-</i>
-<i>
-</i>
-<i>
-</i>
-</div>
-<p>Research process, good research, reliability, validity, variables, constructs, hypothesis and sampling.</p>
-<ul>
-<li>Reliability appears in 10- and 6-mark questions</li>
-<li>Validity threats need a precise comparison</li>
-</ul>
-</article>
-<article>
-<strong>ESSENTIAL</strong>
-<h2>Survey & non-experiment</h2>
-<div class="meter">
-<i>
-</i>
-<i>
-</i>
-<i>
-</i>
-</div>
-<p>Survey steps and data collection, ex-post facto, field experiment, case study and correlation.</p>
-<ul>
-<li>Steps + types is a frequent answer shape</li>
-<li>Use a clear contrast when prompted</li>
-</ul>
-</article>
-<article>
-<strong>ESSENTIAL</strong>
-<h2>Research designs</h2>
-<div class="meter">
-<i>
-</i>
-<i>
-</i>
-<i>
-</i>
-</div>
-<p>Single-factor, factorial, quasi-experimental and comparative designs appear in long answers.</p>
-<ul>
-<li>Know main vs interaction effect</li>
-<li>Pair each design with a small example</li>
-</ul>
-</article>
-<article>
-<strong>ESSENTIAL</strong>
-<h2>Qualitative research</h2>
-<div class="meter">
-<i>
-</i>
-<i>
-</i>
-<i>
-</i>
-</div>
-<p>Ethnography, grounded theory, discourse analysis, analysis and reporting appear at each mark level.</p>
-<ul>
-<li>Grounded theory and discourse analysis recur most</li>
-<li>Steps and assumptions matter as much as definitions</li>
-</ul>
-</article>
-</div>
-<p class="source">Open the visual analysis for past-paper examples and answer frames.</p>
-</div>
-</main>
-</section>
-<section class="panel" id="blocks">
-<main class="scroll">
-<div class="shell">
-<p class="eyebrow">Four-block cheat sheets</p>
-<h1 class="section-title">Keep the design <em>in view.</em>
-</h1>
-<p class="section-copy">Use this course map to locate a topic. Read the prescribed unit for definitions, distinctions and examples before you write an answer.</p>
-<div class="block-grid">
-<article class="block">
-<p class="tag">Block 1 · foundations</p>
-<h2>How research earns confidence</h2>
-<p><a href="Cheat%20Sheets/MPC005_Block1_One_Pager.html" target="_blank" style="color:var(--mint);font-weight:700">Open printable one-pager →</a></p>
-<ul>
-<li>Meaning, criteria, objectives and process of research</li>
-<li>Reliability, validity and threats to validity</li>
-<li>Variables, constructs and hypothesis</li>
-<li>Probability and non-probability sampling</li>
-</ul>
-</article>
-<article class="block">
-<p class="tag">Block 2 · types of research</p>
-<h2>How a question meets the field</h2>
-<p><a href="Cheat%20Sheets/MPC005_Block2_One_Pager.html" target="_blank" style="color:var(--mint);font-weight:700">Open printable one-pager →</a></p>
-<ul>
-<li>Survey: types, questions, steps and issues</li>
-<li>Ex-post facto and experimental research</li>
-<li>Field experiment: planning, strengths and limits</li>
-<li>Case study: selection, process and misconceptions</li>
-</ul>
-</article>
-<article class="block">
-<p class="tag">Block 3 · research designs</p>
-<h2>How variance is organised</h2>
-<p><a href="Cheat%20Sheets/MPC005_Block3_One_Pager.html" target="_blank" style="color:var(--mint);font-weight:700">Open printable one-pager →</a></p>
-<ul>
-<li>Single-factor: between- and within-subject designs</li>
-<li>Factorial: factors, levels, main and interaction effects</li>
-<li>Quasi-experimental designs and their advantages</li>
-<li>Correlational and comparative designs</li>
-</ul>
-</article>
-<article class="block">
-<p class="tag">Block 4 · qualitative research</p>
-<h2>How meaning is studied</h2>
-<p><a href="Cheat%20Sheets/MPC005_Block4_One_Pager.html" target="_blank" style="color:var(--mint);font-weight:700">Open printable one-pager →</a></p>
-<ul>
-<li>Qualitative vs quantitative and ethnography</li>
-<li>Grounded theory: goals, steps and coding</li>
-<li>Discourse analysis: assumptions, approaches and relevance</li>
-<li>Analysing, evaluating and reporting qualitative data</li>
-</ul>
-</article>
-</div>
-</div>
-</main>
-</section>
-</div>
-<script>const panels=[...document.querySelectorAll('.panel')];function show(view){panels.forEach(panel=>panel.classList.toggle('active',panel.id===view))}const view=new URLSearchParams(location.search).get('view');if(view&&document.getElementById(view)){show(view);document.querySelectorAll('.tab').forEach(link=>link.classList.toggle('active',link.getAttribute('href')===`MPC005_Dashboard.html?view=${view}`))}document.querySelectorAll('[data-link]').forEach(route=>route.onclick=()=>location.href=route.dataset.link);document.querySelectorAll('[data-go]').forEach(route=>route.onclick=()=>show(route.dataset.go));</script>
+  <nav class="topbar" aria-label="MPC-005 study modes"><div class="topbar-brand">MPC-005 <span>Research Methods</span></div><button class="tab-btn active" data-tab="home"><span class="ni">✦</span>Study Desk</button><button class="tab-btn" data-tab="mindmap"><span class="ni">◇</span>Mind Map</button><button class="tab-btn" data-tab="flashcards"><span class="ni">▶</span>Flashcards</button><button class="tab-btn" data-tab="themes"><span class="ni">☷</span>Themes</button><button class="tab-btn" data-tab="cheatsheets"><span class="ni">☰</span>Cheat Sheets</button><button class="tab-btn" data-tab="analysis"><span class="ni">★</span>Analysis</button><button class="tab-btn" data-tab="answers"><span class="ni">✎</span>Answers</button></nav>
+  <div class="content-area">
+    <section id="panel-home" class="tab-panel active"><main class="study-home"><div class="desk-shell"><p class="desk-kicker">MPC-005 · Research Methods in Psychology</p><h1 class="desk-title">Build a study you can <em>defend.</em></h1><p class="desk-copy">Move from an idea to the method that can answer it. Use the modes below to connect definitions, design decisions, evidence and answer structure.</p><p class="route-label">Choose a study route</p><div class="study-grid"><button class="study-card study-card--recall" data-tab="flashcards"><span class="study-card__number">01</span><span><span class="study-card__title">Recall it</span><span class="study-card__copy">60 mark-led flashcards for methods, designs and qualitative inquiry.</span></span><span class="study-card__go">Start flashcards</span></button><button class="study-card study-card--exam" data-tab="answers"><span class="study-card__number">02</span><span><span class="study-card__title">Write for marks</span><span class="study-card__copy">Exam-ready frameworks grounded in the PYQ corpus.</span></span><span class="study-card__go">Open answer bank</span></button><button class="study-card study-card--map" data-tab="mindmap"><span class="study-card__number">03</span><span><span class="study-card__title">See the links</span><span class="study-card__copy">Map the research process, field methods, designs and qualitative approaches.</span></span><span class="study-card__go">Explore map</span></button><button class="study-card study-card--notes" data-tab="themes"><span class="study-card__number">04</span><span><span class="study-card__title">Trace the methods</span><span class="study-card__copy">Follow the question-to-claim logic behind each approach.</span></span><span class="study-card__go">View themes</span></button><button class="study-card study-card--sheets" data-tab="cheatsheets"><span class="study-card__number">05</span><span><span class="study-card__title">Condense it</span><span class="study-card__copy">Four printable block sheets for a focused final pass.</span></span><span class="study-card__go">Open sheets</span></button></div><p class="desk-footnote">Use the tabs above to switch modes without losing your place.</p></div></main></section>
+    <section id="panel-mindmap" class="tab-panel"><iframe class="iframe-full" src="MPC005_Mind_Map.html" title="MPC-005 mind map"></iframe></section>
+    <section id="panel-flashcards" class="tab-panel"><iframe class="iframe-full" src="Flashcards%20%26%20Notes/MPC005_Flashcards.html" title="MPC-005 flashcards"></iframe></section>
+    <section id="panel-themes" class="tab-panel"><iframe class="iframe-full" src="Flashcards%20%26%20Notes/MPC005_Themes_and_Timeline.html" title="MPC-005 themes"></iframe></section>
+    <section id="panel-analysis" class="tab-panel"><iframe class="iframe-full" src="MPC005_PYQ_Analysis.html" title="MPC-005 PYQ analysis"></iframe></section>
+    <section id="panel-answers" class="tab-panel"><iframe class="iframe-full" src="MPC005_PYQ_Answer_Bank.html" title="MPC-005 answer bank"></iframe></section>
+    <section id="panel-cheatsheets" class="tab-panel"><div class="sheet-panel"><div class="subtabs"><button class="subtab active" data-sheet="Cheat%20Sheets/MPC005_Block1_One_Pager.html">Block 1</button><button class="subtab" data-sheet="Cheat%20Sheets/MPC005_Block2_One_Pager.html">Block 2</button><button class="subtab" data-sheet="Cheat%20Sheets/MPC005_Block3_One_Pager.html">Block 3</button><button class="subtab" data-sheet="Cheat%20Sheets/MPC005_Block4_One_Pager.html">Block 4</button></div><iframe id="sheet-frame" class="sheet-frame" src="Cheat%20Sheets/MPC005_Block1_One_Pager.html" title="MPC-005 cheat sheet"></iframe></div></section>
+  </div>
+  <script>const buttons=[...document.querySelectorAll('[data-tab]')],panels=[...document.querySelectorAll('.tab-panel')];function show(id){buttons.filter(b=>b.closest('.topbar')).forEach(b=>b.classList.toggle('active',b.dataset.tab===id));panels.forEach(p=>p.classList.toggle('active',p.id===`panel-${id}`));}buttons.forEach(b=>b.addEventListener('click',()=>show(b.dataset.tab)));document.querySelectorAll('[data-sheet]').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('[data-sheet]').forEach(x=>x.classList.toggle('active',x===b));document.querySelector('#sheet-frame').src=b.dataset.sheet;}));document.addEventListener('keydown',e=>{if(!(e.ctrlKey||e.metaKey))return;const ids=['home','mindmap','flashcards','themes','cheatsheets','analysis','answers'];const n=Number(e.key);if(n>0&&n<=ids.length){e.preventDefault();show(ids[n-1]);}});</script>
+<script>if(new URLSearchParams(location.search).get('view')==='blocks')show('cheatsheets');</script>
 </body>
 </html>
