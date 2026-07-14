@@ -9,6 +9,10 @@
   <style>
     :root{--ink:#0f172a;--panel:#1b2b48;--paper:#e2e8f0;--muted:#94a3b8;--sun:#60a5fa;--line:rgba(248,242,232,.14)}*{box-sizing:border-box}body{margin:0;background:var(--ink);color:var(--paper);font-family:Inter,sans-serif}.mast{background:radial-gradient(circle at 84% 0,#38577f 0,transparent 30rem),var(--panel);border-bottom:1px solid var(--line);padding:clamp(28px,7vw,86px) 20px}.mast>div,.main{max-width:940px;margin:auto}.eyebrow,.meta{color:var(--sun);font:500 .7rem 'Inter',monospace;letter-spacing:.12em;text-transform:uppercase}.mast h1{font:clamp(3rem,8vw,6rem)/.84 'Crimson Pro',Georgia,serif;letter-spacing:-.05em;margin:15px 0}.mast h1 em{color:var(--sun)}.mast p{color:var(--muted);line-height:1.65;max-width:600px}.main{padding:40px 20px 70px}.guide{border-left:2px solid var(--sun);color:var(--muted);line-height:1.6;margin-bottom:32px;padding:5px 0 5px 16px}.answer{border-top:1px solid var(--line);padding:30px 0}.answer h2{font:clamp(1.9rem,4vw,3rem)/1 'Crimson Pro',Georgia,serif;margin:10px 0 16px}.badge{color:var(--sun);font:500 .68rem 'Inter',monospace;letter-spacing:.1em}.answer p,.answer li{color:var(--muted);line-height:1.68}.answer strong{color:var(--paper)}.answer ol{padding-left:22px}.memory{background:rgba(27,43,72,.74);border:1px solid var(--line);border-radius:12px;color:var(--paper);font-size:.9rem;padding:14px 16px}.memory b{color:var(--sun)}@media print{body{background:#fff;color:#111}.mast{background:#fff;color:#111}.mast p,.answer p,.answer li,.guide{color:#333}.mast h1,.answer strong{color:#111}.answer{break-inside:avoid}.badge,.eyebrow,.meta,.memory b{color:#805500}.memory{background:#faf7ef;border-color:#ddd;color:#111}}@media(max-width:560px){.main{padding-top:28px}.answer{padding:24px 0}}
   </style>
+  <style>
+    /* Shared MPC-003 answer-bank presentation; framework content remains MPC-004 specific. */
+    body{background:#0f172a;color:#e2e8f0;font-family:"Segoe UI",system-ui,sans-serif;padding:16px}.mast{display:none}.main{max-width:none;margin:0;padding:0}.guide{display:none}.bank-title,.topic-heading{border-bottom:1px solid #334155;color:#60a5fa;font-family:"Segoe UI",system-ui,sans-serif;font-size:1.05rem;line-height:1.25;margin:0 0 10px;padding-bottom:5px}.topic-heading{margin:24px 0 10px}.bank-intro{color:#94a3b8;font-size:.8rem;line-height:1.5;margin:0 0 16px}.bank-intro b{color:#cbd5e1}.answer{background:#1e293b;border:1px solid #334155;border-radius:8px;margin:10px 0;padding:14px 18px}.answer .badge{background:rgba(239,68,68,.22);border-radius:4px;color:#fca5a5;display:inline-block;font-family:"Segoe UI",system-ui,sans-serif;font-size:.67rem;font-weight:700;letter-spacing:.05em;margin:0;padding:3px 7px}.answer h2{color:#60a5fa;font-family:"Segoe UI",system-ui,sans-serif;font-size:.92rem;line-height:1.3;margin:8px 0}.answer p,.answer li{color:#cbd5e1;font-size:.82rem;line-height:1.55}.answer p{margin:5px 0}.answer ol{margin:7px 0;padding-left:20px}.answer strong{color:#f8fafc}.memory{background:rgba(15,23,42,.42);border:0;border-left:2px solid #60a5fa;border-radius:0;color:#cbd5e1;font-size:.79rem;margin:10px 0 0;padding:6px 0 6px 10px}.memory b{color:#93c5fd}@media(max-width:600px){body{padding:12px}.answer{padding:12px 14px}.topic-heading{margin-top:20px}}
+  </style>
 </head>
 <body>
   <header class="mast"><div><p class="eyebrow">MPC-004 · Advanced Social Psychology</p><h1>Answer for <em>marks.</em></h1><p>Thirty-two exam-led frameworks from the 2011-2025 PYQ corpus. Each tells you what to define, develop and distinguish; expand it with the prescribed-block wording in the exam.</p></div></header>
@@ -58,5 +62,33 @@
 
     <article class="answer"><p class="badge">6 / 3 marks · Social interaction</p><h2>Social interaction theory, social impact and current social psychology</h2><p><strong>Social interaction</strong> refers to the reciprocal ways people perceive, influence and respond to one another. Social psychology studies these processes at interpersonal, group and wider social levels.</p><ol><li><strong>Reciprocity:</strong> one person's action becomes a stimulus for another response, creating ongoing patterns of influence.</li><li><strong>Roles and norms:</strong> interaction is structured by expectations, social positions and shared rules about appropriate conduct.</li><li><strong>Social impact:</strong> the influence of other people varies with their strength, immediacy and number; the effect is not simply a matter of crowd size.</li><li><strong>Contemporary reach:</strong> social psychology applies its concepts to health, media, digital interaction, environmental behaviour, organisations, law and intergroup relations.</li></ol><p class="memory"><b>Use:</b> for a 3-marker, define the named term and give two features. For a 6-marker, relate it to norms, roles, influence and one contemporary application.</p></article>
   </main>
+  <script>
+    const main = document.querySelector('.main');
+    const cards = [...main.querySelectorAll('article.answer')];
+    const plan = [
+      ['1. Nature, History & Approaches of Social Psychology', [0, 20]],
+      ['2. Applications & Social Interaction', [31]],
+      ['3. Research Methods, Validity & Ethnography', [10, 21, 22]],
+      ['4. Ethics in Social-Psychological Research', [11]],
+      ['5. Social Influence', [1, 12, 13]],
+      ['6. Attitudes & Attitude-Organisation Theories', [2, 14, 25, 26]],
+      ['7. Prejudice, Stereotypes & Discrimination', [3, 15]],
+      ['8. Groups & Group Dynamics', [7, 18, 19, 28, 29]],
+      ['9. Person Perception & Attribution', [6, 23, 24]],
+      ['10. Prosocial Behaviour, Attraction, Cooperation & Competition', [4, 16, 17]],
+      ['11. Aggression & Social Conflict', [5, 8, 27]],
+      ['12. Crowd & Collective Behaviour', [9, 30]]
+    ];
+    const title = document.createElement('h1'); title.className = 'bank-title';
+    title.textContent = 'PYQ Answer Bank — MPC-004 (Organized by Topic)';
+    const intro = document.createElement('p'); intro.className = 'bank-intro';
+    intro.innerHTML = 'Answers drafted for IGNOU exam format. <b>10 marks ≈ 450 words · 6 marks ≈ 250 words · 3 marks ≈ 100 words.</b> Intro → Key Points → Conclusion.';
+    const fragment = document.createDocumentFragment();
+    plan.forEach(([topic, indexes]) => {
+      const heading = document.createElement('h2'); heading.className = 'topic-heading'; heading.textContent = topic;
+      fragment.append(heading); indexes.forEach((index) => fragment.append(cards[index]));
+    });
+    main.replaceChildren(title, intro, fragment);
+  </script>
 </body>
 </html>
