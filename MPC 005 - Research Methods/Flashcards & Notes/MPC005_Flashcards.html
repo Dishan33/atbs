@@ -12,7 +12,7 @@
 <body>
 <header class="head">
 <div class="wrap">
-<p class="kicker">Active recall · 60 cards</p>
+<p class="kicker">Active recall · 72 cards</p>
 <h1>Test the <em>method.</em>
 </h1>
 <p>Answer before you reveal the card. Check for the distinction, condition or example the question asks for.</p>
@@ -422,8 +422,121 @@ rich('<strong>Reflexivity</strong> is the researcher’s ongoing examination of 
 'By making these influences visible, reflexivity strengthens transparency and helps readers evaluate the account rather than treating it as unmediated fact.'
 ],['reflexivity','researcher position','assumptions','power relations','transparency','qualitative research'])
 ];
+const supplementalCards=[
+['Designs','What makes a true experiment? Explain the Solomon four-group design.','Manipulation, control and random assignment create the strongest causal design.'],
+['Variables','Explain continuous, discrete, intervening and hypothetical variables.','Variable types must be distinguished by their values and theoretical status.'],
+['Hypothesis & sampling','What are hypothesis types and errors in testing?','State null and alternative hypotheses, then distinguish decision errors.'],
+['Hypothesis & sampling','Compare probability and non-probability sampling.','Explain selection logic before listing methods.'],
+['Non-experimental','How are cases selected and studied in case-study research?','A case study needs a bounded case, multiple evidence sources and transparent procedure.'],
+['Designs','What is a mixed factorial design?','It combines within-subject and between-subject factors.'],
+['Designs','What is an interrupted time-series design?','Repeated observations before and after an intervention reveal a possible change in trend.'],
+['Non-experimental','What is causal-comparative research?','It compares pre-existing groups without manipulation or random assignment.'],
+['Qualitative','Differentiate content analysis and critical discourse analysis.','Both analyse text, but they ask different questions of it.'],
+['Qualitative','How is qualitative data analysed from raw material to themes?','Show familiarisation, coding, categorisation, interpretation and checking.'],
+['Measurement','Explain content, criterion and construct validity.','Different validation evidence supports different inferences.'],
+['Survey','How should a survey question be constructed?','Question wording and response format determine measurement quality.']
+];
+const supplementalAnswers=[
+rich('<strong>True experimental research</strong> deliberately manipulates an independent variable, measures a dependent variable and uses control procedures to support a causal inference.',[
+'<strong>Manipulation:</strong> the researcher varies the treatment or condition; <strong>control:</strong> extraneous influences are held constant or handled through a comparison condition.',
+'<strong>Random assignment</strong> allocates participants to conditions by chance, reducing systematic pre-existing group differences. Reliable measurement and ethical procedures remain essential.',
+'The <strong>Solomon four-group design</strong> combines pretested and unpretested experimental and control groups. It helps separate a treatment effect from any effect of giving a pretest.',
+'Name the form that fits the question: between-subjects, within-subjects/repeated measures, mixed, classical pretest-posttest control-group, Solomon four-group or factorial.'
+],['manipulation','control group','random assignment','dependent variable','Solomon four-group','pretest effect']),
+rich('<strong>Continuous variables</strong> can take values along a continuum; <strong>discrete variables</strong> take separate countable values. Theoretical variables must also be distinguished by how directly they are observed.',[
+'Height, response time and test score can be treated as continuous when intermediate values are meaningful; number of children or number of errors are discrete counts.',
+'An <strong>intervening variable</strong> is an inferred process used to explain how one observed variable may influence another—for example, motivation mediating feedback and persistence.',
+'A <strong>hypothetical construct</strong> is a theoretical term, such as intelligence or anxiety, regarded as real but not directly observed; it requires an operational definition.',
+'In an answer, distinguish the theoretical concept from the measured indicator and avoid treating an inferred construct as directly observable.'
+],['continuous variable','discrete variable','intervening variable','hypothetical construct','operational definition','indicator']),
+rich('<strong>A null hypothesis (H₀)</strong> states that no difference or relationship of scientific interest exists; the <strong>alternative or research hypothesis (H₁)</strong> states the expected difference or relationship.',[
+'A directional hypothesis specifies the expected direction; a non-directional hypothesis predicts a difference or association without specifying its direction.',
+'A <strong>Type I error</strong> occurs when a true null hypothesis is rejected; a <strong>Type II error</strong> occurs when a false null hypothesis is not rejected.',
+'Good formulation begins with a clear problem and theory, identifies variables and their operationalisation, and selects a design capable of testing the statement.',
+'Do not treat a hypothesis suggested after seeing the data as confirmed by those same data; it should be tested on new data.'
+],['null hypothesis','alternative hypothesis','directional','non-directional','Type I error','Type II error','operationalisation']),
+rich('<strong>Probability sampling</strong> gives population members a known chance of selection; <strong>non-probability sampling</strong> does not.',[
+'Probability methods include simple random, systematic, stratified and cluster sampling. They require an appropriate sampling frame and can support stronger statistical generalisation.',
+'Non-probability methods include convenience, purposive, quota and snowball sampling. They may be appropriate for exploratory, qualitative or hard-to-reach populations.',
+'The choice must follow the research question, population access, resources and inference required—not a blanket claim that one method is always superior.',
+'Conclude by naming the likely limitation: sampling bias and limited generalisation where selection probabilities are unknown.'
+],['probability sampling','sampling frame','simple random','systematic','stratified','cluster','quota','snowball']),
+rich('<strong>Case-study research</strong> requires deliberate selection of a bounded case and systematic use of evidence, rather than merely writing a descriptive story.',[
+'Select a case because it is information-rich: it may be critical, extreme/deviant, typical, revelatory or paradigmatic for the research question.',
+'Define the case boundary, negotiate ethical access, collect multiple sources such as interviews, observations, records and documents, and maintain an audit trail.',
+'Analyse evidence within its context, compare sources where appropriate and make the chain from evidence to interpretation visible.',
+'A case study offers depth and process understanding, but its conclusions require careful analytic—not automatic statistical—generalisation.'
+],['bounded case','information-rich case','critical case','extreme case','triangulation','audit trail','analytic generalisation']),
+rich('<strong>A mixed factorial design</strong> contains at least one within-subject factor and at least one between-subject factor.',[
+'For example, gender can be a between-subject factor while the same participants are assessed before and after an intervention, producing both kinds of comparison.',
+'Like every factorial design, it can test main effects and interaction effects; the interaction asks whether the repeated-condition effect differs across groups.',
+'Because one factor is repeated, researchers must manage order, practice, fatigue and carryover effects through counterbalancing or appropriate spacing.',
+'Show the factors, their levels and the cells or measurement occasions clearly in an exam diagram.'
+],['mixed factorial','within-subject factor','between-subject factor','main effect','interaction','counterbalancing','carryover']),
+rich('<strong>An interrupted time-series design</strong> repeatedly measures a single group before and after an intervention or naturally occurring event.',[
+'The pre-intervention observations establish a baseline trend; post-intervention observations show whether the level or direction of that trend changes at the interruption.',
+'It is useful when random assignment is not feasible, such as policy, school or community interventions.',
+'Its strength is repeated observation rather than a single before-after comparison. Its limitation is that history or another concurrent change may explain the shift.',
+'A cautious conclusion states that the intervention is associated with a change in the series unless alternative explanations have been adequately addressed.'
+],['interrupted time-series','baseline trend','repeated observations','intervention','history threat','quasi-experiment']),
+rich('<strong>Causal-comparative research</strong> is a non-experimental design that compares pre-existing groups on a dependent variable when the presumed cause has already occurred or cannot be manipulated.',[
+'Select a group with the relevant attribute or condition and a comparison group; measure the outcome by the same procedure and compare the groups.',
+'Unlike a true experiment, it has no researcher manipulation and no random assignment. Selection and other pre-existing differences can therefore threaten internal validity.',
+'Unlike correlational research, it focuses on differences between groups rather than the relationship among variables within a group.',
+'It is useful where experimentation is impossible or unethical, but it can suggest a causal explanation more cautiously than a controlled experiment can test one.'
+],['causal-comparative','pre-existing groups','comparison group','no manipulation','no random assignment','internal validity']),
+rich('<strong>Content analysis</strong> systematically categorises material; <strong>critical discourse analysis</strong> examines how language constructs meanings, social positions and power relations.',[
+'Content analysis defines the unit of analysis, develops categories, codes material consistently and interprets patterns. It can examine manifest content and more interpretive latent content.',
+'Critical discourse analysis asks how vocabulary, framing, assumptions and interactional patterns work in a particular social context, rather than only how often a category occurs.',
+'Both require a transparent procedure and examples from the material. The difference is the analytic focus: categorisation versus language, context and power.',
+'Link this distinction to the course unit: discourse analysis, critical discourse analysis and content analysis should not be treated as interchangeable labels.'
+],['content analysis','unit of analysis','manifest content','latent content','critical discourse analysis','power','context']),
+rich('<strong>Qualitative analysis</strong> moves from raw material to a defensible interpretation through systematic familiarisation, coding, categorisation and theme development.',[
+'Organise recordings, transcripts, field notes or documents; read repeatedly and record initial observations while retaining the context of each account.',
+'Code meaningful segments, compare them across cases, group related codes into categories or themes, and test whether the emerging interpretation fits the material.',
+'Use extracts to show the evidence for a claim; keep an audit trail, note reflexive decisions and consider negative or disconfirming material.',
+'Evaluation asks whether the account is credible, dependable, confirmable and transferable—not whether it imitates a statistical test.'
+],['familiarisation','coding','categories','themes','audit trail','negative cases','credibility','reflexivity']),
+rich('<strong>Validity evidence</strong> concerns whether an instrument and the inference drawn from it are appropriate for the intended use.',[
+'<strong>Content validity</strong> asks whether items adequately represent the domain being measured; expert review and a specification of the content domain are relevant.',
+'<strong>Criterion-related validity</strong> concerns the relation with an external criterion: concurrent validity uses a present criterion, while predictive validity concerns a later outcome.',
+'<strong>Construct validity</strong> concerns whether evidence supports the theoretical construct; it may include expected convergence with related measures and distinction from unrelated measures.',
+'State that reliability supports sound measurement but does not, by itself, establish any form of validity.'
+],['content validity','criterion validity','concurrent validity','predictive validity','construct validity','convergent evidence','reliability']),
+rich('<strong>Survey-question construction</strong> begins with the information needed for the research question, then chooses wording and a response format that can measure it clearly.',[
+'Use short, specific language appropriate to respondents; avoid ambiguity, double-barrelled wording, leading or loaded wording and assumptions the respondent may not share.',
+'Choose an open-ended response when breadth is required; use fixed alternatives, checklists, rating scales or Likert-type formats when standardised coding is needed.',
+'Order questions logically, give clear instructions, avoid demanding or sensitive questions before rapport is established, and pilot the instrument before the main survey.',
+'Poor question construction produces measurement error even when the sample is large; link the final sentence to validity.'
+],['question construction','open-ended','closed-ended','rating scale','Likert-type','double-barrelled','pilot study','measurement error'])
+];
+const supplementalPriorities=[
+['6-10','TIER 1',23,'very-high'],['3-6','TIER 2',17,'high'],['3-10','TIER 2',9,'low-medium'],['3-10','TIER 2',14,'medium'],['3-10','TIER 2',10,'medium'],['3-10','TIER 2',17,'high'],['3-10','TIER 2',17,'high'],['6-10','TIER 3',5,'low'],['3-10','TIER 1',22,'very-high'],['3-10','TIER 2',11,'medium'],['3-10','TIER 1',19,'high'],['3-10','TIER 1',22,'very-high']
+].map(([marks,tier,hits,heat])=>({marks,tier,hits,heat}));
+const baseCardCount=cards.length;cards.push(...supplementalCards.map((item,offset)=>[...item,baseCardCount+offset]));detailedAnswers.push(...supplementalAnswers);priorityByCard.push(...supplementalPriorities);
 let topic='All',i=0,flipped=false,mpc005ReturnTimer;const card=document.querySelector('#card'),tag=document.querySelector('#tag'),question=document.querySelector('#question'),examMeta=document.querySelector('#examMeta'),examScope=document.querySelector('#examScope'),answer=document.querySelector('#answer'),counter=document.querySelector('#counter'),hint=document.querySelector('#hint'),filters=document.querySelector('#filters');const themes=['All',...new Set(cards.map(x=>x[0]))];const heatLabels={'very-high':'Very High',high:'High',medium:'Medium','low-medium':'Low–Medium',low:'Low'};const active=()=>cards.filter(x=>topic==='All'||x[0]===topic);const scopeFor=marks=>marks==='10'?'10-mark scope: definition → core components, steps or types → a method example or distinction → brief conclusion.':marks==='6'?'6-mark scope: definition → three focused points → one relevant distinction, control or limitation.':'3-mark scope: precise definition → two decisive terms, steps or points.';function draw(){const set=active();if(i>=set.length)i=0;const x=set[i],priority=priorityByCard[x[3]];flipped=false;card.classList.remove('flip','unflipping');card.setAttribute('aria-pressed','false');tag.textContent=x[0];question.textContent=x[1];examMeta.innerHTML=`<span class="marks-badge marks-${priority.marks}">Likely ${priority.marks} Marks</span><span class="tier-badge tier-${priority.tier.slice(-1)}">${priority.tier}</span><span class="hits-badge">${priority.hits} PYQ hits</span><span class="heat-badge heat-${priority.heat}">${heatLabels[priority.heat]}</span>`;examScope.textContent=scopeFor(priority.marks);answer.innerHTML=detailedAnswers[x[3]]??x[2];counter.textContent=`Card ${i+1} of ${set.length} · ${topic}`;hint.textContent='Tap to reveal the answer'}function flipCard(){flipped=!flipped;card.classList.toggle('flip',flipped);card.classList.toggle('unflipping',!flipped);card.setAttribute('aria-pressed',String(flipped));clearTimeout(mpc005ReturnTimer);if(!flipped)mpc005ReturnTimer=setTimeout(()=>card.classList.remove('unflipping'),520);hint.textContent=flipped?'Tap to hide the answer':'Tap to reveal the answer'}themes.forEach(t=>{const b=document.createElement('button');b.textContent=t;b.className=t==='All'?'active':'';b.onclick=()=>{topic=t;i=0;[...filters.children].forEach(x=>x.classList.toggle('active',x.textContent===t));draw()};filters.append(b)});card.onclick=flipCard;card.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();flipCard()}};document.querySelector('#prev').onclick=()=>{i=(i-1+active().length)%active().length;draw()};document.querySelector('#next').onclick=()=>{i=(i+1)%active().length;draw()};document.querySelector('#shuffle').onclick=()=>{for(let n=cards.length-1;n>0;n--){const j=Math.floor(Math.random()*(n+1));[cards[n],cards[j]]=[cards[j],cards[n]]}i=0;draw()};document.querySelector('#reset').onclick=()=>{topic='All';i=0;[...filters.children].forEach(x=>x.classList.toggle('active',x.textContent==='All'));draw()};document.addEventListener('keydown',e=>{if(e.target.matches('button'))return;if(e.key==='ArrowLeft')document.querySelector('#prev').click();if(e.key==='ArrowRight')document.querySelector('#next').click();if(e.key==='s'||e.key==='S')document.querySelector('#shuffle').click();if(e.key===' '){e.preventDefault();flipCard()}});draw();
 </script>
 <style>.card{perspective:900px;transform-style:preserve-3d;transition:background-color .24s ease,border-color .24s ease;will-change:transform}.card.flip{animation:reveal-turn .52s cubic-bezier(.4,0,.2,1);background:#0f172b;border-color:#3b82f6}.card.unflipping{animation:conceal-turn .52s cubic-bezier(.4,0,.2,1)}.card.flip .answer{animation:answer-arrive .28s .11s both}.exam-meta{align-items:center;display:flex;flex-wrap:wrap;gap:6px;margin:0 0 14px}.marks-badge,.tier-badge,.hits-badge,.heat-badge{border-radius:5px;display:inline-block;font:700 .72rem Inter,sans-serif;letter-spacing:.02em;padding:4px 8px}.marks-10{background:rgba(239,68,68,.15);color:#fca5a5}.marks-6{background:rgba(245,158,11,.15);color:#fcd34d}.marks-3{background:rgba(34,197,94,.15);color:#86efac}.tier-1{background:rgba(239,68,68,.12);color:#f87171}.tier-2{background:rgba(245,158,11,.12);color:#fbbf24}.tier-3{background:rgba(34,197,94,.12);color:#4ade80}.hits-badge{background:rgba(30,58,95,.8);color:#bfdbfe}.heat-badge{border:1px solid currentColor}.heat-very-high{color:#fca5a5}.heat-high{color:#fdba74}.heat-medium{color:#fde047}.heat-low-medium{color:#86efac}.heat-low{color:#7dd3fc}.exam-scope{border-left:2px solid #3b82f6;color:#cbd5e1;font-size:.86rem;line-height:1.55;margin:0 0 18px;padding-left:10px}.card.flip .exam-scope{display:none}.answer p{margin:0 0 12px}.answer strong{color:#f8fafc}.answer em{color:#93c5fd;font-style:normal}.answer ul{margin:0 0 16px;padding-left:1.25rem}.answer li{margin:0 0 7px}.key-terms{border-top:1px solid rgba(148,163,184,.28);margin-top:18px;padding-top:12px}.key-terms-title{color:#4ade80;font:700 .68rem 'Inter',monospace;letter-spacing:.1em;margin-bottom:7px;text-transform:uppercase}.term{background:rgba(30,58,95,.78);border:1px solid rgba(96,165,250,.25);border-radius:4px;color:#dbeafe;display:inline-block;font-size:.72rem;line-height:1.3;margin:2px 4px 2px 0;padding:4px 8px}@keyframes reveal-turn{0%{transform:rotateY(0)}48%{transform:rotateY(88deg) scale(.985)}100%{transform:rotateY(0)}}@keyframes conceal-turn{0%{transform:rotateY(0)}48%{transform:rotateY(-88deg) scale(.985)}100%{transform:rotateY(0)}}@keyframes answer-arrive{from{opacity:0;transform:translateY(9px)}to{opacity:1;transform:translateY(0)}}@media(prefers-reduced-motion:reduce){.card{will-change:auto}.card.flip,.card.unflipping,.card.flip .answer{animation:none}}</style>
+<script>
+const markClassFor=marks=>marks.includes('10')?'10':marks.includes('6')?'6':'3';
+const rangeGroups=[[0,5,'3-10'],[6,11,'3-10'],[12,14,'3-10'],[15,19,'3-6'],[20,21,'3-10'],[22,25,'3-10'],[26,30,'3-10'],[31,33,'6-10'],[34,35,'6-10'],[36,36,'3-10'],[37,38,'6-10'],[39,41,'6-10'],[42,45,'3-10'],[46,47,'3-10'],[48,48,'3-10'],[49,49,'3-10'],[50,51,'3-10'],[52,54,'3-10'],[55,56,'3-10'],[57,59,'3-10']];
+rangeGroups.forEach(([from,to,marks])=>{for(let n=from;n<=to;n++)priorityByCard[n].marks=marks});
+const tierOne=new Set([0,1,2,4,12,13,15,26,27,30,37,38,39,42,43,46,48,49,50,52,55,60,68,70,71]);priorityByCard.forEach((priority,index)=>{if(index<60)priority.tier=tierOne.has(index)?'TIER 1':priority.tier==='TIER 3'?'TIER 3':'TIER 2'});
+const promptFor=(theme,marks)=>{const prompts={Foundations:'State the principle, then organise the process or safeguards in their logical order.',Measurement:'Define the measurement concept; distinguish the related terms and state the appropriate evidence or threat.',Variables:'Identify the construct and operational variable, then make the key distinction with a brief research example.','Hypothesis & sampling':'Define the selection or prediction logic, classify it, then state its implication for inference.',Survey:'Explain the procedure in order and link wording or sampling choices to measurement quality.','Non-experimental':'Contrast it with the nearest design, then state what it can and cannot justify.',Designs:'Name the variables, conditions or groups; explain the comparison and the validity safeguard.',Qualitative:'State the approach and assumptions, then show the analytic procedure, context and quality criterion.'};return `${prompts[theme]||'Define the idea, organise its core points and state the relevant limitation.'} ${marks.includes('10')?'Build this as a full 10-mark answer.':marks.includes('6')?'Keep the answer focused enough for 6 marks.':'Give a precise short-note answer.'}`};
+const frameworkFor=(theme,marks)=>{const closing={Foundations:'close by linking the procedure to objective, empirical inference',Measurement:'close by separating consistency from the validity claim',Variables:'close by explaining how the distinction protects the study from ambiguity',Survey:'close by linking the procedure to valid, usable data','Non-experimental':'close with the justified limit on causal inference',Designs:'close with the control or validity implication',Qualitative:'close with reflexivity, evidence and trustworthiness'}[theme]||'close with the appropriate inference limit';return `<div class="answer-build"><div>Exam answer build</div><p>${marks.includes('10')?'Use the definition as an opening, turn each point above into a short subheading, add the relevant comparison or example, and ':marks.includes('6')?'Use the definition, three focused points and one contrast, then ':''} ${closing}.</p></div>`};
+const baseDraw=draw;draw=()=>{baseDraw();const item=active()[i],priority=priorityByCard[item[3]];examMeta.innerHTML=`<span class="marks-badge marks-${markClassFor(priority.marks)}">Likely ${priority.marks} Marks</span><span class="tier-badge tier-${priority.tier.slice(-1)}">${priority.tier}</span><span class="hits-badge">${priority.hits} PYQ hits</span><span class="heat-badge heat-${priority.heat}">${heatLabels[priority.heat]}</span>`;examScope.textContent=promptFor(item[0],priority.marks);answer.innerHTML+=frameworkFor(item[0],priority.marks)};draw();
+</script>
+<style>.answer-build{background:rgba(30,58,95,.42);border-left:2px solid #60a5fa;margin:18px 0 0;padding:10px 12px}.answer-build div{color:#93c5fd;font:700 .68rem Inter,sans-serif;letter-spacing:.09em;text-transform:uppercase}.answer-build p{color:#cbd5e1;font-size:.86rem;line-height:1.55;margin:5px 0 0}</style>
+<script>
+const sourceAnchors={
+'What makes a true experiment? Explain the Solomon four-group design.':'Course anchor: Campbell and Stanley (1966) are cited in the design units; the unit also identifies Solomon four-group among the principal experimental designs.',
+'What is a mixed factorial design?':'Course anchor: the design units cite Campbell and Stanley (1966) alongside mixed and quasi-experimental design forms.',
+'What is an interrupted time-series design?':'Course anchor: the quasi-experimental design unit places interrupted time-series among its core design forms and cites Campbell and Stanley (1966).',
+'What is grounded theory?':'Course anchor: Grounded theory was developed by Glaser and Strauss in the 1960s, as stated in Block 4, Unit 2.',
+'What is ethnography?':'Course anchor: Block 4, Unit 1 lists Hammersley and Atkinson (1995), <em>Ethnography: Principles in Practice</em>, as a core reading.'
+};
+const drawWithAnchors=draw;draw=()=>{drawWithAnchors();const note=sourceAnchors[active()[i][1]];if(note)answer.innerHTML+=`<p class="source-anchor">${note}</p>`};draw();
+</script>
+<style>.source-anchor{border-top:1px solid rgba(148,163,184,.28);color:#a5b4fc;font-size:.8rem;font-style:italic;margin-top:16px!important;padding-top:10px}</style>
 </body>
 </html>
