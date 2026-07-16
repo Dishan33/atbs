@@ -34,8 +34,8 @@
     .course-progress span { display:block; margin-bottom:7px; }
     .course-progress i { background:#0f1a2d; border-radius:99px; display:block; height:6px; overflow:hidden; width:100%; }
     .course-progress b { background:var(--sun); display:block; height:100%; transition:width .2s ease; }
-    .auth-shell { background:#0b1322e8; display:grid; inset:0; padding:20px; place-items:center; position:fixed; z-index:20; }
-    .auth-shell form { background:var(--surface); border:1px solid var(--line); border-radius:14px; max-width:430px; padding:28px; width:100%; }
+    .auth-shell { background:rgba(28,45,74,.74); border:1px solid var(--line); border-radius:14px; margin:0 0 clamp(36px,6vw,70px); padding:clamp(20px,4vw,32px); }
+    .auth-shell form { max-width:430px; }
     .auth-shell h2 { font-family:Georgia,serif; font-size:2rem; line-height:1; margin:12px 0; text-wrap:balance; }
     .auth-copy { color:var(--muted); line-height:1.55; margin:0 0 18px; }
     .auth-shell label { display:block; font-size:.82rem; font-weight:700; margin-top:14px; }
@@ -54,6 +54,7 @@
 </head>
 <body data-app-profile>
   <main>
+    <section id="auth-shell" class="auth-shell" aria-label="Set up your local study profile"></section>
     <header class="profile-bar" id="app-profile-bar" hidden>
       <div class="profile-identity"><span class="profile-mark" aria-hidden="true">M</span><p><strong data-profile-name>Student</strong><small data-profile-email></small></p></div>
       <button type="button" data-profile-signout>Remove local profile</button>
@@ -72,7 +73,6 @@
       <a class="course" href="MPC%20006%20-%20Statistics%20in%20Psychology/MPC006_Dashboard.html"><small>MPC-006</small><h2>Statistics in Psychology</h2><p>Flashcards, methods atlas, prescribed blocks, PYQ analysis, and an answer bank for exam practice.</p><div class="course-progress" data-progress="m006" aria-live="polite"></div><span>Open study desk</span></a>
     </section>
   </main>
-  <section id="auth-shell" class="auth-shell" role="dialog" aria-modal="true" aria-label="Study profile sign in"></section>
   <script src="app-profile.js"></script>
 </body>
 </html>
