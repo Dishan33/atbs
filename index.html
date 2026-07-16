@@ -6,58 +6,75 @@
   <meta name="theme-color" content="#101827">
   <title>IGNOU MAPC Study Library</title>
   <style>
-    :root {
-      color-scheme: dark;
-      --ink: #101827;
-      --paper: #f8f2e8;
-      --muted: #aab7c8;
-      --sun: #f5be55;
-      --line: rgba(248, 242, 232, .14);
-    }
-
-    * { box-sizing: border-box; }
-
-    body {
-      background: radial-gradient(circle at 88% -5%, #345178 0, transparent 32rem), var(--ink);
-      color: var(--paper);
-      font-family: ui-sans-serif, system-ui, sans-serif;
-      margin: 0;
-      min-height: 100svh;
-      padding: clamp(24px, 6vw, 84px) 20px;
-    }
-
-    main { margin: 0 auto; max-width: 1040px; }
-    .eyebrow { color: var(--sun); font-size: .7rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; }
-    h1 { font-family: Georgia, serif; font-size: clamp(3.2rem, 8vw, 6.8rem); letter-spacing: -.06em; line-height: .86; margin: 18px 0; max-width: 800px; }
-    h1 em { color: var(--sun); font-weight: 400; }
-    .intro { color: var(--muted); line-height: 1.65; margin: 0 0 42px; max-width: 560px; }
-    .label { border-top: 1px solid var(--line); color: var(--muted); font-size: .68rem; font-weight: 700; letter-spacing: .12em; padding-top: 15px; text-transform: uppercase; }
-    .courses { display: grid; gap: 14px; grid-template-columns: repeat(2, minmax(0, 1fr)); margin-top: 16px; }
-    .course { background: rgba(28, 45, 74, .74); border: 1px solid var(--line); border-radius: 18px; color: var(--paper); display: flex; flex-direction: column; min-height: 245px; padding: 24px; text-decoration: none; transition: .18s ease; }
-    .course:hover { background: #2a4168; border-color: rgba(245,190,85,.7); transform: translateY(-4px); }
-    .course small { color: var(--sun); font-size: .68rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
-    .course h2 { font-family: Georgia, serif; font-size: 2rem; line-height: 1; margin: 18px 0 9px; }
-    .course p { color: var(--muted); font-size: .86rem; line-height: 1.55; margin: 0; }
-    .course span { color: var(--sun); font-size: .7rem; font-weight: 700; letter-spacing: .08em; margin-top: auto; padding-top: 22px; text-transform: uppercase; }
-    .course span::after { content: '  →'; font-size: 1rem; }
-    a:focus-visible { outline: 2px solid var(--sun); outline-offset: 4px; }
-    @media (max-width: 650px) { body { padding: 32px 18px; } h1 { font-size: clamp(3.2rem, 17vw, 4.8rem); } .courses { grid-template-columns: 1fr; } .course { min-height: 205px; } .course:hover { transform: none; } }
+    :root { color-scheme: dark; --ink:#101827; --surface:#1c2d4a; --paper:#f8f2e8; --muted:#b9c5d4; --sun:#f5be55; --line:rgba(248,242,232,.16); --focus:#8ec5ff; }
+    * { box-sizing:border-box; }
+    body { background:radial-gradient(circle at 88% -5%,#345178 0,transparent 32rem),var(--ink); color:var(--paper); font-family:ui-sans-serif,system-ui,sans-serif; margin:0; min-height:100svh; padding:clamp(24px,6vw,84px) 20px; }
+    main { margin:0 auto; max-width:1040px; }
+    .profile-bar { align-items:center; border-bottom:1px solid var(--line); display:flex; flex-wrap:wrap; gap:16px; justify-content:space-between; margin-bottom:clamp(36px,6vw,70px); padding:0 0 15px; }
+    .profile-identity { display:flex; gap:10px; min-width:0; }
+    .profile-mark { align-items:center; background:var(--sun); border-radius:50%; color:var(--ink); display:grid; flex:0 0 34px; font-family:Georgia,serif; font-weight:700; height:34px; place-items:center; width:34px; }
+    .profile-identity p { line-height:1.25; margin:0; min-width:0; }
+    .profile-identity small { color:var(--muted); display:block; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .profile-bar button { background:transparent; border:1px solid var(--line); border-radius:7px; color:var(--paper); cursor:pointer; font:inherit; padding:8px 10px; }
+    .profile-bar button:hover { border-color:var(--sun); color:var(--sun); }
+    .eyebrow,.auth-kicker { color:var(--sun); font-size:.7rem; font-weight:700; letter-spacing:.12em; text-transform:uppercase; }
+    h1 { font-family:Georgia,serif; font-size:clamp(3.2rem,8vw,6.4rem); letter-spacing:-.035em; line-height:.9; margin:18px 0; max-width:800px; text-wrap:balance; }
+    h1 em { color:var(--sun); font-weight:400; }
+    .intro { color:var(--muted); line-height:1.65; margin:0 0 42px; max-width:62ch; }
+    .label { border-top:1px solid var(--line); color:var(--muted); font-size:.68rem; font-weight:700; letter-spacing:.12em; padding-top:15px; text-transform:uppercase; }
+    .courses { display:grid; gap:14px; grid-template-columns:repeat(2,minmax(0,1fr)); margin-top:16px; }
+    .course { background:rgba(28,45,74,.74); border:1px solid var(--line); border-radius:14px; color:var(--paper); display:flex; flex-direction:column; min-height:245px; padding:24px; text-decoration:none; transition:background .18s ease, border-color .18s ease, transform .18s ease; }
+    .course:hover { background:#2a4168; border-color:rgba(245,190,85,.7); transform:translateY(-3px); }
+    .course > small { color:var(--sun); font-size:.68rem; font-weight:700; letter-spacing:.1em; text-transform:uppercase; }
+    .course h2 { font-family:Georgia,serif; font-size:2rem; line-height:1; margin:18px 0 9px; text-wrap:balance; }
+    .course p { color:var(--muted); font-size:.9rem; line-height:1.55; margin:0; }
+    .course > span { color:var(--sun); font-size:.7rem; font-weight:700; letter-spacing:.08em; margin-top:auto; padding-top:22px; text-transform:uppercase; }
+    .course > span::after { content:'  →'; font-size:1rem; }
+    .course-progress { color:var(--paper); font-size:.78rem; font-weight:650; margin-top:18px; }
+    .course-progress span { display:block; margin-bottom:7px; }
+    .course-progress i { background:#0f1a2d; border-radius:99px; display:block; height:6px; overflow:hidden; width:100%; }
+    .course-progress b { background:var(--sun); display:block; height:100%; transition:width .2s ease; }
+    .auth-shell { background:#0b1322e8; display:grid; inset:0; padding:20px; place-items:center; position:fixed; z-index:20; }
+    .auth-shell form { background:var(--surface); border:1px solid var(--line); border-radius:14px; max-width:430px; padding:28px; width:100%; }
+    .auth-shell h2 { font-family:Georgia,serif; font-size:2rem; line-height:1; margin:12px 0; text-wrap:balance; }
+    .auth-copy { color:var(--muted); line-height:1.55; margin:0 0 18px; }
+    .auth-shell label { display:block; font-size:.82rem; font-weight:700; margin-top:14px; }
+    .auth-shell input { background:#0f1a2d; border:1px solid #61738d; border-radius:7px; color:var(--paper); display:block; font:inherit; margin-top:6px; padding:11px; width:100%; }
+    .auth-shell label small { color:var(--muted); display:block; font-weight:400; margin-top:5px; }
+    .auth-shell button:not(.text-button) { background:var(--sun); border:0; border-radius:7px; color:#101827; cursor:pointer; font:700 .92rem ui-sans-serif,system-ui,sans-serif; margin-top:18px; padding:11px 14px; width:100%; }
+    .auth-shell button[disabled] { cursor:wait; opacity:.65; }
+    .auth-switch { color:var(--muted); font-size:.88rem; margin:18px 0 0; }
+    .text-button { background:transparent; border:0; color:var(--sun); cursor:pointer; font:inherit; padding:0; text-decoration:underline; text-underline-offset:3px; }
+    .auth-message { font-size:.88rem; line-height:1.45; margin:13px 0 0; min-height:1.2em; }
+    .auth-message[data-type="error"] { color:#fecaca; }.auth-message[data-type="success"] { color:#bbf7d0; }.auth-message[data-type="info"] { color:#bfdbfe; }
+    a:focus-visible,button:focus-visible,input:focus-visible { outline:3px solid var(--focus); outline-offset:3px; }
+    @media (max-width:650px) { body { padding:32px 18px; } h1 { font-size:clamp(3.2rem,17vw,4.8rem); } .courses { grid-template-columns:1fr; } .course { min-height:205px; } .course:hover { transform:none; } .profile-bar { align-items:flex-start; flex-direction:column; } .profile-bar button { width:100%; } }
+    @media (prefers-reduced-motion:reduce) { *,*::before,*::after { scroll-behavior:auto!important; transition-duration:0s!important; } }
   </style>
 </head>
-<body>
+<body data-app-profile>
   <main>
+    <header class="profile-bar" id="app-profile-bar" hidden>
+      <div class="profile-identity"><span class="profile-mark" aria-hidden="true">M</span><p><strong data-profile-name>Student</strong><small data-profile-email></small></p></div>
+      <button type="button" data-profile-signout>Sign out</button>
+    </header>
+
     <p class="eyebrow">IGNOU MAPC · For students, by students</p>
     <h1>Study with a <em>clearer</em> next step.</h1>
-    <p class="intro">Focused revision spaces for the MAPC courses you are actively preparing—built around concepts, recall, and the patterns your term-end papers reward.</p>
+    <p class="intro">Your study library keeps the course materials in one place. MPC-005 and MPC-006 also remember your revision status and notes across devices.</p>
     <p class="label">Choose a course</p>
     <section class="courses" aria-label="Available courses">
       <a class="course" href="MPC%20001%20-%20Cognitive%20Psychology/MPC001_Dashboard.html"><small>MPC-001</small><h2>Cognitive Psychology, Learning &amp; Memory</h2><p>Flashcards and theory timelines for cognitive processes, learning and memory.</p><span>Open study desk</span></a>
       <a class="course" href="MPC%20002%20-%20Life%20Span%20Psychology/MPC002_Dashboard.html"><small>MPC-002</small><h2>Life Span Psychology</h2><p>Flashcards and theory timelines for development across the lifespan.</p><span>Open study desk</span></a>
       <a class="course" href="MPC%20003%20-%20Personality/MPC003_Dashboard.html"><small>MPC-003</small><h2>Assessment of Personality</h2><p>Mind map, flashcards, theory timelines, cheat sheets, PYQ analysis, and answer bank.</p><span>Open study desk</span></a>
       <a class="course" href="MPC%20004%20-%20Social%20Psychology/MPC004_Dashboard.html"><small>MPC-004</small><h2>Advanced Social Psychology</h2><p>Active recall, block sheets, PYQ-led revision routes, and an exam answer bank.</p><span>Open study desk</span></a>
-      <a class="course" href="MPC%20005%20-%20Research%20Methods/MPC005_Dashboard.html"><small>MPC-005</small><h2>Research Methods in Psychology</h2><p>Method flashcards, a design atlas, PYQ priorities, block sheets, and answer frameworks.</p><span>Open study desk</span></a>
-      <a class="course" href="MPC%20006%20-%20Statistics%20in%20Psychology/MPC006_Dashboard.html"><small>MPC-006</small><h2>Statistics in Psychology</h2><p>Flashcards, methods atlas, prescribed blocks, PYQ analysis, and an answer bank for exam practice.</p><span>Open study desk</span></a>
+      <a class="course" href="MPC%20005%20-%20Research%20Methods/MPC005_Dashboard.html"><small>MPC-005</small><h2>Research Methods in Psychology</h2><p>Method flashcards, a design atlas, PYQ priorities, block sheets, and answer frameworks.</p><div class="course-progress" data-progress="m005" aria-live="polite"></div><span>Open study desk</span></a>
+      <a class="course" href="MPC%20006%20-%20Statistics%20in%20Psychology/MPC006_Dashboard.html"><small>MPC-006</small><h2>Statistics in Psychology</h2><p>Flashcards, methods atlas, prescribed blocks, PYQ analysis, and an answer bank for exam practice.</p><div class="course-progress" data-progress="m006" aria-live="polite"></div><span>Open study desk</span></a>
     </section>
   </main>
+  <section id="auth-shell" class="auth-shell" role="dialog" aria-modal="true" aria-label="Study profile sign in"></section>
+  <script src="study-progress-config.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="app-profile.js"></script>
 </body>
 </html>
