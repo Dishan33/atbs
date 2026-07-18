@@ -9,11 +9,12 @@
     const ignored = entries.filter(item => item.status === 'ignored').length;
     const done = active.filter(item => item.status === 'done').length;
     const target = Math.max(total - ignored, 0);
-    return { done, total: target || total, percent: target ? Math.round(done / target * 100) : 100 };
+    return { done, total: target, percent: target ? Math.round(done / target * 100) : 0 };
   };
 
   const renderProgress = (element, progress) => {
-    element.innerHTML = `<span>${progress.done}/${progress.total} complete on this device</span><i aria-hidden="true"><b style="width:${progress.percent}%"></b></i>`;
+    const summary = progress.total ? `${progress.done}/${progress.total} complete on this device` : 'No active topics on this device';
+    element.innerHTML = `<span>${summary}</span><i aria-hidden="true"><b style="width:${progress.percent}%"></b></i>`;
   };
 
   function mount() {
