@@ -37,3 +37,16 @@
   document.addEventListener('click', (event) => { if (!jump.contains(event.target)) jump.open = false; });
   document.addEventListener('keydown', (event) => { if (event.key === 'Escape') jump.open = false; });
 })();
+
+(() => {
+  if (document.querySelector('#amplitude-client')) return;
+  const importMap = document.createElement('script');
+  importMap.type = 'importmap';
+  importMap.textContent = '{"imports":{"@amplitude/unified":"https://cdn.jsdelivr.net/npm/@amplitude/unified@1.1.25/+esm"}}';
+  document.head.append(importMap);
+  const client = document.createElement('script');
+  client.id = 'amplitude-client';
+  client.type = 'module';
+  client.src = '/amplitude.js';
+  document.head.append(client);
+})();
