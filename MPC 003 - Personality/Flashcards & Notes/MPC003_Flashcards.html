@@ -360,7 +360,7 @@ back:`<p><strong>Eysenck’s biological basis of personality:</strong> Superfact
 ];
 // --- App state ---
 let currentIndex=0,filteredCards=[...cards],isShuffled=false,cardFlipped=false;
-function renderCard(){const c=filteredCards[currentIndex];if(!c)return;const marksClass=c.marks>=10?"marks-high":c.marks>=6?"marks-med":"marks-low";const tierClass=c.tier==="TIER 1"?"tier-1":c.tier==="TIER 2"?"tier-2":"tier-3";document.getElementById("cardFront").innerHTML=`<div class="card-label">${getThemeLabel(c.theme)}</div><div class="card-title">${c.title}</div><div class="marks-badge ${marksClass}">Likely ${c.marks} Marks <span class="tier-badge ${tierClass}">${c.tier}</span></div><div class="card-body"><p>${c.front}</p></div>`;document.getElementById("cardBack").innerHTML=`<div class="card-label back-label">Answer</div><div class="card-title">${c.title}</div><div class="marks-badge ${marksClass}">Likely ${c.marks} Marks <span class="tier-badge ${tierClass}">${c.tier}</span></div><div class="card-body">${c.back}</div>`;document.getElementById("currentNum").textContent=currentIndex+1;document.getElementById("totalNum").textContent=filteredCards.length;document.getElementById("progressFill").style.width=((currentIndex+1)/filteredCards.length*100)+"%";cardFlipped=false;document.getElementById("flashcard").classList.remove("flipped");document.getElementById("cardFront").scrollTop=0;document.getElementById("cardBack").scrollTop=0;}
+function renderCard(){const c=filteredCards[currentIndex];if(!c)return;window.MapcFlashcardProgress?.notifyIndex(c.title);const marksClass=c.marks>=10?"marks-high":c.marks>=6?"marks-med":"marks-low";const tierClass=c.tier==="TIER 1"?"tier-1":c.tier==="TIER 2"?"tier-2":"tier-3";document.getElementById("cardFront").innerHTML=`<div class="card-label">${getThemeLabel(c.theme)}</div><div class="card-title">${c.title}</div><div class="marks-badge ${marksClass}">Likely ${c.marks} Marks <span class="tier-badge ${tierClass}">${c.tier}</span></div><div class="card-body"><p>${c.front}</p></div>`;document.getElementById("cardBack").innerHTML=`<div class="card-label back-label">Answer</div><div class="card-title">${c.title}</div><div class="marks-badge ${marksClass}">Likely ${c.marks} Marks <span class="tier-badge ${tierClass}">${c.tier}</span></div><div class="card-body">${c.back}</div>`;document.getElementById("currentNum").textContent=currentIndex+1;document.getElementById("totalNum").textContent=filteredCards.length;document.getElementById("progressFill").style.width=((currentIndex+1)/filteredCards.length*100)+"%";cardFlipped=false;document.getElementById("flashcard").classList.remove("flipped");document.getElementById("cardFront").scrollTop=0;document.getElementById("cardBack").scrollTop=0;}
 function getThemeLabel(t){const m={foundations:"Foundations & Determinants",type:"Type Theories",trait:"Trait Theories",psychodynamic:"Psychodynamic Theories",learning:"Learning & Cognitive Theories",humanistic:"Humanistic Theories",assessment:"Assessment Methods"};return m[t]||t;}
 function flipCard(){cardFlipped=!cardFlipped;document.getElementById("flashcard").classList.toggle("flipped");}
 function nextCard(){if(currentIndex<filteredCards.length-1){currentIndex++;renderCard();}}
@@ -372,5 +372,10 @@ document.getElementById("themeFilter").addEventListener("change",()=>{isShuffled
 document.addEventListener("keydown",e=>{if(e.key==="ArrowRight")nextCard();else if(e.key==="ArrowLeft")prevCard();else if(e.key===" "){e.preventDefault();flipCard();}else if(e.key==="s"||e.key==="S")toggleShuffle();});
 renderCard();
 </script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="../../supabase-client.js"></script>
+<script src="../../app-auth.js"></script>
+<script src="../../study-progress.js"></script>
+<script>initFlashcardProgress({course:"m003",mount:document.querySelector("#flashcard")});</script>
 </body>
 </html>

@@ -53,31 +53,32 @@
     @media (prefers-reduced-motion:reduce) { *,*::before,*::after { scroll-behavior:auto!important; transition-duration:0s!important; } }
   </style>
 </head>
-<body data-app-profile>
+<body>
   <main>
-    <section id="auth-shell" class="auth-shell" aria-label="Set up your local study profile"></section>
-    <header class="profile-bar" id="app-profile-bar" hidden>
-      <div class="profile-identity"><span class="profile-mark" aria-hidden="true">M</span><p><strong data-profile-name>Student</strong><small data-profile-email></small></p></div>
-      <button type="button" data-profile-signout>Remove local profile</button>
-    </header>
+    <section id="auth-shell" class="auth-shell" aria-label="Sign in to your study profile"></section>
+    <header class="profile-bar" id="app-profile-bar" hidden></header>
 
     <p class="eyebrow">IGNOU MAPC · For students, by students</p>
     <h1>Study with a <em>clearer</em> next step.</h1>
-    <p class="intro">Your study library keeps the course materials in one place. MPC-001 and MPC-002 now include their printable block sheets, while MPC-005 and MPC-006 remember revision status and notes in this browser.</p>
+    <p class="intro">Your study library keeps the course materials in one place. MPC-001 and MPC-002 now include their printable block sheets, and once you sign in, every course remembers your revision status and notes across devices.</p>
     <p class="label">Choose a course</p>
     <section class="courses" aria-label="Available courses">
-      <a class="course" href="MPC%20001%20-%20Cognitive%20Psychology/MPC001_Dashboard.html"><small>MPC-001</small><h2>Cognitive Psychology, Learning &amp; Memory</h2><p>Flashcards, theory timelines, prescribed blocks, and printable revision sheets.</p><span>Open study desk</span></a>
-      <a class="course" href="MPC%20002%20-%20Life%20Span%20Psychology/MPC002_Dashboard.html"><small>MPC-002</small><h2>Life Span Psychology</h2><p>Flashcards, theory timelines, prescribed blocks, and printable revision sheets.</p><span>Open study desk</span></a>
-      <a class="course" href="MPC%20003%20-%20Personality/MPC003_Dashboard.html"><small>MPC-003</small><h2>Assessment of Personality</h2><p>Mind map, flashcards, theory timelines, cheat sheets, PYQ analysis, and answer bank.</p><span>Open study desk</span></a>
-      <a class="course" href="MPC%20004%20-%20Social%20Psychology/MPC004_Dashboard.html"><small>MPC-004</small><h2>Advanced Social Psychology</h2><p>Active recall, block sheets, PYQ-led revision routes, and an exam answer bank.</p><span>Open study desk</span></a>
+      <a class="course" href="MPC%20001%20-%20Cognitive%20Psychology/MPC001_Dashboard.html"><small>MPC-001</small><h2>Cognitive Psychology, Learning &amp; Memory</h2><p>Flashcards, theory timelines, prescribed blocks, and printable revision sheets.</p><div class="course-progress" data-progress="m001" aria-live="polite"></div><span>Open study desk</span></a>
+      <a class="course" href="MPC%20002%20-%20Life%20Span%20Psychology/MPC002_Dashboard.html"><small>MPC-002</small><h2>Life Span Psychology</h2><p>Flashcards, theory timelines, prescribed blocks, and printable revision sheets.</p><div class="course-progress" data-progress="m002" aria-live="polite"></div><span>Open study desk</span></a>
+      <a class="course" href="MPC%20003%20-%20Personality/MPC003_Dashboard.html"><small>MPC-003</small><h2>Assessment of Personality</h2><p>Mind map, flashcards, theory timelines, cheat sheets, PYQ analysis, and answer bank.</p><div class="course-progress" data-progress="m003" aria-live="polite"></div><span>Open study desk</span></a>
+      <a class="course" href="MPC%20004%20-%20Social%20Psychology/MPC004_Dashboard.html"><small>MPC-004</small><h2>Advanced Social Psychology</h2><p>Active recall, block sheets, PYQ-led revision routes, and an exam answer bank.</p><div class="course-progress" data-progress="m004" aria-live="polite"></div><span>Open study desk</span></a>
       <a class="course" href="MPC%20005%20-%20Research%20Methods/MPC005_Dashboard.html"><small>MPC-005</small><h2>Research Methods in Psychology</h2><p>Method flashcards, a design atlas, PYQ priorities, block sheets, and answer frameworks.</p><div class="course-progress" data-progress="m005" aria-live="polite"></div><span>Open study desk</span></a>
       <a class="course" href="MPC%20006%20-%20Statistics%20in%20Psychology/MPC006_Dashboard.html"><small>MPC-006</small><h2>Statistics in Psychology</h2><p>Flashcards, methods atlas, prescribed blocks, PYQ analysis, and an answer bank for exam practice.</p><div class="course-progress" data-progress="m006" aria-live="polite"></div><span>Open study desk</span></a>
     </section>
   </main>
-  <script src="app-profile.js"></script>
   <script type="importmap">{"imports":{"@amplitude/unified":"https://cdn.jsdelivr.net/npm/@amplitude/unified@1.1.25/+esm"}}</script>
   <script type="module" src="/amplitude.js"></script>
   <script>window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };</script>
   <script defer src="/_vercel/insights/script.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="supabase-client.js"></script>
+  <script src="app-auth.js"></script>
+  <script src="study-progress.js"></script>
+  <script>window.initHomeProgress();</script>
 </body>
 </html>

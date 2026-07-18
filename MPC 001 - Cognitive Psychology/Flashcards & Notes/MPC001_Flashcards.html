@@ -694,6 +694,7 @@ let cardFlipped = false;
 function renderCard() {
   const card = filteredCards[currentIndex];
   if (!card) return;
+  window.MapcFlashcardProgress?.notifyIndex(card.title);
   document.getElementById('cardFront').innerHTML = `
     <div class="card-label">${getThemeLabel(card.theme)}</div>
     <div class="card-title">${card.title}</div>
@@ -795,5 +796,10 @@ document.addEventListener('keydown', (e) => {
 // Initial render
 renderCard();
 </script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="../../supabase-client.js"></script>
+<script src="../../app-auth.js"></script>
+<script src="../../study-progress.js"></script>
+<script>initFlashcardProgress({course:"m001",mount:document.querySelector("#flashcard")});</script>
 </body>
 </html>
