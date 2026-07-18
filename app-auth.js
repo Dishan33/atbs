@@ -154,8 +154,10 @@
     onChange: cb => listeners.push(cb),
     signOut: () => window.sb.auth.signOut(),
     requireUser(onReady) {
+      let fired = false;
       const attempt = () => {
-        if (currentUser) { hideModalGate(); onReady(currentUser); }
+        if (fired) return;
+        if (currentUser) { fired = true; hideModalGate(); onReady(currentUser); }
         else if (ready) showModalGate();
       };
       listeners.push(attempt);
