@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MAPC study library">
+  <rect width="64" height="64" rx="14" fill="#101827"/>
+  <path d="M15 17h34v30H15z" fill="#f8f2e8"/>
+  <path d="M32 17v30M20 25h8M20 31h8M36 25h8M36 31h8" fill="none" stroke="#101827" stroke-width="3" stroke-linecap="round"/>
+  <path d="M32 17c-4-3-10-4-17-2v30c7-2 13-1 17 2 4-3 10-4 17-2V15c-7-2-13-1-17 2Z" fill="none" stroke="#f5be55" stroke-width="3" stroke-linejoin="round"/>
+</svg>
