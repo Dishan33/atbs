@@ -30,6 +30,8 @@
 - Keep the course navigation uniform with MPC-003’s route order and names: **Study Desk, Flashcards, Themes, Cheat Sheets, Analysis, Answers**.
 - MPC-005 uses separate pages for most routes, but each page shows the same six-route navigation. The dashboard hosts Cheat Sheets via `?view=blocks`.
 - Use MPC-003 for interaction and information-architecture conventions; keep each course’s visual identity and content course-specific.
+- Use MPC-003’s flashcard structure as the standard for every course: topic filter, progress, marks and tier metadata, front/back flip, key-term tags, previous/next controls, shuffle, reset, and keyboard shortcuts.
+- Match MPC-003’s content depth: each answer should cover the definition, core logic, procedure or formula, interpretation, limitations, and mark-scoring terms that fit the topic. Do not use one-line answer summaries.
 - The user approved `frontend-design`; read `/Users/dishan/AI/Roma Course/.agents/skills/frontend-design/SKILL.md` for visual work.
 - `stop-slop` was applied only to website-facing copy (headings, route labels, intros). Preserve technical terms, definitions, PYQ evidence, and exam answer vocabulary from prescribed material.
 
