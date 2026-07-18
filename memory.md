@@ -3,10 +3,9 @@
 ## Site and deployment
 
 - Repository: `Dishan33/atbs`, branch: `main`.
-- Production URL: <https://atbs-dun.vercel.app/>. Pushes to `main` deploy automatically.
-- `atbs.vercel.app` is an old blank deployment. Check `atbs-dun.vercel.app` instead.
+- Production URL shared with the class: <https://ignou-seven.vercel.app/>. Pushes to `main` deploy automatically.
+- Amplitude must initialize only on `ignou-seven.vercel.app`; the other Vercel projects are legacy copies.
 - Vercel Web Analytics is enabled.
-- Latest deployment commit: `083d6f0` — `Add MPC-005 research methods resources`.
 
 ## Completed courses
 

@@ -1,6 +1,6 @@
 import * as amplitude from '@amplitude/unified';
 
-if (typeof window !== 'undefined' && !window.__mapcAmplitudeInitialized) {
+if (typeof window !== 'undefined' && location.hostname === 'ignou-seven.vercel.app' && !window.__mapcAmplitudeInitialized) {
   window.__mapcAmplitudeInitialized = true;
   amplitude.initAll('e611a4b6253d55ffb130021595962fb8', {"analytics":{"autocapture":true},"sessionReplay":{"sampleRate":1}});
 
