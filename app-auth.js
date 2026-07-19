@@ -46,7 +46,7 @@
   }
 
   function mountForm(container) {
-    let mode = 'signup';
+    let mode = 'login';
     const render = () => {
       container.innerHTML = formHTML(mode);
       const form = container.querySelector('[data-auth-form]');
@@ -133,6 +133,36 @@
     modalEl = null;
   }
 
+  function injectChipStyle() {
+    if (document.querySelector('#mapc-auth-chip-style')) return;
+    const style = document.createElement('style');
+    style.id = 'mapc-auth-chip-style';
+    style.textContent = `.mapc-auth-chip{position:fixed;bottom:14px;right:14px;z-index:50;display:flex;align-items:center;gap:9px;background:#1c2d4aee;border:1px solid rgba(248,242,232,.2);border-radius:999px;padding:5px 6px 5px 13px;color:#f8f2e8;font:600 .8rem ui-sans-serif,system-ui,sans-serif;box-shadow:0 6px 20px rgba(0,0,0,.35)}.mapc-auth-chip .chip-mark{align-items:center;background:#f5be55;border-radius:50%;color:#101827;display:grid;flex:0 0 24px;font-weight:800;height:24px;place-items:center;width:24px}.mapc-auth-chip small{color:#dfe6ef;font-weight:600;max-width:150px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.mapc-auth-chip button{background:transparent;border:1px solid rgba(248,242,232,.32);border-radius:999px;color:#f8f2e8;cursor:pointer;font:700 .76rem ui-sans-serif,system-ui,sans-serif;padding:6px 12px}.mapc-auth-chip button.solid{background:#f5be55;border-color:#f5be55;color:#101827}.mapc-auth-chip button:hover{border-color:#f5be55;color:#f5be55}.mapc-auth-chip button.solid:hover{color:#101827;opacity:.9}@media print{.mapc-auth-chip{display:none}}`;
+    document.head.append(style);
+  }
+
+  function renderAuthChip() {
+    if (window.self !== window.top) return; // inside an iframe (e.g. dashboard tab); the parent shows the chip
+    if (document.querySelector('#app-profile-bar')) return; // homepage has its own profile bar
+    injectChipStyle();
+    let chip = document.querySelector('.mapc-auth-chip');
+    if (!chip) { chip = document.createElement('div'); chip.className = 'mapc-auth-chip'; document.body.append(chip); }
+    const render = () => {
+      if (!ready) { chip.hidden = true; return; }
+      chip.hidden = false;
+      if (currentUser) {
+        const name = currentProfile?.full_name || currentUser.email;
+        chip.innerHTML = `<span class="chip-mark" aria-hidden="true">${name[0].toUpperCase()}</span><small>${name}</small><button type="button" data-chip-signout>Log out</button>`;
+        chip.querySelector('[data-chip-signout]').addEventListener('click', async () => { if (window.confirm('Log out of your study profile?')) await window.sb.auth.signOut(); });
+      } else {
+        chip.innerHTML = `<button type="button" class="solid" data-chip-login>Log in</button>`;
+        chip.querySelector('[data-chip-login]').addEventListener('click', () => showModalGate());
+      }
+    };
+    listeners.push(render);
+    render();
+  }
+
   async function bootstrap() {
     const { data: { session } } = await window.sb.auth.getSession();
     currentUser = session?.user || null;
@@ -143,7 +173,7 @@
     window.sb.auth.onAuthStateChange(async (_event, session) => {
       currentUser = session?.user || null;
       await refreshProfile();
-      if (currentUser) migrateLocalProgress(currentUser.id);
+      if (currentUser) { migrateLocalProgress(currentUser.id); hideModalGate(); }
       notify();
     });
   }
@@ -165,6 +195,6 @@
     }
   };
 
-  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', () => { bindHomepageMarkup(); bootstrap(); });
-  else { bindHomepageMarkup(); bootstrap(); }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', () => { bindHomepageMarkup(); renderAuthChip(); bootstrap(); });
+  else { bindHomepageMarkup(); renderAuthChip(); bootstrap(); }
 })();

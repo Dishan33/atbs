@@ -44,7 +44,7 @@ tr:hover td{background:rgba(59,130,246,.06)}
 </table>
 
 <h2>Topic Frequency & Mark Distribution</h2>
-<table>
+<table id="topic-table">
 <tr><th>#</th><th>Topic</th><th>Hits</th><th>Marks</th><th>Heat</th><th>Key Sub-topics / Pattern</th></tr>
 
 <tr><td>1</td><td><b>Determinants of Personality</b></td><td>26</td><td>184</td><td class="h5">VERY HIGH</td>
@@ -136,5 +136,6 @@ tr:hover td{background:rgba(59,130,246,.06)}
 
 <div class="insight"><b>7. The 10+6+3 strategy.</b> Each topic can appear at any mark level. Prepare each major topic with: 10-mark version (detailed theory), 6-mark version (key points), 3-mark version (concise definition/short note).</div>
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script><script src="../supabase-client.js"></script><script src="../app-auth.js"></script><script src="../study-progress.js"></script><script>var m003A=[...document.querySelectorAll("#topic-table tr")].filter(r=>!r.querySelector("th"));initStudyProgress({course:"m003",keys:m003A.map((_,i)=>"pyq-"+(i+1)),targets:()=>m003A});</script>
 </body>
 </html>

@@ -121,25 +121,31 @@
     });
   };
 
+  // Total PYQ Analysis priority topics per course (the homepage revision checklist).
+  // Keep in sync with each course's PYQ Analysis #priority-table row count.
+  const PYQ_TOPIC_TOTALS = { m003: 24, m004: 12, m005: 21, m006: 17 };
+
   window.initHomeProgress = () => {
     const nodes = [...document.querySelectorAll('[data-progress]')];
     if (!nodes.length) return;
     const render = async user => {
       if (!user) {
-        nodes.forEach(node => { node.innerHTML = `<span>Sign in to start tracking</span><i aria-hidden="true"><b style="width:0%"></b></i>`; });
+        nodes.forEach(node => { node.innerHTML = `<span>Sign in to track revision</span><i aria-hidden="true"><b style="width:0%"></b></i>`; });
         return;
       }
-      const { data } = await window.sb.from('progress').select('course,status').eq('user_id', user.id);
+      const { data } = await window.sb.from('progress').select('course,item_key,status').eq('user_id', user.id);
       const byCourse = {};
-      (data || []).forEach(row => { (byCourse[row.course] ||= []).push(row.status); });
+      (data || []).forEach(row => { (byCourse[row.course] ||= []).push(row); });
       nodes.forEach(node => {
-        const statuses = byCourse[node.dataset.progress] || [];
-        const active = statuses.filter(s => s !== 'ignored');
-        const done = active.filter(s => s === 'done').length;
-        const percent = active.length ? Math.round(done / active.length * 100) : 0;
-        node.innerHTML = active.length
-          ? `<span>${done}/${active.length} tracked items complete</span><i aria-hidden="true"><b style="width:${percent}%"></b></i>`
-          : `<span>Not started yet</span><i aria-hidden="true"><b style="width:0%"></b></i>`;
+        const course = node.dataset.progress;
+        const total = PYQ_TOPIC_TOTALS[course];
+        if (!total) { node.innerHTML = `<span>PYQ analysis coming soon</span><i aria-hidden="true"><b style="width:0%"></b></i>`; return; }
+        const topics = (byCourse[course] || []).filter(row => row.item_key.startsWith('pyq-'));
+        const ignored = topics.filter(row => row.status === 'ignored').length;
+        const done = topics.filter(row => row.status === 'done').length;
+        const denom = Math.max(total - ignored, 0) || total;
+        const percent = denom ? Math.round(done / denom * 100) : 0;
+        node.innerHTML = `<span>${done}/${denom} priority topics revised</span><i aria-hidden="true"><b style="width:${percent}%"></b></i>`;
       });
     };
     window.MapcAuth.onChange(render);

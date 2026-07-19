@@ -86,9 +86,10 @@
     const fragment = document.createDocumentFragment();
     plan.forEach(([topic, indexes]) => {
       const heading = document.createElement('h2'); heading.className = 'topic-heading'; heading.textContent = topic;
-      fragment.append(heading); indexes.forEach((index) => fragment.append(cards[index]));
+      fragment.append(heading); indexes.forEach((index) => { cards[index].dataset.studyKey = 'ans-' + (index + 1); fragment.append(cards[index]); });
     });
     main.replaceChildren(title, intro, fragment);
   </script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script><script src="../supabase-client.js"></script><script src="../app-auth.js"></script><script src="../study-progress.js"></script><script>initStudyProgress({course:"m004",keys:[...document.querySelectorAll("article.answer")].map(c=>c.dataset.studyKey),targets:()=>[...document.querySelectorAll("article.answer")]});</script>
 </body>
 </html>
