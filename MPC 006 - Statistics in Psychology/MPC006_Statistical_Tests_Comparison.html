@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparison of Statistical Tests - IGNOU Psychology</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f4f6f9;
+            padding: 30px;
+            color: #1a1a2e;
+        }
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px 35px;
+            border-radius: 12px;
+            box-shadow: 0 8px 30px rgba(0,0,0,0.12);
+        }
+        h1 {
+            text-align: center;
+            font-size: 28px;
+            color: #1a1a2e;
+            border-bottom: 4px solid #4a6fa5;
+            padding-bottom: 15px;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            text-align: center;
+            font-size: 16px;
+            color: #555;
+            margin-bottom: 30px;
+            font-style: italic;
+        }
+        h2 {
+            font-size: 20px;
+            color: #2c3e50;
+            margin-top: 35px;
+            margin-bottom: 15px;
+            border-left: 5px solid #4a6fa5;
+            padding-left: 15px;
+        }
+        h3 {
+            font-size: 17px;
+            color: #2c3e50;
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 13px;
+            margin: 15px 0 25px 0;
+        }
+        th {
+            background: #2c3e50;
+            color: white;
+            font-weight: 700;
+            padding: 10px 8px;
+            text-align: center;
+            border: 1px solid #1a252f;
+        }
+        td {
+            padding: 9px 8px;
+            border: 1px solid #d0d7e0;
+            vertical-align: top;
+            background: #fafbfc;
+        }
+        tr:nth-child(even) td {
+            background: #f2f4f8;
+        }
+        .param {
+            color: #1a7a3a;
+            font-weight: 700;
+        }
+        .nonparam {
+            color: #b13e3e;
+            font-weight: 700;
+        }
+        .highlight-box {
+            background: #eef3fa;
+            border-left: 5px solid #4a6fa5;
+            padding: 15px 20px;
+            margin: 20px 0;
+            border-radius: 6px;
+        }
+        .highlight-box.green {
+            border-left-color: #1a7a3a;
+            background: #eaf4ea;
+        }
+        .highlight-box.red {
+            border-left-color: #b13e3e;
+            background: #fcecec;
+        }
+        .badge {
+            display: inline-block;
+            padding: 2px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 700;
+        }
+        .badge-param {
+            background: #1a7a3a;
+            color: white;
+        }
+        .badge-nonparam {
+            background: #b13e3e;
+            color: white;
+        }
+        .step-list {
+            list-style: none;
+            padding-left: 0;
+            font-size: 12.5px;
+        }
+        .step-list li {
+            padding: 2px 0;
+            border-bottom: 1px dashed #e0e0e0;
+        }
+        .step-list li:last-child {
+            border-bottom: none;
+        }
+        .formula-box {
+            background: #f0f4fa;
+            padding: 10px 15px;
+            border-radius: 6px;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+            margin: 5px 0;
+            border: 1px solid #d0d7e0;
+            overflow-x: auto;
+        }
+        .table-mini {
+            font-size: 13px;
+            margin: 10px 0;
+        }
+        .table-mini td, .table-mini th {
+            padding: 6px 12px;
+            text-align: center;
+        }
+        .footer {
+            text-align: center;
+            font-size: 13px;
+            color: #777;
+            margin-top: 35px;
+            padding-top: 20px;
+            border-top: 2px solid #e0e0e0;
+        }
+        @media print {
+            body { background: white; padding: 10px; }
+            .container { box-shadow: none; padding: 20px; }
+            th { background: #2c3e50 !important; color: white !important; }
+            td { background: #fafbfc !important; }
+            tr:nth-child(even) td { background: #f2f4f8 !important; }
+        }
+        @media (max-width: 768px) {
+            .container { padding: 15px; }
+            table { font-size: 11px; }
+            td, th { padding: 5px 4px; }
+            h1 { font-size: 20px; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <h1>📊 COMPREHENSIVE COMPARISON OF STATISTICAL TESTS</h1>
+    <p class="subtitle">Based on IGNOU Psychology – Block 4: Non-Parametric Statistics</p>
+
+    <!-- ======== MAIN TABLE ======== -->
+    <h2>🔍 Comparison Table</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th style="width:12%;">Test</th>
+                <th style="width:17%;">What It Measures</th>
+                <th style="width:11%;">Type</th>
+                <th style="width:6%;">Symbol</th>
+                <th style="width:18%;">Formula</th>
+                <th style="width:20%;">Steps (incl. Critical Value &amp; Interpretation)</th>
+                <th style="width:16%;">Noteworthy Points</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- One-Way ANOVA -->
+            <tr>
+                <td><strong>One-Way ANOVA</strong></td>
+                <td>Variance / Differences between means of <strong>3+ independent groups</strong> (k &gt; 2). Compares between-group to within-group variance.</td>
+                <td><span class="badge badge-param">Parametric</span></td>
+                <td><strong>F</strong></td>
+                <td><div class="formula-box">F = MSB / MSW</div></td>
+                <td>
+                    <ol class="step-list">
+                        <li><strong>1.</strong> State H₀ &amp; H₁</li>
+                        <li><strong>2.</strong> Calculate SSB, SSW, SST</li>
+                        <li><strong>3.</strong> Calculate MSB &amp; MSW</li>
+                        <li><strong>4.</strong> Compute F-ratio</li>
+                        <li><strong>5.</strong> Compare with critical F-value (df = k–1, N–k) &amp; interpret</li>
+                    </ol>
+                </td>
+                <td>Assumes: Normal distribution, Homogeneity of variance, Interval/Ratio data, Independent samples. Developed by <strong>Sir Ronald Fisher</strong>.</td>
+            </tr>
+
+            <!-- t-Test Independent -->
+            <tr>
+                <td><strong>t-Test (Independent)</strong></td>
+                <td>Differences between means of <strong>2 independent groups</strong>. Determines if two sample means come from same population.</td>
+                <td><span class="badge badge-param">Parametric</span></td>
+                <td><strong>t</strong></td>
+                <td><div class="formula-box">t = (X̄₁ – X̄₂) / √(s²₁/n₁ + s²₂/n₂)</div></td>
+                <td>
+                    <ol class="step-list">
+                        <li><strong>1.</strong> State H₀ &amp; H₁</li>
+                        <li><strong>2.</strong> Compute means &amp; variances</li>
+                        <li><strong>3.</strong> Calculate t-statistic</li>
+                        <li><strong>4.</strong> Determine df = n₁ + n₂ – 2</li>
+                        <li><strong>5.</strong> Compare with critical t-value &amp; interpret</li>
+                    </ol>
+                </td>
+                <td>Assumes: Normal distribution, Homogeneity of variance, Interval/Ratio data. Requires <strong>&gt;30 per group</strong>.</td>
+            </tr>
+
+            <!-- Mann-Whitney U -->
+            <tr>
+                <td><strong>Mann-Whitney U Test</strong></td>
+                <td><strong>Degree of separation / overlap</strong> between <strong>2 independent groups</strong>. Compares medians/ranks. Tests if samples come from identical populations.</td>
+                <td><span class="badge badge-nonparam">Non-Parametric</span></td>
+                <td><strong>U</strong></td>
+                <td>
+                    <div class="formula-box">U = N₁N₂ + [N₁(N₁+1)/2] – ΣR₁</div>
+                    <div class="formula-box" style="margin-top:4px;">U' = N₁N₂ + [N₂(N₂+1)/2] – ΣR₂</div>
+                </td>
+                <td>
+                    <ol class="step-list">
+                        <li><strong>1.</strong> Rank all data combined</li>
+                        <li><strong>2.</strong> Sum ranks for each group</li>
+                        <li><strong>3.</strong> Calculate U &amp; U'</li>
+                        <li><strong>4.</strong> Use <strong>smaller</strong> U value</li>
+                        <li><strong>5.</strong> Compare with critical table value (Table H)</li>
+                        <li><strong>6.</strong> Interpret result</li>
+                    </ol>
+                </td>
+                <td>Equivalent to <strong>t-test</strong> for independent samples. Used when: Ordinal/ranks, Non-normal, Small sample, Unequal variances. <strong>Power ~95%</strong> of t-test.</td>
+            </tr>
+
+            <!-- Wilcoxon Matched-Pair -->
+            <tr>
+                <td><strong>Wilcoxon Matched-Pair</strong></td>
+                <td>Differences between <strong>2 dependent/correlated groups</strong> (repeated measures or matched pairs). Compares median differences.</td>
+                <td><span class="badge badge-nonparam">Non-Parametric</span></td>
+                <td><strong>T</strong></td>
+                <td><div class="formula-box">T = smaller of (ΣR⁺ , ΣR⁻)</div></td>
+                <td>
+                    <ol class="step-list">
+                        <li><strong>1.</strong> Compute difference scores (D)</li>
+                        <li><strong>2.</strong> Rank absolute differences</li>
+                        <li><strong>3.</strong> Sum ranks of positive &amp; negative differences</li>
+                        <li><strong>4.</strong> T = smaller sum</li>
+                        <li><strong>5.</strong> Compare with critical table value (Table J)</li>
+                    </ol>
+                </td>
+                <td>Equivalent to <strong>paired t-test</strong>. Ranks difference scores, NOT original scores. Difference scores of 0 eliminated. Assumes symmetric distribution of difference scores.</td>
+            </tr>
+
+            <!-- Kruskal-Wallis -->
+            <tr>
+                <td><strong>Kruskal-Wallis ANOVA</strong></td>
+                <td>Differences between <strong>medians of 3+ independent groups</strong>. Extension of Mann-Whitney U.</td>
+                <td><span class="badge badge-nonparam">Non-Parametric</span></td>
+                <td><strong>H</strong></td>
+                <td><div class="formula-box">H = [12/N(N+1)] · Σ[(ΣR)²/n] – 3(N+1)</div></td>
+                <td>
+                    <ol class="step-list">
+                        <li><strong>1.</strong> Rank all data combined</li>
+                        <li><strong>2.</strong> Sum ranks for each group</li>
+                        <li><strong>3.</strong> Calculate H-statistic</li>
+                        <li><strong>4.</strong> Compare with critical value (Table H or χ² with df = k–1)</li>
+                        <li><strong>5.</strong> Interpret</li>
+                    </ol>
+                </td>
+                <td>Equivalent to <strong>One-Way ANOVA</strong>. When k=2, equivalent to Mann-Whitney U. Uses chi-square approximation for <strong>N &gt; 20</strong>.</td>
+            </tr>
+
+            <!-- Pearson Correlation -->
+            <tr>
+                <td><strong>Pearson Correlation (r)</strong></td>
+                <td><strong>Strength &amp; direction</strong> of <strong>linear relationship</strong> between <strong>2 continuous variables</strong>.</td>
+                <td><span class="badge badge-param">Parametric</span></td>
+                <td><strong>r</strong></td>
+                <td><div class="formula-box">r = Σ[(X–X̄)(Y–Ȳ)] / √[Σ(X–X̄)² · Σ(Y–Ȳ)²]</div></td>
+                <td>
+                    <ol class="step-list">
+                        <li><strong>1.</strong> Create scatter plot</li>
+                        <li><strong>2.</strong> Calculate r-value</li>
+                        <li><strong>3.</strong> Determine df = n–2</li>
+                        <li><strong>4.</strong> Compare with critical r-value</li>
+                        <li><strong>5.</strong> Interpret strength &amp; direction</li>
+                    </ol>
+                </td>
+                <td>Assumes: Normal distribution, Interval/Ratio data, Linear relationship, Homoscedasticity. Ranges from <strong>-1 to +1</strong>.</td>
+            </tr>
+
+            <!-- Spearman Rho -->
+            <tr>
+                <td><strong>Spearman Rho (ρ)</strong></td>
+                <td><strong>Strength &amp; direction</strong> of <strong>monotonic relationship</strong> between <strong>2 ranked/ordinal variables</strong>.</td>
+                <td><span class="badge badge-nonparam">Non-Parametric</span></td>
+                <td><strong>ρ</strong></td>
+                <td><div class="formula-box">ρ = 1 – [6Σd² / n(n²–1)]</div></td>
+                <td>
+                    <ol class="step-list">
+                        <li><strong>1.</strong> Rank both variables</li>
+                        <li><strong>2.</strong> Compute difference (d) for each pair</li>
+                        <li><strong>3.</strong> Square differences (d²)</li>
+                        <li><strong>4.</strong> Calculate ρ</li>
+                        <li><strong>5.</strong> Compare with critical table value</li>
+                    </ol>
+                </td>
+                <td>Equivalent to Pearson r for ranked data. <strong>Efficiency of 91%</strong> vs Pearson r. Interprets monotonic relationships. Less sensitive to outliers.</td>
+            </tr>
+
+            <!-- Kendall's Tau -->
+            <tr>
+                <td><strong>Kendall's Tau (τ)</strong></td>
+                <td><strong>Strength &amp; direction</strong> of association between <strong>2 ranked variables</strong>. Measures concordant vs discordant pairs.</td>
+                <td><span class="badge badge-nonparam">Non-Parametric</span></td>
+                <td><strong>τ</strong></td>
+                <td><div class="formula-box">τ = 2S / [N(N–1)]</div><div style="font-size:11px; color:#555; margin-top:2px;">S = concordant – discordant pairs</div></td>
+                <td>
+                    <ol class="step-list">
+                        <li><strong>1.</strong> Rank both variables</li>
+                        <li><strong>2.</strong> Rearrange X ranks in natural order</li>
+                        <li><strong>3.</strong> Observe Y ranks</li>
+                        <li><strong>4.</strong> Count concordant (+) &amp; discordant (–) pairs</li>
+                        <li><strong>5.</strong> Compute S and τ</li>
+                        <li><strong>6.</strong> Compare with critical table value</li>
+                    </ol>
+                </td>
+                <td>Different underlying scale than Spearman Rho. Both have <strong>91% efficiency</strong>. Formula with ties: τ = 2S / √[N(N–1)–Tₓ][N(N–1)–Tᵧ]</td>
+            </tr>
+
+            <!-- Chi-Square -->
+            <tr>
+                <td><strong>Chi-Square Test</strong></td>
+                <td><strong>Association / Independence</strong> between <strong>2 categorical variables</strong> (or Goodness-of-Fit for one variable).</td>
+                <td><span class="badge badge-nonparam">Non-Parametric</span></td>
+                <td><strong>χ²</strong></td>
+                <td><div class="formula-box">χ² = Σ[(O–E)² / E]</div></td>
+                <td>
+                    <ol class="step-list">
+                        <li><strong>1.</strong> Create contingency table</li>
+                        <li><strong>2.</strong> Calculate expected frequencies (E = RT × CT / N)</li>
+                        <li><strong>3.</strong> Apply formula (O–E)²/E for each cell</li>
+                        <li><strong>4.</strong> Sum to get χ² value</li>
+                        <li><strong>5.</strong> Determine df = (r–1)(c–1)</li>
+                        <li><strong>6.</strong> Compare with critical χ² table value</li>
+                    </ol>
+                </td>
+                <td>Assumes: Categorical/nominal data, Independent observations, <strong>Expected frequency ≥5</strong> per cell. Two functions: Goodness-of-Fit &amp; Test of Independence.</td>
+            </tr>
+
+            <!-- Regression Equation -->
+            <tr>
+                <td><strong>Regression Equation</strong></td>
+                <td><strong>Prediction</strong> of one variable (Y) from another (X). Measures relationship and allows <strong>forecasting</strong>.</td>
+                <td><span class="badge badge-param">Parametric</span></td>
+                <td><strong>Ŷ = a + bX</strong></td>
+                <td>
+                    <div class="formula-box">b = Σ[(X–X̄)(Y–Ȳ)] / Σ(X–X̄)²</div>
+                    <div class="formula-box" style="margin-top:4px;">a = Ȳ – bX̄</div>
+                </td>
+                <td>
+                    <ol class="step-list">
+                        <li><strong>1.</strong> Calculate means (X̄, Ȳ)</li>
+                        <li><strong>2.</strong> Compute slope (b)</li>
+                        <li><strong>3.</strong> Compute intercept (a)</li>
+                        <li><strong>4.</strong> Form regression equation</li>
+                        <li><strong>5.</strong> Calculate R²</li>
+                        <li><strong>6.</strong> Test significance (using F or t-test)</li>
+                    </ol>
+                </td>
+                <td>Assumes: Linear relationship, Normal residuals, Homoscedasticity, Independent errors. <strong>R²</strong> explains proportion of variance accounted for. Allows prediction.</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- ======== ANALOGUE RELATIONSHIPS ======== -->
+    <h2>🔄 Quick Reference: Analogue Relationships</h2>
+
+    <table class="table-mini" style="width:60%; margin:0 auto;">
+        <thead>
+            <tr><th style="width:50%;">Parametric Test</th><th style="width:50%;">Non-Parametric Equivalent</th></tr>
+        </thead>
+        <tbody>
+            <tr><td>Independent t-test</td><td><strong>Mann-Whitney U Test</strong></td></tr>
+            <tr><td>Dependent / Paired t-test</td><td><strong>Wilcoxon Matched-Pair Test</strong></td></tr>
+            <tr><td>One-Way ANOVA</td><td><strong>Kruskal-Wallis ANOVA</strong></td></tr>
+            <tr><td>Pearson Correlation (r)</td><td><strong>Spearman Rho (ρ)</strong> or <strong>Kendall's Tau (τ)</strong></td></tr>
+        </tbody>
+    </table>
+
+    <!-- ======== DECISION GUIDE ======== -->
+    <h2>📌 Decision Guide: When to Use Which Test</h2>
+
+    <table class="table-mini" style="width:70%; margin:0 auto;">
+        <thead>
+            <tr><th style="width:40%;">Research Question</th><th style="width:30%;">Parametric</th><th style="width:30%;">Non-Parametric</th></tr>
+        </thead>
+        <tbody>
+            <tr><td>Compare 2 groups (Independent)</td><td>t-test</td><td>Mann-Whitney U</td></tr>
+            <tr><td>Compare 2 groups (Dependent)</td><td>Paired t-test</td><td>Wilcoxon</td></tr>
+            <tr><td>Compare &gt;2 groups (Independent)</td><td>One-Way ANOVA</td><td>Kruskal-Wallis</td></tr>
+            <tr><td>Relationship between variables</td><td>Pearson r</td><td>Spearman Rho / Chi-Square</td></tr>
+            <tr><td>Predicting Y from X</td><td>Regression Equation</td><td>(Limited options)</td></tr>
+        </tbody>
+    </table>
+
+    <!-- ======== ASSUMPTIONS COMPARISON ======== -->
+    <h2>⚙️ Key Assumptions Comparison</h2>
+
+    <table class="table-mini" style="width:80%; margin:0 auto;">
+        <thead>
+            <tr><th style="width:25%;">Aspect</th><th style="width:37.5%;">Parametric Tests</th><th style="width:37.5%;">Non-Parametric Tests</th></tr>
+        </thead>
+        <tbody>
+            <tr><td>Assumed Distribution</td><td>Normal</td><td><strong>Any</strong></td></tr>
+            <tr><td>Assumed Variance</td><td>Homogeneous</td><td>Homogeneous &amp; Heterogeneous</td></tr>
+            <tr><td>Typical Data</td><td>Ratio or Interval</td><td>Ordinal or Nominal</td></tr>
+            <tr><td>Usual Central Measure</td><td>Mean</td><td><strong>Median</strong></td></tr>
+            <tr><td>Sample Size Required</td><td>&gt;30 per group</td><td><strong>Less stringent</strong></td></tr>
+            <tr><td>Benefits</td><td>Can draw more conclusions</td><td>Simple, less affected by extreme scores</td></tr>
+        </tbody>
+    </table>
+
+    <!-- ======== POWER EFFICIENCY ======== -->
+    <div class="highlight-box green">
+        <h3 style="margin-top:0;">⚡ Power Efficiency Summary</h3>
+        <ul style="margin-left:20px; line-height:1.8;">
+            <li>Non-parametric tests have <strong>~91–95% power efficiency</strong> compared to parametric counterparts when parametric assumptions are met.</li>
+            <li>Non-parametric tests are <strong>often more powerful</strong> when parametric assumptions are violated <em>(Blair et al., 1985)</em>.</li>
+        </ul>
+    </div>
+
+    <!-- ======== MISCONCEPTIONS ======== -->
+    <h2>❌ Five Key Misconceptions About Non-Parametric Tests</h2>
+
+    <div class="highlight-box red">
+        <ol style="margin-left:20px; line-height:2;">
+            <li><strong>Misconception:</strong> Non-parametric tests are less powerful.<br>
+                <span style="color:#1a7a3a;">✅ <strong>Fact:</strong> They are often equally or more powerful when assumptions are violated.</span></li>
+            <li><strong>Misconception:</strong> They are only for small samples.<br>
+                <span style="color:#1a7a3a;">✅ <strong>Fact:</strong> They can be used with any sample size.</span></li>
+            <li><strong>Misconception:</strong> They are restricted in application.<br>
+                <span style="color:#1a7a3a;">✅ <strong>Fact:</strong> There are non-parametric equivalents for almost every parametric test.</span></li>
+            <li><strong>Misconception:</strong> They throw away information.<br>
+                <span style="color:#1a7a3a;">✅ <strong>Fact:</strong> Ranks preserve order information and reduce outlier impact.</span></li>
+            <li><strong>Misconception:</strong> Peer reviewers may not accept them.<br>
+                <span style="color:#1a7a3a;">✅ <strong>Fact:</strong> They are widely accepted and recommended in psychological research.</span></li>
+        </ol>
+    </div>
+
+    <!-- ======== CHI-SQUARE EXAMPLE ======== -->
+    <h2>📐 Chi-Square Computation Example</h2>
+
+    <div class="highlight-box">
+        <p><strong>Research Question:</strong> Is there an association between Gender and Agreement?</p>
+
+        <p><strong>Observed Frequencies (O):</strong></p>
+        <table class="table-mini" style="width:50%; margin:0 auto;">
+            <tr><th>Gender</th><th>Agree</th><th>Disagree</th><th><strong>Total</strong></th></tr>
+            <tr><td>Males</td><td>12</td><td>13</td><td><strong>25</strong></td></tr>
+            <tr><td>Females</td><td>20</td><td>25</td><td><strong>45</strong></td></tr>
+            <tr><td><strong>Total</strong></td><td><strong>32</strong></td><td><strong>38</strong></td><td><strong>70</strong></td></tr>
+        </table>
+
+        <p style="margin-top:15px;"><strong>Expected Frequencies (E):</strong> E = (Row Total × Column Total) ÷ Grand Total</p>
+
+        <table class="table-mini" style="width:70%; margin:0 auto;">
+            <tr><th>Category</th><th>Observed (O)</th><th>Expected (E)</th><th>(O–E)</th><th>(O–E)²</th><th>(O–E)²/E</th></tr>
+            <tr><td>Males/Agree</td><td>12</td><td>11.43</td><td>0.57</td><td>0.32</td><td><strong>0.028</strong></td></tr>
+            <tr><td>Males/Disagree</td><td>13</td><td>13.57</td><td>–0.57</td><td>0.32</td><td><strong>0.024</strong></td></tr>
+            <tr><td>Females/Agree</td><td>20</td><td>20.57</td><td>–0.57</td><td>0.32</td><td><strong>0.016</strong></td></tr>
+            <tr><td>Females/Disagree</td><td>25</td><td>24.43</td><td>0.57</td><td>0.32</td><td><strong>0.013</strong></td></tr>
+        </table>
+
+        <p style="margin-top:15px;"><strong>χ² = 0.081</strong></p>
+        <p><strong>df = (2–1)(2–1) = 1</strong></p>
+        <p><strong>Critical value at α = 0.05, df=1:</strong> 3.84</p>
+        <p><strong>Decision:</strong> 0.081 &lt; 3.84 → <strong>Fail to reject H₀</strong> → No significant association between gender and agreement.</p>
+    </div>
+
+    <!-- ======== FOOTER ======== -->
+    <div class="footer">
+        <p>📚 Based on IGNOU Psychology – Block 4: Statistics in Psychology<br>
+        <span style="font-size:12px;">Created for exam preparation | All formulas and procedures derived from course material</span></p>
+    </div>
+
+</div>
+
+</body>
+</html>
