@@ -31,6 +31,11 @@
     .course p { color:var(--muted); font-size:.9rem; line-height:1.55; margin:0; }
     .course > span { color:var(--sun); font-size:.7rem; font-weight:700; letter-spacing:.08em; margin-top:auto; padding-top:22px; text-transform:uppercase; }
     .course > span::after { content:'  →'; font-size:1rem; }
+    .label + .label, .courses + .label { margin-top:clamp(30px,5vw,52px); }
+    .course--soon { opacity:.5; cursor:default; }
+    .course--soon:hover { background:rgba(28,45,74,.74); border-color:var(--line); transform:none; }
+    .course--soon > span { color:var(--muted); }
+    .course--soon > span::after { content:''; }
     .course-progress { color:var(--paper); font-size:.78rem; font-weight:650; margin-top:18px; }
     .course-progress span { display:block; margin-bottom:7px; }
     .course-progress i { background:#0f1a2d; border-radius:99px; display:block; height:6px; overflow:hidden; width:100%; }
@@ -60,15 +65,24 @@
 
     <p class="eyebrow">IGNOU MAPC · For students, by students</p>
     <h1>Study with a <em>clearer</em> next step.</h1>
-    <p class="intro">Your study library keeps the course materials in one place. MPC-001 and MPC-002 now include their printable block sheets, and once you sign in, every course remembers your revision status and notes across devices.</p>
-    <p class="label">Choose a course</p>
-    <section class="courses" aria-label="Available courses">
+    <p class="intro">Your study library keeps the course materials in one place. <b>Year 1</b> holds the MAPC core papers with exam-ready flashcards, PYQ analysis and answer banks; <b>Year 2 (IO)</b> adds the Industrial &amp; Organisational specialisation for casual study. Sign in and every course remembers your revision status and notes across devices.</p>
+    <p class="label">Year 1 · MAPC core</p>
+    <section class="courses" aria-label="Year 1 courses">
       <a class="course" href="MPC%20001%20-%20Cognitive%20Psychology/MPC001_Dashboard.html"><small>MPC-001</small><h2>Cognitive Psychology, Learning &amp; Memory</h2><p>Flashcards, theory timelines, prescribed blocks, and printable revision sheets.</p><div class="course-progress" data-progress="m001" aria-live="polite"></div><span>Open study desk</span></a>
       <a class="course" href="MPC%20002%20-%20Life%20Span%20Psychology/MPC002_Dashboard.html"><small>MPC-002</small><h2>Life Span Psychology</h2><p>Flashcards, theory timelines, prescribed blocks, and printable revision sheets.</p><div class="course-progress" data-progress="m002" aria-live="polite"></div><span>Open study desk</span></a>
       <a class="course" href="MPC%20003%20-%20Personality/MPC003_Dashboard.html"><small>MPC-003</small><h2>Assessment of Personality</h2><p>Mind map, flashcards, theory timelines, cheat sheets, PYQ analysis, and answer bank.</p><div class="course-progress" data-progress="m003" aria-live="polite"></div><span>Open study desk</span></a>
       <a class="course" href="MPC%20004%20-%20Social%20Psychology/MPC004_Dashboard.html"><small>MPC-004</small><h2>Advanced Social Psychology</h2><p>Active recall, block sheets, PYQ-led revision routes, and an exam answer bank.</p><div class="course-progress" data-progress="m004" aria-live="polite"></div><span>Open study desk</span></a>
       <a class="course" href="MPC%20005%20-%20Research%20Methods/MPC005_Dashboard.html"><small>MPC-005</small><h2>Research Methods in Psychology</h2><p>Method flashcards, a design atlas, PYQ priorities, block sheets, and answer frameworks.</p><div class="course-progress" data-progress="m005" aria-live="polite"></div><span>Open study desk</span></a>
       <a class="course" href="MPC%20006%20-%20Statistics%20in%20Psychology/MPC006_Dashboard.html"><small>MPC-006</small><h2>Statistics in Psychology</h2><p>Flashcards, methods atlas, prescribed blocks, PYQ analysis, and an answer bank for exam practice.</p><div class="course-progress" data-progress="m006" aria-live="polite"></div><span>Open study desk</span></a>
+    </section>
+    <p class="label">Year 2 · Industrial &amp; Organisational Psychology (IO)</p>
+    <section class="courses" aria-label="Year 2 (IO) courses">
+      <a class="course" href="MPCE%20031%20-%20Organisational%20Behaviour/MPCE031_Dashboard.html"><small>MPCE-031</small><h2>Organisational Behaviour</h2><p>Concept flashcards and the prescribed block library — for casual study.</p><span>Open study desk</span></a>
+      <a class="course" href="MPCE%20032%20-%20Human%20Resource%20Development/MPCE032_Dashboard.html"><small>MPCE-032</small><h2>Human Resource Development</h2><p>Concept flashcards and the prescribed block library — for casual study.</p><span>Open study desk</span></a>
+      <a class="course" href="MPCE%20033%20-%20Organisational%20Development/MPCE033_Dashboard.html"><small>MPCE-033</small><h2>Organisational Development</h2><p>Concept flashcards and the prescribed block library — for casual study.</p><span>Open study desk</span></a>
+      <div class="course course--soon" aria-disabled="true"><small>MPCE-034</small><h2>Practicum in I/O Psychology</h2><p>Practicum component — no self-study material yet.</p><span>Material coming soon</span></div>
+      <div class="course course--soon" aria-disabled="true"><small>MPCE-035</small><h2>Internship</h2><p>Internship component — no self-study material yet.</p><span>Material coming soon</span></div>
+      <div class="course course--soon" aria-disabled="true"><small>MPCE-046</small><h2>Applied Positive Psychology</h2><p>Elective — material coming when you start it.</p><span>Material coming soon</span></div>
     </section>
   </main>
   <script type="importmap">{"imports":{"@amplitude/unified":"https://cdn.jsdelivr.net/npm/@amplitude/unified@1.1.25/+esm"}}</script>
